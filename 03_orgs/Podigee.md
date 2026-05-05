@@ -3,6 +3,8 @@ type: Organization
 
 name: Podigee
 
+url: https://www.podigee.com
+
 topics:
   - Podcast Hosting
   - Podcasting

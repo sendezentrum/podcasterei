@@ -17,6 +17,7 @@ topics:
   - Demokratie
   - Journalismus
 
+url: https://parlamentsrevue.de
 source: community
 checked: false
 ---

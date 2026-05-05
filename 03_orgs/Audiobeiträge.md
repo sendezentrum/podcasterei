@@ -3,6 +3,8 @@ type: Organization
 
 name: Audiobeiträge
 
+url: https://www.audiobeitraege.de
+
 topics:
   - Podcasting
   - Coaching

@@ -15,6 +15,7 @@ topics:
   - Wissenschaft
   - Technik
 
+url: https://wrint.de
 source: community
 checked: false
 ---

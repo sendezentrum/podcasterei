@@ -3,6 +3,8 @@ type: Organization
 
 name: Castopod
 
+url: https://castopod.org
+
 topics:
   - Podcast Hosting
   - Open Source

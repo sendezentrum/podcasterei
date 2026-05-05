@@ -16,6 +16,7 @@ topics:
   - Storytelling
   - Community
 
+url: https://geschichtenkapsel.de
 source: community
 checked: false
 ---
