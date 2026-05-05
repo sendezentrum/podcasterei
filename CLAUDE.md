@@ -45,3 +45,8 @@ All notes use YAML frontmatter. The `type` field determines the template:
 ## Obsidian plugins in use
 
 `dataview`, `templater-obsidian`, `notebook-navigator`, `obsidian-icon-folder`, `calendar` — configuration lives in `.obsidian/`.
+
+## Git commits
+
+- Always add `Co-Authored-By: <model>` trailer to every commit message.
+- Set author to the same ident when the model wrote the content. User is only committer, not author.
