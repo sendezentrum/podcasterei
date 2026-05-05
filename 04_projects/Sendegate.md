@@ -29,7 +29,6 @@ verbindungen:
   - "[[Ultraschall]]"
   - "[[Auphonic]]"
   - "[[StudioLink]]"
-  - "[[Auphonic]]"
   - "[[Podigee]]"
   - "[[Podcat]]"
 
@@ -49,7 +48,6 @@ use_cases:
 checked: false
 ---
 
----
 ## Kurzbeschreibung
 
 Sendegate ist ein deutschsprachiges Webforum und zentraler Treffpunkt für die Podcast-Community. Es bietet Raum für Diskussionen zu allen Aspekten des Podcastings – von Technik über Produktion bis hin zu Veröffentlichung und Vermarktung. 

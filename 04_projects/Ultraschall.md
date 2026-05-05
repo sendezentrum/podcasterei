@@ -63,8 +63,8 @@ Technisches Tool bzw. Erweiterung einer DAW im Podcast-Ökosystem, mit starkem F
 
 ## Beteiligte & Verbindungen
 
-Initiiert u. a. von Ralf Stockmann und getragen von einer aktiven Open-Source-Community. Enge Verzahnung mit Tools wie REAPER als Basis sowie StudioLink für Remote-Aufnahmen und anderen Podcasting-Projekten im deutschsprachigen Raum. Weitere Mitwirkende sin [[]]
-Auf der [Danke Seite](https://ultraschall.fm/danke/)werden unter anderem [[Ralf Stockmann]], [[Udo Sauer]], [[Sebastian Reimers]], [[Meo Mespotine]], [[Malik Aziz]] und [[Joram Schwartzmann]] genannt.
+Initiiert u. a. von Ralf Stockmann und getragen von einer aktiven Open-Source-Community. Enge Verzahnung mit Tools wie REAPER als Basis sowie StudioLink für Remote-Aufnahmen und anderen Podcasting-Projekten im deutschsprachigen Raum.
+Auf der [Danke Seite](https://ultraschall.fm/danke/) werden unter anderem [[Ralf Stockmann]], [[Udo Sauer]], [[Sebastian Reimers]], [[Meo Mespotine]], [[Malik Aziz]] und [[Joram Schwartzmann]] genannt.
 
 ## Notizen / Erkenntnisse
 

@@ -2,25 +2,26 @@
 type: person
 name: Malik Aziz
 datum:
-teilnehmer:
- - "[[]]"
+participants:
+ - "[[Ultraschall]]"
 orgs:
- - "[[]]"
+ - []
 podcasts:
-  - "[[]]"
+  - []
 topics:
-  -
+  - Audio-Produktion
+  - Open Source
 source: community
 checked: false
 ---
 
 ## Beschreibung
-(Max. 2–3 Sätze)
+Malik Aziz ist auf der Danke-Seite von [[Ultraschall]] als Mitwirkender gelistet.
 
 ## Verbindungen
-(Max. 2–3 Sätze)
+Verbunden mit [[Ultraschall]].
 
 ## Bedeutung
-(Max. 1–2 Sätze)
 
 ## Quellen / Hinweise
+- [Ultraschall Danke](https://ultraschall.fm/danke/)

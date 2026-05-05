@@ -42,7 +42,7 @@ use_cases:
 
 checked: false
 ---
----
+
 ## Kurzbeschreibung
 
 Studio Link ist ein Tool zur Herstellung hochwertiger Audioverbindungen über das Internet, speziell für Podcast-Interviews und Remote-Aufnahmen. Es ermöglicht stabile Verbindungen mit geringer Latenz und separaten Tonspuren für alle Teilnehmenden. 
@@ -63,7 +63,7 @@ Spezialisiertes Audio-Tool im Podcast-Ökosystem für Remote Recording (Audio ov
 
 ## Beteiligte & Verbindungen
 
-Studio Link wurde [[Sebastian Reimers]]entwickelt und ist eng mit Tools wie [[Ultraschall]] und [[REAPER]] verbunden. Es ist ein zentraler Bestandteil vieler Podcast-Setups im deutschsprachigen Raum.
+Studio Link wurde von [[Sebastian Reimers]] entwickelt und ist eng mit Tools wie [[Ultraschall]] und [[REAPER]] verbunden. Es ist ein zentraler Bestandteil vieler Podcast-Setups im deutschsprachigen Raum.
 
 ---
 

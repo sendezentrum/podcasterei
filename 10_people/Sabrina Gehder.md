@@ -2,25 +2,29 @@
 type: person
 name: Sabrina Gehder
 datum:
-teilnehmer:
- - "[[]]"
+participants:
+ - "[[Parlamentsrevue]]"
 orgs:
- - "[[]]"
+ - []
 podcasts:
-  - "[[]]"
+  - "[[Parlamentsrevue]]"
 topics:
-  -
+  - Politik
+  - Journalismus
+  - Podcasting
+  - Crowdfunding
 source: community
 checked: false
 ---
 
 ## Beschreibung
-(Max. 2–3 Sätze)
+Sabrina Gehder produziert die [[Parlamentsrevue]] unabhängig und ohne institutionelle Träger. Das Format ist crowdfinanziert und werbefrei und analysiert die Plenarsitzungen des Deutschen Bundestags verständlich.
 
 ## Verbindungen
-(Max. 2–3 Sätze)
+Zentrale Figur bei [[Parlamentsrevue]].
 
 ## Bedeutung
-(Max. 1–2 Sätze)
+Beispiel für unabhängigen, journalistisch geprägten Podcast-Journalismus im deutschsprachigen Raum.
 
 ## Quellen / Hinweise
+- [Parlamentsrevue](https://parlamentsrevue.de)

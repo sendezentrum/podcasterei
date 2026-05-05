@@ -3,7 +3,7 @@ type: EventSeries
 name: Podstock
 datum: 2014-01-01 bis heute
 
-teilnehmer:
+participants:
   - "[[Podcaster:innen]]"
   - "[[Podcast-Hörer:innen]]"
   - "[[Indie-Podcaster:innen]]"
@@ -37,7 +37,7 @@ Podstock ist ein nicht-kommerzielles Podcast-Festival im Barcamp-Format, das vom
 
 ## Teilnehmer & Verbindungen
 
-Die Veranstaltung richtet sich an Podcaster:innen, Hörer:innen und insbesondere an unabhängige Podcast-Projekte. Teilnehmende können selbst Inhalte beitragen, Sessions gestalten und sich intensiv innerhalb der Community vernetzen. Organisiert wird das Podstock dur ch [[Sebastian Reimers]]
+Die Veranstaltung richtet sich an Podcaster:innen, Hörer:innen und insbesondere an unabhängige Podcast-Projekte. Teilnehmende können selbst Inhalte beitragen, Sessions gestalten und sich intensiv innerhalb der Community vernetzen. Organisiert wird das Podstock durch [[Sebastian Reimers]]
 
 ## Bedeutung
 

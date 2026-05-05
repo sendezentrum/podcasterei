@@ -2,25 +2,29 @@
 type: person
 name: Lars Engelmann
 datum:
-teilnehmer:
- - "[[]]"
+participants:
+ - "[[Geschichtenkapsel]]"
 orgs:
- - "[[]]"
+ - []
 podcasts:
-  - "[[]]"
+  - "[[Geschichtenkapsel]]"
 topics:
-  -
+  - Hörspiel
+  - Podcast
+  - Storytelling
+  - Literatur
 source: community
 checked: false
 ---
 
 ## Beschreibung
-(Max. 2–3 Sätze)
+Lars Engelmann ist Mitgründer der [[Geschichtenkapsel]] (gegründet 2016 gemeinsam mit [[Kai Du]]). Das Projekt ist ein kollaboratives Podcast-Format für selbstgeschriebene Kurzgeschichten, Hörspiele und literarische Texte.
 
 ## Verbindungen
-(Max. 2–3 Sätze)
+Eng verbunden mit [[Kai Du]] und [[Geschichtenkapsel]].
 
 ## Bedeutung
-(Max. 1–2 Sätze)
+Mitgründer eines der bekannteren kollaborativen Hörspiel-Podcasts im deutschsprachigen Raum.
 
 ## Quellen / Hinweise
+- [Geschichtenkapsel](https://geschichtenkapsel.de)

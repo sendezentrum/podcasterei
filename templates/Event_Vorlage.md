@@ -3,7 +3,7 @@ type: event
 name:
 datum:
 
-teilnehmer:
+participants:
   - [[ ]]
 
 orgs:

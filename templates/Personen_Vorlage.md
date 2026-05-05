@@ -2,7 +2,7 @@
 type: person
 name:
 datum:
-teilnehmer:
+participants:
   - - []
 orgs:
   - - []

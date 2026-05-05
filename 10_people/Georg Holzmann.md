@@ -2,25 +2,27 @@
 type: person
 name: Georg Holzmann
 datum:
-teilnehmer:
- - "[[]]"
+participants:
+ - "[[Auphonic]]"
 orgs:
- - "[[]]"
+ - "[[Auphonic]]"
 podcasts:
-  - "[[]]"
+  - []
 topics:
-  -
+  - Audio
+  - Podcasting
+  - Automatisierung
 source: community
 checked: false
 ---
 
 ## Beschreibung
-(Max. 2–3 Sätze)
+Georg Holzmann ist im Impressum von [[Auphonic]] gelistet, dem webbasierten Dienst zur automatisierten Audiopostproduktion für Podcasts.
 
 ## Verbindungen
-(Max. 2–3 Sätze)
+Verbunden mit [[Auphonic]].
 
 ## Bedeutung
-(Max. 1–2 Sätze)
 
 ## Quellen / Hinweise
+- [Auphonic](https://auphonic.com/)

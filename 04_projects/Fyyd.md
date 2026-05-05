@@ -41,8 +41,6 @@ use_cases:
 
 checked: false
 ---
----
----
 
 ## Kurzbeschreibung
 

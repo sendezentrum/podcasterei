@@ -43,4 +43,4 @@ Teilnehmen können aktive Podcaster:innen, Produzent:innen sowie Forschende und 
 Die Veranstaltung ist ein etabliertes Community-Treffen und ein zentraler Ort für Vernetzung und Weiterentwicklung im Bereich Wissenschaftspodcasts im deutschsprachigen Raum.
 
 ## Quellen / Hinweise
-[GanzOhr](https://wissenschaftspodcasts.de/blog/ganzohr-2026-treffen-der-wissen-schafts-podcaster-innen/](https://wissenschaftspodcasts.de/blog/ganzohr-2026-treffen-der-wissen-schafts-podcaster-innen/)
+[GanzOhr](https://wissenschaftspodcasts.de/blog/ganzohr-2026-treffen-der-wissen-schafts-podcaster-innen/)

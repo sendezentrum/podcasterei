@@ -2,25 +2,26 @@
 type: person
 name: Alexander Heimbuch
 datum:
-teilnehmer:
- - "[[]]"
+participants:
+ - "[[Podlove]]"
 orgs:
- - "[[]]"
+ - []
 podcasts:
-  - "[[]]"
+  - "[[Podlove]]"
 topics:
-  -
+  - Podcasting
+  - Open Source
 source: community
 checked: false
 ---
 
 ## Beschreibung
-(Max. 2–3 Sätze)
+Alexander Heimbuch ist auf der Website von [[Podlove]] als Beteiligter gelistet.
 
 ## Verbindungen
-(Max. 2–3 Sätze)
+Verbunden mit [[Podlove]] und [[Tim Pritlove]].
 
 ## Bedeutung
-(Max. 1–2 Sätze)
 
 ## Quellen / Hinweise
+- [Podlove](https://podlove.org/)

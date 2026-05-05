@@ -2,25 +2,29 @@
 type: person
 name: Benjamin Bellamy
 datum:
-teilnehmer:
- - "[[]]"
+participants:
+ - "[[Castopod]]"
 orgs:
- - "[[]]"
+ - "[[Ad Aures]]"
 podcasts:
-  - "[[]]"
+  - []
 topics:
-  -
+  - Open Source
+  - Podcast Hosting
+  - Podcasting 2.0
+  - Fediverse
 source: community
 checked: false
 ---
 
 ## Beschreibung
-(Max. 2–3 Sätze)
+Benjamin Bellamy ist CEO von [[Ad Aures]] und Hauptentwickler von [[Castopod]], einer Open-Source-Podcast-Hosting-Plattform mit Fediverse-Integration. Er gilt als wichtige Stimme der Podcasting-2.0-Bewegung.
 
 ## Verbindungen
-(Max. 2–3 Sätze)
+Eng verbunden mit [[Castopod]], [[Ad Aures]] und der Podcasting-2.0-Community.
 
 ## Bedeutung
-(Max. 1–2 Sätze)
+Treibende Kraft hinter Castopod als Alternative zu zentralisierten Podcast-Hosting-Diensten.
 
 ## Quellen / Hinweise
+- [Castopod](https://castopod.org/)

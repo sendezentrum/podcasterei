@@ -2,25 +2,26 @@
 type: person
 name: Janette Müller
 datum:
-teilnehmer:
- - "[[]]"
+participants:
+ - "[[Sendegate]]"
 orgs:
- - "[[]]"
+ - []
 podcasts:
-  - "[[]]"
+  - []
 topics:
-  -
+  - Community
+  - Podcasting
 source: community
 checked: false
 ---
 
 ## Beschreibung
-(Max. 2–3 Sätze)
+Janette Müller ist als Beteiligte im [[Sendegate]] gelistet, dem zentralen deutschsprachigen Community-Forum für Podcasting.
 
 ## Verbindungen
-(Max. 2–3 Sätze)
+Verbunden mit [[Sendegate]].
 
 ## Bedeutung
-(Max. 1–2 Sätze)
 
 ## Quellen / Hinweise
+- [Sendegate](https://sendegate.de/)

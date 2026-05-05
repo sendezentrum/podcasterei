@@ -1,26 +1,29 @@
 ---
-type: person
+type: Project
 name: Podcast Pat*innen
 datum:
-teilnehmer:
-  - "[[]]"
+participants:
+ - "[[Das Sendezentrum]]"
+ - "[[Sendegate]]"
 orgs:
-  - "[[]]"
+ - "[[Das Sendezentrum]]"
 podcasts:
-  - "[[]]"
+  - []
 topics:
-  -
+  - Mentoring
+  - Community
+  - Podcasting
 source: community
 checked: false
 ---
 
 ## Beschreibung
-(Max. 2–3 Sätze)
+Podcast Pat*innen ist ein Mentoring-Programm innerhalb der deutschsprachigen Podcast-Community, verbunden mit [[Das Sendezentrum]] und [[Sendegate]]. Das Programm unterstützt neue Podcaster:innen durch erfahrene Mentor:innen.
 
 ## Verbindungen
-(Max. 2–3 Sätze)
+Verbunden mit [[Das Sendezentrum]] und [[Sendegate]].
 
 ## Bedeutung
-(Max. 1–2 Sätze)
+Community-Mentoring-Initiative zur Förderung des Nachwuchses in der Podcast-Szene.
 
 ## Quellen / Hinweise

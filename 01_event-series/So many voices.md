@@ -3,7 +3,7 @@ type: EventSeries
 name: So Many Voices
 datum: 2026-11-20 bis 2026-11-21
 
-particants:
+participants:
   - "[[Podcaster:innen]]"
   - "[[Podcast-Produzent:innen]]"
   - "[[Journalist:innen (Audio/Podcast)]]"
