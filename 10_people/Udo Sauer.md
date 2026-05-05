@@ -1,5 +1,5 @@
 ---
-type: person
+type: Person
 name: Udo Sauer
 datum:
 contributes:

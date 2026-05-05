@@ -1,5 +1,5 @@
 ---
-type: person
+type: Person
 name: Christian Bednarek
 datum:
 contributes:

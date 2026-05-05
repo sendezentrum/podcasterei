@@ -24,12 +24,17 @@ Remote: `ssh://git@codeberg.org/sendezentrum/podcasterei.git`
 
 ## Frontmatter schema by type
 
-All notes use YAML frontmatter. The `type` field determines the template:
+All notes use YAML frontmatter. The `type` field uses [schema.org](https://schema.org) type names. The `type` field determines the template:
 
-- **person** (`templates/Personen_Vorlage.md`): `name`, `datum`, `contributes`, `orgs`, `podcasts`, `topics`, `source`, `checked`
+- **Person** (`templates/Personen_Vorlage.md`): `name`, `datum`, `contributes`, `orgs`, `podcasts`, `topics`, `source`, `checked`
 - **Project** (`templates/Projekt_Vorlage.md`): `name`, `beteiligte`, `podcasts`, `events`, `topics`, `source`, `checked`
-- **firma** (`templates/Firma_Vorlage.md`): `name`, `podcasts`, `projekte`, `labels`, `events`, `topics`, `source`, `checked`
-- **event** (`templates/Event_Vorlage.md`): `name`, `datum`, `participants`, `orgs`, `podcasts`, `topics`, `source`, `checked`
+- **Organization** (`templates/Firma_Vorlage.md`): `name`, `podcasts`, `projekte`, `labels`, `events`, `topics`, `source`, `checked`
+- **Event** (`templates/Event_Vorlage.md`): `name`, `datum`, `participants`, `orgs`, `podcasts`, `topics`, `source`, `checked`
+- **PodcastSeries** (shows): `name`, `participants`, `orgs`, `podcasts`, `topics`, `url`, `inception`, `source`, `checked`
+- **PodcastEpisode** (individual talks): `name`, `event`, `speakers`, `video`, `topics`, `source`, `checked`
+
+Custom subtypes in use (not strict schema.org, treated as refinements of Organization/Event):
+`PodcastLabel`, `PodcastNetwork`, `EventSeries`, `talk`
 
 `source` is typically `community`. `checked: false` until the entry has been reviewed.
 

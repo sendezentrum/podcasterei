@@ -1,5 +1,5 @@
 ---
-type: event
+type: Event
 name: SUBSCRIBE 8
 datum: Oktober 2016
 edition: 8

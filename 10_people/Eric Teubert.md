@@ -1,5 +1,5 @@
 ---
-type: person
+type: Person
 name: Eric Teubert
 datum:
 contributes:

@@ -1,5 +1,5 @@
 ---
-type: person
+type: Person
 name: Sebastian Reimers
 datum:
 contributes:

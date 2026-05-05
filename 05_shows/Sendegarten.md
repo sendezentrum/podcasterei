@@ -1,5 +1,5 @@
 ---
-type: show
+type: PodcastSeries
 name: Sendegarten
 
 participants:

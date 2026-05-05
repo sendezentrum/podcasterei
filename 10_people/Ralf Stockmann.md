@@ -1,5 +1,5 @@
 ---
-type: person
+type: Person
 name: Ralf Stockmann
 datum:
 contributes:

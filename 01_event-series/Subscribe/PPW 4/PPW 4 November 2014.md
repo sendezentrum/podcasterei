@@ -1,5 +1,5 @@
 ---
-type: event
+type: Event
 name: 4. Podlove Podcaster Workshop (PPW14b)
 datum: November 2014
 edition: 4

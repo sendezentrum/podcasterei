@@ -1,5 +1,5 @@
 ---
-type: firma
+type: Organization
 name: C3VOC
 
 podcasts:

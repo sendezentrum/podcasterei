@@ -1,5 +1,5 @@
 ---
-type: person
+type: Person
 name: Anne-Katrin Pache-Wilke
 datum:
 contributes:

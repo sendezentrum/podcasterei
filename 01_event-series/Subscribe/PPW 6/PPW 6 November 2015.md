@@ -1,5 +1,5 @@
 ---
-type: event
+type: Event
 name: 6. Podlove Podcaster Workshop (PPW15b)
 datum: November 2015
 edition: 6

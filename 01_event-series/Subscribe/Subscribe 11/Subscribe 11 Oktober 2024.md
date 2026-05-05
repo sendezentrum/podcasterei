@@ -1,5 +1,5 @@
 ---
-type: event
+type: Event
 name: SUBSCRIBE 11
 datum: Oktober 2024
 edition: 11

@@ -1,5 +1,5 @@
 ---
-type: event
+type: Event
 name: 1. Podlove Podcaster Workshop (PPW)
 datum: Mai 2013
 edition: 1

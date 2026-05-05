@@ -1,5 +1,5 @@
 ---
-type: event
+type: Event
 name:
 datum:
 

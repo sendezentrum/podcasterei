@@ -1,5 +1,5 @@
 ---
-type: Podcast
+type: PodcastSeries
 name: Frageliste_2
 beteiligte:
   - "[[Anne-Katrin Pache-Wilke]]"

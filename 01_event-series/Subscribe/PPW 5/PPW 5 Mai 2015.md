@@ -1,5 +1,5 @@
 ---
-type: event
+type: Event
 name: 5. Podlove Podcaster Workshop (PPW15a)
 datum: Mai 2015
 edition: 5

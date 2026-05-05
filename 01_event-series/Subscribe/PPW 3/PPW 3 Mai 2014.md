@@ -1,5 +1,5 @@
 ---
-type: event
+type: Event
 name: 3. Podlove Podcaster Workshop (PPW14a)
 datum: Mai 2014
 edition: 3

@@ -1,5 +1,5 @@
 ---
-type: event
+type: Event
 name: SUBSCRIBE 7
 datum: Mai 2016
 edition: 7

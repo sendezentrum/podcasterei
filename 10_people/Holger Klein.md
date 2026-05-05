@@ -1,11 +1,11 @@
 ---
-type: person
+type: Person
 name: Holger Klein
 datum:
 contributes:
  - "[[WRINT]]"
 orgs:
- - "[[Haus 1]]"
+  - "[[Haus 1]]"
 podcasts:
   - "[[WRINT]]"
 topics:

@@ -1,5 +1,5 @@
 ---
-type: event
+type: Event
 name: SUBSCRIBE 10
 datum: März 2019
 edition: 10
