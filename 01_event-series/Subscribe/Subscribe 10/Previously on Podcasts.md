@@ -17,3 +17,4 @@ checked: false
 ## Quellen / Hinweise
 
 - [Video (media.ccc.de)](https://media.ccc.de/v/subscribe10-59-previously-on-podcasts)
+- [Video (YouTube)](https://www.youtube.com/watch?v=akjbyopNRSY)

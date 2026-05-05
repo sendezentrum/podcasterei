@@ -17,3 +17,4 @@ checked: false
 ## Quellen / Hinweise
 
 - [Video (media.ccc.de)](https://media.ccc.de/v/subscribe10-55-erfahrungsaustausch-podcasting-mit-tablet-smartphone)
+- [Video (YouTube)](https://www.youtube.com/watch?v=pF3MUVEWTHQ)

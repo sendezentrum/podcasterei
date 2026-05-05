@@ -17,3 +17,4 @@ checked: false
 ## Quellen / Hinweise
 
 - [Video (media.ccc.de)](https://media.ccc.de/v/subscribe10-56-freie-wissenschaft-durch-podcasting)
+- [Video (YouTube)](https://www.youtube.com/watch?v=h4VBtmZ8bk8)

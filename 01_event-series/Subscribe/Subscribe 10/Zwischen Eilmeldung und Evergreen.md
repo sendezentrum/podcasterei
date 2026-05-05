@@ -19,3 +19,4 @@ checked: false
 ## Quellen / Hinweise
 
 - [Video (media.ccc.de)](https://media.ccc.de/v/subscribe10-63-zwischen-eilmeldung-und-evergreen-wie-bildet-man-aktuelle-themen-und-diskussionen-im-podcast-ab-samstag-)
+- [Video (YouTube)](https://www.youtube.com/watch?v=i_fTryK_J1g)

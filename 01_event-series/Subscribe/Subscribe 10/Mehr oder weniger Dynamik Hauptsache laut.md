@@ -17,3 +17,4 @@ checked: false
 ## Quellen / Hinweise
 
 - [Video (media.ccc.de)](https://media.ccc.de/v/subscribe10-37-mehr-oder-weniger-dynamik-hauptsache-laut-die-richtige-mischung-macht-den-guten-ton-)
+- [Video (YouTube)](https://www.youtube.com/watch?v=dUN8X8pY91I)

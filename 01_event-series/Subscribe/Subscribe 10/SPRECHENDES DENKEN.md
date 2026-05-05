@@ -17,3 +17,4 @@ checked: false
 ## Quellen / Hinweise
 
 - [Video (media.ccc.de)](https://media.ccc.de/v/subscribe10-27-sprechendes-denken-ber-die-vermittlung-von-erkenntnis-im-sprechen-und-hren-oder-die-grsste-wissenschaftliche-revolution-seit-erfindung-des-buchdrucks-)
+- [Video (YouTube)](https://www.youtube.com/watch?v=kMits0yN9o0)

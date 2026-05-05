@@ -17,3 +17,4 @@ checked: false
 ## Quellen / Hinweise
 
 - [Video (media.ccc.de)](https://media.ccc.de/v/subscribe10-28-visuelle-identitt-wie-podcasts-sich-zeigen-knnen)
+- [Video (YouTube)](https://www.youtube.com/watch?v=jAuo8E1I-gU)

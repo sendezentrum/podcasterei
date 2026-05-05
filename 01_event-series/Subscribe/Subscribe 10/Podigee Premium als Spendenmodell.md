@@ -17,3 +17,4 @@ checked: false
 ## Quellen / Hinweise
 
 - [Video (media.ccc.de)](https://media.ccc.de/v/subscribe10-50-podigee-premium-als-spendenmodell)
+- [Video (YouTube)](https://www.youtube.com/watch?v=pa3EcAtb9MU)

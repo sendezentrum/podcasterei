@@ -17,3 +17,4 @@ checked: false
 ## Quellen / Hinweise
 
 - [Video (media.ccc.de)](https://media.ccc.de/v/subscribe10-32-mensch-mutta-jetz-sag-doch-mal-)
+- [Video (YouTube)](https://www.youtube.com/watch?v=I4dI1ck-UDo)

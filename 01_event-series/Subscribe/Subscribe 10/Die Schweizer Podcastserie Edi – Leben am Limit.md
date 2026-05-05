@@ -17,3 +17,4 @@ checked: false
 ## Quellen / Hinweise
 
 - [Video (media.ccc.de)](https://media.ccc.de/v/subscribe10-16-die-schweizer-podcastserie-edi-leben-am-limit-eine-wahre-geschichte-neu-erzhlt)
+- [Video (YouTube)](https://www.youtube.com/watch?v=HqlaOl1Awmw)

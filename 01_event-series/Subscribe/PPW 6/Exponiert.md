@@ -1,0 +1,19 @@
+---
+type: talk
+name: Exponiert
+datum: November 2015
+event: ""[[PPW 6 November 2015]]""
+organizers:
+  - []
+video: "https://www.youtube.com/watch?v=iEFkKpF3HSE"
+source: community
+checked: false
+---
+
+## Beschreibung
+
+
+
+## Quellen / Hinweise
+
+- [Video (YouTube)](https://www.youtube.com/watch?v=iEFkKpF3HSE)

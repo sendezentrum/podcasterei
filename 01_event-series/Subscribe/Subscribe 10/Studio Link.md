@@ -17,3 +17,4 @@ checked: false
 ## Quellen / Hinweise
 
 - [Video (media.ccc.de)](https://media.ccc.de/v/subscribe10-5-studio-link)
+- [Video (YouTube)](https://www.youtube.com/watch?v=0NNTPFjvQBg)

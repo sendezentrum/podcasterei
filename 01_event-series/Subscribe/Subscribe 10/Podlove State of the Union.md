@@ -18,3 +18,4 @@ checked: false
 ## Quellen / Hinweise
 
 - [Video (media.ccc.de)](https://media.ccc.de/v/subscribe10-7-podlove-state-of-the-union)
+- [Video (YouTube)](https://www.youtube.com/watch?v=5Uwobzd1f4s)

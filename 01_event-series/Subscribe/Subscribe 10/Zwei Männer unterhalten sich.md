@@ -17,3 +17,4 @@ checked: false
 ## Quellen / Hinweise
 
 - [Video (media.ccc.de)](https://media.ccc.de/v/subscribe10-34--zwei-mnner-unterhalten-sich-)
+- [Video (YouTube)](https://www.youtube.com/watch?v=p5GgXH36jbY)

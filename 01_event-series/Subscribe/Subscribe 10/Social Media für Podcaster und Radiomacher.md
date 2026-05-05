@@ -17,3 +17,4 @@ checked: false
 ## Quellen / Hinweise
 
 - [Video (media.ccc.de)](https://media.ccc.de/v/subscribe10-12-social-media-fr-podcaster-radiomacher)
+- [Video (YouTube)](https://www.youtube.com/watch?v=DHl2-j7Gq9w)

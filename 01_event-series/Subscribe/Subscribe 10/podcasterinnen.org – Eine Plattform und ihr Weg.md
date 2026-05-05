@@ -17,3 +17,4 @@ checked: false
 ## Quellen / Hinweise
 
 - [Video (media.ccc.de)](https://media.ccc.de/v/subscribe10-15-podcasterinnen-org-eine-plattform-und-ihr-weg)
+- [Video (YouTube)](https://www.youtube.com/watch?v=CGQj_E10wlE)

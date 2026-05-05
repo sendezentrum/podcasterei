@@ -18,3 +18,4 @@ checked: false
 ## Quellen / Hinweise
 
 - [Video (media.ccc.de)](https://media.ccc.de/v/subscribe10-25-warum-audio-wie-spiegel-online-eine-stimme-bekam)
+- [Video (YouTube)](https://www.youtube.com/watch?v=rYLycX4pEuk)

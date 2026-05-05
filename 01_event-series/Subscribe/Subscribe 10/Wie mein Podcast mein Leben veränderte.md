@@ -17,3 +17,4 @@ checked: false
 ## Quellen / Hinweise
 
 - [Video (media.ccc.de)](https://media.ccc.de/v/subscribe10-22-wie-mein-podcast-mein-leben-vernderte)
+- [Video (YouTube)](https://www.youtube.com/watch?v=mZ04r9O32kc)

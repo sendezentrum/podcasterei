@@ -17,3 +17,4 @@ checked: false
 ## Quellen / Hinweise
 
 - [Video (media.ccc.de)](https://media.ccc.de/v/subscribe10-62-ohne-mll-wie-ein-selbstversuch-hrer-innen-zum-nachdenken-brachte)
+- [Video (YouTube)](https://www.youtube.com/watch?v=KIsSK9mk51o)

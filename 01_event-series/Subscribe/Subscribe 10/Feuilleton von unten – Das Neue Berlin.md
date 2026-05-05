@@ -17,3 +17,4 @@ checked: false
 ## Quellen / Hinweise
 
 - [Video (media.ccc.de)](https://media.ccc.de/v/subscribe10-21--feuilleton-von-unten-das-neue-berlin)
+- [Video (YouTube)](https://www.youtube.com/watch?v=-yLI-A6ANC8)

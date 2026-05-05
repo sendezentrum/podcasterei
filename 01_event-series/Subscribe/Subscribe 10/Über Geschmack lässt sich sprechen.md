@@ -17,3 +17,4 @@ checked: false
 ## Quellen / Hinweise
 
 - [Video (media.ccc.de)](https://media.ccc.de/v/subscribe10-20-ber-geschmack-lsst-sich-sprechen-kulinarische-podcasts-als-appetitanreger)
+- [Video (YouTube)](https://www.youtube.com/watch?v=X20_oC4tapc)

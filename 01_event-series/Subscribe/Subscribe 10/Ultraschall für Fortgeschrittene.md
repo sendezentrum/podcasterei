@@ -17,3 +17,4 @@ checked: false
 ## Quellen / Hinweise
 
 - [Video (media.ccc.de)](https://media.ccc.de/v/subscribe10-19-ultraschall-fr-fortgeschrittene)
+- [Video (YouTube)](https://www.youtube.com/watch?v=vMQ2d09As5s)

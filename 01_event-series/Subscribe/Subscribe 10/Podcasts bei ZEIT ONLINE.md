@@ -17,3 +17,4 @@ checked: false
 ## Quellen / Hinweise
 
 - [Video (media.ccc.de)](https://media.ccc.de/v/subscribe10-29-podcasts-bei-zeit-online)
+- [Video (YouTube)](https://www.youtube.com/watch?v=UHtvyUuaZak)
