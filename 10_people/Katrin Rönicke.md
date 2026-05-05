@@ -1,29 +1,34 @@
 ---
-type: person
+type: Person
 name: Katrin Rönicke
 datum:
 contributes:
- - "[[So many voices]]"
+  - "[[So many voices]]"
+  - "[[Lila Podcast]]"
+  - "[[Wochendämmerung]]"
 orgs:
- - "[[Haus 1]]"
+  - "[[Haus 1]]"
 podcasts:
-  - []
+  - "[[Lila Podcast]]"
+  - "[[Wochendämmerung]]"
 topics:
   - Podcasting
   - Community
   - Konferenz
+  - Journalismus
 source: community
 checked: false
 ---
 
 ## Beschreibung
-Katrin Rönicke ist mit [[Haus 1]] verbunden und co-organisiert die Podcast-Konferenz [[So many voices]] in München. Sie ist Teil der Veranstalter:innen-Seite des Events „von Podcaster:innen für Podcaster:innen".
+Katrin Rönicke ist Chefredakteurin und Mitgründerin von [[Haus 1]]. Sie produziert und moderiert [[Lila Podcast]] und [[Wochendämmerung]] und co-organisiert die Podcast-Konferenz [[So many voices]] in München.
 
 ## Verbindungen
-Eng verbunden mit [[Haus 1]] und [[So many voices]].
+Eng verbunden mit [[Haus 1]], [[Susanne Klingner]], [[Holger Klein]] und [[So many voices]].
 
 ## Bedeutung
-Mitgestalterin einer der relevanten deutschsprachigen Podcast-Konferenzen.
+Mitgründerin eines der profiliertesten journalistischen Podcast-Labels im DACH-Raum.
 
 ## Quellen / Hinweise
+- [hauseins.fm/team](https://hauseins.fm/team/)
 - [So Many Voices](https://somanyvoices.de/)
