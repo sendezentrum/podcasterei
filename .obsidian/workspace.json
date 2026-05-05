@@ -1,0 +1,260 @@
+{
+  "main": {
+    "id": "b7f5cad353a3cc2f",
+    "type": "split",
+    "children": [
+      {
+        "id": "6cd2b53b01c7fb3c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "66095b4467c214e4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "01_Event/GanzOhr.md",
+                "mode": "preview",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "GanzOhr"
+            }
+          },
+          {
+            "id": "d274cc735b09d710",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Read me.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Read me"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "dff109bac8a8e202",
+    "type": "split",
+    "children": [
+      {
+        "id": "3fe76170528e880c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4d14ea9499cdcd9a",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "b36b0798b78e700b",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "1fdfdec20a94d616",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          },
+          {
+            "id": "701f0abe0de8a836",
+            "type": "leaf",
+            "state": {
+              "type": "notebook-navigator",
+              "state": {},
+              "icon": "lucide-ghost",
+              "title": "notebook-navigator"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "b046febe7594fe8f",
+    "type": "split",
+    "children": [
+      {
+        "id": "8d363a3bb61cd0ad",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e092c01da87f3aa7",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Rückverweise"
+            }
+          },
+          {
+            "id": "d3bc66636bfc87d5",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Welcome.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Welcome"
+            }
+          },
+          {
+            "id": "ba379dcfa81fc3ba",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "58ae007bd6f39e6f",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "4c738783bb245e22",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "01_Event/GanzOhr.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of GanzOhr"
+            }
+          },
+          {
+            "id": "c104fed027aa6506",
+            "type": "leaf",
+            "state": {
+              "type": "footnotes",
+              "state": {},
+              "icon": "lucide-file-signature",
+              "title": "Fußnoten"
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "workspaces:Manage workspace layouts": false,
+      "publish:Publish changes...": false,
+      "bases:Create new base": false,
+      "notebook-navigator:Notebook Navigator": false,
+      "templater-obsidian:Templater": false
+    }
+  },
+  "active": "66095b4467c214e4",
+  "lastOpenFiles": [
+    "Vorlagen/Personen_Vorlage.md",
+    "07_Fragen/Frageliste vom Kongress.md",
+    "Read me.md",
+    "07_Fragen/Frageliste Podcast Faible.md",
+    "Vorlagen/Event_Vorlage.md",
+    "Vorlagen/Label_Vorlage.md",
+    "Vorlagen/Projekt_Vorlage.md",
+    "10_Personen",
+    "Vorlagen/Podcast_Vorlage.md",
+    "Vorlagen/Firma_Vorlage.md",
+    "99_comunity/README_Checkliste.md",
+    "99_comunity/Projekt.md",
+    "99_comunity/Podcast.md",
+    "99_comunity/Label.md",
+    "99_comunity/Firma.md",
+    "99_comunity/Event.md",
+    "Vorlagen/Projekt.md",
+    "Vorlagen/Podcast.md",
+    "Vorlagen/Label.md",
+    "Vorlagen/Firma.md",
+    "Vorlagen/Event.md",
+    "99_comunity",
+    "08_Interessen",
+    "07_Fragen",
+    "05_Podcast",
+    "00_Orga_Maps",
+    "04_Projekt",
+    "03_Frima_Org",
+    "02_Lable_Netzwerk",
+    "01_Event",
+    "2026-04-27.md",
+    "Unbenannt 1.canvas",
+    "Unbenannt.canvas"
+  ]
+}
