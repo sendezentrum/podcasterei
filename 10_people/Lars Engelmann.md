@@ -2,7 +2,7 @@
 type: person
 name: Lars Engelmann
 datum:
-participants:
+contributes:
  - "[[Geschichtenkapsel]]"
 orgs:
  - []

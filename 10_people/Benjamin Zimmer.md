@@ -2,7 +2,7 @@
 type: person
 name: Benjamin Zimmer
 datum:
-participants:
+contributes:
  - []
 orgs:
  - []

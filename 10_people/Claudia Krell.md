@@ -2,7 +2,7 @@
 type: person
 name: Claudia Krell
 datum:
-participants:
+contributes:
  - "[[Das Sendezentrum]]"
 orgs:
  - "[[Das Sendezentrum]]"

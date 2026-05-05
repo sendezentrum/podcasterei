@@ -2,7 +2,7 @@
 type: person
 name: Malik Aziz
 datum:
-participants:
+contributes:
  - "[[Ultraschall]]"
 orgs:
  - []

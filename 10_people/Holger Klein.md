@@ -2,7 +2,7 @@
 type: person
 name: Holger Klein
 datum:
-participants:
+contributes:
  - "[[WRINT]]"
 orgs:
  - "[[Haus 1]]"

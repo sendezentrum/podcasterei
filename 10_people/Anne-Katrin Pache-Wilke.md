@@ -2,7 +2,7 @@
 type: person
 name: Anne-Katrin Pache-Wilke
 datum:
-participants:
+contributes:
  - []
 orgs:
  - []

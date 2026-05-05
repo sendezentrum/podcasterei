@@ -2,7 +2,7 @@
 type: Project
 name: Podcast Pat*innen
 datum:
-participants:
+contributes:
  - "[[Das Sendezentrum]]"
  - "[[Sendegate]]"
 orgs:

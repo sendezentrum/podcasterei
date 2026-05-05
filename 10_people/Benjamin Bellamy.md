@@ -2,7 +2,7 @@
 type: person
 name: Benjamin Bellamy
 datum:
-participants:
+contributes:
  - "[[Castopod]]"
 orgs:
  - "[[Ad Aures]]"

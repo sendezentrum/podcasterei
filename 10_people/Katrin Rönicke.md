@@ -2,7 +2,7 @@
 type: person
 name: Katrin Rönicke
 datum:
-participants:
+contributes:
  - "[[So many voices]]"
 orgs:
  - "[[Haus 1]]"

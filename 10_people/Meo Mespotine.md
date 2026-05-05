@@ -2,7 +2,7 @@
 type: person
 name: Meo Mespotine
 datum:
-participants:
+contributes:
  - "[[Ultraschall]]"
 orgs:
  - []

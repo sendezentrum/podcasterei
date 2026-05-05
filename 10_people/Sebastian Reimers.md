@@ -2,7 +2,7 @@
 type: person
 name: Sebastian Reimers
 datum:
-participants:
+contributes:
  - "[[Podstock]]"
  - "[[Ultraschall]]"
 orgs:

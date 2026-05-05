@@ -2,7 +2,7 @@
 type: person
 name: Eric Teubert
 datum:
-participants:
+contributes:
  - "[[Podlove]]"
 orgs:
  - []

@@ -2,7 +2,7 @@
 type: person
 name: Sabrina Gehder
 datum:
-participants:
+contributes:
  - "[[Parlamentsrevue]]"
 orgs:
  - []

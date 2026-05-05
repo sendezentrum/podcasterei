@@ -2,7 +2,7 @@
 type: person
 name: Bernd Rupp
 datum:
-participants:
+contributes:
  - "[[GanzOhr]]"
  - "[[Wissenschaftspodcasts]]"
 orgs:

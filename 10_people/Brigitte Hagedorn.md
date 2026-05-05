@@ -2,7 +2,7 @@
 type: person
 name: Brigitte Hagedorn
 datum:
-participants:
+contributes:
  - []
 orgs:
  - []

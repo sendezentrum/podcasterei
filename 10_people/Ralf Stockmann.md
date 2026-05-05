@@ -2,7 +2,7 @@
 type: person
 name: Ralf Stockmann
 datum:
-participants:
+contributes:
  - "[[Ultraschall]]"
  - "[[Das Sendezentrum]]"
 orgs:

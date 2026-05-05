@@ -2,7 +2,7 @@
 type: person
 name: Tim Pritlove
 datum:
-participants:
+contributes:
  - "[[Das Sendezentrum]]"
  - "[[Sendegate]]"
 orgs:

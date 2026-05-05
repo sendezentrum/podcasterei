@@ -2,7 +2,7 @@
 type: person
 name: Simon Dückert
 datum:
-participants:
+contributes:
  - "[[Sendegate]]"
 orgs:
  - []

@@ -2,7 +2,7 @@
 type: person
 name: Kai Du
 datum:
-participants:
+contributes:
  - "[[Geschichtenkapsel]]"
 orgs:
  - []

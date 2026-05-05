@@ -2,7 +2,7 @@
 type: person
 name: Alexander Heimbuch
 datum:
-participants:
+contributes:
  - "[[Podlove]]"
 orgs:
  - []

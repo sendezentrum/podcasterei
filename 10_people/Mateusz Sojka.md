@@ -2,7 +2,7 @@
 type: person
 name: Mateusz Sojka
 datum:
-participants:
+contributes:
  - []
 orgs:
  - []

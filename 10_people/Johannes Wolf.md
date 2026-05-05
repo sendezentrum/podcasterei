@@ -2,7 +2,7 @@
 type: person
 name: Johannes Wolf
 datum:
-participants:
+contributes:
  - []
 orgs:
  - []

@@ -26,7 +26,7 @@ Remote: `ssh://git@codeberg.org/sendezentrum/podcasterei.git`
 
 All notes use YAML frontmatter. The `type` field determines the template:
 
-- **person** (`templates/Personen_Vorlage.md`): `name`, `datum`, `participants`, `orgs`, `podcasts`, `topics`, `source`, `checked`
+- **person** (`templates/Personen_Vorlage.md`): `name`, `datum`, `contributes`, `orgs`, `podcasts`, `topics`, `source`, `checked`
 - **Project** (`templates/Projekt_Vorlage.md`): `name`, `beteiligte`, `podcasts`, `events`, `topics`, `source`, `checked`
 - **firma** (`templates/Firma_Vorlage.md`): `name`, `podcasts`, `projekte`, `labels`, `events`, `topics`, `source`, `checked`
 - **event** (`templates/Event_Vorlage.md`): `name`, `datum`, `participants`, `orgs`, `podcasts`, `topics`, `source`, `checked`

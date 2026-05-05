@@ -2,7 +2,7 @@
 type: person
 name: Christian Bednarek
 datum:
-participants:
+contributes:
  - "[[Fyyd]]"
 orgs:
  - []

@@ -2,7 +2,7 @@
 type: person
 name: Georg Holzmann
 datum:
-participants:
+contributes:
  - "[[Auphonic]]"
 orgs:
  - "[[Auphonic]]"

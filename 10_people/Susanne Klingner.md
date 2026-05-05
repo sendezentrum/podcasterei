@@ -2,7 +2,7 @@
 type: person
 name: Susanne Klingner
 datum:
-participants:
+contributes:
  - []
 orgs:
  - []

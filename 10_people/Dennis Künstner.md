@@ -2,7 +2,7 @@
 type: person
 name: Dennis Künstner
 datum:
-participants:
+contributes:
  - "[[HoerTalk]]"
 orgs:
  - []

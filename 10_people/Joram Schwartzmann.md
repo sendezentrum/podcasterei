@@ -2,7 +2,7 @@
 type: person
 name: Joram Schwartzmann
 datum:
-participants:
+contributes:
  - "[[Ultraschall]]"
 orgs:
  - []

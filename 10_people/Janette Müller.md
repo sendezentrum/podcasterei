@@ -2,7 +2,7 @@
 type: person
 name: Janette Müller
 datum:
-participants:
+contributes:
  - "[[Sendegate]]"
 orgs:
  - []

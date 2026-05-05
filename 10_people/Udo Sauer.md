@@ -2,7 +2,7 @@
 type: person
 name: Udo Sauer
 datum:
-participants:
+contributes:
  - "[[Ultraschall]]"
 orgs:
  - []

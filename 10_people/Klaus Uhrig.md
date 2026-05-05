@@ -2,7 +2,7 @@
 type: person
 name: Klaus Uhrig
 datum:
-participants:
+contributes:
  - []
 orgs:
  - []
