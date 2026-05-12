@@ -16,6 +16,7 @@ topics:
   - Verzeichnis
   - Kuratierung
 
+url: https://wissenschaftspodcasts.de
 source: community
 checked: false
 ---

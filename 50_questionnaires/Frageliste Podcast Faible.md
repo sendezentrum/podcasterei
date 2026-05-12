@@ -1,13 +1,12 @@
 ---
-type: Podcast
-name: Fageliste_2
+type: PodcastSeries
+name: Frageliste_2
 beteiligte:
-  - - [Kostümfrau]
-  - - [Anne]
+  - "[[Anne-Katrin Pache-Wilke]]"
 podcasts:
-  - - [Podcast Faible]
+  - "[[Podcast Faible]]"
 events:
-  - - []
+  - []
 topics:
   - Frageliste
   - Themenfindung
@@ -39,7 +38,6 @@ Fragen aus dem Podcast Faible
 6. Was magst du am liebsten beim Thema Podcasten, was ist für dich am nervigsten?
 
 7. Was war für dich bis dato die wichtigste Lektion, die du im Rahmen des Podcastens gelernt hast und ggf. auch an andere Podcaster*innen weitergeben würdest?
-
 
 
 

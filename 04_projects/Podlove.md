@@ -75,7 +75,7 @@ Initiiert von [[Tim Pritlove]] und getragen von einer Open-Source-Community au
 
 ## Quellen
 
- [Podlove](https://podlove.org/](https://podlove.org/)
+- [Podlove](https://podlove.org/)
 - [https://podlove.org/about/](https://podlove.org/about/)
 - [https://podlove.org/podlove-podcast-publisher/](https://podlove.org/podlove-podcast-publisher/?utm_source=chatgpt.com)
 [Podlove Radiator](https://github.com/podlove/radiator)

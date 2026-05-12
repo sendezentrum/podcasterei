@@ -1,7 +1,9 @@
 ---
-type: firma
+type: Organization
 
 name: Auphonic
+
+url: https://auphonic.com
 
 topics:
   - Audio Postproduktion

@@ -1,26 +1,30 @@
 ---
-type: person
+type: Person
 name: Bernd Rupp
 datum:
-teilnehmer:
- - "[[]]"
+contributes:
+ - "[[GanzOhr]]"
+ - "[[Wissenschaftspodcasts]]"
 orgs:
- - "[[]]"
+ - "[[Wisspod]]"
 podcasts:
-  - "[[]]"
+  - []
 topics:
-  -
+  - Wissenschaftspodcasts
+  - Community
+  - Wissenschaftskommunikation
 source: community
 checked: false
 ---
 
 ## Beschreibung
-(Max. 2–3 Sätze)
+Bernd Rupp ist Teil der Wisspod-Community (wissenschaftspodcasts.de) und steht im Kontext der [[GanzOhr]]-Konferenz, dem jährlichen Treffen von Wissenschaftspodcaster:innen.
 
 ## Verbindungen
-(Max. 2–3 Sätze)
+Verbunden mit [[Wissenschaftspodcasts]] und [[GanzOhr]].
 
 ## Bedeutung
-(Max. 1–2 Sätze)
+Aktiver Teil der Community rund um deutschsprachige Wissenschaftspodcasts.
 
 ## Quellen / Hinweise
+- [Wisspod Team](https://wissenschaftspodcasts.de/ueber-wisspod/#team)

@@ -1,5 +1,5 @@
 ---
-type: podcast
+type: PodcastSeries
 name:
 
 firma: [[ ]]

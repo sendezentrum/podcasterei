@@ -1,8 +1,8 @@
 ---
-type: person
+type: Person
 name:
 datum:
-teilnehmer:
+contributes:
   - - []
 orgs:
   - - []

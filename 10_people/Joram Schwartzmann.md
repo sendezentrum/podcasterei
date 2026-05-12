@@ -1,26 +1,29 @@
 ---
-type: person
+type: Person
 name: Joram Schwartzmann
 datum:
-teilnehmer:
- - "[[]]"
+contributes:
+ - "[[Ultraschall]]"
 orgs:
- - "[[]]"
+ - []
 podcasts:
-  - "[[]]"
+  - []
 topics:
-  -
+  - Audio-Produktion
+  - Tutorials
+  - Podcasting
 source: community
 checked: false
 ---
 
 ## Beschreibung
-(Max. 2–3 Sätze)
+Joram Schwartzmann ist auf der Danke-Seite von [[Ultraschall]] als Mitwirkender gelistet und produziert Ultraschall-Tutorials auf YouTube unter dem Kanal @JoramMachtSachen.
 
 ## Verbindungen
-(Max. 2–3 Sätze)
+Verbunden mit [[Ultraschall]] und [[Ralf Stockmann]].
 
 ## Bedeutung
-(Max. 1–2 Sätze)
+Trägt durch Tutorial-Inhalte zur Zugänglichkeit von Ultraschall für neue Nutzer:innen bei.
 
 ## Quellen / Hinweise
+- [Ultraschall Tutorials Joram](http://www.youtube.com/@JoramMachtSachen)

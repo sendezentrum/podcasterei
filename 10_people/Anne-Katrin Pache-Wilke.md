@@ -1,26 +1,26 @@
 ---
-type: person
+type: Person
 name: Anne-Katrin Pache-Wilke
 datum:
-teilnehmer:
- - "[[]]"
+contributes:
+ - []
 orgs:
- - "[[]]"
+ - []
 podcasts:
-  - "[[]]"
+  - "[[Podcast Faible]]"
 topics:
-  -
+  - Podcasting
 source: community
 checked: false
 ---
 
 ## Beschreibung
-(Max. 2–3 Sätze)
-aka Kostümfrau aka Anne
+Anne-Katrin Pache-Wilke, auch bekannt als Kostümfrau oder Anne, ist mit dem Podcast Faible verbunden. Sie wurde in den Fragelisten des Projekts als Beteiligte aufgeführt.
+
 ## Verbindungen
-(Max. 2–3 Sätze)
+Verbunden mit [[Podcast Faible]].
 
 ## Bedeutung
-(Max. 1–2 Sätze)
 
 ## Quellen / Hinweise
+- [Podcast Faible](https://fyyd.de/podcast/podcast-faible/0)

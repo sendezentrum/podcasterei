@@ -1,26 +1,28 @@
 ---
-type: person
+type: Person
 name: Dennis Künstner
 datum:
-teilnehmer:
- - "[[]]"
+contributes:
+ - "[[HoerTalk]]"
 orgs:
- - "[[]]"
+ - []
 podcasts:
-  - "[[]]"
+  - []
 topics:
-  -
+  - Hörspiel
+  - Community
+  - Audio
 source: community
 checked: false
 ---
 
 ## Beschreibung
-(Max. 2–3 Sätze)
+Dennis Künstner ist im Impressum von [[HoerTalk]], der deutschsprachigen Online-Community für Hörspielproduktion, gelistet.
 
 ## Verbindungen
-(Max. 2–3 Sätze)
+Verbunden mit [[HoerTalk]].
 
 ## Bedeutung
-(Max. 1–2 Sätze)
 
 ## Quellen / Hinweise
+- [HoerTalk](https://www.hoer-talk.de/)

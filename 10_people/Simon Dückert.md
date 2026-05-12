@@ -1,26 +1,27 @@
 ---
-type: person
+type: Person
 name: Simon Dückert
 datum:
-teilnehmer:
- - "[[]]"
+contributes:
+ - "[[Sendegate]]"
 orgs:
- - "[[]]"
+ - []
 podcasts:
-  - "[[]]"
+  - []
 topics:
-  -
+  - Community
+  - Podcasting
 source: community
 checked: false
 ---
 
 ## Beschreibung
-(Max. 2–3 Sätze)
+Simon Dückert ist als Beteiligter im [[Sendegate]] gelistet, dem zentralen deutschsprachigen Community-Forum für Podcasting.
 
 ## Verbindungen
-(Max. 2–3 Sätze)
+Verbunden mit [[Sendegate]] und [[Das Sendezentrum]].
 
 ## Bedeutung
-(Max. 1–2 Sätze)
 
 ## Quellen / Hinweise
+- [Sendegate](https://sendegate.de/)

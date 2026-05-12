@@ -1,9 +1,9 @@
 ---
-type: event
+type: Event
 name:
 datum:
 
-teilnehmer:
+participants:
   - [[ ]]
 
 orgs:

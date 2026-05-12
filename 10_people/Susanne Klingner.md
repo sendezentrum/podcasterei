@@ -1,26 +1,30 @@
 ---
-type: person
+type: Person
 name: Susanne Klingner
 datum:
-teilnehmer:
- - "[[]]"
+contributes:
+  - []
 orgs:
- - "[[]]"
+  - "[[Haus 1]]"
 podcasts:
-  - "[[]]"
+  - []
 topics:
-  -
+  - Journalismus
+  - Podcast
+  - Wirtschaft
+  - Gender
 source: community
 checked: false
 ---
 
 ## Beschreibung
-(Max. 2–3 Sätze)
+Susanne Klingner ist Chefredakteurin und Geschäftsführerin von [[Haus 1]]. Sie ist Journalistin mit Schwerpunkt Wirtschaft und Genderthemen.
 
 ## Verbindungen
-(Max. 2–3 Sätze)
+Eng verbunden mit [[Haus 1]] und [[Katrin Rönicke]].
 
 ## Bedeutung
-(Max. 1–2 Sätze)
+Mitgründerin eines der profiliertesten journalistischen Podcast-Labels im DACH-Raum.
 
 ## Quellen / Hinweise
+- [hauseins.fm/team](https://hauseins.fm/team/)

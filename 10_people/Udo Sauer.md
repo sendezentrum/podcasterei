@@ -1,26 +1,27 @@
 ---
-type: person
+type: Person
 name: Udo Sauer
 datum:
-teilnehmer:
- - "[[]]"
+contributes:
+ - "[[Ultraschall]]"
 orgs:
- - "[[]]"
+ - []
 podcasts:
-  - "[[]]"
+  - []
 topics:
-  -
+  - Audio-Produktion
+  - Open Source
 source: community
 checked: false
 ---
 
 ## Beschreibung
-(Max. 2–3 Sätze)
+Udo Sauer ist auf der Danke-Seite von [[Ultraschall]] als Mitwirkender gelistet.
 
 ## Verbindungen
-(Max. 2–3 Sätze)
+Verbunden mit [[Ultraschall]].
 
 ## Bedeutung
-(Max. 1–2 Sätze)
 
 ## Quellen / Hinweise
+- [Ultraschall Danke](https://ultraschall.fm/danke/)

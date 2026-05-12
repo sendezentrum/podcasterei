@@ -1,26 +1,30 @@
 ---
-type: person
+type: Person
 name: Kai Du
 datum:
-teilnehmer:
- - "[[]]"
+contributes:
+ - "[[Geschichtenkapsel]]"
 orgs:
- - "[[]]"
+ - []
 podcasts:
-  - "[[]]"
+  - "[[Geschichtenkapsel]]"
 topics:
-  -
+  - Hörspiel
+  - Podcast
+  - Storytelling
+  - Literatur
 source: community
 checked: false
 ---
 
 ## Beschreibung
-(Max. 2–3 Sätze)
+Kai Du ist Mitgründer der [[Geschichtenkapsel]] (gegründet 2016 gemeinsam mit [[Lars Engelmann]]). Das Projekt ist ein kollaboratives Podcast-Format für selbstgeschriebene Kurzgeschichten, Hörspiele und literarische Texte.
 
 ## Verbindungen
-(Max. 2–3 Sätze)
+Eng verbunden mit [[Lars Engelmann]] und [[Geschichtenkapsel]].
 
 ## Bedeutung
-(Max. 1–2 Sätze)
+Mitgründer eines der bekannteren kollaborativen Hörspiel-Podcasts im deutschsprachigen Raum.
 
 ## Quellen / Hinweise
+- [Geschichtenkapsel](https://geschichtenkapsel.de)

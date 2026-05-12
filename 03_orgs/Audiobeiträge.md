@@ -1,7 +1,9 @@
 ---
-type: firma
+type: Organization
 
 name: Audiobeiträge
+
+url: https://www.audiobeitraege.de
 
 topics:
   - Podcasting

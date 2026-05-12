@@ -32,7 +32,7 @@ use_cases:
   - Einstieg und Unterstützung für neue Podcaster
 checked: false
 ---
----
+
 ## Kurzbeschreibung
 
 Das Sendezentrum ist eine Plattform und Initiative der deutschsprachigen Podcast-Community, die als zentraler Treffpunkt für Austausch, Events und Wissen dient. Es verbindet Online-Community, Konferenzen und Live-Formate rund um Podcasting. 

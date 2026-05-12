@@ -1,26 +1,28 @@
 ---
-type: person
+type: Person
 name: Claudia Krell
 datum:
-teilnehmer:
- - "[[]]"
+contributes:
+ - "[[Das Sendezentrum]]"
 orgs:
- - "[[]]"
+ - "[[Das Sendezentrum]]"
 podcasts:
-  - "[[]]"
+  - []
 topics:
-  -
+  - Podcasting
+  - Community
 source: community
 checked: false
 ---
 
 ## Beschreibung
-(Max. 2–3 Sätze)
+Claudia Krell ist eine der ursprünglichen Ansprechpartner:innen von [[Das Sendezentrum]], der Plattform und Initiative der deutschsprachigen Podcast-Community.
 
 ## Verbindungen
-(Max. 2–3 Sätze)
+Verbunden mit [[Das Sendezentrum]], [[Tim Pritlove]] und [[Ralf Stockmann]].
 
 ## Bedeutung
-(Max. 1–2 Sätze)
+Teil des Gründungsteams der zentralen deutschen Podcast-Community-Plattform.
 
 ## Quellen / Hinweise
+- [Das Sendezentrum](https://das-sendezentrum.de/)
