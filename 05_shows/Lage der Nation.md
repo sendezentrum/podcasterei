@@ -26,7 +26,7 @@ checked: false
 
 ## Beschreibung
 
-Lage der Nation ist ein wöchentlicher Politik-Podcast von [[Philip Banse]] (Journalist) und [[Ulf Buermeyer]] (Jurist). Er analysiert politische Ereignisse in Deutschland und weltweit. Produziert über [[Lage der Nation GmbH]].
+Lage der Nation ist ein wöchentlicher Politik-Podcast von [[Philip Banse]] (Journalist) und [[Ulf Buermeyer]] (Jurist). Er analysiert politische Ereignisse in Deutschland und weltweit mit Folgen von 90 Minuten bis zwei Stunden Länge. Der Podcast erreicht bis zu 2 Millionen Downloads pro Monat und finanziert sich über Werbung, Spenden, Mitgliedschaften und Live-Events. Produziert über [[Lage der Nation GmbH]].
 
 ## Verbindungen
 
@@ -40,3 +40,4 @@ Einer der meistgehörten deutschen Politik-Podcasts; Vorzeigeprojekt für unabh�
 
 - [lagedernation.org](https://lagedernation.org)
 - [RSS](https://feeds.lagedernation.org/feeds/ldn-mp3.xml)
+- [Übermedien-Interview mit Philip Banse, 2026-05-12](https://uebermedien.de/116835/viele-leute-sind-total-dankbar-wenn-man-ihnen-dinge-mal-erklaert/)
