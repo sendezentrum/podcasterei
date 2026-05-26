@@ -2,8 +2,8 @@
 type: PodcastSeries
 name:
 
-firma: [[ ]]
-hosts:
+orga: [[ ]]
+authors:
   - [[ ]]
 
 andere_podcasts:
@@ -22,7 +22,6 @@ source: community
 checked: false
 ---
 
-## Kurzbeschreibung
 (Max. 2–3 Sätze: Worum geht es?)
 
 ## Wichtige Verbindungen
