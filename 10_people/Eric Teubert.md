@@ -2,12 +2,10 @@
 type: Person
 name: Eric Teubert
 datum:
-contributes:
- - "[[Podlove]]"
 orgs:
- - []
+ - "[[Podlove]]"
 podcasts:
-  - "[[Podlove]]"
+  - "[[Podlovers]]"
 topics:
   - Podcasting
   - Open Source
