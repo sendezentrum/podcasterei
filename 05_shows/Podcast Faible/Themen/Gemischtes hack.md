@@ -1,0 +1,21 @@
+---
+thema: "Gemischtes hack"
+tags: [thema, gemischtes-hack]
+---
+
+# Gemischtes hack
+
+**2 Gäste** haben Aspekte dieses Themas angesprochen.
+
+**Vorkommen in Fragen:** [[Erster Berührungspunkt & Anstoß]] (2)
+
+## Verbindungen
+
+### [[Alexander Karls]] (Ep 10)
+- **Erster Berührungspunkt & Anstoß:** Erster Kontakt 2018 mit 'Gemischtes Hack'.
+
+### [[Nella Rausch]] (Ep 26)
+- **Erster Berührungspunkt & Anstoß:** Kam über ihre Tochter zu Podcasts, die viel 'Gemischtes Hack' hörte.
+
+---
+[[Übersicht Themen]]
