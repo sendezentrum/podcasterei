@@ -4,5 +4,6 @@
   "dataview",
   "templater-obsidian",
   "calendar",
-  "obsidian-git"
+  "obsidian-git",
+  "copilot"
 ]
