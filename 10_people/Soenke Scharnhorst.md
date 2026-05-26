@@ -1,13 +1,22 @@
 ---
-episode: 25
-folge: "#05"
-gast: "Soenke Scharnhorst"
-tags: [gast, auphonic, gespraeche-begegnungen, hoerer-feedback, remove-silence]
+type: Person
+name: Soenke Scharnhorst
+datum:
+contributes:
+orgs:
+podcasts:
+topics:
+	- auphonic
+	- gespraeche begegnungen
+	- hoerer feedback
+	- remove silence
+source: community
+checked: false
 ---
 
 # Soenke Scharnhorst
 
-> [!info] Episode 25 · Folge #05
+> [!info] Podcast-Faible · Folge #05
 
 ## Erster Berührungspunkt & Anstoß
 

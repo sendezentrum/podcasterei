@@ -17,7 +17,7 @@ checked: false
 
 # Johannes Wolf
 
-> [!info] Episode 1 · Folge #29
+> [!info] Podcast-Faible · Folge #29
 
 ## Erster Berührungspunkt & Anstoß
 

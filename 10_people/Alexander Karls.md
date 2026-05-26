@@ -1,13 +1,23 @@
 ---
-episode: 10
-folge: "#20"
-gast: "Alexander Karls"
-tags: [gast, aufnahme-tools-studio-link-riverside, gemischtes-hack, gespraeche-begegnungen, mikrofon-setup, pandemie-als-ausloeser]
+type: Person
+name: Alexander Karls
+datum:
+contributes:
+orgs:
+podcasts:
+topics:
+	- aufnahme tools studio link riverside
+	- gemischtes hack
+	- gespraeche begegnungen
+	- mikrofon setup
+	- pandemie als ausloeser
+source: community
+checked: false
 ---
 
 # Alexander Karls
 
-> [!info] Episode 10 · Folge #20
+> [!info] Podcast-Faible · Folge #20
 
 ## Erster Berührungspunkt & Anstoß
 

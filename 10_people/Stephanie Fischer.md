@@ -1,13 +1,25 @@
 ---
-episode: 14
-folge: "#16"
-gast: "Stephanie Fischer"
-tags: [gast, authentizitaet-mut, buehnenaffinitaet, duo-format, lernen-entwicklung, mikrofon-setup, recherche-vorbereitung, sendegate-community]
+type: Person
+name: Stephanie Fischer
+datum:
+contributes:
+orgs:
+podcasts:
+topics:
+	- authentizitaet mut
+	- buehnenaffinitaet
+	- duo format
+	- lernen entwicklung
+	- mikrofon setup
+	- recherche vorbereitung
+	- sendegate community
+source: community
+checked: false
 ---
 
 # Stephanie Fischer
 
-> [!info] Episode 14 · Folge #16
+> [!info] Podcast-Faible · Folge #16
 
 ## Erster Berührungspunkt & Anstoß
 

@@ -1,13 +1,22 @@
 ---
-episode: 8
-folge: "#22"
-gast: "Arne Ruddat"
-tags: [gast, gespraeche-begegnungen, mikrofon-setup, zeitaufwand, ipod-generation]
+type: Person
+name: Arne Ruddat
+datum:
+contributes:
+orgs:
+podcasts:
+topics:
+	- gespraeche begegnungen
+	- mikrofon setup
+	- zeitaufwand
+	- ipod generation
+source: community
+checked: false
 ---
 
 # Arne Ruddat
 
-> [!info] Episode 8 · Folge #22
+> [!info] Podcast-Faible · Folge #22
 
 ## Erster Berührungspunkt & Anstoß
 

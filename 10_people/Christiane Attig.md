@@ -1,13 +1,24 @@
 ---
-episode: 22
-folge: "#08"
-gast: "Christiane Attig"
-tags: [gast, auphonic, gespraeche-begegnungen, hoerer-feedback, live-aufnahmen, schnitt-tools-ultraschall-reaper, wissenschaftspodcasts]
+type: Person
+name: Christiane Attig
+datum:
+contributes:
+orgs:
+podcasts:
+topics:
+	- auphonic
+	- gespraeche begegnungen
+	- hoerer feedback
+	- live aufnahmen
+	- schnitt tools ultraschall reaper
+	- wissenschaftspodcasts
+source: community
+checked: false
 ---
 
 # Christiane Attig
 
-> [!info] Episode 22 · Folge #08
+> [!info] Podcast-Faible · Folge #08
 
 ## Erster Berührungspunkt & Anstoß
 

@@ -1,13 +1,25 @@
 ---
-episode: 17
-folge: "#13"
-gast: "Anne Autenrieb"
-tags: [gast, buehnenaffinitaet, fandom-als-einstieg, gespraeche-begegnungen, pandemie-als-ausloeser, schnitt-tools-ultraschall-reaper, sendegate-community, wissenschaftspodcasts]
+type: Person
+name: Anne Autenrieb
+datum:
+contributes:
+orgs:
+podcasts:
+topics:
+	- buehnenaffinitaet
+	- fandom als einstieg
+	- gespraeche begegnungen
+	- pandemie als ausloeser
+	- schnitt tools ultraschall reaper
+	- sendegate community
+	- wissenschaftspodcasts
+source: community
+checked: false
 ---
 
 # Anne Autenrieb
 
-> [!info] Episode 17 · Folge #13
+> [!info] Podcast-Faible · Folge #13
 
 ## Erster Berührungspunkt & Anstoß
 

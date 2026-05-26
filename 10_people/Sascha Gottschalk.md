@@ -1,13 +1,24 @@
 ---
-episode: 21
-folge: "#09"
-gast: "Sascha Gottschalk"
-tags: [gast, aufnahme-tools-studio-link-riverside, fandom-als-einstieg, recherche-vorbereitung, schnitt-erlebnis, sendegate-community, zeitaufwand]
+type: Person
+name: Sascha Gottschalk
+datum:
+contributes:
+orgs:
+podcasts:
+topics:
+	- aufnahme tools studio link riverside
+	- fandom als einstieg
+	- recherche vorbereitung
+	- schnitt erlebnis
+	- sendegate community
+	- zeitaufwand
+source: community
+checked: false
 ---
 
 # Sascha Gottschalk
 
-> [!info] Episode 21 · Folge #09
+> [!info] Podcast-Faible · Folge #09
 
 ## Erster Berührungspunkt & Anstoß
 

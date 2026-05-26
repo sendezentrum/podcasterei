@@ -1,13 +1,21 @@
 ---
-episode: 19
-folge: "#11"
-gast: "Yvette Philippens"
-tags: [gast, mikrofon-setup, schnitt-tools-garageband, social-media-vermarktung]
+type: Person
+name: Yvette Philippens
+datum:
+contributes:
+orgs:
+podcasts:
+topics:
+	- mikrofon setup
+	- schnitt tools garageband
+	- social media vermarktung
+source: community
+checked: false
 ---
 
 # Yvette Philippens
 
-> [!info] Episode 19 · Folge #11
+> [!info] Podcast-Faible · Folge #11
 
 ## Erster Berührungspunkt & Anstoß
 

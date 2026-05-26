@@ -1,13 +1,23 @@
 ---
-episode: 9
-folge: "#21"
-gast: "Dela"
-tags: [gast, fandom-als-einstieg, gespraeche-begegnungen, hoerer-feedback, spass-motivation, zeitaufwand]
+type: Person
+name: Dela
+datum:
+contributes:
+orgs:
+podcasts:
+topics:
+	- fandom als einstieg
+	- gespraeche begegnungen
+	- hoerer feedback
+	- spass motivation
+	- zeitaufwand
+source: community
+checked: false
 ---
 
 # Dela
 
-> [!info] Episode 9 · Folge #21
+> [!info] Podcast-Faible · Folge #21
 
 ## Eigener Podcast-Konsum
 

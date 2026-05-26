@@ -1,13 +1,28 @@
 ---
-episode: 12
-folge: "#18"
-gast: "Stefan Giesbert"
-tags: [gast, auphonic, filmpodcasts, gespraeche-begegnungen, lernen-entwicklung, live-aufnahmen, mikrofon-setup, recherche-vorbereitung, schnitt-erlebnis, shownotes-aufbereitung, ipod-generation]
+type: Person
+name: Stefan Giesbert
+datum:
+contributes:
+orgs:
+podcasts:
+topics:
+	- auphonic
+	- filmpodcasts
+	- gespraeche begegnungen
+	- lernen entwicklung
+	- live aufnahmen
+	- mikrofon setup
+	- recherche vorbereitung
+	- schnitt erlebnis
+	- shownotes aufbereitung
+	- ipod generation
+source: community
+checked: false
 ---
 
 # Stefan Giesbert
 
-> [!info] Episode 12 · Folge #18
+> [!info] Podcast-Faible · Folge #18
 
 ## Erster Berührungspunkt & Anstoß
 

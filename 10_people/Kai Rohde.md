@@ -1,13 +1,24 @@
 ---
-episode: 20
-folge: "#10"
-gast: "Kai Rohde"
-tags: [gast, gespraeche-begegnungen, hoerer-feedback, mikrofon-setup, perfektionismus-loslassen, recherche-vorbereitung, schnitt-tools-garageband]
+type: Person
+name: Kai Rohde
+datum:
+contributes:
+orgs:
+podcasts:
+topics:
+	- gespraeche begegnungen
+	- hoerer feedback
+	- mikrofon setup
+	- perfektionismus loslassen
+	- recherche vorbereitung
+	- schnitt tools garageband
+source: community
+checked: false
 ---
 
 # Kai Rohde
 
-> [!info] Episode 20 · Folge #10
+> [!info] Podcast-Faible · Folge #10
 
 ## Erster Berührungspunkt & Anstoß
 

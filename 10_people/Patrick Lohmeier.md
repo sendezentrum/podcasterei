@@ -1,13 +1,23 @@
 ---
-episode: 6
-folge: "#24"
-gast: "Patrick Lohmeier"
-tags: [gast, duo-format, hoerer-feedback, mikrofon-setup, true-crime, zeitaufwand]
+type: Person
+name: Patrick Lohmeier
+datum:
+contributes:
+orgs:
+podcasts:
+topics:
+	- duo format
+	- hoerer feedback
+	- mikrofon setup
+	- true crime
+	- zeitaufwand
+source: community
+checked: false
 ---
 
 # Patrick Lohmeier
 
-> [!info] Episode 6 · Folge #24
+> [!info] Podcast-Faible · Folge #24
 
 ## Erster Berührungspunkt & Anstoß
 

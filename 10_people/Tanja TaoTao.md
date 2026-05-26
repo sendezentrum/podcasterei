@@ -1,13 +1,26 @@
 ---
-episode: 5
-folge: "#25"
-gast: "Tanja"
-tags: [gast, fandom-als-einstieg, pandemie-als-ausloeser, shownotes-aufbereitung, spass-motivation]
+type: Person
+name: Tanja
+aliases:
+  - TaoTao
+social:
+	-	https://troet.cafe/@Taotica
+datum:
+contributes:
+orgs:
+podcasts:
+topics:
+	- fandom als einstieg
+	- pandemie als ausloeser
+	- shownotes aufbereitung
+	- spass motivation
+source: community
+checked: false
 ---
 
 # Tanja
 
-> [!info] Episode 5 · Folge #25
+> [!info] Podcast-Faible · Folge #25
 
 ## Erster Berührungspunkt & Anstoß
 

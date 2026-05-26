@@ -1,13 +1,26 @@
 ---
-episode: 29
-folge: "#01"
-gast: "Rebecca van der Meyden"
-tags: [gast, frauen-im-podcast-bereich, live-aufnahmen, mikrofon-setup, perfektionismus-loslassen, recherche-vorbereitung, schnitt-erlebnis, sendegate-community, shownotes-aufbereitung]
+type: Person
+name: Rebecca van der Meyden
+datum:
+contributes:
+orgs:
+podcasts:
+topics:
+	- frauen im podcast bereich
+	- live aufnahmen
+	- mikrofon setup
+	- perfektionismus loslassen
+	- recherche vorbereitung
+	- schnitt erlebnis
+	- sendegate community
+	- shownotes aufbereitung
+source: community
+checked: false
 ---
 
 # Rebecca van der Meyden
 
-> [!info] Episode 29 · Folge #01
+> [!info] Podcast-Faible · Folge #01
 
 ## Erster Berührungspunkt & Anstoß
 

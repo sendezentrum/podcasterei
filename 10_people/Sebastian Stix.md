@@ -1,13 +1,26 @@
 ---
-episode: 16
-folge: "#14"
-gast: "Sebastian Stix"
-tags: [gast, authentizitaet-mut, begleitmedium, gespraeche-begegnungen, headset-vs-mikro, remove-silence, true-crime, wissenschaftspodcasts, ipod-generation]
+type: Person
+name: Sebastian Stix
+datum:
+contributes:
+orgs:
+podcasts:
+topics:
+	- authentizitaet mut
+	- begleitmedium
+	- gespraeche begegnungen
+	- headset vs mikro
+	- remove silence
+	- true crime
+	- wissenschaftspodcasts
+	- ipod generation
+source: community
+checked: false
 ---
 
 # Sebastian Stix
 
-> [!info] Episode 16 · Folge #14
+> [!info] Podcast-Faible · Folge #14
 
 ## Erster Berührungspunkt & Anstoß
 

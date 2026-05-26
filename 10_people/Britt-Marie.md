@@ -7,7 +7,7 @@ tags: [gast, auphonic, schnitt-erlebnis, schnitt-tools-ultraschall-reaper, zeita
 
 # Britt-Marie
 
-> [!info] Episode 7 · Folge #23
+> [!info] Podcast-Faible · Folge #23
 
 ## Zeitaufwand pro Folge
 

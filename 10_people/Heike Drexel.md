@@ -1,13 +1,26 @@
 ---
-episode: 23
-folge: "#07"
-gast: "Heike Drexel"
-tags: [gast, authentizitaet-mut, gespraeche-begegnungen, lernen-entwicklung, mikrofon-setup, pandemie-als-ausloeser, schnitt-erlebnis, schnitt-tools-audacity, social-media-vermarktung]
+type: Person
+name: Heike Drexel
+datum:
+contributes:
+orgs:
+podcasts:
+topics:
+	- authentizitaet mut
+	- gespraeche begegnungen
+	- lernen entwicklung
+	- mikrofon setup
+	- pandemie als ausloeser
+	- schnitt erlebnis
+	- schnitt tools audacity
+	- social media vermarktung
+source: community
+checked: false
 ---
 
 # Heike Drexel
 
-> [!info] Episode 23 · Folge #07
+> [!info] Podcast-Faible · Folge #07
 
 ## Erster Berührungspunkt & Anstoß
 

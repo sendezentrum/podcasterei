@@ -1,15 +1,23 @@
 ---
-episode: 4
-folge: "#26"
-gast: "Kirsten und Sven"
-tags: [gast, live-aufnahmen, sendegate-community, wissenschaftspodcasts]
+type: Person
+name: Kirsten und Sven
+datum:
+contributes:
+orgs:
+podcasts:
+topics:
+	- live aufnahmen
+	- sendegate community
+	- wissenschaftspodcasts
+source: community
+checked: false
 ---
 
 TODO: In zwei getrennte Personenseiten aufteilen
 
 # Kirsten und Sven
 
-> [!info] Episode 4 · Folge #26
+> [!info] Podcast-Faible · Folge #26
 
 ## Erster Berührungspunkt & Anstoß
 

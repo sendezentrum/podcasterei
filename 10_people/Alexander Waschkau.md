@@ -1,13 +1,21 @@
 ---
-episode: 27
-folge: "#03"
-gast: "Alexander Waschkau"
-tags: [gast, headset-vs-mikro, schnitt-tools-audacity, sendegate-community]
+type: Person
+name: Alexander Waschkau
+datum:
+contributes:
+orgs:
+podcasts:
+topics:
+	- headset vs mikro
+	- schnitt tools audacity
+	- sendegate community
+source: community
+checked: false
 ---
 
 # Alexander Waschkau
 
-> [!info] Episode 27 · Folge #03
+> [!info] Podcast-Faible · Folge #03
 
 ## Eigener Podcast-Konsum
 

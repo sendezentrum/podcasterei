@@ -1,13 +1,25 @@
 ---
-episode: 18
-folge: "#12"
-gast: "Pascal Wichmann"
-tags: [gast, auphonic, duo-format, familie-privatleben, filmpodcasts, hoerer-feedback, schnitt-tools-ultraschall-reaper, sendegate-community]
+type: Person
+name: Pascal Wichmann
+datum:
+contributes:
+orgs:
+podcasts:
+topics:
+	- auphonic
+	- duo format
+	- familie privatleben
+	- filmpodcasts
+	- hoerer feedback
+	- schnitt tools ultraschall reaper
+	- sendegate community
+source: community
+checked: false
 ---
 
 # Pascal Wichmann
 
-> [!info] Episode 18 · Folge #12
+> [!info] Podcast-Faible · Folge #12
 
 ## Erster Berührungspunkt & Anstoß
 

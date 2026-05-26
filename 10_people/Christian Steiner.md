@@ -1,13 +1,20 @@
 ---
-episode: 28
-folge: "#02"
-gast: "Christian Steiner"
-tags: [gast, filmpodcasts, schnitt-tools-ultraschall-reaper]
+type: Person
+name: Christian Steiner
+datum:
+contributes:
+orgs:
+podcasts:
+topics:
+	- filmpodcasts
+	- schnitt tools ultraschall reaper
+source: community
+checked: false
 ---
 
 # Christian Steiner
 
-> [!info] Episode 28 · Folge #02
+> [!info] Podcast-Faible · Folge #02
 
 ## Erster Berührungspunkt & Anstoß
 

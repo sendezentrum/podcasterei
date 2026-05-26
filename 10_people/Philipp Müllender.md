@@ -1,13 +1,24 @@
 ---
-episode: 15
-folge: "#15"
-gast: "Philipp Müllender"
-tags: [gast, auphonic, authentizitaet-mut, gespraeche-begegnungen, mikrofon-setup, sendegate-community, ipod-generation]
+type: Person
+name: Philipp Müllender
+datum:
+contributes:
+orgs:
+podcasts:
+topics:
+	- auphonic
+	- authentizitaet mut
+	- gespraeche begegnungen
+	- mikrofon setup
+	- sendegate community
+	- ipod generation
+source: community
+checked: false
 ---
 
 # Philipp Müllender
 
-> [!info] Episode 15 · Folge #15
+> [!info] Podcast-Faible · Folge #15
 
 ## Erster Berührungspunkt & Anstoß
 

@@ -1,13 +1,22 @@
 ---
-episode: 13
-folge: "#17"
-gast: "Franziska von Lehel"
-tags: [gast, psychologie-persoenlichkeitsentwicklung, recherche-vorbereitung, schnitt-tools-audacity, spass-motivation]
+type: Person
+name: Franziska von Lehel
+datum:
+contributes:
+orgs:
+podcasts:
+topics:
+	- psychologie persoenlichkeitsentwicklung
+	- recherche vorbereitung
+	- schnitt tools audacity
+	- spass motivation
+source: community
+checked: false
 ---
 
 # Franziska von Lehel
 
-> [!info] Episode 13 · Folge #17
+> [!info] Podcast-Faible · Folge #17
 
 ## Erster Berührungspunkt & Anstoß
 

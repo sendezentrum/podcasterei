@@ -1,13 +1,27 @@
 ---
-episode: 11
-folge: "#19"
-gast: "Michèle Liussi"
-tags: [gast, aufnahme-tools-studio-link-riverside, blue-yeti, duo-format, gespraeche-begegnungen, recherche-vorbereitung, schnitt-erlebnis, spass-motivation, true-crime, zeitaufwand]
+type: Person
+name: Michèle Liussi
+datum:
+contributes:
+orgs:
+podcasts:
+topics:
+	- aufnahme tools studio link riverside
+	- blue yeti
+	- duo format
+	- gespraeche begegnungen
+	- recherche vorbereitung
+	- schnitt erlebnis
+	- spass motivation
+	- true crime
+	- zeitaufwand
+source: community
+checked: false
 ---
 
 # Michèle Liussi
 
-> [!info] Episode 11 · Folge #19
+> [!info] Podcast-Faible · Folge #19
 
 ## Erster Berührungspunkt & Anstoß
 

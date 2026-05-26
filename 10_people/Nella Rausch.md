@@ -1,13 +1,24 @@
 ---
-episode: 26
-folge: "#04"
-gast: "Nella Rausch"
-tags: [gast, blue-yeti, gemischtes-hack, gespraeche-begegnungen, psychologie-persoenlichkeitsentwicklung, recherche-vorbereitung, schnitt-tools-audacity]
+type: Person
+name: Nella Rausch
+datum:
+contributes:
+orgs:
+podcasts:
+topics:
+	- blue yeti
+	- gemischtes hack
+	- gespraeche begegnungen
+	- psychologie persoenlichkeitsentwicklung
+	- recherche vorbereitung
+	- schnitt tools audacity
+source: community
+checked: false
 ---
 
 # Nella Rausch
 
-> [!info] Episode 26 · Folge #04
+> [!info] Podcast-Faible · Folge #04
 
 ## Erster Berührungspunkt & Anstoß
 

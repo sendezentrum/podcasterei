@@ -1,13 +1,24 @@
 ---
-episode: 2
-folge: "#28"
-gast: "Alexander Haas"
-tags: [gast, fandom-als-einstieg, gespraeche-begegnungen, mikrofon-setup, schnitt-tools-ultraschall-reaper, stefan-brocksch-esel-teddy, wissenschaftspodcasts]
+type: Person
+name: Alexander Haas
+datum:
+contributes:
+orgs:
+podcasts:
+topics:
+	- fandom als einstieg
+	- gespraeche begegnungen
+	- mikrofon setup
+	- schnitt tools ultraschall reaper
+	- stefan brocksch esel teddy
+	- wissenschaftspodcasts
+source: community
+checked: false
 ---
 
 # Alexander Haas
 
-> [!info] Episode 2 · Folge #28
+> [!info] Podcast-Faible · Folge #28
 
 ## Erster Berührungspunkt & Anstoß
 

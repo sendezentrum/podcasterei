@@ -1,13 +1,20 @@
 ---
-episode: 24
-folge: "#06"
-gast: "Sascha Rupp"
-tags: [gast, familie-privatleben, zeitaufwand]
+type: Person
+name: Sascha Rupp
+datum:
+contributes:
+orgs:
+podcasts:
+topics:
+	- familie privatleben
+	- zeitaufwand
+source: community
+checked: false
 ---
 
 # Sascha Rupp
 
-> [!info] Episode 24 · Folge #06
+> [!info] Podcast-Faible · Folge #06
 
 ## Zeitaufwand pro Folge
 

@@ -1,13 +1,28 @@
 ---
-episode: 3
-folge: "#27"
-gast: "Leni Bohrmann"
-tags: [gast, begleitmedium, fandom-als-einstieg, frauen-im-podcast-bereich, gespraeche-begegnungen, lernen-entwicklung, live-aufnahmen, pandemie-als-ausloeser, recherche-vorbereitung, schnitt-erlebnis, social-media-vermarktung]
+type: Person
+name: Leni Bohrmann
+datum:
+contributes:
+orgs:
+podcasts:
+topics:
+	- begleitmedium
+	- fandom als einstieg
+	- frauen im podcast bereich
+	- gespraeche begegnungen
+	- lernen entwicklung
+	- live aufnahmen
+	- pandemie als ausloeser
+	- recherche vorbereitung
+	- schnitt erlebnis
+	- social media vermarktung
+source: community
+checked: false
 ---
 
 # Leni Bohrmann
 
-> [!info] Episode 3 · Folge #27
+> [!info] Podcast-Faible · Folge #27
 
 ## Erster Berührungspunkt & Anstoß
 
