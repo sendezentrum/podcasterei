@@ -1,0 +1,5 @@
+{
+  "enabledPlugins": {
+    "youtube-transcript@claude-skill-youtube-transcript": true
+  }
+}

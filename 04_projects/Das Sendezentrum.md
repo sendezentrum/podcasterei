@@ -35,7 +35,7 @@ checked: false
 
 ## Kurzbeschreibung
 
-Das Sendezentrum ist eine Plattform und Initiative der deutschsprachigen Podcast-Community, die als zentraler Treffpunkt für Austausch, Events und Wissen dient. Es verbindet Online-Community, Konferenzen und Live-Formate rund um Podcasting. 
+Das Sendezentrum ist eine Plattform und Initiative der deutschsprachigen Podcast-Community. Sie dient als zentraler Treffpunkt für Austausch, Events und Wissen. Es verbindet Online-Community, Konferenzen und Live-Formate rund um das Podcasting (hauptsächlich im DACH Raum).
 
 ---
 
