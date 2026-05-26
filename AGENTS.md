@@ -45,6 +45,7 @@ Custom subtypes in use (not strict schema.org, treated as refinements of Organiz
 - Keep prose sections to **6–8 sentences total** per note; focus on relationships, not details
 - No markdown formatting inside YAML values
 - Each note has four sections: **Beschreibung**, **Verbindungen/Beteiligte**, **Bedeutung/Einordnung**, **Quellen / Hinweise**
+- Do **not** use `---` horizontal rules between sections — use headings only
 
 ## Obsidian plugins in use
 

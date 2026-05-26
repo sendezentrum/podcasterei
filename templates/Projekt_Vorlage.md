@@ -1,15 +1,13 @@
 ---
 type: Project
 name:
+url:
 
-beteiligte:
-  - [[ ]]
-
-podcasts:
-  - [[ ]]
+members:
+  -
 
 events:
-  - [[ ]]
+  -
 
 topics:
   -
@@ -18,7 +16,8 @@ source: community
 checked: false
 ---
 
-## Beschreibung
+# <Name>
+
 (Max. 2–3 Sätze)
 
 ## Beteiligte & Verbindungen
