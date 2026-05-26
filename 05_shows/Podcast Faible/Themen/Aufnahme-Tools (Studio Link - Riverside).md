@@ -21,4 +21,4 @@ tags: [thema, aufnahme-tools-studio-link-riverside]
 - **Erinnerungswürdige Aufnahme:** Beim ESC 2019 in Tel Aviv, akkreditiert für die Proben – aus dem Pressezentrum Studio-Link-Aufnahme über 4.300 km Distanz mit Co-Host Dennis in Rostock.
 
 ---
-[[Übersicht Themen]]
+[[Übersicht Podcast-Faible Themen]]

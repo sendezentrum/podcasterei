@@ -18,4 +18,4 @@ tags: [thema, headset-vs-mikro]
 - **Technik:** Sein Team setzt auf Team Headset (für Bewegungsfreiheit, gleichbleibende Tonqualität).
 
 ---
-[[Übersicht Themen]]
+[[Übersicht Podcast-Faible Themen]]

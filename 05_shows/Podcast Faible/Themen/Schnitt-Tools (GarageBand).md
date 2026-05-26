@@ -18,4 +18,4 @@ tags: [thema, schnitt-tools-garageband]
 - **Technik:** Iterativ: erst iPhone, dann günstiges Podcaster-Mikro, jetzt Rode NT1 Gen 5.
 
 ---
-[[Übersicht Themen]]
+[[Übersicht Podcast-Faible Themen]]

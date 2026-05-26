@@ -61,4 +61,4 @@ tags: [moc]
 - [[Remove silence]] (2)
 
 ---
-[[Start]] · [[Übersicht Podcast-Faible Gäste]] · [[Übersicht Fragen]]
+[[Start]] · [[Übersicht Podcast-Faible Gäste]] · [[Übersicht Podcast-Faible Fragen]]

@@ -31,4 +31,4 @@ tags: [thema, auphonic]
 - **Technik:** Ralf-Stockmann-Gedächtnis-Set – Headset abgelegt, Rode-Gesangsmikro angesteckt mit Arm (super Range, keine internen Kompressionen).
 
 ---
-[[Übersicht Themen]]
+[[Übersicht Podcast-Faible Themen]]

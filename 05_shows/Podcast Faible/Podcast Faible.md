@@ -19,7 +19,7 @@ Podcast Faible ist ein Interview-Podcast mit [[Anne-Katrin Pache-Wilke]], in dem
 
 ## Verbindungen
 
-Beteiligt ist [[Anne-Katrin Pache-Wilke]]. Für die Erschließung des Materials verweisen [[Übersicht Gäste]], [[Übersicht Fragen]] und [[Übersicht Themen]] auf die einzelnen Gäste, Fragen und Themen-Cluster. Die Note fungiert damit zugleich als Serieneintrag und als Einstieg in die Auswertung des begleitenden Sub-Vaults.
+Beteiligt ist [[Anne-Katrin Pache-Wilke]]. Für die Erschließung des Materials verweisen [[Übersicht Gäste]], [[Übersicht Podcast-Faible Fragen]] und [[Übersicht Podcast-Faible Themen]] auf die einzelnen Gäste, Fragen und Themen-Cluster. Die Note fungiert damit zugleich als Serieneintrag und als Einstieg in die Auswertung des begleitenden Sub-Vaults.
 
 ## Bedeutung
 
@@ -42,8 +42,8 @@ Die Webseite des Podcasts ist grade offline, kann aber im Internet Archive https
 ## Einstiegspunkte
 
 - 🎙️ **[[Übersicht Podcast-Faible Gäste]]** — alle Gäste in Reihenfolge der Aufnahme
-- ❓ **[[Übersicht Fragen]]** — die sieben Fragen mit allen Antworten quer gestellt
-- 🔗 **[[Übersicht Themen]]** — wiederkehrende Muster und Gemeinsamkeiten
+- ❓ **[[Übersicht Podcast-Faible Fragen]]** — die sieben Fragen mit allen Antworten quer gestellt
+- 🔗 **[[Übersicht Podcast-Faible Themen]]** — wiederkehrende Muster und Gemeinsamkeiten
 
 ## So ist der Sub-Vault aufgebaut
 

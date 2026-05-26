@@ -24,4 +24,4 @@ tags: [thema, schnitt-tools-audacity]
 - **Technik:** Sein Team setzt auf Team Headset (für Bewegungsfreiheit, gleichbleibende Tonqualität).
 
 ---
-[[Übersicht Themen]]
+[[Übersicht Podcast-Faible Themen]]

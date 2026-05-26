@@ -25,4 +25,4 @@ tags: [thema, duo-format]
 - **Erster Berührungspunkt & Anstoß:** Suchte über Foren und das Sendegate Gleichgesinnte für Themen, über die er reden wollte.
 
 ---
-[[Übersicht Themen]]
+[[Übersicht Podcast-Faible Themen]]

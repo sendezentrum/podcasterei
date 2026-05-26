@@ -174,4 +174,4 @@ Sein Team setzt auf Team Headset (für Bewegungsfreiheit, gleichbleibende Tonqua
 > „Ich bin nicht so die Mikrodisziplin-Person. Also ich gestikuliere gerne, während ich rede."
 
 ---
-[[Übersicht Fragen]]
+[[Übersicht Podcast-Faible Fragen]]

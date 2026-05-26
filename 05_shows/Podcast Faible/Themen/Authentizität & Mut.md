@@ -24,4 +24,4 @@ tags: [thema, authentizitaet-mut]
 - **Erinnerungswürdige Aufnahme:** Drei Anekdoten: 1) In Corona-Zoom-Zeiten schaltete ein Gast für bessere Übertragungsqualität sein Bild ab – sie führte das ganze Gespräch mit einem schwarzen Monitor.
 
 ---
-[[Übersicht Themen]]
+[[Übersicht Podcast-Faible Themen]]

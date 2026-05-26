@@ -18,4 +18,4 @@ tags: [thema, blue-yeti]
 - **Technik:** Angefangen mit 'schröppeligem' Mikro Fifine.
 
 ---
-[[Übersicht Themen]]
+[[Übersicht Podcast-Faible Themen]]

@@ -36,4 +36,4 @@ tags: [thema, zeitaufwand]
 - **Wichtigste Lektion:** Im Business-Podcast bewusst keine Selbstvermarktung, sondern Erfahrungswerte teilen.
 
 ---
-[[Übersicht Themen]]
+[[Übersicht Podcast-Faible Themen]]

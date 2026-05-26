@@ -48,4 +48,4 @@ tags: [thema, mikrofon-setup]
 - **Technik:** 'Tim-Pritlove-Gedächtnis-Setup': Zoom H6 als Interface + Beyerdynamic DT297 Headset – Mittelklasse mit gutem Klang.
 
 ---
-[[Übersicht Themen]]
+[[Übersicht Podcast-Faible Themen]]

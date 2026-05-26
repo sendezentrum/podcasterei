@@ -18,4 +18,4 @@ tags: [thema, begleitmedium]
 - **Erster Berührungspunkt & Anstoß:** 2005/06 über einen kleinen iPod – Tab neben Musik 'Podcast' entdeckt.
 
 ---
-[[Übersicht Themen]]
+[[Übersicht Podcast-Faible Themen]]

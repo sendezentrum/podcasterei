@@ -148,4 +148,4 @@ Früher: liebte den Moment des Sprechens. Heute: ist großer Fan vom Audioschnit
 > „Audioschnitt ist mittlerweile, auch wenn es aufwendig ist und man immer viel Zeit und Ruhe dafür braucht, ich liebe mittlerweile Audioschnitt."
 
 ---
-[[Übersicht Fragen]]
+[[Übersicht Podcast-Faible Fragen]]

@@ -25,4 +25,4 @@ tags: [thema, spass-motivation]
 - **Wichtigste Lektion:** Tipps: 1) Wenn du Lust hast, mach es – lass dich nicht ausbremsen.
 
 ---
-[[Übersicht Themen]]
+[[Übersicht Podcast-Faible Themen]]

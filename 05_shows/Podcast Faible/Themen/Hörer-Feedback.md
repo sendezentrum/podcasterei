@@ -34,4 +34,4 @@ tags: [thema, hoerer-feedback]
 - **Wichtigste Lektion:** Technische Hürde ist niedrig (gute Mikrofone und Tools holen viel raus).
 
 ---
-[[Übersicht Themen]]
+[[Übersicht Podcast-Faible Themen]]

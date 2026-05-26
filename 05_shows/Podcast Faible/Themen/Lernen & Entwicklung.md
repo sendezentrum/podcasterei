@@ -25,4 +25,4 @@ tags: [thema, lernen-entwicklung]
 - **Wichtigste Lektion:** Podcasting ist eine Form von Persönlichkeitsentwicklung – sie lernte, aus ihrer Komfortzone zu gehen, sichtbar zu sein, vor Mikros und Publikum zu sprechen.
 
 ---
-[[Übersicht Themen]]
+[[Übersicht Podcast-Faible Themen]]

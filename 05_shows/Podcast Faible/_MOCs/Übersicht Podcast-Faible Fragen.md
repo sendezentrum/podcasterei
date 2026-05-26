@@ -22,4 +22,4 @@ Die sieben wiederkehrenden Fragen, die Anne-Kathrin allen Gästen stellt:
   > *Was ist die wichtigste Lektion, die du anderen Podcastern mit auf den Weg geben würdest?*
 
 ---
-[[Start]] · [[Übersicht Podcast-Faible Gäste]] · [[Übersicht Themen]]
+[[Start]] · [[Übersicht Podcast-Faible Gäste]] · [[Übersicht Podcast-Faible Themen]]

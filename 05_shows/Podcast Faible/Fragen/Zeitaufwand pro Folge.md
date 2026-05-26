@@ -180,4 +180,4 @@ Schwer zu pauschalisieren. Pro gesendeter Stunde Vorbereitung 2-3 Stunden (ohne 
 > „Ich bin bei uns in der Crew auch die, die immer darauf besteht, dass wir gute Notizen haben, weil nur dann kann man auch spontan sein in der Episode."
 
 ---
-[[Übersicht Fragen]]
+[[Übersicht Podcast-Faible Fragen]]

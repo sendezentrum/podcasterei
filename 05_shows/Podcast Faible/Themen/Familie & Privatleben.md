@@ -21,4 +21,4 @@ tags: [thema, familie-privatleben]
 - **Zeitaufwand pro Folge:** Arbeitet parallel an 2-3 Projekten gleichzeitig – Vorbereitung, Aufnahme, Postproduktion verschiedener Folgen gleichzeitig.
 
 ---
-[[Übersicht Themen]]
+[[Übersicht Podcast-Faible Themen]]

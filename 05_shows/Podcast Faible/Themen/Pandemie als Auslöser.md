@@ -28,4 +28,4 @@ tags: [thema, pandemie-als-ausloeser]
 - **Erster Berührungspunkt & Anstoß:** Corona ist schuld: Im 2.
 
 ---
-[[Übersicht Themen]]
+[[Übersicht Podcast-Faible Themen]]

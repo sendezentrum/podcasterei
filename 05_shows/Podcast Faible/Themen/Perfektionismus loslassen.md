@@ -18,4 +18,4 @@ tags: [thema, perfektionismus-loslassen]
 - **Wichtigste Lektion:** Wichtigste Lektion: man muss nichts alleine machen.
 
 ---
-[[Übersicht Themen]]
+[[Übersicht Podcast-Faible Themen]]

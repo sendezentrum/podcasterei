@@ -164,4 +164,4 @@ Wichtigste Lektion: man muss nichts alleine machen. Sehr hilfreiche Podcast-Comm
 > „Ich schwöre euch, es wird sich jemand finden, der sich da mit euch hinsetzt und das mit euch macht."
 
 ---
-[[Übersicht Fragen]]
+[[Übersicht Podcast-Faible Fragen]]

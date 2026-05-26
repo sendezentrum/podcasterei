@@ -22,4 +22,4 @@ tags: [thema, social-media-vermarktung]
 - **Liebstes und Nervigstes:** Liebt am liebsten die Gespräche und das Zuhören (Dalai-Lama-Zitat: wenn du sagst, wiederholst du; wenn du zuhörst, lernst du Neues).
 
 ---
-[[Übersicht Themen]]
+[[Übersicht Podcast-Faible Themen]]
