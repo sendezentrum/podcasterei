@@ -5,12 +5,6 @@ name: Sendungsbewusstsein
 participants:
   - []
 
-orgs:
-  - []
-
-podcasts:
-  - []
-
 topics:
   - Podcast
   - Interview

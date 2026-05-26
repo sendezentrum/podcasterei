@@ -1,6 +1,5 @@
-# CLAUDE.md
 
-This file provides guidance to Claude Code (claude.ai/code) when working with code in this repository.
+This file provides guidance to AI Agents e.g. Claude Code (claude.ai/code) when working with files in this repository.
 
 ## What this repository is
 
@@ -53,5 +52,5 @@ Custom subtypes in use (not strict schema.org, treated as refinements of Organiz
 
 ## Git commits
 
-- Always add `Co-Authored-By: <model>` trailer to every commit message.
+- Always add `Assisted-By: <model>` trailer to every commit message.
 - Set author to the same ident when the model wrote the content. User is only committer, not author.
