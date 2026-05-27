@@ -1,13 +1,12 @@
 ---
 type: EventSeries
 name: Podstock
-datum: 2014-01-01 bis heute
+url: https://www.podstock.de/
+date: 2014-01-01 bis heute
 
-participants:
+audience:
   - "[[Podcaster:innen]]"
   - "[[Podcast-Hörer:innen]]"
-  - "[[Indie-Podcaster:innen]]"
-  - "[[Workshop-Leiter:innen]]"
   - "[[Community-Mitglieder der Podcast-Szene]]"
   - "[[Audio-Interessierte]]"
 
@@ -18,6 +17,7 @@ organizers:
  - "[[Sebastian Reimers]]"
  - "[[Kirsten]]"
  - "[[Sven Gorny]]"
+ - …
 
 podcasts:
   - "[[Live-Podcasts (verschiedene Shows)]]"
@@ -35,13 +35,11 @@ source: community
 checked: false
 ---
 
-## Beschreibung
-
-Podstock ist ein nicht-kommerzielles Podcast-Festival im Barcamp-Format, das vom 10. bis 12. April 2026 am Dümmer See stattfindet. Es kombiniert Live-Podcasts, Workshops, Bühnenprogramm und gemeinschaftliche Aktivitäten wie Lagerfeuer-Treffen. 
+Podstock ist ein nicht-kommerzielles Podcast-Festival im Barcamp-Format, einmal jährlich am Dümmer See stattfindet. Es kombiniert Live-Podcasts, Workshops, Bühnenprogramm und gemeinschaftliche Aktivitäten wie Lagerfeuer-Treffen. 
 
 ## Teilnehmer & Verbindungen
 
-Die Veranstaltung richtet sich an Podcaster:innen, Hörer:innen und insbesondere an unabhängige Podcast-Projekte. Teilnehmende können selbst Inhalte beitragen, Sessions gestalten und sich intensiv innerhalb der Community vernetzen. Organisiert wird das Podstock durch [[Sebastian Reimers]]
+Die Veranstaltung richtet sich an Podcaster:innen, Hörer:innen und insbesondere an unabhängige Podcast-Projekte. Teilnehmende können selbst Inhalte beitragen, Sessions gestalten und sich intensiv innerhalb der Community vernetzen. Hauptverantwortlich ist aktuell [[Sebastian Reimers]], der bei der Organisaiton der Veranstaltung durch ein freiwilliges Orga-Team ([[Kirsten]], [[Sven Gorny]], …) unterstützt wird.
 
 ## Bedeutung
 
@@ -50,3 +48,5 @@ Podstock ist ein bewusst nicht-kommerzielles Community-Event mit Festivalcharakt
 ## Quellen / Hinweise
 
 - [Podstock](https://www.podstock.de/)
+- [Podstock - Podcast Festival Barcamp (Subscribe 11, media.ccc.de)](https://media.ccc.de/v/subscribe11-58209-podstock-podcast-festival-barcamp)
+- [Sendegate: Podstock](https://sendegate.de/c/community/podstock/85)

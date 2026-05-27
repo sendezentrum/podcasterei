@@ -1,7 +1,6 @@
 ---
 type: Person
 name: Sven Gorny
-datum:
 contributes:
 orgs:
 podcasts:
@@ -13,8 +12,6 @@ source: community
 checked: false
 ---
 
-TODO: In zwei getrennte Personenseiten aufteilen
-
 # Kirsten und Sven
 
 > [!info] Podcast-Faible · Folge #26
@@ -23,7 +20,7 @@ TODO: In zwei getrennte Personenseiten aufteilen
 
 *Was war dein erster Berührungspunkt mit Podcasts und was hat dich dazu veranlasst, selbst zu podcasten?*
 
-Sven kam über die YouTube-Community 'Geek & Sundry' zum Podcasten und gründete den BattleTech-Podcast 'Mechkrieger by Wallace'. Über methodisch inkorrekt entdeckte er die deutsche Podcast-Szene und kam zum Sendegarten und schließlich zum Podstock. 
+Sven kam über die YouTube-Community 'Geek & Sundry' zum Podcasten und gründete den BattleTech-Podcast 'Mechkrieger by Wallace'. Über methodisch inkorrekt entdeckte er die deutsche Podcast-Szene und kam zum Sendegarten und schließlich zum Podstock.
 
 TODO: Zitat von Sven oder Kirsten?
 

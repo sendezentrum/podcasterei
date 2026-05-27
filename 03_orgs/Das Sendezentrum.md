@@ -1,6 +1,7 @@
 ---
-type: Project
+type: Organisaiton
 name: Das Sendezentrum
+url: https://das-sendezentrum.de/
 topics:
   - Podcasting
   - Community
@@ -10,11 +11,7 @@ topics:
 tags:
   - community
   - event
-  - podcast
-beteiligte:
-  - "[[Sendegate]]"
-  - "[[Podcast Community]]"
-verbindungen:
+connections:
   - "[[Subscribe]]"
   - "[[Podlove]]"
   - "[[Chaos Communication Congress]]"
@@ -33,39 +30,27 @@ use_cases:
 checked: false
 ---
 
-## Kurzbeschreibung
+# Sendezentrum
 
 Das Sendezentrum ist eine Plattform und Initiative der deutschsprachigen Podcast-Community. Sie dient als zentraler Treffpunkt für Austausch, Events und Wissen. Es verbindet Online-Community, Konferenzen und Live-Formate rund um das Podcasting (hauptsächlich im DACH Raum).
-
----
 
 ## Nutzen / Mehrwert
 
 Bietet einen zentralen Ort für Vernetzung, Wissenstransfer und Zusammenarbeit innerhalb der Podcast-Szene. Unterstützt insbesondere Einsteiger durch Community-Angebote, Mentoring und niedrigschwellige Beteiligungsmöglichkeiten. 
 
----
-
 ## Einordnung
 
 Community- und Eventplattform im Podcast-Ökosystem, die Online- und Offline-Formate kombiniert und stark auf kollaborativen Wissensaustausch ausgerichtet ist.
 
----
-
 ## Beteiligte & Verbindungen
 
-Eng verbunden mit der Podcast-Community rund um Sendegate und Veranstaltungen wie der SUBSCRIBE-Konferenz. Das Sendezentrum tritt häufig im Kontext von Events wie dem Chaos Communication Congress als physischer Treffpunkt und Bühne für Podcasts auf. Ursprünlgiche Ansprechpartner*innen sind: [[Tim Pritlove]],[[Ralf Stockmann]], [[Claudia Krell]] und viele andere.
-
----
+Eng verbunden mit der Podcast-Community rund um Sendegate und Veranstaltungen wie der SUBSCRIBE-Konferenz. Das Sendezentrum tritt häufig im Kontext von Events wie dem Chaos Communication Congress als physischer Treffpunkt und Bühne für Podcasts auf. Ursprüngliche Ansprechpartner\*innen sind: [[Tim Pritlove]], [[Ralf Stockmann]], [[Claudia Krell]] und viele andere.
 
 ## Notizen / Erkenntnisse
 
-- Hybrid aus Plattform, Event und Community → schwer klar als „Tool“ zu klassifizieren
 - Starker Fokus auf Community-getriebenes Lernen
-- Wichtig für deutschsprachige Podcast-Szene
-- Funktioniert als „Knotenpunkt“ zwischen Projekten (z. B. Podlove, SUBSCRIBE)
-- Lebt stark von Events (z. B. Congress, Konferenzen)
-
----
+- Funktioniert als „Knotenpunkt“ zwischen Projekten ([[Podlove]], [[Ultraschall]])
+- Lebt stark von Events (z.B. Congress, Konferenzen)
 
 ## Quellen
 
