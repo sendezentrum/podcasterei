@@ -1,35 +1,44 @@
-# Podcasterei / Podcasting DACH
+# Podcasting DACH
 
-> Ein LLM-gepflegtes Wiki für Podcasting-Wissen, Community-Kontext und Sendezentrum-/Podcasterei-Material.
+> Ein LLM-gepflegtes Wiki für die (freie) deutschsprachige Podcasting Szene aka "Podcasterei".
 
-Dieses Repository ist als Wissensbasis gedacht– es strebt am dem Muster eines **LLM Wiki** zu folgen:
+Dieses Repository ist als Wissensbasis gedacht – es strebt am dem Muster eines [**LLM Wiki**](https://gist.github.com/karpathy/442a6bf555914893e9891c11519de94f) zu folgen:
 
-Rohquellen bleiben nachvollziehbar erhalten, während ein LLM daraus eine strukturierte, verlinkte Markdown-Wiki-Schicht pflegt.  Ziel ist, Wissen über Podcasting, Veranstaltungen, Formate, Menschen, Tools, Begriffe und offene Fragen nicht jedes Mal neu aus verstreuten Quellen rekonstruieren zu müssen, sondern es Schritt für Schritt zu verdichten.
+Rohquellen bleiben nachvollziehbar erhalten, während ein LLM daraus eine strukturierte, verlinkte Markdown-Wiki-Schicht pflegt.  Ziel ist, Wissen über Podcasting, Veranstaltungen, Formate, Menschen, Begriffe und offene Fragen nicht jedes Mal neu aus verstreuten Quellen rekonstruieren zu müssen, sondern es Schritt für Schritt zu verdichten.
+
 
 ## Worum geht es?
 
-Dieses Repository sammelt und organisiert Wissen rund um Podcasting und die Podcasterei-/Sendezentrum-Community. Es kann beispielsweise verwendet werden für:
+Dieses Repository sammelt und organisiert Wissen rund um die Struktur des Podcasting im deutschsprachigen Raum (D + A + CH). Es kann beispielsweise verwendet werden für:
 
-- Veranstaltungswissen rund um Sendezentrum, Sendegate,Congress, SUBSCRIBE und verwandte Formate
 - Personen, Projekte, Begriffe und wiederkehrende Themen
-- Votrags-Mitschnitte, Shownotes, Session-Beschreibungen und Diskussionsmaterialien
-- Podcasting-Werkzeuge, Workflows, Produktionsnotizen und Distribution
+- Veranstaltungswissen rund um SUBSCRIBE, Sendezentrum, Sendegate, Congress und verwandte Formate
+- Vortrags-Mitschnitte, Podcast-Episoden/-Shownotes, Session-Beschreibungen – sofern sie zum Verständnis der Podsteriei-Strukturen beitragen!
 - Fragen, Analysen und Synthesen, die später wieder auffindbar sein sollen
 
-Das Wiki soll nicht nur Material ablegen, sondern Zusammenhänge sichtbar machen: Welche Themen tauchen wiederholt auf? Welche Tools gehören zu welchen Workflows? Welche Fragen sind offen? Welche Aussagen wurden durch spätere Quellen ergänzt, relativiert oder überholt?
+Das Wiki soll nicht nur Material ablegen, sondern Zusammenhänge sichtbar machen: Welche Themen tauchen wiederholt auf? Welche Aussagen wurden durch spätere Quellen ergänzt, relativiert oder überholt?
+
+
+## Worum geht es (erst mal) nicht?
+
+- Werkzeuge/Tools
+- Workflows
+- Produktion
+- Volltext-Index aller deutsprachigen Podcasts
+
 
 ## Grundprinzip
 
 Das Repository ist nach dem LLM-Wiki-Ansatz organisiert:
 
 1. **Rohquellen bleiben Rohquellen.**
-   Dateien in `raw/` werden nicht umgeschrieben. Sie sind die überprüfbare Ausgangslage.
+   Dateien in `raw/`, `*.xml`, `*.json` werden nicht umgeschrieben. Sie sind die überprüfbare Ausgangslage.
 
 2. **Das Wiki ist eine kuratierte Arbeitsschicht.**
-   Dateien in `wiki/` werden vom LLM gepflegt: Zusammenfassungen, Begriffseiten, Personen-/Projektseiten, Themenübersichten, Vergleiche und Synthesen.
+   Markdown Dateien (`*.md`) werden vom LLM gepflegt: Zusammenfassungen, Begriffseiten, Personen-/Projektseiten, Themenübersichten, Vergleiche und Synthesen.
 
 3. **Jede Änderung bleibt nachvollziehbar.**
-   `log.md` dokumentiert Ingests, größere Umbauten, offene Fragen und Lint-Durchläufe.
+   `LOG.md` dokumentiert Ingests, größere Umbauten, offene Fragen und Lint-Durchläufe. `TODO.md` noch offene Tasks.
 
 4. **Das Wiki wächst durch Benutzung.**
    Gute Antworten, Vergleiche oder neue Einsichten sollen nicht im Chat verschwinden, sondern als Wiki-Seiten oder Ergänzungen abgelegt werden.
@@ -44,20 +53,22 @@ Das Repository ist nach dem LLM-Wiki-Ansatz organisiert:
 ├── AGENTS.md              # Arbeitsanweisung für LLM-Agenten
 ├── README.md              # Einstieg für Menschen
 ├── index.md               # Inhaltlicher Einstieg in das Wiki
-├── log.md                 # Chronologisches Änderungs- und Ingest-Protokoll
+├── LOG.md                 # Chronologisches Änderungs- und Ingest-Protokoll
+├── TODO.md                # Offene Tasks
 ├── raw/                   # Unveränderte Quellen
 │   ├── articles/
 │   ├── events/
-│   ├── transcripts/
+│   ├── transcripts/       # TODO: Transkripte in die NextCloud auslagern?
 │   ├── notes/
 │   └── assets/
 └── wiki/                  # LLM-gepflegte Wissensschicht
     ├── overview.md
     ├── people/
     ├── projects/
+    ├── orgs/
+    ├── shows/
     ├── events/
     ├── topics/
-    ├── tools/
     ├── sources/
     └── questions/
 ```
@@ -81,7 +92,7 @@ Arbeitsvertrag für LLM-Agenten. Diese Datei beschreibt:
 
 Der inhaltliche Einstiegspunkt. Der Index listet Wiki-Seiten mit kurzer Beschreibung, Kategorie und optionalen Metadaten. Vor jeder größeren Antwort sollte ein LLM zuerst den Index lesen.
 
-### `log.md`
+### `LOG.md`
 
 Append-only-Protokoll. Jede relevante Aktion erhält einen Eintrag, zum Beispiel:
 
@@ -114,6 +125,7 @@ Append-only-Protokoll. Jede relevante Aktion erhält einen Eintrag, zum Beispiel
 
 4. Committe Rohquelle und Wiki-Änderungen gemeinsam.
 
+
 ## Workflow: Frage an das Wiki stellen
 
 Beispiel:
@@ -132,12 +144,13 @@ Gute Antworten können anschließend zurück ins Wiki übernommen werden, etwa a
 - offene Forschungsfrage
 - Entscheidungsnotiz
 
+
 ## Workflow: Wiki pflegen
 
 Regelmäßig sollte ein LLM-Agent einen Lint-Durchlauf machen:
 
 ```text
-Lint das Wiki.
+Linte das Wiki.
 Suche nach verwaisten Seiten, fehlenden Rücklinks, widersprüchlichen Aussagen, unbelegten Behauptungen, veralteten Informationen und wichtigen Begriffen ohne eigene Seite.
 Schlage konkrete Änderungen vor und aktualisiere `log.md`.
 ```
@@ -151,6 +164,7 @@ Typische Prüfungen:
 - Gibt es Widersprüche zwischen älteren und neueren Quellen?
 - Fehlen Querverweise zwischen offensichtlich verwandten Seiten?
 
+
 ## Schreibkonventionen
 
 Wiki-Seiten sollten möglichst diese Form haben:
@@ -158,7 +172,7 @@ Wiki-Seiten sollten möglichst diese Form haben:
 ```md
 ---
 title: Beispielthema
-type: topic
+type: Topic
 status: draft
 sources:
   - raw/...
@@ -178,6 +192,8 @@ Strukturierte Darstellung mit Links auf verwandte Seiten.
 ## Quellen
 
 - `raw/...`
+- `*.xml`
+- `*.json`
 
 ## Offene Fragen
 
@@ -188,15 +204,22 @@ Strukturierte Darstellung mit Links auf verwandte Seiten.
 - [[Verwandtes Thema]]
 ```
 
-Empfohlene Seitentypen:
+Empfohlene Seitentypen (orientiert sich an schema.org Typennamen):
 
-- `source` – Zusammenfassung einer einzelnen Quelle
-- `event` – Veranstaltung, Session, Workshop, Treffen
-- `person` – Person mit belegten Rollen und Beiträgen
-- `project` – Projekt, Podcast, Tool oder Initiative
-- `topic` – Begriff, wiederkehrendes Thema oder Konzept
-- `question` – ausgearbeitete Antwort auf eine wiederkehrende Frage
-- `synthesis` – übergreifende Analyse mehrerer Quellen
+- `Person` – Person mit belegten Rollen und Beiträgen zur Podcasterei
+- `Organization` – Firmen, Unternehmen, etc.
+   - `PodcastNetwork` – Podcast-Netzwerk z.B. Wisspod
+   - `PodcastLabel` – Mehre Podcasts unter einem Dach z.B. hauseins
+- `Project` – Projekt, Tool oder Initiative
+- `EventSeries` – Konferenzserie, Veranstaltungsreihe, etc.
+- `Event` – einzelne Veranstaltung, Session, Workshop, Treffen
+   - `Talk` – Vortrag mit Aufzeichnung
+- `PodcastSeries` – Podcast-Reihe mit RSS Feed
+   - `PodcastEpisode` - einzelne Podcast Folge
+- `Topic` – Begriff, wiederkehrendes Thema oder Konzept
+- `Question` – ausgearbeitete Antwort auf eine wiederkehrende Frage
+- `Synthesis` – übergreifende Analyse mehrerer Quellen
+
 
 ## Umgang mit Unsicherheit
 
@@ -207,6 +230,7 @@ Ein LLM darf keine Details erfinden. Wenn etwas unklar ist:
 - lieber eine offene Frage anlegen als eine plausible Behauptung formulieren
 - bei widersprüchlichen Quellen beide Aussagen mit Herkunft dokumentieren
 
+
 ## Arbeiten mit Obsidian oder anderen Markdown-Editoren
 
 Das Wiki ist normales Markdown und kann mit Obsidian, VS Code, Zettlr oder jedem anderen Editor genutzt werden. Obsidian ist besonders hilfreich für:
@@ -215,6 +239,7 @@ Das Wiki ist normales Markdown und kann mit Obsidian, VS Code, Zettlr oder jedem
 - Graph View
 - schnelle Navigation über `[[Wiki-Links]]`
 - Dataview-Tabellen, falls YAML-Frontmatter konsequent gepflegt wird
+
 
 ## Git-Konventionen
 
@@ -229,11 +254,17 @@ schema: clarify source page format
 
 Rohquellen und daraus abgeleitete Wiki-Änderungen sollten möglichst im selben Commit landen, damit die Entstehung nachvollziehbar bleibt.
 
+
+## Review
+
+
+
 ## Lizenz und Rechte
 
 Bitte nur Material ablegen, das hier gespeichert werden darf. Bei externen Quellen reicht oft eine Notiz mit Link, Metadaten und eigener Zusammenfassung statt einer vollständigen Kopie. Für Transkripte, Bilder, Audio und Folien müssen die jeweiligen Rechte beachtet werden.
 
 Falls dieses Repository eine konkrete Lizenz hat, sollte sie hier ergänzt werden.
+
 
 ## Status
 
