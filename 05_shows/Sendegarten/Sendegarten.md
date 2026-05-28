@@ -20,13 +20,13 @@ topics:
 
 url: https://www.sendegarten.de
 inception: "Juni 2016"
-last_episode: "Oktober 2022"
+rss:
 source: community
 checked: false
 ---
 
+# Sendegarten
 ## Beschreibung
-
 Sendegarten ist ein deutschsprachiger Podcast von Martin Rützler, Lars Naber und [[Sebastian Reimers]]. Die Nullnummer erschien im Juni 2016, die letzte Episode im Oktober 2022.
 
 ## Verbindungen

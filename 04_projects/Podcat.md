@@ -1,7 +1,8 @@
 ---
 type: Project
-
+kind: PodcastClient
 name: Podcat
+url: https://www.podc.at/
 
 topics:
   - Podcasting
@@ -16,10 +17,10 @@ tags:
   - podcast
   - player
 
-beteiligte:
+members:
   - "[[Janette Müller]]"
 
-verbindungen:
+connections:
   - "[[Apple Podcasts]]"
   - "[[Fyyd]]"
   - "[[Podcast Apps]]"
@@ -41,29 +42,20 @@ use_cases:
 checked: false
 ---
 
-## Kurzbeschreibung
-
+# Podcat
 Podcat ist eine Podcast-Player-App für iOS, mit der Nutzer Podcasts suchen, abonnieren und organisieren können. Die App integriert externe Verzeichnisse wie Apple Podcasts und Fyyd zur Podcast-Entdeckung. 
-
----
 
 ## Nutzen / Mehrwert
 
 Ermöglicht komfortables Hören und Verwalten von Podcasts auf mobilen Geräten mit erweiterten Organisationsfunktionen wie Gruppen, Playlists und Suchfiltern. Podcasts können zentral gesammelt und individuell strukturiert werden. 
 
----
-
 ## Einordnung
 
 Klassischer „Podcatcher“ (Podcast-Client), also eine Anwendung zum Konsum und zur Verwaltung von Podcasts. Solche Apps ermöglichen das Abonnieren und automatische Abrufen von Episoden über RSS-Feeds. 
 
----
-
 ## Beteiligte & Verbindungen
 
 Podcat nutzt bestehende Podcast-Verzeichnisse (z. B. Apple Podcasts und [[Fyyd]] zur Suche und Integration von Inhalten. Die App ist Teil des Podcast-Ökosystems auf Konsumentenseite (Hören statt Produzieren). Das Projekt wird von [[Janette Müller]] betrieben und programmiert.
-
----
 
 ## Notizen / Erkenntnisse
 
@@ -74,8 +66,6 @@ Podcat nutzt bestehende Podcast-Verzeichnisse (z. B. Apple Podcasts und [[Fyyd]]
 - Stärkere Organisationsfeatures als viele Standard-Apps
 - Unterstützt OPML → wichtig für Migration zwischen Apps
 - Eher Nischen-App im Vergleich zu großen Playern
-
----
 
 ## Quellen
 

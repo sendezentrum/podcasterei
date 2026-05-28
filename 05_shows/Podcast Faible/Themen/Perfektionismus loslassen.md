@@ -11,10 +11,10 @@ tags: [thema, perfektionismus-loslassen]
 
 ## Verbindungen
 
-### [[Kai Rohde]] (Ep 20)
+### [[Kai Rohde]] (Ep 10)
 - **Zeitaufwand pro Folge:** 'Quick and dirty' – keine Vorbereitung außer der Frage 'Trinkst du seit über 100 Tagen keinen Alkohol?'.
 
-### [[Rebecca van der Meyden]] (Ep 29)
+### [[Rebecca van der Meyden]] (Ep 1)
 - **Wichtigste Lektion:** Wichtigste Lektion: man muss nichts alleine machen.
 
 ---

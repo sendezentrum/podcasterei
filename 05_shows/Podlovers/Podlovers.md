@@ -8,19 +8,28 @@ authors:
   - "[[Alexander Heimbuch]]"
   - "[[Martin Fischer]]"
   - "[[Dirk Schumann]]"
+  - "[[Michaela Lehr]]"
+orgs:
+  - "[[Podlove]]"
 topics:
   - Podcasting
   - Open Source
   - Podcast-Technologie
   - Podlove
+inception: 2020
 source: community
 checked: false
 ---
 
+# Podlovers
+## Beschreibung
+
 „Der Podlove Entwickler:innen Podcast" — Podcast über [[Podlove]]-Entwicklung, Podcast-Infrastruktur und Open-Source-Werkzeuge für Podcaster. Hosts: [[Eric Teubert]], [[Alexander Heimbuch]], [[Martin Fischer]], [[Dirk Schumann]], [[Michaela Lehr]]. Aktiv seit mind. 2020, zuletzt Folgen aus 2024 (Prototype-Fund-Sprints).
 
-## Wichtige Verbindungen
+## Verbindungen
 
+- Hosts: [[Eric Teubert]], [[Alexander Heimbuch]], [[Martin Fischer]], [[Dirk Schumann]], [[Michaela Lehr]]
+- Organisationen: [[Podlove]]
 - Kooperationen: [[Podlove]], [[Ultraschall]], [[Auphonic]], [[Podigee]], [[fyyd]]
 - Netzwerk: [[Podlove]]-Kern-Entwickler:innen-Kreis
 

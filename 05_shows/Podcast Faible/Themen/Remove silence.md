@@ -11,10 +11,10 @@ tags: [thema, remove-silence]
 
 ## Verbindungen
 
-### [[Sebastian Stix]] (Ep 16)
+### [[Sebastian Stix]] (Ep 14)
 - **Technik:** Tascam Portacapture als Interface (32-Bit-Aufnahmen – nichts übersteuert, hochleveln möglich).
 
-### [[Soenke Scharnhorst]] (Ep 25)
+### [[Soenke Scharnhorst]] (Ep 5)
 - **Technik:** Ralf-Stockmann-Gedächtnis-Set – Headset abgelegt, Rode-Gesangsmikro angesteckt mit Arm (super Range, keine internen Kompressionen).
 
 ---

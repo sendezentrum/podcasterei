@@ -24,8 +24,7 @@ source: community
 checked: false
 ---
 
-## Beschreibung
-
+# Pool Artists
 Pool Artists ist eine Audio-Produktionsfirma, gegründet von [[Maria Lorenz-Bokelberg]]. Schwerpunkt liegt auf Podcast-Produktion und Audio-Design.
 
 ## Netzwerkrolle

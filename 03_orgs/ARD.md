@@ -26,8 +26,7 @@ source: community
 checked: false
 ---
 
-## Beschreibung
-
+# ARD
 Die ARD (Arbeitsgemeinschaft der öffentlich-rechtlichen Rundfunkanstalten der Bundesrepublik Deutschland) ist der Verbund der deutschen Landesrundfunkanstalten. Mitglieder sind [[BR]], [[HR]], [[MDR]], [[NDR]], [[RB]], [[RBB]], [[SR]], [[SWR]] und [[WDR]]. Gemeinsam betreiben sie u.a. Das Erste und [[ARD Sounds]].
 
 ## Netzwerkrolle

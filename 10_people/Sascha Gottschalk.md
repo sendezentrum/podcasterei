@@ -1,7 +1,6 @@
 ---
 type: Person
 name: Sascha Gottschalk
-datum:
 contributes:
 orgs:
 podcasts:

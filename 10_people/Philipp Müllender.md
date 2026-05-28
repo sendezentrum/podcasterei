@@ -1,7 +1,6 @@
 ---
 type: Person
 name: Philipp Müllender
-datum:
 contributes:
 orgs:
 podcasts:

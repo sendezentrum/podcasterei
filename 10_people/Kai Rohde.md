@@ -1,7 +1,6 @@
 ---
 type: Person
 name: Kai Rohde
-datum:
 contributes:
 orgs:
 podcasts:

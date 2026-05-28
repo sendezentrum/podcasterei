@@ -1,7 +1,6 @@
 ---
 type: Person
 name: Rebecca van der Meyden
-datum:
 contributes:
 orgs:
 podcasts:

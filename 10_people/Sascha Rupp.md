@@ -1,7 +1,6 @@
 ---
 type: Person
 name: Sascha Rupp
-datum:
 contributes:
 orgs:
 podcasts:

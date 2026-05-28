@@ -20,12 +20,13 @@ topics:
 
 url: https://kennzeichen-e.fm
 rss: https://feeds.lagedernation.org/feeds/kze-mp3.xml
+inception:
 source: community
 checked: false
 ---
 
+# Kennzeichen E
 ## Beschreibung
-
 Kennzeichen E ist ein Podcast über Elektromobilität von [[Christina Kunkel]] und [[Jürgen Pander]]. Themen sind E-Autos, Ladeinfrastruktur, E-Bikes und Batterietechnologie. Produziert über [[Lage der Nation GmbH]].
 
 ## Verbindungen

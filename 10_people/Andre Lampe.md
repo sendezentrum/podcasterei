@@ -1,7 +1,7 @@
 ---
 type: Person
 name: Andre Lampe
-datum:
+url: https://sendungsbewusstsein.info
 contributes:
   - []
 orgs:
@@ -15,6 +15,7 @@ source: community
 checked: false
 ---
 
+# Andre Lampe
 ## Beschreibung
 Andre Lampe ist Wissenschaftskommunikator mit kreativen Projekten an der Schnittstelle von Wissenschaft und Medien. Er war Gast im Podcast [[Sendungsbewusstsein]].
 

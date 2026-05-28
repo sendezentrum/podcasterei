@@ -1,7 +1,7 @@
 ---
 type: Person
 name: Holger Klein
-datum:
+url: https://de.wikipedia.org/wiki/Holger_Klein
 contributes:
  - "[[WRINT]]"
 orgs:
@@ -16,6 +16,7 @@ source: community
 checked: false
 ---
 
+# Holger Klein
 ## Beschreibung
 **Holger Klein** (* 8. September 1969 in Köln) ist ein deutscher Podcaster _(WRINT)_ und ehemaliger Hörfunk-Moderator. Er war bis 2015 bei Radio Fritz zu hören, danach von 2016 bis 2021 bei Radio Eins. Darüber hinaus moderierte Klein bis 2010 die Radiotalkshow Nightline auf YouFM und anschließend bis 2013 deren Nachfolgesendung Lateline, die bundesweit in den ARD-Jugendprogrammen ausgestrahlt wurde.
 

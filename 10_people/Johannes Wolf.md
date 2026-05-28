@@ -1,7 +1,6 @@
 ---
 type: Person
 name: Johannes Wolf
-datum:
 contributes:
 orgs:
 	- "[[Lano Inc.]]"

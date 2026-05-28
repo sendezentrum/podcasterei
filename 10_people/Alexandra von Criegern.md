@@ -1,7 +1,7 @@
 ---
 type: Person
 name: Alexandra von Criegern
-datum:
+url: https://podlove.org/about
 contributes:
   - "[[Podlove]]"
 orgs:
@@ -16,6 +16,7 @@ source: community
 checked: false
 ---
 
+# Alexandra von Criegern
 ## Beschreibung
 Alexandra von Criegern ist Frontend-Entwicklerin, die 2014 zu Podlove stieß und zum Styling und Verhalten des Web Players 3 beitrug.
 

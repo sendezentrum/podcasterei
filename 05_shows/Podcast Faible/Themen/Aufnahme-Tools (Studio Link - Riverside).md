@@ -11,13 +11,13 @@ tags: [thema, aufnahme-tools-studio-link-riverside]
 
 ## Verbindungen
 
-### [[Alexander Karls]] (Ep 10)
+### [[Alexander Karls]] (Ep 20)
 - **Technik:** Heim-Studio: Shure MV7 + Sennheiser HD 490, direkter USB ohne Interface.
 
-### [[Michèle Liussi]] (Ep 11)
+### [[Michèle Liussi]] (Ep 19)
 - **Technik:** Beide Blue Yeti zu Beginn gekauft.
 
-### [[Sascha Gottschalk]] (Ep 21)
+### [[Sascha Gottschalk]] (Ep 9)
 - **Erinnerungswürdige Aufnahme:** Beim ESC 2019 in Tel Aviv, akkreditiert für die Proben – aus dem Pressezentrum Studio-Link-Aufnahme über 4.300 km Distanz mit Co-Host Dennis in Rostock.
 
 ---

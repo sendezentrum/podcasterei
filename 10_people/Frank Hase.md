@@ -1,7 +1,7 @@
 ---
 type: Person
 name: Frank Hase
-datum:
+url: https://podlove.org/about
 contributes:
   - "[[Podlove]]"
 orgs:
@@ -16,6 +16,7 @@ source: community
 checked: false
 ---
 
+# Frank Hase
 ## Beschreibung
 Frank Hase ist JavaScript-Entwickler, der 2013 zu Podlove kam und die Entwicklung des Web Players unterstützte.
 

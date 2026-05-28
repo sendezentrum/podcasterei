@@ -18,12 +18,12 @@ tags:
   - open-source
   - hosting
 
-beteiligte:
+members:
   - "[[Ad Aures]]"
   - "[[Benjamin Bellamy]]"
   - "[[Castopod Community]]"
 
-verbindungen:
+connections:
   - "[[Podcasting 2.0]]"
   - "[[Fediverse]]"
   - "[[Mastodon]]"
@@ -47,29 +47,20 @@ use_cases:
 checked: false
 ---
 
-## Kurzbeschreibung
-
+# Castopod
 Castopod ist eine freie und Open-Source-Podcast-Hosting-Plattform, die es ermöglicht, Podcasts selbst zu hosten und vollständig zu kontrollieren. Sie integriert moderne „Podcasting 2.0“-Funktionen sowie soziale Interaktion über das Fediverse. 
-
----
 
 ## Nutzen / Mehrwert
 
 Castopod bietet maximale Kontrolle über Inhalte, Daten und Distribution ohne Abhängigkeit von zentralen Plattformen. Gleichzeitig ermöglicht es direkte Interaktion mit der Hörerschaft über dezentrale Netzwerke und erfüllt Datenschutzanforderungen (z. B. DSGVO-konforme Analytics). 
 
----
-
 ## Einordnung
 
 Technische Infrastruktur im Podcast-Ökosystem mit Fokus auf **Self-Hosting, Open Source und Dezentralisierung**. Positioniert sich als Alternative zu kommerziellen Hosting-Plattformen und Teil der Podcasting-2.0-Bewegung.
 
----
-
 ## Beteiligte & Verbindungen
 
 Castopod wird von der Firma Ad Aures mit [[Benjamin Bellamy]] als CEO und einer Open-Source-Community entwickelt. Es ist eng mit dem Fediverse verbunden und nutzt Standards wie ActivityPub, um Podcasts direkt in soziale Netzwerke zu integrieren. 
-
----
 
 ## Notizen / Erkenntnisse
 
@@ -84,8 +75,6 @@ Castopod wird von der Firma Ad Aures mit [[Benjamin Bellamy]] als CEO und einer
 - Konkurrenz zu:
     - Podigee (komfortorientiert)
     - Podlove (Self-Hosting, aber ohne Social Layer)
-
----
 
 ## Quellen
 

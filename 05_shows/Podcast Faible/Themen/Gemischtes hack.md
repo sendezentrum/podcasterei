@@ -11,10 +11,10 @@ tags: [thema, gemischtes-hack]
 
 ## Verbindungen
 
-### [[Alexander Karls]] (Ep 10)
+### [[Alexander Karls]] (Ep 20)
 - **Erster Berührungspunkt & Anstoß:** Erster Kontakt 2018 mit 'Gemischtes Hack'.
 
-### [[Nella Rausch]] (Ep 26)
+### [[Nella Rausch]] (Ep 4)
 - **Erster Berührungspunkt & Anstoß:** Kam über ihre Tochter zu Podcasts, die viel 'Gemischtes Hack' hörte.
 
 ---

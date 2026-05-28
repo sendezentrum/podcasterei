@@ -1,7 +1,7 @@
 ---
 type: Person
 name: Michaela Lehr
-datum:
+url: https://www.podlovers.org
 contributes:
   - "[[Podlove]]"
 orgs:
@@ -16,6 +16,7 @@ source: community
 checked: false
 ---
 
+# Michaela Lehr
 ## Beschreibung
 Michaela Lehr war regelmäßige Gastgeberin von [[Podlovers]] in den frühen Episoden des Podcasts.
 

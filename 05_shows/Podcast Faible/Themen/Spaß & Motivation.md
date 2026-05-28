@@ -14,14 +14,14 @@ tags: [thema, spass-motivation]
 ### [[Tanja]] (Ep 5)
 - **Eigener Podcast-Konsum:** Hört quer Beat – hat Radio und TV-Zappen komplett ersetzt.
 
-### [[Dela]] (Ep 9)
+### [[Dela]] (Ep 21)
 - **Eigener Podcast-Konsum:** Hört weniger als früher (Hörbücher haben Anteile übernommen).
 - **Wichtigste Lektion:** Drei Lektionen: 1) Macht das, worauf ihr Bock habt – nicht was ihr für erfolgreich haltet.
 
-### [[Michèle Liussi]] (Ep 11)
+### [[Michèle Liussi]] (Ep 19)
 - **Wichtigste Lektion:** 1) Nicht alleine machen – sie bewundert Anne dafür.
 
-### [[Franziska von Lehel]] (Ep 13)
+### [[Franziska von Lehel]] (Ep 17)
 - **Wichtigste Lektion:** Tipps: 1) Wenn du Lust hast, mach es – lass dich nicht ausbremsen.
 
 ---

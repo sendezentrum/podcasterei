@@ -1,7 +1,7 @@
 ---
 type: Person
 name: Patricia Cammarata
-datum:
+url: https://sendungsbewusstsein.info
 contributes:
   - "[[Nur 30 Minuten]]"
 orgs:
@@ -16,6 +16,7 @@ source: community
 checked: false
 ---
 
+# Patricia Cammarata
 ## Beschreibung
 Patricia Cammarata ist Autorin und Co-Hosterin von [[Nur 30 Minuten]], produziert über [[Haus 1]]. Sie schreibt und spricht zu Themen rund um mentale Gesundheit. Sie war Gast im Podcast [[Sendungsbewusstsein]].
 

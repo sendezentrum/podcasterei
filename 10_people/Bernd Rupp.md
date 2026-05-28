@@ -1,7 +1,7 @@
 ---
 type: Person
 name: Bernd Rupp
-datum:
+url: https://wissenschaftspodcasts.de/ueber-wisspod/#team
 contributes:
  - "[[GanzOhr]]"
  - "[[Wissenschaftspodcasts]]"
@@ -17,6 +17,7 @@ source: community
 checked: false
 ---
 
+# Bernd Rupp
 ## Beschreibung
 Bernd Rupp ist Teil der Wisspod-Community (wissenschaftspodcasts.de) und steht im Kontext der [[GanzOhr]]-Konferenz, dem jährlichen Treffen von Wissenschaftspodcaster:innen.
 

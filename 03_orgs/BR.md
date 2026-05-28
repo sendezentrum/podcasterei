@@ -26,8 +26,7 @@ source: community
 checked: false
 ---
 
-## Beschreibung
-
+# BR
 Der Bayerische Rundfunk (BR) ist die öffentlich-rechtliche Rundfunkanstalt des Freistaates Bayern mit Sitz in München. Er ist Mitglied der ARD und produziert Radio-, Fernseh- und Podcast-Inhalte für Bayern und darüber hinaus.
 
 ## Netzwerkrolle

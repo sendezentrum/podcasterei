@@ -1,7 +1,7 @@
 ---
 type: Project
-
 name: HoerTalk
+url: https://www.hoer-talk.de/
 
 topics:
   - Hörspielproduktion
@@ -15,10 +15,10 @@ tags:
   - audio
   - forum
 
-beteiligte:
+members:
   - "[[HoerTalk Community]]"
 
-verbindungen:
+connections:
   - "[[Hoerspielprojekt.de]]"
   - "[[Podcast Produktion]]"
   - "[[Voice Acting]]"
@@ -36,32 +36,22 @@ use_cases:
   - Eigene Hörspiele veröffentlichen
 
 checked: false
-
 ---
 
-## Kurzbeschreibung
-
+# HoerTalk
 HoerTalk.de ist eine deutschsprachige Online-Community für Hörspielproduktion, in der Nutzer gemeinsam an Audio-Projekten arbeiten können. Die Plattform dient als Forum für Austausch, Casting und Zusammenarbeit zwischen Sprechern, Autoren und Produzenten. Im Impressum steht [[Dennis Künstner]]
-
----
 
 ## Nutzen / Mehrwert
 
 Ermöglicht kollaborative Hörspielproduktion ohne Einstiegshürden und verbindet Kreative aus verschiedenen Bereichen. Besonders wertvoll für Einsteiger, da Unterstützung, Feedback und Projektbeteiligung leicht zugänglich sind. 
 
----
-
 ## Einordnung
 
 Community-basierte Plattform im Bereich Audio- und Hörspielproduktion mit Fokus auf kollaborative, meist nicht-kommerzielle Projekte und Lernprozesse.
 
----
-
 ## Beteiligte & Verbindungen
 
 Die Community besteht aus Sprechern, Autoren, Cuttern, Musikern und weiteren Kreativen, die gemeinsam an Projekten arbeiten. Eng verbunden mit Hoerspielprojekt.de, auf dem fertige Produktionen veröffentlicht werden. 
-
----
 
 ## Notizen / Erkenntnisse
 
@@ -70,8 +60,6 @@ Die Community besteht aus Sprechern, Autoren, Cuttern, Musikern und weiteren Kre
 - Projekte oft kollaborativ und langfristig
 - Kombination aus Forum + praktischer Produktion
 - Ergänzt Tools wie Auphonic eher, ersetzt sie aber nicht
-
----
 
 ## Quellen
 

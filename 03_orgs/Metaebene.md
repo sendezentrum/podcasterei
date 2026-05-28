@@ -25,8 +25,7 @@ source: community
 checked: false
 ---
 
-## Beschreibung
-
+# Metaebene Personal Media
 Metaebene Personal Media ist das Einzelunternehmen von [[Tim Pritlove]] und fungiert als organisatorisches Dach für seine Podcast- und Open-Source-Projekte, darunter [[Podlove]] und [[Das Sendezentrum]].
 
 ## Netzwerkrolle

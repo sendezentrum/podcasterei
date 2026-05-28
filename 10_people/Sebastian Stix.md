@@ -1,7 +1,6 @@
 ---
 type: Person
 name: Sebastian Stix
-datum:
 contributes:
 orgs:
 podcasts:

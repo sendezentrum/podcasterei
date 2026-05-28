@@ -20,12 +20,13 @@ topics:
 
 url: https://lagedernation.org
 rss: https://feeds.lagedernation.org/feeds/ldn-mp3.xml
+inception:
 source: community
 checked: false
 ---
 
+# Lage der Nation
 ## Beschreibung
-
 Lage der Nation ist ein wöchentlicher Politik-Podcast von [[Philip Banse]] (Journalist) und [[Ulf Buermeyer]] (Jurist). Er analysiert politische Ereignisse in Deutschland und weltweit mit Folgen von 90 Minuten bis zwei Stunden Länge. Der Podcast erreicht bis zu 2 Millionen Downloads pro Monat und finanziert sich über Werbung, Spenden, Mitgliedschaften und Live-Events. Produziert über [[Lage der Nation GmbH]].
 
 ## Verbindungen

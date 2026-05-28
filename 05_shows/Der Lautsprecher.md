@@ -18,12 +18,14 @@ topics:
   - Produktion
 
 url: https://der-lautsprecher.de
+rss:
+inception:
 source: community
 checked: false
 ---
 
+# Der Lautsprecher
 ## Beschreibung
-
 Der Lautsprecher ist ein unregelmäßig erscheinender Podcast von [[Tim Pritlove]] (Metaebene Personal Media) über das Machen von Podcasts. Er richtet sich an Podcasterinnen und Podcaster und behandelt technische und inhaltliche Fragen der Podcast-Produktion.
 
 ## Verbindungen

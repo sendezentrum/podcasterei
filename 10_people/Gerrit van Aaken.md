@@ -1,7 +1,7 @@
 ---
 type: Person
 name: Gerrit van Aaken
-datum:
+url: https://podlove.org/about
 contributes:
   - "[[Podlove]]"
 orgs:
@@ -16,6 +16,7 @@ source: community
 checked: false
 ---
 
+# Gerrit van Aaken
 ## Beschreibung
 Gerrit van Aaken ist Entwickler und trug die erste Version des Podlove Web Players bei.
 

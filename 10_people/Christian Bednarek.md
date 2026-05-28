@@ -1,7 +1,7 @@
 ---
 type: Person
 name: Christian Bednarek
-datum:
+url: https://fyyd.de/
 contributes:
  - "[[Fyyd]]"
 orgs:
@@ -16,6 +16,7 @@ source: community
 checked: false
 ---
 
+# Christian Bednarek
 ## Beschreibung
 Christian Bednarek ist der Gründer von [[Fyyd]], einem offenen Podcastverzeichnis und einer Suchmaschine für Podcasts und Episoden. Er startete Fyyd als Hobbyprojekt.
 

@@ -11,13 +11,13 @@ tags: [thema, true-crime]
 
 ## Verbindungen
 
-### [[Patrick Lohmeier]] (Ep 6)
+### [[Patrick Lohmeier]] (Ep 24)
 - **Eigener Podcast-Konsum:** Exzessiver Hörer – jede freie Minute, auch statt Fernsehen.
 
-### [[Michèle Liussi]] (Ep 11)
+### [[Michèle Liussi]] (Ep 19)
 - **Eigener Podcast-Konsum:** Voll drin im Game – hört aus den gleichen Gründen wie sie produziert: nebenher beim Auto fahren, Kochen, Backen, Aufräumen.
 
-### [[Sebastian Stix]] (Ep 16)
+### [[Sebastian Stix]] (Ep 14)
 - **Eigener Podcast-Konsum:** 'Total atypisch' – Technik/Wissenschaft/Sci-Fi.
 
 ---

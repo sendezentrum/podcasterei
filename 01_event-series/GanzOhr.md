@@ -1,7 +1,9 @@
 ---
 type: Event
 name: GanzOhr 2026
-datum: 2026-09-25 bis 2026-09-27
+url: https://wissenschaftspodcasts.de/blog/ganzohr-2026-treffen-der-wissen-schafts-podcaster-innen/
+start: 2026-09-25
+end:   2026-09-27
 
 participants:
   - "[[Wissenschaftspodcaster:innen]]"
@@ -27,10 +29,12 @@ topics:
 
 source: community
 checked: false
+
+todos:
+  - transform to EventSeries
 ---
 
-## Beschreibung
-
+# GanzOhr 2026
 GanzOhr 2026 ist ein Treffen von Wissenschaftspodcaster:innen, das vom 25. bis 27. September 2026 an der Otto-von-Guericke-Universität Magdeburg stattfindet. Die Veranstaltung ist als Barcamp mit Sessions und Workshops organisiert und dient dem Austausch rund um Audio und Wissenschaftskommunikation.
 
 ## Teilnehmer & Verbindungen

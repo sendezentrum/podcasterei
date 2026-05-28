@@ -1,7 +1,6 @@
 ---
 type: Person
 name: Alexander Karls
-datum:
 contributes:
 orgs:
 podcasts:

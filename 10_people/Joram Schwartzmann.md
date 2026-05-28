@@ -1,7 +1,7 @@
 ---
 type: Person
 name: Joram Schwartzmann
-datum:
+url: http://www.youtube.com/@JoramMachtSachen
 contributes:
  - "[[Ultraschall]]"
 orgs:
@@ -16,6 +16,7 @@ source: community
 checked: false
 ---
 
+# Joram Schwartzmann
 ## Beschreibung
 Joram Schwartzmann ist auf der Danke-Seite von [[Ultraschall]] als Mitwirkender gelistet und produziert Ultraschall-Tutorials auf YouTube unter dem Kanal @JoramMachtSachen.
 

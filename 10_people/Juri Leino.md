@@ -1,7 +1,7 @@
 ---
 type: Person
 name: Juri Leino
-datum:
+url: https://podlove.org/about
 contributes:
   - "[[Podlove]]"
 orgs:
@@ -16,6 +16,7 @@ source: community
 checked: false
 ---
 
+# Juri Leino
 ## Beschreibung
 Juri Leino ist JavaScript-Entwickler, der 2013 zu Podlove kam und am Prototyp des Web Players 3 mitarbeitete.
 

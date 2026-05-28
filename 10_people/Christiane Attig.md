@@ -1,7 +1,6 @@
 ---
 type: Person
 name: Christiane Attig
-datum:
 contributes:
 orgs:
 podcasts:

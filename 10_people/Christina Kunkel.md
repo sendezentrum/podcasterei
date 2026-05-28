@@ -1,7 +1,7 @@
 ---
 type: Person
 name: Christina Kunkel
-datum:
+url: https://kennzeichen-e.fm
 contributes:
   - "[[Kennzeichen E]]"
 orgs:
@@ -16,8 +16,7 @@ source: community
 checked: false
 ---
 
-## Beschreibung
-
+# Christina Kunkel
 Christina Kunkel ist Journalistin und Co-Hosterin von [[Kennzeichen E]], dem Elektromobilitäts-Podcast der [[Lage der Nation GmbH]].
 
 ## Verbindungen

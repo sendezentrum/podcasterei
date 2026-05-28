@@ -26,8 +26,7 @@ source: community
 checked: false
 ---
 
-## Beschreibung
-
+# SR
 Der Saarländische Rundfunk (SR) ist die öffentlich-rechtliche Rundfunkanstalt des Saarlandes mit Sitz in Saarbrücken. Er ist das zweitkleinste ARD-Mitglied.
 
 ## Netzwerkrolle

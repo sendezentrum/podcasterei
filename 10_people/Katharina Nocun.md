@@ -1,7 +1,7 @@
 ---
 type: Person
 name: Katharina Nocun
-datum:
+url: https://www.podlovers.org
 contributes:
   - []
 orgs:
@@ -15,6 +15,7 @@ source: community
 checked: false
 ---
 
+# Katharina Nocun
 ## Beschreibung
 Katharina Nocun ist eine bekannte deutsche Autorin, Aktivistin und Fürsprecherin für digitale Rechte. Sie war zu Gast in der [[Podlovers]]-Episode „Podcast-Produktion mit Katharina Nocun" (Dezember 2023).
 

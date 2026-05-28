@@ -1,7 +1,6 @@
 ---
 type: Person
 name: Stephanie Fischer
-datum:
 contributes:
 orgs:
 podcasts:

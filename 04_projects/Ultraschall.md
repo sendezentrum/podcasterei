@@ -1,7 +1,7 @@
 ---
 type: Project
-
 name: Ultraschall.fm
+url: https://ultrschall.fm
 
 topics:
   - Podcast Produktion
@@ -16,11 +16,13 @@ tags:
   - audio
   - software
 
-beteiligte:
+members:
   - "[[Ralf Stockmann]]"
-  - "[[Ultraschall Community]]"
+  - "[[Meo Mespotine]]"
+  - "[[Udo Sauer]]"
+  - "[[Malik Aziz]]"
 
-verbindungen:
+connections:
   - "[[REAPER]]"
   - "[[Podlove]]"
   - "[[Auphonic]]"
@@ -43,11 +45,8 @@ use_cases:
 checked: false
 ---
 
-## Kurzbeschreibung
-
+# Ultraschall.fm
 Ultraschall.fm ist ein Open-Source-Projekt, das die Digital Audio Workstation REAPER speziell für Podcast-Produktion optimiert. Es stellt eine angepasste Oberfläche, Workflows und zusätzliche Funktionen bereit, um Aufnahme, Schnitt und Produktion von Podcasts zu vereinfachen. 
-
----
 
 ## Nutzen / Mehrwert
 

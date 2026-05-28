@@ -1,7 +1,7 @@
 ---
 type: Person
 name: Janette Müller
-datum:
+url: https://sendegate.de/
 contributes:
  - "[[Sendegate]]"
 orgs:

@@ -1,7 +1,7 @@
 ---
 type: Person
 name: Sham Jaff
-datum:
+url: https://hauseins.fm/team/
 contributes:
   - []
 orgs:
@@ -16,6 +16,7 @@ source: community
 checked: false
 ---
 
+# Sham Jaff
 ## Beschreibung
 Sham Jaff ist Politikwissenschaftlerin und Journalistin. Sie moderierte für [[Haus 1]].
 

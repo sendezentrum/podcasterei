@@ -1,7 +1,7 @@
 ---
 type: Person
 name: Björn Harboe
-datum:
+url: https://sendungsbewusstsein.info/sb-023
 contributes:
   - "[[Hobbyquerschnitt]]"
 orgs:

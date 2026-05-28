@@ -18,11 +18,11 @@ tags:
   - podcast
   - hosting
 
-beteiligte:
+members:
   - "[[Benjamin Zimmer]]"
   - "[[Mateusz Sojka]]"
 
-verbindungen:
+connections:
   - "[[Podcast Produktion]]"
   - "[[Spotify]]"
   - "[[Apple Podcasts]]"
@@ -46,30 +46,21 @@ use_cases:
 checked: false
 ---
 
-## Kurzbeschreibung
-
+# Podigee
 Podigee ist eine Podcast-Hosting- und Publishing-Plattform, mit der Podcasts erstellt, verwaltet und automatisch auf alle wichtigen Plattformen verteilt werden können. Der Fokus liegt auf einfacher Bedienung, stabiler Infrastruktur und Marketing-orientierten Features. 
-
----
 
 ## Nutzen / Mehrwert
 
 Podigee übernimmt Hosting, Distribution und technische Anforderungen, sodass sich Nutzer auf Inhalte konzentrieren können. Besonders wertvoll ist die automatische Veröffentlichung auf mehreren Plattformen sowie detaillierte Analytics zur Performance und Zielgruppe. 
 
----
-
 ## Einordnung
 
 All-in-One-Plattform im Podcast-Ökosystem mit Fokus auf Hosting, Distribution und Analyse. Positioniert sich stärker als Business- und Marketing-Tool im Vergleich zu rein technischen Lösungen. 
-
----
 
 ## Beteiligte & Verbindungen
 
 Podigee ist ein in Deutschland entwickelter Podcast-Hoster mit enger Verbindung zur Podcast-Community und starkem Fokus auf professionelle Anwender und Unternehmen. Integration und Distribution erfolgen zu Plattformen wie Spotify, Apple Podcasts und weiteren Podcast-Verzeichnissen. 
 [[Benjamin Zimmer]] "Ben“  [[Mateusz Sojka]]  "Mati“ sind die Gründer von Podigee_
-
----
 
 ## Notizen / Erkenntnisse
 
@@ -79,8 +70,6 @@ Podigee ist ein in Deutschland entwickelter Podcast-Hoster mit enger Verbindung 
 - Deutlich weniger technisch als Self-Hosting (z. B. Podlove)
 - Gute Ergänzung zu Produktions-Tools (z. B. Aufnahme & Editing separat)
 - Unterstützt auch Video-Podcasts mit automatischer Verteilung
-
----
 
 ## Quellen
 

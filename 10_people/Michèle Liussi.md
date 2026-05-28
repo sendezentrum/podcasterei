@@ -1,7 +1,6 @@
 ---
 type: Person
 name: Michèle Liussi
-datum:
 contributes:
 orgs:
 podcasts:

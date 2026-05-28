@@ -1,7 +1,6 @@
 ---
 type: Person
 name: Anne Autenrieb
-datum:
 contributes:
 orgs:
 podcasts:

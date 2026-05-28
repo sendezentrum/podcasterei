@@ -1,7 +1,7 @@
 ---
 type: Person
 name: Linus Neumann
-datum:
+url: https://sendungsbewusstsein.info
 contributes:
   - "[[Logbuch:Netzpolitik]]"
 orgs:
@@ -17,6 +17,7 @@ source: community
 checked: false
 ---
 
+# Linus Neumann
 ## Beschreibung
 Linus Neumann ist IT-Sicherheitsexperte und Podcaster. Er ist Co-Host von [[Logbuch:Netzpolitik]], einem der bekanntesten deutschsprachigen Podcasts zu Netzpolitik und digitaler Sicherheit. Er war Gast im Podcast [[Sendungsbewusstsein]].
 

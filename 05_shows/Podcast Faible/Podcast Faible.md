@@ -4,17 +4,18 @@ name: Podcast Faible
 authors:
 	- "[[Anne-Katrin Pache-Wilke]]"
 topics:
-	- Podcast
-	- Interview
-	- Podcasting
-	- Community
-url: https://letscast.fm/podcasts/podcast-faible-f802f882/feed
-fyyd: https://fyyd.de/podcast/podcast-faible
+  - Podcast
+  - Interview
+  - Podcasting
+  - Community
+url: https://podcast-faible.de
+rss: https://letscast.fm/podcasts/podcast-faible-f802f882/feed
 inception: 2023-09-07
 source: community
 checked: false
 ---
 
+## Beschreibung
 Podcast Faible ist ein Interview-Podcast mit [[Anne-Katrin Pache-Wilke]], in dem allen Gästen derselbe Fragenkatalog zum Podcasten gestellt wird. Der hier dokumentierte Bestand wertet die ersten 30 Folgen aus und macht Antworten, wiederkehrende Motive und Querverbindungen innerhalb der DACH-Podcastszene nachvollziehbar. Die ausgewertete Sammlung umfasst 163 Antworten und 36 Themen-Cluster.
 
 ## Verbindungen

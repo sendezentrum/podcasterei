@@ -1,7 +1,7 @@
 ---
 type: Person
 name: Stephanie Dahn
-datum:
+url: https://sendungsbewusstsein.info
 contributes:
   - "[[Vorgedacht]]"
 orgs:
@@ -14,6 +14,7 @@ source: community
 checked: false
 ---
 
+# Stephanie Dahn
 ## Beschreibung
 Stephanie Dahn ist Podcasterin und Moderatorin von [[Vorgedacht]]. Sie war Gast im Podcast [[Sendungsbewusstsein]] (SB-003, Februar 2014).
 

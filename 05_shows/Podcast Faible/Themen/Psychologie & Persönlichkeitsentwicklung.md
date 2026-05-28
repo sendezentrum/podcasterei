@@ -11,11 +11,11 @@ tags: [thema, psychologie-persoenlichkeitsentwicklung]
 
 ## Verbindungen
 
-### [[Franziska von Lehel]] (Ep 13)
+### [[Franziska von Lehel]] (Ep 17)
 - **Erster Berührungspunkt & Anstoß:** Kam über YouTube-Kommentare und dann über Spotify-Premium zu Podcasts.
 - **Eigener Podcast-Konsum:** Hört täglich mehrere Stunden, vor allem in der Münchner S-Bahn.
 
-### [[Nella Rausch]] (Ep 26)
+### [[Nella Rausch]] (Ep 4)
 - **Eigener Podcast-Konsum:** Psychologie (Stefanie Stahl in beiden Podcasts), Buchvorstellungen (Lesart vom Deutschlandfunk), BookerFly-Schreib-Podcasts (sie ist selbst Autorin).
 
 ---

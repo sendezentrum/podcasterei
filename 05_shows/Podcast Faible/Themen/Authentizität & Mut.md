@@ -11,16 +11,16 @@ tags: [thema, authentizitaet-mut]
 
 ## Verbindungen
 
-### [[Stephanie Fischer]] (Ep 14)
+### [[Stephanie Fischer]] (Ep 16)
 - **Zeitaufwand pro Folge:** Mit Vorgespräch (per Mail/WhatsApp), 40 Min Aufnahme, Nachbereitung, Schneiden, Hochladen: insgesamt 2-2,5 Stunden.
 
 ### [[Philipp Müllender]] (Ep 15)
 - **Erster Berührungspunkt & Anstoß:** Erster Kontakt lustigerweise über den Vater, der Radio-Comedies (Frühstück bei Stefanie) auf dem Weg zur Arbeit hörte.
 
-### [[Sebastian Stix]] (Ep 16)
+### [[Sebastian Stix]] (Ep 14)
 - **Wichtigste Lektion:** Mehrere Lektionen: erster Eindruck stimmt oft nicht – Mut zum Risiko, öfter Ja sagen.
 
-### [[Heike Drexel]] (Ep 23)
+### [[Heike Drexel]] (Ep 7)
 - **Erinnerungswürdige Aufnahme:** Drei Anekdoten: 1) In Corona-Zoom-Zeiten schaltete ein Gast für bessere Übertragungsqualität sein Bild ab – sie führte das ganze Gespräch mit einem schwarzen Monitor.
 
 ---

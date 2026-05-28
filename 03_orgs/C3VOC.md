@@ -27,8 +27,7 @@ source: community
 checked: false
 ---
 
-## Beschreibung
-
+# C3VOC
 Das C3VOC (CCC Video Operation Center) ist das Video-Kollektiv des Chaos Computer Club e.V. Es produziert seit 2011 Aufzeichnungen von CCC-Veranstaltungen sowie anderen Community-Events und stellt diese auf media.ccc.de frei zur Verfügung.
 
 ## Netzwerkrolle

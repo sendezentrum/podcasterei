@@ -1,7 +1,7 @@
 ---
 type: Person
 name: Simon Dückert
-datum:
+url: https://sendegate.de/
 contributes:
  - "[[Sendegate]]"
 orgs:

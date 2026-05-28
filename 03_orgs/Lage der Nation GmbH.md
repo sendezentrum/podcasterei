@@ -27,8 +27,7 @@ source: community
 checked: false
 ---
 
-## Beschreibung
-
+# Lage der Nation GmbH
 Lage der Nation GmbH ist das Medienunternehmen hinter dem gleichnamigen Politik-Podcast [[Lage der Nation]] sowie den Schwesterpodcasts [[Kennzeichen E]] und [[Cybernation]]. Alle RSS-Feeds laufen über feeds.lagedernation.org.
 
 ## Netzwerkrolle

@@ -28,8 +28,7 @@ source: community
 checked: false
 ---
 
-## Beschreibung
-
+# MDR
 Der Mitteldeutsche Rundfunk (MDR) ist die öffentlich-rechtliche Rundfunkanstalt für Sachsen, Sachsen-Anhalt und Thüringen mit Sitz in Leipzig. Er ist Mitglied der ARD.
 
 ## Netzwerkrolle

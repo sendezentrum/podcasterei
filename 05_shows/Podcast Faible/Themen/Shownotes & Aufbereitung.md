@@ -14,10 +14,10 @@ tags: [thema, shownotes-aufbereitung]
 ### [[Tanja]] (Ep 5)
 - **Zeitaufwand pro Folge:** Stark formatabhängig.
 
-### [[Stefan Giesbert]] (Ep 12)
+### [[Stefan Giesbert]] (Ep 18)
 - **Liebstes und Nervigstes:** Nervt: Show-Notes-Erstellen, Tags schreiben (vergisst er absichtlich), wiederkehrende Klick-Routinen zwischen Ultraschall, Dropbox, Auphonic.
 
-### [[Rebecca van der Meyden]] (Ep 29)
+### [[Rebecca van der Meyden]] (Ep 1)
 - **Liebstes und Nervigstes:** Früher: liebte den Moment des Sprechens.
 
 ---

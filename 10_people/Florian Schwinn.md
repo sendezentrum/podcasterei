@@ -1,7 +1,7 @@
 ---
 type: Person
 name: Florian Schwinn
-datum:
+url: https://der-lautsprecher.de
 contributes:
   - "[[Der Lautsprecher]]"
 orgs:
@@ -16,8 +16,7 @@ source: community
 checked: false
 ---
 
-## Beschreibung
-
+# Florian Schwinn
 Florian Schwinn ist Moderator und Redakteur bei hr2 der Tag ([[HR]]). Er war Gast im Podcast [[Der Lautsprecher]] von [[Tim Pritlove]].
 
 ## Verbindungen

@@ -1,7 +1,6 @@
 ---
 type: Person
 name: Arne Ruddat
-datum:
 contributes:
 orgs:
 podcasts:

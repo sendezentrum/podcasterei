@@ -1,7 +1,6 @@
 ---
 type: Person
 name: Alexander Haas
-datum:
 contributes:
 orgs:
 podcasts:

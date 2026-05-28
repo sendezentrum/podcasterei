@@ -1,7 +1,7 @@
 ---
 type: Person
 name: Susanne Klingner
-datum:
+url: https://hauseins.fm/team/
 contributes:
   - []
 orgs:
@@ -17,6 +17,7 @@ source: community
 checked: false
 ---
 
+# Susanne Klingner
 ## Beschreibung
 Susanne Klingner ist Chefredakteurin und Geschäftsführerin von [[Haus 1]]. Sie ist Journalistin mit Schwerpunkt Wirtschaft und Genderthemen.
 

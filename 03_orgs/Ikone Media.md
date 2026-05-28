@@ -25,8 +25,7 @@ source: community
 checked: false
 ---
 
-## Beschreibung
-
+# Ikone Media
 Ikone Media ist eine Audio- und Podcast-Produktionsfirma, gegründet von Reinhard Röde, Constanze Radnoti und Marion Härtel.
 
 ## Netzwerkrolle

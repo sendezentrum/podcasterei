@@ -11,28 +11,28 @@ tags: [thema, zeitaufwand]
 
 ## Verbindungen
 
-### [[Patrick Lohmeier]] (Ep 6)
+### [[Patrick Lohmeier]] (Ep 24)
 - **Erster Berührungspunkt & Anstoß:** Begeistert von amerikanischen Underground-/Nischen-Film-Podcasts (Gentleman's Guide to Midnight Cinema, Projection Booth), aber 2011 gab es in Deutschland praktisch keine vergleichbaren Filmpodcasts.
 - **Zeitaufwand pro Folge:** Hängt vom Gesprächsverlauf ab.
 
-### [[Britt-Marie]] (Ep 7)
+### [[Britt-Marie]] (Ep 23)
 - **Zeitaufwand pro Folge:** Pendelt zwischen Hochaufwand bei Celebrity-Sachen (tagesaktuelle Recherche) und entspannten Klassiker-Formaten ohne Zeitdruck.
 
-### [[Arne Ruddat]] (Ep 8)
+### [[Arne Ruddat]] (Ep 22)
 - **Eigener Podcast-Konsum:** Unterscheidet zeitaktuelle vs.
 - **Zeitaufwand pro Folge:** Sehr unterschiedlich – manche Folgen Jahre Konzeption.
 - **Liebstes und Nervigstes:** Nervig: Terminfindung, Technikprobleme (Delay-Versätze), Webseitenkram (WordPress aktuell halten), Werbung machen.
 
-### [[Dela]] (Ep 9)
+### [[Dela]] (Ep 21)
 - **Zeitaufwand pro Folge:** Spaßformate wie 'Monatslese' werden nicht groß vorbereitet.
 
-### [[Michèle Liussi]] (Ep 11)
+### [[Michèle Liussi]] (Ep 19)
 - **Zeitaufwand pro Folge:** Gästinnen-Akquise ist leichter geworden (immer mehr kommen auf sie zu).
 
-### [[Sascha Gottschalk]] (Ep 21)
+### [[Sascha Gottschalk]] (Ep 9)
 - **Eigener Podcast-Konsum:** Hört über 2h täglich Podcasts (während des Pendelns wie zu Hause).
 
-### [[Sascha Rupp]] (Ep 24)
+### [[Sascha Rupp]] (Ep 6)
 - **Wichtigste Lektion:** Im Business-Podcast bewusst keine Selbstvermarktung, sondern Erfahrungswerte teilen.
 
 ---

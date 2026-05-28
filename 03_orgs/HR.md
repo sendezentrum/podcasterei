@@ -26,8 +26,7 @@ source: community
 checked: false
 ---
 
-## Beschreibung
-
+# HR
 Der Hessische Rundfunk (HR) ist die öffentlich-rechtliche Rundfunkanstalt des Landes Hessen mit Sitz in Frankfurt am Main. Er ist Mitglied der ARD und produziert Radio-, Fernseh- und Podcast-Inhalte.
 
 ## Netzwerkrolle

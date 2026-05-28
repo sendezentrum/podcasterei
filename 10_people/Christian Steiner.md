@@ -1,7 +1,6 @@
 ---
 type: Person
 name: Christian Steiner
-datum:
 contributes:
 orgs:
 podcasts:

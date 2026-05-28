@@ -1,7 +1,7 @@
 ---
 type: Person
 name: Dominik Wagner
-datum:
+url: https://podlove.org/about
 contributes:
   - "[[Podlove]]"
 orgs:
@@ -16,6 +16,7 @@ source: community
 checked: false
 ---
 
+# Dominik Wagner
 ## Beschreibung
 Dominik Wagner ist iOS- und Backend-Entwickler sowie CEO von Coding Monkeys, einem Game-Studio. Er war zuvor als Apple UIKit-Entwickler tätig und trug unter dem Namen "Dom" zu Podlove bei.
 

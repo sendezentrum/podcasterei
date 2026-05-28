@@ -23,8 +23,7 @@ source: community
 checked: false
 ---
 
-## Beschreibung
-
+# Hammer & Amboss
 Hammer & Amboss ist eine Audio-Produktionsfirma mit Helen Malich, Christoph Brandner, Alexandra Brand und Fabian Zweck.
 
 ## Netzwerkrolle

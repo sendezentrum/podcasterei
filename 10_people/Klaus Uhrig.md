@@ -1,7 +1,7 @@
 ---
 type: Person
 name: Klaus Uhrig
-datum:
+url: https://www.linkedin.com/in/klaus-uhrig-a2a2461b8
 contributes:
  - []
 orgs:
@@ -14,8 +14,7 @@ source: community
 checked: false
 ---
 
-## Beschreibung
-
+# Klaus Uhrig
 ## Verbindungen
 
 ## Bedeutung

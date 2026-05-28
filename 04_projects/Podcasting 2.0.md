@@ -1,8 +1,9 @@
 ---
 type: Project
 name: Podcasting 2.0
+url: https://podcasting2.org
 
-beteiligte:
+members:
   - "[[Adam Curry]]"
   - "[[Dave Jones]]"
   - "[[Podcast Index]]"
@@ -24,8 +25,7 @@ source: community
 checked: false
 ---
 
-## Beschreibung
-
+# Podcasting 2.0
 Podcasting 2.0 ist eine offene Initiative zur Erweiterung des RSS-Standards für Podcasts durch den sogenannten Podcast Namespace. Neue Tags ermöglichen Funktionen wie Kapitel, Transkripte, Finanzierung (Value4Value), Live-Streaming und soziale Interaktion, ohne bestehende Feeds oder Apps zu beeinträchtigen.
 
 ## Beteiligte & Verbindungen

@@ -1,7 +1,7 @@
 ---
 type: Person
 name: Reinhard Remfort
-datum:
+url: https://sendungsbewusstsein.info
 contributes:
   - []
 orgs:
@@ -15,6 +15,7 @@ source: community
 checked: false
 ---
 
+# Reinhard Remfort
 ## Beschreibung
 Reinhard Remfort war Gast in einer mehrteiligen Interview-Reihe im Podcast [[Sendungsbewusstsein]].
 

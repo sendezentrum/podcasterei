@@ -24,8 +24,7 @@ source: community
 checked: false
 ---
 
-## Beschreibung
-
+# BosePark
 BosePark Productions GmbH ist eine Podcast-Produktionsfirma mit Sitz in Berlin-Treptow (Elsenstraße 106, 12435 Berlin). Geschäftsführer ist Chris Guse. Das Unternehmen produziert professionelle Podcast-Inhalte für Kunden.
 
 ## Netzwerkrolle

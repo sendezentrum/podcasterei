@@ -5,7 +5,6 @@ aliases:
   - TaoTao
 social:
 	-	https://troet.cafe/@Taotica
-datum:
 contributes:
 orgs:
 podcasts:

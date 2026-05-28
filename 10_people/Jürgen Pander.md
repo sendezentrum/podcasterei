@@ -1,7 +1,7 @@
 ---
 type: Person
 name: Jürgen Pander
-datum:
+url: https://kennzeichen-e.fm
 contributes:
   - "[[Kennzeichen E]]"
 orgs:
@@ -15,8 +15,6 @@ topics:
 source: community
 checked: false
 ---
-
-## Beschreibung
 
 Jürgen Pander ist Journalist und Co-Host von [[Kennzeichen E]], dem Elektromobilitäts-Podcast der [[Lage der Nation GmbH]].
 

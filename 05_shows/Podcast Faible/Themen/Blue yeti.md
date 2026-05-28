@@ -11,10 +11,10 @@ tags: [thema, blue-yeti]
 
 ## Verbindungen
 
-### [[Michèle Liussi]] (Ep 11)
+### [[Michèle Liussi]] (Ep 19)
 - **Technik:** Beide Blue Yeti zu Beginn gekauft.
 
-### [[Nella Rausch]] (Ep 26)
+### [[Nella Rausch]] (Ep 4)
 - **Technik:** Angefangen mit 'schröppeligem' Mikro Fifine.
 
 ---

@@ -1,7 +1,7 @@
 ---
 type: Person
 name: Nicole Diekmann
-datum:
+url: https://hauseins.fm/team/
 contributes:
   - []
 orgs:
@@ -16,6 +16,7 @@ source: community
 checked: false
 ---
 
+# Nicole Diekmann
 ## Beschreibung
 Nicole Diekmann ist Moderatorin, ZDF-Korrespondentin und Autorin. Sie war als Moderatorin für [[Haus 1]] tätig.
 

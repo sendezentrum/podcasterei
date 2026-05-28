@@ -11,13 +11,13 @@ tags: [thema, familie-privatleben]
 
 ## Verbindungen
 
-### [[Johannes Wolf]] (Ep 1)
+### [[Johannes Wolf]] (Ep 29)
 - **Eigener Podcast-Konsum:** Hört Podcasts von Leuten, die ihm Freude bereiten – Wochennotiz mit Jan und Tim, methodisch inkorrekt, oder Formate aus seiner Anfangszeit.
 
-### [[Pascal Wichmann]] (Ep 18)
+### [[Pascal Wichmann]] (Ep 12)
 - **Zeitaufwand pro Folge:** Bei Filmpodcasts sehr zeitintensiv.
 
-### [[Sascha Rupp]] (Ep 24)
+### [[Sascha Rupp]] (Ep 6)
 - **Zeitaufwand pro Folge:** Arbeitet parallel an 2-3 Projekten gleichzeitig – Vorbereitung, Aufnahme, Postproduktion verschiedener Folgen gleichzeitig.
 
 ---

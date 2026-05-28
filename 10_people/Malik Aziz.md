@@ -1,7 +1,7 @@
 ---
 type: Person
 name: Malik Aziz
-datum:
+url: https://ultraschall.fm/danke/
 contributes:
  - "[[Ultraschall]]"
 orgs:
@@ -15,6 +15,7 @@ source: community
 checked: false
 ---
 
+# Malik Aziz
 ## Beschreibung
 Malik Aziz ist auf der Danke-Seite von [[Ultraschall]] als Mitwirkender gelistet.
 

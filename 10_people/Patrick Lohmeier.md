@@ -1,7 +1,6 @@
 ---
 type: Person
 name: Patrick Lohmeier
-datum:
 contributes:
 orgs:
 podcasts:

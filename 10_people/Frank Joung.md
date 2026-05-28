@@ -1,7 +1,7 @@
 ---
 type: Person
 name: Frank Joung
-datum:
+url: https://hauseins.fm/team/
 contributes:
   - "[[Halbe Katoffl]]"
 orgs:
@@ -16,6 +16,7 @@ source: community
 checked: false
 ---
 
+# Frank Joung
 ## Beschreibung
 Frank Joung ist freier Journalist und Moderator des Podcasts [[Halbe Katoffl]], produziert über [[Haus 1]].
 

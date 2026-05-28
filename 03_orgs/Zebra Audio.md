@@ -23,8 +23,7 @@ source: community
 checked: false
 ---
 
-## Beschreibung
-
+# Zebra Audio
 Zebra Audio ist eine Audio-Produktionsfirma im deutschsprachigen Podcast-Raum.
 
 ## Netzwerkrolle

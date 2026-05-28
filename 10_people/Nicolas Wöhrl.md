@@ -1,7 +1,7 @@
 ---
 type: Person
 name: Nicolas Wöhrl
-datum:
+url: https://sendungsbewusstsein.info
 contributes:
   - "[[Methodisch Inkorrekt]]"
 orgs:

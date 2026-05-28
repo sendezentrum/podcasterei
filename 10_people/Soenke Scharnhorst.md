@@ -1,7 +1,6 @@
 ---
 type: Person
 name: Soenke Scharnhorst
-datum:
 contributes:
 orgs:
 podcasts:

@@ -1,9 +1,12 @@
 ---
 type: PodcastSeries
 name: Sendungsbewusstsein
+url: https://sendungsbewusstsein.info
+feed_url: http://sendungsbewusstsein.info/feed/
+prefix: SB
 
-participants:
-  - []
+author:
+  - "[[Mirco Blitz]]"
 
 topics:
   - Podcast
@@ -11,14 +14,13 @@ topics:
   - Gesellschaft
   - Medien
 
-url: https://sendungsbewusstsein.info
+inception:
 source: community
 checked: false
 ---
 
-## Beschreibung
-
-Sendungsbewusstsein ist ein deutschsprachiger Interview-Podcast mit Gästen aus Medien, Wissenschaft, Kultur und der Podcast-Szene. Die Episodennummern beginnen mit dem Präfix SB-.
+# Sendungsbewusstsein
+Sendungsbewusstsein ist ein deutschsprachiger Interview-Podcast von [[Mirco Blitz]] mit Gästen aus Medien, Wissenschaft, Kultur und der Podcast-Szene.
 
 ## Verbindungen
 

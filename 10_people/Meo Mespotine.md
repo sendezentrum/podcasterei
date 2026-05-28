@@ -1,7 +1,7 @@
 ---
 type: Person
 name: Meo Mespotine
-datum:
+url: https://ultraschall.fm/danke/
 contributes:
  - "[[Ultraschall]]"
 orgs:
@@ -15,6 +15,7 @@ source: community
 checked: false
 ---
 
+# Meo Mespotine
 ## Beschreibung
 Meo Mespotine ist auf der Danke-Seite von [[Ultraschall]] als Mitwirkender gelistet.
 

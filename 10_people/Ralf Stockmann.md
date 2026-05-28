@@ -1,7 +1,7 @@
 ---
 type: Person
 name: Ralf Stockmann
-datum:
+url: https://ultraschall.fm/
 contributes:
  - "[[Ultraschall]]"
  - "[[Das Sendezentrum]]"
@@ -18,6 +18,7 @@ source: community
 checked: false
 ---
 
+# Ralf Stockmann
 ## Beschreibung
 Ralf Stockmann ist Initiator von [[Ultraschall]], einem Open-Source-Projekt, das die DAW REAPER für Podcast-Produktion optimiert. Er ist einer der ursprünglichen Ansprechpartner:innen des [[Das Sendezentrum]] und macht Ultraschall-Tutorials auf YouTube.
 

@@ -1,7 +1,7 @@
 ---
 type: Project
-
 name: Fyyd
+url: https://fyyd.de
 
 topics:
   - Podcast Discovery
@@ -16,11 +16,11 @@ tags:
   - podcast
   - discovery
 
-beteiligte:
+members:
   - "[[Christian Bednarek]]"
   - "[[Fyyd Community]]"
 
-verbindungen:
+connections:
   - "[[Podcast Community]]"
   - "[[Panoptikum]]"
   - "[[Podlove]]"
@@ -42,29 +42,20 @@ use_cases:
 checked: false
 ---
 
-## Kurzbeschreibung
-
+# Fyyd
 Fyyd ist ein offenes Podcastverzeichnis und eine Suchmaschine für Podcasts und Episoden. Die Plattform ermöglicht es, Podcasts zu entdecken, zu durchsuchen und in eigenen Sammlungen zu organisieren. 
-
----
 
 ## Nutzen / Mehrwert
 
 Bietet eine unabhängige Alternative zu geschlossenen Plattformen und ermöglicht detaillierte Suche sowie kuratierte Podcast-Listen. Besonders wertvoll für Nutzer, die gezielt Inhalte finden oder eigene Sammlungen strukturieren möchten. 
 
----
-
 ## Einordnung
 
 Technische Plattform im Podcast-Ökosystem mit Fokus auf offene Daten, Suche und Community-getriebene Kuratierung. Funktioniert als Discovery- und Infrastruktur-Tool. 
 
----
-
 ## Beteiligte & Verbindungen
 
 Fyyd wurde von Christian Bednarek als Hobbyprojekt gestartet und wird von einer Community genutzt und erweitert. Es ist eng mit der offenen Podcasting-Bewegung verbunden und ergänzt andere Tools und Plattformen im Ökosystem. 
-
----
 
 ## Notizen / Erkenntnisse
 
@@ -74,8 +65,6 @@ Fyyd wurde von Christian Bednarek als Hobbyprojekt gestartet und wird von einer 
 - API macht es interessant für Entwickler
 - Weniger „Mainstream“ als große Plattformen, dafür flexibler
 - Gute Ergänzung zu Social-Discovery (z. B. Panoptikum)
-
----
 
 ## Quellen
 

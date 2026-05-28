@@ -1,7 +1,7 @@
 ---
 type: Person
 name: Daniela Ishorst
-datum:
+url: https://www.podlovers.org
 contributes:
   - []
 orgs:
@@ -14,6 +14,7 @@ source: community
 checked: false
 ---
 
+# Daniela Ishorst
 ## Beschreibung
 Daniela Ishorst war Gast in Episode 7 des Podlovers-Podcasts zum Thema "Podcast-Produktion mit Daniela Ishorst". Weitere Details zu ihrer Person und Tätigkeit sind zu prüfen.
 

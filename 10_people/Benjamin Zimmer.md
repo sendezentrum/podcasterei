@@ -1,7 +1,6 @@
 ---
 type: Person
 name: Benjamin Zimmer
-datum:
 contributes:
  - []
 orgs:
@@ -14,8 +13,7 @@ source: community
 checked: false
 ---
 
-## Beschreibung
-
+# Benjamin Zimmer
 ## Verbindungen
 
 ## Bedeutung

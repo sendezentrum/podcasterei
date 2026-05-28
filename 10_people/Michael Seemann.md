@@ -1,7 +1,7 @@
 ---
 type: Person
 name: Michael Seemann
-datum:
+url: https://sendungsbewusstsein.info
 contributes:
   - []
 orgs:
@@ -17,6 +17,7 @@ source: community
 checked: false
 ---
 
+# Michael Seemann
 ## Beschreibung
 Michael Seemann (alias mspro) ist Medientheoretiker, Autor und Kommentator zu Technologie- und Medienfragen. Er war Gast im Podcast [[Sendungsbewusstsein]].
 

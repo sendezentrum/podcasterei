@@ -1,7 +1,7 @@
 ---
 type: Person
 name: Ulf Buermeyer
-datum:
+url: https://lagedernation.org
 contributes:
   - "[[Lage der Nation]]"
 orgs:
@@ -17,8 +17,7 @@ source: community
 checked: false
 ---
 
-## Beschreibung
-
+# Ulf Buermeyer
 Ulf Buermeyer ist Jurist und Co-Host von [[Lage der Nation]], dem wöchentlichen Politik-Podcast der [[Lage der Nation GmbH]]. Er bringt juristische Expertise in die politische Analyse ein.
 
 ## Verbindungen

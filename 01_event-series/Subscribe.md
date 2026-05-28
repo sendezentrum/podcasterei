@@ -1,9 +1,10 @@
 ---
 type: EventSeries
 name: SUBSCRIBE (Podcast-Konferenz)
-datum: seit 2013 (laufende Veranstaltungsreihe, mehrere Termine)
+url: https://das-sendezentrum.de/subscribe/
+inception: 2013
 
-participants:
+audience:
   - "[[Podcaster:innen]]"
   - "[[Podcast-Entwickler:innen]]"
   - "[[Podcast-Produzent:innen]]"
@@ -13,11 +14,6 @@ participants:
 
 orgs:
  - "[[Das Sendezentrum]]"
- - "[[Sendegate]]"
- - "[[Podlove]]"
-
-podcasts:
-  - "[[Die Sondersendung]]"
 
 topics:
   - Podcasting
@@ -32,7 +28,7 @@ source: community
 checked: false
 ---
 
-## Beschreibung
+# SUBSCRIBE
 
 Die SUBSCRIBE ist die zentrale deutschsprachige Konferenz für Podcaster:innen und Podcast-Interessierte. Sie kombiniert Konferenz, Workshops und Barcamp-Formate und dient dem Austausch über Produktion, Technik und Inhalte von Podcasts. 
 
@@ -46,4 +42,5 @@ Die SUBSCRIBE gilt als eine der ältesten und wichtigsten Konferenzen der deutsc
 
 ## Quellen / Hinweise
 
-[Subscribe](https://das-sendezentrum.de/subscribe/)
+- [Subscribe](https://das-sendezentrum.de/subscribe/)
+- [Sendegate: SUBSCRIBE 11](https://sendegate.de/c/community/subscribe-11/88)

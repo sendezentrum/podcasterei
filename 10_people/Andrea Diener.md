@@ -1,7 +1,7 @@
 ---
 type: Person
 name: Andrea Diener
-datum:
+url: https://sendungsbewusstsein.info
 contributes:
   - "[[Tsundoku]]"
 orgs:
@@ -16,6 +16,7 @@ source: community
 checked: false
 ---
 
+# Andrea Diener
 ## Beschreibung
 Andrea Diener ist Podcasterin und Autorin. Sie betreibt [[Tsundoku]], einen Podcast über Bücher und Lesen, und ist mit dem [[WRINT]]-Umfeld verbunden. Sie war Gast im Podcast [[Sendungsbewusstsein]].
 

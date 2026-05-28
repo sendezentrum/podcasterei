@@ -1,7 +1,7 @@
 ---
 type: Person
 name: Alexander Lüken
-datum:
+url: https://podlove.org/about
 contributes:
   - "[[Podlove]]"
 orgs:

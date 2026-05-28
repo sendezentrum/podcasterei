@@ -11,16 +11,16 @@ tags: [thema, schnitt-tools-audacity]
 
 ## Verbindungen
 
-### [[Franziska von Lehel]] (Ep 13)
+### [[Franziska von Lehel]] (Ep 17)
 - **Technik:** Pragmatisch: PC, Zoom H2N Recorder (~120 €).
 
-### [[Heike Drexel]] (Ep 23)
+### [[Heike Drexel]] (Ep 7)
 - **Technik:** Anfangs Zoom H2N (hallig, aber transportabel).
 
-### [[Nella Rausch]] (Ep 26)
+### [[Nella Rausch]] (Ep 4)
 - **Technik:** Angefangen mit 'schröppeligem' Mikro Fifine.
 
-### [[Alexander Waschkau]] (Ep 27)
+### [[Alexander Waschkau]] (Ep 3)
 - **Technik:** Sein Team setzt auf Team Headset (für Bewegungsfreiheit, gleichbleibende Tonqualität).
 
 ---

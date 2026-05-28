@@ -1,7 +1,7 @@
 ---
 type: Person
 name: Tine Nowak
-datum:
+url: https://sendungsbewusstsein.info/sb-011
 contributes:
   - []
 orgs:
@@ -15,6 +15,7 @@ source: community
 checked: false
 ---
 
+# Tine Nowak
 ## Beschreibung
 Tine Nowak war Gast im Podcast [[Sendungsbewusstsein]] (SB-011). Das Interview entstand am 32. Chaos Communication Congress.
 

@@ -1,7 +1,7 @@
 ---
 type: Project
-
 name: Studio Link
+url: https://studio-link.de/
 
 topics:
   - Remote Recording
@@ -16,11 +16,11 @@ tags:
   - remote
   - open-source
 
-beteiligte:
+members:
   - "[[Sebastian Reimers]]"
   - "[[Studio Link Community]]"
 
-verbindungen:
+connections:
   - "[[Ultraschall]]"
   - "[[REAPER]]"
   - "[[Auphonic]]"
@@ -43,29 +43,20 @@ use_cases:
 checked: false
 ---
 
-## Kurzbeschreibung
-
+# Studio Link
 Studio Link ist ein Tool zur Herstellung hochwertiger Audioverbindungen über das Internet, speziell für Podcast-Interviews und Remote-Aufnahmen. Es ermöglicht stabile Verbindungen mit geringer Latenz und separaten Tonspuren für alle Teilnehmenden. 
-
----
 
 ## Nutzen / Mehrwert
 
 Erlaubt professionelle Remote-Aufnahmen ohne Qualitätsverlust, im Gegensatz zu klassischen Videokonferenz-Tools. Besonders wertvoll für Podcasts mit externen Gästen, da jede Spur separat aufgezeichnet werden kann. 
 
----
-
 ## Einordnung
 
 Spezialisiertes Audio-Tool im Podcast-Ökosystem für Remote Recording (Audio over IP), mit Fokus auf Qualität, Stabilität und Integration in bestehende Produktions-Workflows.
 
----
-
 ## Beteiligte & Verbindungen
 
 Studio Link wurde von [[Sebastian Reimers]] entwickelt und ist eng mit Tools wie [[Ultraschall]] und [[REAPER]] verbunden. Es ist ein zentraler Bestandteil vieler Podcast-Setups im deutschsprachigen Raum.
-
----
 
 ## Notizen / Erkenntnisse
 
@@ -75,8 +66,6 @@ Studio Link wurde von [[Sebastian Reimers]] entwickelt und ist eng mit Tools wie
 - Einstieg einfacher als klassische DAWs, aber technischer als Web-Tools
 - QuickWeb reduziert Einstiegshürde für Gäste deutlich
 - Starke Verbreitung in der Podcast-Community (v. a. DACH)
-
----
 
 ## Quellen
 

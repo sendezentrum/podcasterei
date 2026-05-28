@@ -26,8 +26,7 @@ source: community
 checked: false
 ---
 
-## Beschreibung
-
+# RB
 Radio Bremen (RB) ist die öffentlich-rechtliche Rundfunkanstalt des Landes Bremen mit Sitz in Bremen. Es ist das kleinste ARD-Mitglied und produziert Radio- und Podcast-Inhalte für die Region.
 
 ## Netzwerkrolle

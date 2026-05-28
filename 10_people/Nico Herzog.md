@@ -1,7 +1,7 @@
 ---
 type: Person
 name: Nico Herzog
-datum:
+url: https://sendungsbewusstsein.info
 contributes:
   - "[[Bildsprache]]"
 orgs:
@@ -16,6 +16,7 @@ source: community
 checked: false
 ---
 
+# Nico Herzog
 ## Beschreibung
 Nico Herzog ist Podcaster und Betreiber von [[Bildsprache]], einem Podcast zur Bildsprache und Fotografie. Er war Gast im Podcast [[Sendungsbewusstsein]] (SB-004, Februar 2014).
 

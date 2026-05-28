@@ -1,7 +1,7 @@
 ---
 type: Person
 name: Lars Engelmann
-datum:
+url: https://geschichtenkapsel.de
 contributes:
  - "[[Geschichtenkapsel]]"
 orgs:
@@ -17,6 +17,7 @@ source: community
 checked: false
 ---
 
+# Lars Engelmann
 ## Beschreibung
 Lars Engelmann ist Mitgründer der [[Geschichtenkapsel]] (gegründet 2016 gemeinsam mit [[Kai Du]]). Das Projekt ist ein kollaboratives Podcast-Format für selbstgeschriebene Kurzgeschichten, Hörspiele und literarische Texte.
 

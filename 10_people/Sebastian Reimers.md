@@ -1,7 +1,7 @@
 ---
 type: Person
 name: Sebastian Reimers
-datum:
+url: https://studio-link.de/
 contributes:
  - "[[Podstock]]"
  - "[[Ultraschall]]"
@@ -18,6 +18,7 @@ source: community
 checked: false
 ---
 
+# Sebastian Reimers
 ## Beschreibung
 Sebastian Reimers ist Entwickler von [[Studio Link]], einem Tool für hochwertige Remote-Audioaufnahmen über das Internet. Er organisiert das Podcast-Festival [[Podstock]] am Dümmer See und ist auf der Danke-Seite von [[Ultraschall]] als Mitwirkender gelistet.
 

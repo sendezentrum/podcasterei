@@ -26,8 +26,7 @@ source: community
 checked: false
 ---
 
-## Beschreibung
-
+# NDR
 Der Norddeutsche Rundfunk (NDR) ist eine öffentlich-rechtliche Rundfunkanstalt für Hamburg, Mecklenburg-Vorpommern, Niedersachsen und Schleswig-Holstein mit Sitz in Hamburg. Er ist Mitglied der ARD.
 
 ## Netzwerkrolle

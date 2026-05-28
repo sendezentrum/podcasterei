@@ -1,7 +1,9 @@
 ---
 type: Person
 name: Andreas Hubel
-datum:
+url: https://sendungsbewusstsein.info/sb-024
+aliases:
+  - saerdnaer
 contributes:
   - []
 orgs:
@@ -17,6 +19,7 @@ source: community
 checked: false
 ---
 
+# Andreas Hubel
 ## Beschreibung
 Andreas Hubel ist Mitglied des Video Operations Center ([[C3VOC]]) des Chaos Computer Clubs und war als Organisationsmitglied am VOC aktiv. Er war Gast im Podcast [[Sendungsbewusstsein]] (SB-024).
 

@@ -1,7 +1,7 @@
 ---
 type: Person
 name: Georg Holzmann
-datum:
+url: https://auphonic.com/
 contributes:
  - "[[Auphonic]]"
 orgs:
@@ -16,6 +16,7 @@ source: community
 checked: false
 ---
 
+# Georg Holzmann
 ## Beschreibung
 Georg Holzmann ist im Impressum von [[Auphonic]] gelistet, dem webbasierten Dienst zur automatisierten Audiopostproduktion für Podcasts.
 

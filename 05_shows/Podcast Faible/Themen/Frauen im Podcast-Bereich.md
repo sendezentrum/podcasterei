@@ -11,10 +11,10 @@ tags: [thema, frauen-im-podcast-bereich]
 
 ## Verbindungen
 
-### [[Leni Bohrmann]] (Ep 3)
+### [[Leni Bohrmann]] (Ep 27)
 - **Erinnerungswürdige Aufnahme:** Drei Erinnerungen: 1) Pianist Ratko Delorco erzählte, wie ein Glasflügel per Skilift in eine Eishöhle gebracht wurde, in der er mit Funktionsunterwäsche unter dem Frack ein exklusives Konzert spielte.
 
-### [[Rebecca van der Meyden]] (Ep 29)
+### [[Rebecca van der Meyden]] (Ep 1)
 - **Eigener Podcast-Konsum:** Große Hörerin trotz Wegfall der 2h-Pendelei.
 
 ---

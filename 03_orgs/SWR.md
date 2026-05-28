@@ -27,8 +27,7 @@ source: community
 checked: false
 ---
 
-## Beschreibung
-
+# SWR
 Der Südwestrundfunk (SWR) ist die öffentlich-rechtliche Rundfunkanstalt für Baden-Württemberg und Rheinland-Pfalz mit Sitz in Stuttgart und Mainz. Er entstand 1998 aus der Fusion von SDR und SWF.
 
 ## Netzwerkrolle

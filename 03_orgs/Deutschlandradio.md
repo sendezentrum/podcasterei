@@ -26,8 +26,7 @@ source: community
 checked: false
 ---
 
-## Beschreibung
-
+# Deutschlandradio
 Deutschlandradio ist die nationale öffentlich-rechtliche Hörfunkanstalt Deutschlands mit Sitz in Köln und Berlin. Es betreibt Deutschlandfunk, Deutschlandfunk Kultur und Deutschlandfunk Nova und ist an [[ARD Sounds]] beteiligt.
 
 ## Netzwerkrolle

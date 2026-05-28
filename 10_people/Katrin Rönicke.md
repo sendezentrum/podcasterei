@@ -1,7 +1,7 @@
 ---
 type: Person
 name: Katrin Rönicke
-datum:
+url: https://hauseins.fm/team/
 contributes:
   - "[[So many voices]]"
   - "[[Lila Podcast]]"

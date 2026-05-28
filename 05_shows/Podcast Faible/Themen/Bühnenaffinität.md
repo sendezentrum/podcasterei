@@ -11,10 +11,10 @@ tags: [thema, buehnenaffinitaet]
 
 ## Verbindungen
 
-### [[Stephanie Fischer]] (Ep 14)
+### [[Stephanie Fischer]] (Ep 16)
 - **Erster Berührungspunkt & Anstoß:** Sieht sich als 'Rampensau' – Öffentlichkeit, Bühnen und Vorträge sind ihre Affinität, Podcasten war eine logische Schlussfolgerung.
 
-### [[Anne Autenrieb]] (Ep 17)
+### [[Anne Autenrieb]] (Ep 13)
 - **Erster Berührungspunkt & Anstoß:** Hat vorher keine Podcasts gehört – ihr erster Berührungspunkt war ihre eigene erste Aufnahme als Gast.
 
 ---

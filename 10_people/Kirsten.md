@@ -1,7 +1,6 @@
 ---
 type: Person
 name: Kirsten
-datum:
 contributes:
 orgs:
 podcasts:

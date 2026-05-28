@@ -1,7 +1,7 @@
 ---
 type: Person
 name: Markus Richter
-datum:
+url: https://sendungsbewusstsein.info
 contributes:
   - "[[Nur 30 Minuten]]"
 orgs:
@@ -16,6 +16,7 @@ source: community
 checked: false
 ---
 
+# Markus Richter
 ## Beschreibung
 Markus Richter (alias Monoxyd) ist Softwareentwickler und Podcaster. Er ist Co-Host von [[Nur 30 Minuten]], produziert über [[Haus 1]]. Er war Gast im Podcast [[Sendungsbewusstsein]].
 

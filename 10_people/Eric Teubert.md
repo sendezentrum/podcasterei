@@ -1,7 +1,7 @@
 ---
 type: Person
 name: Eric Teubert
-datum:
+url: https://podlove.org/
 orgs:
  - "[[Podlove]]"
 podcasts:
@@ -13,6 +13,7 @@ source: community
 checked: false
 ---
 
+# Eric Teubert
 ## Beschreibung
 Eric Teubert ist auf der Website von [[Podlove]] als Beteiligter gelistet.
 

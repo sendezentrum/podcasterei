@@ -1,7 +1,7 @@
 ---
 type: Person
 name: Chris Marquardt
-datum:
+url: https://sendungsbewusstsein.info
 contributes:
   - "[[Happy Shooting]]"
 orgs:
@@ -16,6 +16,7 @@ source: community
 checked: false
 ---
 
+# Chris Marquardt
 ## Beschreibung
 Chris Marquardt ist Fotografiepädagoge und Podcaster. Er betreibt [[Happy Shooting]], einen Podcast rund um Fotografie und kreative Bildgestaltung. Er war Gast im Podcast [[Sendungsbewusstsein]].
 

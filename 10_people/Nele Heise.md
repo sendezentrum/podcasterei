@@ -1,7 +1,7 @@
 ---
 type: Person
 name: Nele Heise
-datum:
+url: https://sendungsbewusstsein.info
 contributes:
   - []
 orgs:
@@ -16,6 +16,7 @@ source: community
 checked: false
 ---
 
+# Nele Heise
 ## Beschreibung
 Nele Heise ist eine Medien- und Podcast-Expertin mit Schwerpunkt auf der deutschsprachigen Podcast-Branche. Sie war Gast im Podcast [[Sendungsbewusstsein]].
 

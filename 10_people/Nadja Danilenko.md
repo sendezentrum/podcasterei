@@ -1,7 +1,7 @@
 ---
 type: Person
 name: Nadja Danilenko
-datum:
+url: https://www.podlovers.org
 contributes:
   - []
 orgs:
@@ -14,6 +14,7 @@ source: community
 checked: false
 ---
 
+# Nadja Danilenko
 ## Beschreibung
 Nadja Danilenko war zu Gast in der [[Podlovers]]-Episode „Podcastproduktion mit Nadja Danilenko" (Februar 2024).
 

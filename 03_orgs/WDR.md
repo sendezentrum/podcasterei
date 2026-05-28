@@ -26,8 +26,7 @@ source: community
 checked: false
 ---
 
-## Beschreibung
-
+# WDR
 Der Westdeutsche Rundfunk (WDR) ist die öffentlich-rechtliche Rundfunkanstalt des Landes Nordrhein-Westfalen mit Sitz in Köln. Er ist die größte ARD-Landesrundfunkanstalt.
 
 ## Netzwerkrolle

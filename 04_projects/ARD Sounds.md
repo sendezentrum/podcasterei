@@ -1,32 +1,26 @@
 ---
 type: Project
 name: ARD Sounds
-
-beteiligte:
-  - []
-
-podcasts:
-  - []
-
+url: https://www.ardaudiothek.de
+urls:
+  - https://www.ardaudiothek.de
+  - https://www.ardsounds.de
 events:
-  - []
-
 topics:
   - Öffentlich-rechtlich
   - Distribution
   - Audio
   - Plattform
 
-url: https://www.ardaudiothek.de
+
 inception: "8. November 2017"
 renamed: "9. März 2026"
 former_name: ARD Audiothek
-source: community
+
 checked: false
 ---
 
-## Beschreibung
-
+# ARD Sounds
 ARD Sounds (bis März 2026: ARD Audiothek) ist die gemeinsame Audio-Plattform der ARD-Anstalten und des Deutschlandradios. Sie bündelt Podcasts und Radioinhalte der öffentlich-rechtlichen Sender und bietet On-Demand-Zugriff auf Dokumentationen, Hörspiele, Lesungen und mehr.
 
 ## Beteiligte

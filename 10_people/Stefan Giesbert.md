@@ -1,7 +1,6 @@
 ---
 type: Person
 name: Stefan Giesbert
-datum:
 contributes:
 orgs:
 podcasts:

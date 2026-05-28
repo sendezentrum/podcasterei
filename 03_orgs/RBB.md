@@ -27,8 +27,7 @@ source: community
 checked: false
 ---
 
-## Beschreibung
-
+# RBB
 Der Rundfunk Berlin-Brandenburg (RBB) ist die öffentlich-rechtliche Rundfunkanstalt für Berlin und Brandenburg mit Sitz in Potsdam-Babelsberg. Er entstand 2003 aus der Fusion von SFB und ORB.
 
 ## Netzwerkrolle

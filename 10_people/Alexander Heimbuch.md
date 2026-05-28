@@ -1,7 +1,7 @@
 ---
 type: Person
 name: Alexander Heimbuch
-datum:
+url: https://podlove.org/
 contributes:
  - "[[Podlove]]"
 orgs:
@@ -15,6 +15,7 @@ source: community
 checked: false
 ---
 
+# Alexander Heimbuch
 ## Beschreibung
 Alexander Heimbuch ist auf der Website von [[Podlove]] als Beteiligter gelistet.
 

@@ -1,7 +1,7 @@
 ---
 type: Person
 name: Stefan Schulz
-datum:
+url: https://www.podlovers.org
 contributes:
   - []
 orgs:
@@ -14,6 +14,7 @@ source: community
 checked: false
 ---
 
+# Stefan Schulz
 ## Beschreibung
 Stefan Schulz war Gast in Episode 8 des Podlovers-Podcasts zum Thema "Podcast-Produktion mit Stefan Schulz". Weitere Details zu seiner Person und Tätigkeit sind zu prüfen.
 

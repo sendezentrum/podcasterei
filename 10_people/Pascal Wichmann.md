@@ -1,7 +1,6 @@
 ---
 type: Person
 name: Pascal Wichmann
-datum:
 contributes:
 orgs:
 podcasts:

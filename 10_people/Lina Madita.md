@@ -1,7 +1,7 @@
 ---
 type: Person
 name: Lina Madita
-datum:
+url: https://sendungsbewusstsein.info
 contributes:
   - "[[Fressefreiheit]]"
 orgs:
@@ -15,6 +15,7 @@ source: community
 checked: false
 ---
 
+# Lina Madita
 ## Beschreibung
 Lina Madita ist Podcasterin und Moderatorin von [[Fressefreiheit]]. Sie war Gast im Podcast [[Sendungsbewusstsein]] (SB-006, August 2014).
 

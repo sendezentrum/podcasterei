@@ -1,7 +1,7 @@
 ---
 type: Person
 name: Tim Pritlove
-datum:
+url: https://das-sendezentrum.de/
 contributes:
  - "[[Das Sendezentrum]]"
  - "[[Sendegate]]"
@@ -17,6 +17,7 @@ source: community
 checked: false
 ---
 
+# Tim Pritlove
 ## Beschreibung
 Tim Pritlove ist eine der zentralen Figuren der deutschsprachigen Podcast-Szene und Initiator des [[Podlove]]-Projekts, einer Open-Source-Initiative für Podcast-Publishing-Tools. Er ist maßgeblich an der Infrastruktur und Community rund um das [[Das Sendezentrum]] beteiligt.
 

@@ -1,7 +1,7 @@
 ---
 type: Person
 name: Sabrina Gehder
-datum:
+url: https://parlamentsrevue.de
 contributes:
  - "[[Parlamentsrevue]]"
 orgs:
@@ -17,6 +17,7 @@ source: community
 checked: false
 ---
 
+# Sabrina Gehder
 ## Beschreibung
 Sabrina Gehder produziert die [[Parlamentsrevue]] unabhängig und ohne institutionelle Träger. Das Format ist crowdfinanziert und werbefrei und analysiert die Plenarsitzungen des Deutschen Bundestags verständlich.
 

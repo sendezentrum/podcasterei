@@ -1,7 +1,6 @@
 ---
 type: Person
 name: Dela
-datum:
 contributes:
 orgs:
 podcasts:

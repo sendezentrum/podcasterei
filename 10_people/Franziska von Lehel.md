@@ -1,7 +1,6 @@
 ---
 type: Person
 name: Franziska von Lehel
-datum:
 contributes:
 orgs:
 podcasts:

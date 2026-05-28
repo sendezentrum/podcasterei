@@ -1,6 +1,7 @@
 ---
 type: Project
 name: Panoptikum.social
+url: https://panoptikum.social/
 topics:
   - Podcast Discovery
   - Community
@@ -12,10 +13,10 @@ tags:
   - community
   - podcast
   - discovery
-beteiligte:
+members:
   - "[[Stefan (Panoptikum)]]"
   - "[[Panoptikum Community]]"
-verbindungen:
+connections:
   - "[[Podcast Community]]"
   - "[[Podlove]]"
   - "[[Fyyd]]"
@@ -34,23 +35,16 @@ checked: false
 aliases:
 ---
 
-## Kurzbeschreibung
-
+# Panoptikum.social
 Panoptikum.social ist eine Plattform zur Entdeckung von Podcasts und gleichzeitig ein soziales Netzwerk für Hörer:innen und Podcaster:innen. Sie kombiniert Podcast-Datenbank, Empfehlungen und Community-Interaktion in einem System. 
-
----
 
 ## Nutzen / Mehrwert
 
 Ermöglicht personalisierte Podcast-Entdeckung basierend auf Community-Daten und Empfehlungen statt rein algorithmischer Rankings. Zusätzlich bietet es Podcaster:innen eine weitere Möglichkeit zur Sichtbarkeit und Interaktion mit ihrem Publikum. 
 
----
-
 ## Einordnung
 
 Hybrid aus Podcast-Verzeichnis, Discovery-Plattform und sozialem Netzwerk mit Fokus auf Community-getriebene Inhalte und Open-Source-Ansatz. 
-
----
 
 ## Beteiligte & Verbindungen
 
@@ -60,8 +54,6 @@ Initiiert von einem Entwicklerteam um Stefan (Wien) und getragen von einer Commu
 - Sonja - community manager, marketing [sonja@panoptikum.social](mailto:sonja@panoptikum.social)
 - Stefan - creator, lead developer [stefan@panoptikum.social](mailto:stefan@panoptikum.social)
 
----
-
 ## Notizen / Erkenntnisse
 
 - Starker Fokus auf **Community statt Plattform-Algorithmen**
@@ -69,8 +61,6 @@ Initiiert von einem Entwicklerteam um Stefan (Wien) und getragen von einer Commu
 - Positioniert sich bewusst als Alternative zu klassischen Verzeichnissen (z. B. iTunes) 
 - Kombination aus Discovery + Social Layer ist relativ selten im Podcast-Bereich
 - Open Source → langfristig interessant für Community-getriebene Entwicklung
-
----
 
 ## Quellen
 

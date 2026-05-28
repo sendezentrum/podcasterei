@@ -1,7 +1,7 @@
 ---
 type: Person
 name: Simon Waldherr
-datum:
+url: https://www.podlovers.org
 contributes:
   - []
 orgs:
@@ -16,6 +16,7 @@ source: community
 checked: false
 ---
 
+# Simon Waldherr
 ## Beschreibung
 Simon Waldherr war Gast in Episode 3 des Podlovers-Podcasts zum Thema "Podlove Web Player". Sein Beitrag bezog sich auf Open-Source-Entwicklung im Podcast-Bereich.
 

@@ -1,7 +1,7 @@
 ---
 type: Person
 name: Andrea Bottlinger
-datum:
+url: https://sendungsbewusstsein.info
 contributes:
   - []
 orgs:
@@ -14,6 +14,7 @@ source: community
 checked: false
 ---
 
+# Andrea Bottlinger
 ## Beschreibung
 Andrea Bottlinger war Gast im Podcast [[Sendungsbewusstsein]].
 

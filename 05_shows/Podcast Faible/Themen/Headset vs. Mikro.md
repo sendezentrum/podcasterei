@@ -11,10 +11,10 @@ tags: [thema, headset-vs-mikro]
 
 ## Verbindungen
 
-### [[Sebastian Stix]] (Ep 16)
+### [[Sebastian Stix]] (Ep 14)
 - **Technik:** Tascam Portacapture als Interface (32-Bit-Aufnahmen – nichts übersteuert, hochleveln möglich).
 
-### [[Alexander Waschkau]] (Ep 27)
+### [[Alexander Waschkau]] (Ep 3)
 - **Technik:** Sein Team setzt auf Team Headset (für Bewegungsfreiheit, gleichbleibende Tonqualität).
 
 ---

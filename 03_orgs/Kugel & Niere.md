@@ -25,8 +25,7 @@ source: community
 checked: false
 ---
 
-## Beschreibung
-
+# Kugel & Niere
 Kugel & Niere ist eine Podcast-Produktionsfirma, gegründet von Christian Alt, Anna Bühler und Elisabeth Veh.
 
 ## Netzwerkrolle

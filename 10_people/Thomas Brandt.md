@@ -1,7 +1,7 @@
 ---
 type: Person
 name: Thomas Brandt
-datum:
+url: https://sendungsbewusstsein.info/sb-025
 contributes:
   - []
 orgs:
@@ -15,6 +15,7 @@ source: community
 checked: false
 ---
 
+# Thomas Brandt
 ## Beschreibung
 Thomas Brandt war Gast im Podcast [[Sendungsbewusstsein]] (SB-025). Das Interview entstand am Chaos Communication Camp.
 

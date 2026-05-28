@@ -1,7 +1,6 @@
 ---
 type: Person
 name: Yvette Philippens
-datum:
 contributes:
 orgs:
 podcasts:

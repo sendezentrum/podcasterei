@@ -1,7 +1,6 @@
 ---
 type: Person
 name: Alexander Waschkau
-datum:
 contributes:
 orgs:
 podcasts:

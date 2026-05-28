@@ -1,7 +1,7 @@
 ---
 type: Person
 name: Barbara Streidl
-datum:
+url: https://hauseins.fm/team/
 contributes:
   - []
 orgs:
@@ -17,6 +17,7 @@ source: community
 checked: false
 ---
 
+# Barbara Streidl
 ## Beschreibung
 Barbara Streidl ist Journalistin, Musikerin und Autorin. Sie war von 2014 bis 2019 für [[Haus 1]] tätig.
 

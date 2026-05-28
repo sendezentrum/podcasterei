@@ -1,7 +1,7 @@
 ---
 type: Person
 name: Sven Sedivy
-datum:
+url: https://podlove.org/about
 contributes:
   - "[[Podlove]]"
 orgs:
@@ -16,6 +16,7 @@ source: community
 checked: false
 ---
 
+# Sven Sedivy
 ## Beschreibung
 Sven Sedivy ist Grafikdesigner und gestaltete das Artwork für den Podlove Publisher sowie die Visuals der nächsten Generation des Podlove Web Players.
 

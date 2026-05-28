@@ -1,4 +1,5 @@
 ---
+type: Topic
 thema: "iPod-Generation"
 tags: [thema, ipod-generation]
 ---
@@ -11,18 +12,23 @@ tags: [thema, ipod-generation]
 
 ## Verbindungen
 
-### [[Arne Ruddat]] (Ep 8)
-- **Erster Berührungspunkt & Anstoß:** Erster Kontakt über iPod und Podcasts wie 'Schlaflos in München' (Annik Rubens) und 'Bits und so' (Tim Hetzel) – beim Laufen lieber Stimme als Musik.
+### [[Arne Ruddat]] (Ep 22)
 
-### [[Stefan Giesbert]] (Ep 12)
+- **Erster Berührungspunkt & Anstoß:** Erster Kontakt über iPod und Podcasts wie 'Schlaflos in München' (Annik Rubens) und 'Bits und so' (Timo Hetzel) – beim Laufen lieber Stimme als Musik.
+
+### [[Stefan Giesbert]] (Ep 18)
+
 - **Erster Berührungspunkt & Anstoß:** Erster Kontakt ca.
 - **Liebstes und Nervigstes:** Nervt: Show-Notes-Erstellen, Tags schreiben (vergisst er absichtlich), wiederkehrende Klick-Routinen zwischen Ultraschall, Dropbox, Auphonic.
 
 ### [[Philipp Müllender]] (Ep 15)
+
 - **Erster Berührungspunkt & Anstoß:** Erster Kontakt lustigerweise über den Vater, der Radio-Comedies (Frühstück bei Stefanie) auf dem Weg zur Arbeit hörte.
 
-### [[Sebastian Stix]] (Ep 16)
+### [[Sebastian Stix]] (Ep 14)
+
 - **Erster Berührungspunkt & Anstoß:** 2005/06 über einen kleinen iPod – Tab neben Musik 'Podcast' entdeckt.
 
 ---
+
 [[Übersicht Podcast-Faible Themen]]

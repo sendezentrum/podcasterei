@@ -1,7 +1,7 @@
 ---
 type: Person
 name: Martin Fischer
-datum:
+url: https://sendungsbewusstsein.info
 contributes:
   - []
 orgs:
@@ -14,6 +14,7 @@ source: community
 checked: false
 ---
 
+# Martin Fischer
 ## Beschreibung
 Martin Fischer ist Podcaster in der deutschsprachigen Podcast-Szene. Er war Gast im Podcast [[Sendungsbewusstsein]].
 

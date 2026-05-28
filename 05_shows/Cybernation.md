@@ -21,12 +21,13 @@ topics:
 
 url: https://cybernation.fm
 rss: https://feeds.lagedernation.org/feeds/cbn-mp3.xml
+inception:
 source: community
 checked: false
 ---
 
+# Cybernation
 ## Beschreibung
-
 Cybernation ist ein Podcast über digitale Sicherheit von [[Sven Herpig]], [[Alexandra Paulus]] und [[Johannes Steger]]. Themen sind Cybersicherheit, KI-Sicherheit, Cyberangriffe und kritische Infrastruktur. Produziert über [[Lage der Nation GmbH]].
 
 ## Verbindungen

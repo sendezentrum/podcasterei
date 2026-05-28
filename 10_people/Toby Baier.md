@@ -1,7 +1,7 @@
 ---
 type: Person
 name: Toby Baier
-datum:
+url: https://hauseins.fm/team/
 contributes:
   - "[[Einschlafen Podcast]]"
 orgs:
@@ -16,6 +16,7 @@ source: community
 checked: false
 ---
 
+# Toby Baier
 ## Beschreibung
 Toby Baier ist IT-Spezialist und Gründer des [[Einschlafen Podcast]], produziert über [[Haus 1]].
 

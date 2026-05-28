@@ -11,25 +11,25 @@ tags: [thema, hoerer-feedback]
 
 ## Verbindungen
 
-### [[Johannes Wolf]] (Ep 1)
+### [[Johannes Wolf]] (Ep 29)
 - **Wichtigste Lektion:** Wichtigste Lektion: Man muss nicht für jedes neue Format einen neuen Podcast-Feed anlegen.
 
-### [[Patrick Lohmeier]] (Ep 6)
+### [[Patrick Lohmeier]] (Ep 24)
 - **Liebstes und Nervigstes:** Beim James-Bond-Jahr 2015 verlor er die Hälfte der Hörerschaft – stört ihn nicht.
 
-### [[Dela]] (Ep 9)
+### [[Dela]] (Ep 21)
 - **Wichtigste Lektion:** Drei Lektionen: 1) Macht das, worauf ihr Bock habt – nicht was ihr für erfolgreich haltet.
 
-### [[Pascal Wichmann]] (Ep 18)
+### [[Pascal Wichmann]] (Ep 12)
 - **Erster Berührungspunkt & Anstoß:** Suchte über Foren und das Sendegate Gleichgesinnte für Themen, über die er reden wollte.
 
-### [[Kai Rohde]] (Ep 20)
+### [[Kai Rohde]] (Ep 10)
 - **Liebstes und Nervigstes:** Liebt es, viele Menschen kennenzulernen und ihre Geschichten zu hören – 50 Persönlichkeiten und Lebensgeschichten pro Jahr.
 
-### [[Christiane Attig]] (Ep 22)
+### [[Christiane Attig]] (Ep 8)
 - **Wichtigste Lektion:** Radio-Sprichwort: 'Alles versendet sich.' Egal was du sagst, irgendwann erinnert sich niemand mehr daran – also keine übergroße Sorge bei kleinen Fehlern.
 
-### [[Soenke Scharnhorst]] (Ep 25)
+### [[Soenke Scharnhorst]] (Ep 5)
 - **Erster Berührungspunkt & Anstoß:** Bester Grund selbst zu podcasten: man findet ein Thema spannend, aber es gibt noch nichts dazu, oder man möchte eine andere Stimme zu einem Thema beisteuern.
 - **Wichtigste Lektion:** Technische Hürde ist niedrig (gute Mikrofone und Tools holen viel raus).
 

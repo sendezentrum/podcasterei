@@ -1,7 +1,7 @@
 ---
 type: Person
 name: Sven Herpig
-datum:
+url: https://cybernation.fm
 contributes:
   - "[[Cybernation]]"
 orgs:
@@ -16,8 +16,7 @@ source: community
 checked: false
 ---
 
-## Beschreibung
-
+# Sven Herpig
 Dr. Sven Herpig ist Cybersicherheitsexperte und Co-Host von [[Cybernation]], dem Cybersicherheits-Podcast der [[Lage der Nation GmbH]].
 
 ## Verbindungen

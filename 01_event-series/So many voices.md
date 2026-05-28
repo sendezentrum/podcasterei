@@ -1,9 +1,10 @@
 ---
 type: EventSeries
 name: So Many Voices
-datum: 2026-11-20 bis 2026-11-21
+url: https://somanyvoices.de/
+date: 2026-11-20 bis 2026-11-21
 
-participants:
+audience:
   - "[[Podcaster:innen]]"
   - "[[Podcast-Produzent:innen]]"
   - "[[Journalist:innen (Audio/Podcast)]]"
@@ -34,8 +35,7 @@ source: community
 checked: false
 ---
 
-## Beschreibung
-
+# So Many Voices
 So Many Voices ist eine Podcast-Konferenz „von Podcaster:innen für Podcaster:innen“, die am 20. und 21. November 2026 in München stattfindet. Sie kombiniert Diskussionen, Workshops und Networking, um Austausch und Lernen innerhalb der Podcast-Branche zu fördern. 
 
 ## Teilnehmer & Verbindungen

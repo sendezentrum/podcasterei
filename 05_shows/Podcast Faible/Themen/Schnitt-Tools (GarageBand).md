@@ -11,10 +11,10 @@ tags: [thema, schnitt-tools-garageband]
 
 ## Verbindungen
 
-### [[Yvette Philippens]] (Ep 19)
+### [[Yvette Philippens]] (Ep 11)
 - **Technik:** Team Mikro + Kopfhörer (Empfehlung an Interviewgäste: Rückkopplung vermeiden).
 
-### [[Kai Rohde]] (Ep 20)
+### [[Kai Rohde]] (Ep 10)
 - **Technik:** Iterativ: erst iPhone, dann günstiges Podcaster-Mikro, jetzt Rode NT1 Gen 5.
 
 ---

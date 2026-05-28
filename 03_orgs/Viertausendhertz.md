@@ -25,8 +25,7 @@ source: community
 checked: false
 ---
 
-## Beschreibung
-
+# Viertausendhertz
 Viertausendhertz ist ein unabhängiges Podcast-Label, gegründet von Christian Conradi, Nicolas Semak und weiteren. Es produziert und verlegt Podcasts mit Fokus auf Kultur, Gesellschaft und Wissen.
 
 ## Netzwerkrolle

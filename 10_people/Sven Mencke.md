@@ -1,7 +1,7 @@
 ---
 type: Person
 name: Sven Mencke
-datum:
+url: https://sendungsbewusstsein.info
 contributes:
   - "[[Culinaricast]]"
 orgs:
@@ -15,6 +15,7 @@ source: community
 checked: false
 ---
 
+# Sven Mencke
 ## Beschreibung
 Sven Mencke ist Podcaster und Betreiber von [[Culinaricast]], einem Podcast rund um Kulinarik und Essen. Er war Gast im Podcast [[Sendungsbewusstsein]] (SB-005, Mai 2014).
 

@@ -1,7 +1,7 @@
 ---
 type: Person
 name: Jörn Schaar
-datum:
+url: https://www.podlovers.org
 contributes:
   - []
 orgs:

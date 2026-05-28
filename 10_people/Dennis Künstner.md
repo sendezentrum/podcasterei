@@ -1,7 +1,7 @@
 ---
 type: Person
 name: Dennis Künstner
-datum:
+url: https://www.hoer-talk.de/
 contributes:
  - "[[HoerTalk]]"
 orgs:

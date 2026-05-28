@@ -1,7 +1,6 @@
 ---
 type: Person
 name: Leni Bohrmann
-datum:
 contributes:
 orgs:
 podcasts:

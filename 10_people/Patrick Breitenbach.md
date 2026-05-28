@@ -1,7 +1,7 @@
 ---
 type: Person
 name: Patrick Breitenbach
-datum:
+url: https://sendungsbewusstsein.info
 contributes:
   - []
 orgs:
@@ -16,6 +16,7 @@ source: community
 checked: false
 ---
 
+# Patrick Breitenbach
 ## Beschreibung
 Patrick Breitenbach ist Medienmacher und Unternehmer mit Bezug zur deutschsprachigen Podcast-Szene. Er war Gast im Podcast [[Sendungsbewusstsein]].
 

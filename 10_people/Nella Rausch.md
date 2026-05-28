@@ -1,7 +1,6 @@
 ---
 type: Person
 name: Nella Rausch
-datum:
 contributes:
 orgs:
 podcasts:

@@ -1,7 +1,6 @@
 ---
 type: Person
 name: Heike Drexel
-datum:
 contributes:
 orgs:
 podcasts:

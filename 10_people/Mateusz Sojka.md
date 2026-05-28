@@ -1,7 +1,6 @@
 ---
 type: Person
 name: Mateusz Sojka
-datum:
 contributes:
  - []
 orgs:
@@ -14,8 +13,7 @@ source: community
 checked: false
 ---
 
-## Beschreibung
-
+# Mateusz Sojka
 ## Verbindungen
 
 ## Bedeutung

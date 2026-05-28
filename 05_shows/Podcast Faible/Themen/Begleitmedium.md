@@ -11,10 +11,10 @@ tags: [thema, begleitmedium]
 
 ## Verbindungen
 
-### [[Leni Bohrmann]] (Ep 3)
+### [[Leni Bohrmann]] (Ep 27)
 - **Eigener Podcast-Konsum:** Begleitet sie durch den Alltag (Hausarbeit, Zugfahren).
 
-### [[Sebastian Stix]] (Ep 16)
+### [[Sebastian Stix]] (Ep 14)
 - **Erster Berührungspunkt & Anstoß:** 2005/06 über einen kleinen iPod – Tab neben Musik 'Podcast' entdeckt.
 
 ---

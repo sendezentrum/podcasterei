@@ -1,7 +1,7 @@
 ---
 type: Person
 name: Philip Banse
-datum:
+url: https://lagedernation.org
 contributes:
   - "[[Küchenradio]]"
   - "[[Lage der Nation]]"
@@ -19,8 +19,7 @@ source: community
 checked: false
 ---
 
-## Beschreibung
-
+# Philip Banse
 Philip Banse ist Journalist und Podcaster. Er war Hauptstadtkorrespondent bei [[Deutschlandradio]] und studierte Geschichte, Politik und Russisch. Er gründete 2005 [[Küchenradio]], eines der frühen deutschsprachigen Podcasts, und ist Co-Host von [[Lage der Nation]] (mit [[Ulf Buermeyer]]), einem der meistgehörten deutschen Politik-Podcasts. Er war außerdem Gast bei [[Der Lautsprecher]].
 
 ## Verbindungen
