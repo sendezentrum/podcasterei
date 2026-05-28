@@ -1,12 +1,14 @@
 ---
 type: PodcastLabel
 name:
+status: draft
+url:
 
 podcasts:
-  - [[ ]]
+  -
 
 orgs:
-  - [[ ]]
+  -
 
 topics:
   -

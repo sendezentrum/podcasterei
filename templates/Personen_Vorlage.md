@@ -1,21 +1,24 @@
 ---
 type: Person
 name:
-datum:
+url:
+social:
+  -
 contributes:
-  - - []
+  -
 orgs:
-  - - []
+  -
 podcasts:
-  - - []
+  -
 topics:
   -
 source: community
 checked: false
 ---
 
-## Beschreibung
-(Max. 2–3 Sätze)
+# <Name der Person>
+
+(Max. 2–3 Sätz Kurzbeschreibung)
 
 ## Verbindungen
 (Max. 2–3 Sätze)
@@ -24,3 +27,4 @@ checked: false
 (Max. 1–2 Sätze)
 
 ## Quellen / Hinweise
+-

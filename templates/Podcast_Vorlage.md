@@ -1,31 +1,30 @@
 ---
 type: PodcastSeries
 name:
+url: URI identifing this sereies
+feed_url: RSS Feed
 
-orga: [[ ]]
 authors:
-  - [[ ]]
-
-andere_podcasts:
-  - [[ ]]
-
-labels:
-  - [[ ]]
-
-events:
-  - [[ ]]
+  -
 
 topics:
+  -
+
+events:
   -
 
 source: community
 checked: false
 ---
 
+## Beschreibung
 (Max. 2–3 Sätze: Worum geht es?)
 
-## Wichtige Verbindungen
+## Verbindungen
 (Max. 2–3 Sätze: wichtigste Beziehungen erklären)
+- Hosts:
+- Organisationen:
+- Podcasts:
 - Kooperationen:
 - Netzwerk:
 

@@ -1,18 +1,16 @@
 ---
 type: Organization
 name:
+url:
 
 podcasts:
-  - [[ ]]
+  -
 
-projekte:
-  - [[ ]]
-
-labels:
-  - [[ ]]
+projects:
+  -
 
 events:
-  - [[ ]]
+  -
 
 topics:
   -

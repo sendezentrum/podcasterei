@@ -1,16 +1,17 @@
 ---
 type: Event
 name:
-datum:
+start:
+end:
+url:
 
-participants:
-  - [[ ]]
+organizers:
 
-orgs:
-  - [[ ]]
+audience:
 
-podcasts:
-  - [[ ]]
+
+speakers:
+contributors:
 
 topics:
   -
@@ -19,8 +20,7 @@ source: community
 checked: false
 ---
 
-## Beschreibung
-(Max. 2–3 Sätze)
+(2–3 Sätze Beschreibung)
 
 ## Teilnehmer & Verbindungen
 (Max. 2–3 Sätze)
