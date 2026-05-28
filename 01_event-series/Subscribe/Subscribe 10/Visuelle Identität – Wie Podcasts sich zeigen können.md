@@ -1,16 +1,15 @@
 ---
 type: talk
 name: Visuelle Identität – Wie Podcasts sich zeigen können
-datum: März 2019
+url: https://media.ccc.de/v/subscribe10-28-visuelle-identitt-wie-podcasts-sich-zeigen-knnen
+date: März 2019
 event: "[[Subscribe 10 März 2019]]"
-organizers:
+speakers:
   - Sven Sedivy
 video: "https://media.ccc.de/v/subscribe10-28-visuelle-identitt-wie-podcasts-sich-zeigen-knnen"
 source: community
 checked: false
 ---
-
-## Beschreibung
 
 
 

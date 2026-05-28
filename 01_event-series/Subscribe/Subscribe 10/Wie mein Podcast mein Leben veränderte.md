@@ -1,16 +1,15 @@
 ---
 type: talk
 name: Wie mein Podcast mein Leben veränderte
-datum: März 2019
+url: https://media.ccc.de/v/subscribe10-22-wie-mein-podcast-mein-leben-vernderte
+date: März 2019
 event: "[[Subscribe 10 März 2019]]"
-organizers:
+speakers:
   - Fabian A. Scherschel
 video: "https://media.ccc.de/v/subscribe10-22-wie-mein-podcast-mein-leben-vernderte"
 source: community
 checked: false
 ---
-
-## Beschreibung
 
 
 

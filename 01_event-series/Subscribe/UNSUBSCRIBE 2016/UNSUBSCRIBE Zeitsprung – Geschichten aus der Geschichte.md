@@ -1,16 +1,15 @@
 ---
 type: talk
 name: UNSUBSCRIBE: Zeitsprung – Geschichten aus der Geschichte
-datum: Juni 2016
+url: https://www.youtube.com/watch?v=I_rYepkCL0E
+date: Juni 2016
 event: ""[[UNSUBSCRIBE 2016]]""
-organizers:
+speakers:
   - []
 video: "https://www.youtube.com/watch?v=I_rYepkCL0E"
 source: community
 checked: false
 ---
-
-## Beschreibung
 
 
 

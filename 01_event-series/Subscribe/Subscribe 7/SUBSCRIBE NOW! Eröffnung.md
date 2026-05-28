@@ -1,16 +1,15 @@
 ---
 type: talk
 name: SUBSCRIBE NOW! Eröffnung
-datum: Mai 2016
+url: https://www.youtube.com/watch?v=Il9WSz_NlPs
+date: Mai 2016
 event: ""[[Subscribe 7 Mai 2016]]""
-organizers:
+speakers:
   - "[[Tim Pritlove]]"
 video: "https://www.youtube.com/watch?v=Il9WSz_NlPs"
 source: community
 checked: false
 ---
-
-## Beschreibung
 
 
 

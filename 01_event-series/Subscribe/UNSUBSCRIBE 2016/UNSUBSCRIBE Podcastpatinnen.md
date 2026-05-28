@@ -1,16 +1,15 @@
 ---
 type: talk
 name: UNSUBSCRIBE: Podcastpatinnen
-datum: Juni 2016
+url: https://www.youtube.com/watch?v=PA4ZFVxbKvg
+date: Juni 2016
 event: ""[[UNSUBSCRIBE 2016]]""
-organizers:
+speakers:
   - []
 video: "https://www.youtube.com/watch?v=PA4ZFVxbKvg"
 source: community
 checked: false
 ---
-
-## Beschreibung
 
 
 

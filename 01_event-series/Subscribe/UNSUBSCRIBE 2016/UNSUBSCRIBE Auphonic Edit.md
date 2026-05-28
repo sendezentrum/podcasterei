@@ -1,16 +1,15 @@
 ---
 type: talk
 name: UNSUBSCRIBE: Auphonic Edit
-datum: Juni 2016
+url: https://www.youtube.com/watch?v=11QirXNJjlY
+date: Juni 2016
 event: ""[[UNSUBSCRIBE 2016]]""
-organizers:
+speakers:
   - "[[Georg Holzmann]]"
 video: "https://www.youtube.com/watch?v=11QirXNJjlY"
 source: community
 checked: false
 ---
-
-## Beschreibung
 
 
 

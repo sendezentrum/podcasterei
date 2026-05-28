@@ -1,16 +1,15 @@
 ---
 type: talk
 name: Viertausendhertz
-datum: Mai 2016
+url: https://www.youtube.com/watch?v=dKnfnrMv_uA
+date: Mai 2016
 event: ""[[Subscribe 7 Mai 2016]]""
-organizers:
+speakers:
   - []
 video: "https://www.youtube.com/watch?v=dKnfnrMv_uA"
 source: community
 checked: false
 ---
-
-## Beschreibung
 
 
 

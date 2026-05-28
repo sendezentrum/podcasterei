@@ -1,16 +1,15 @@
 ---
 type: talk
 name: Feuilleton von unten – Das Neue Berlin
-datum: März 2019
+url: https://media.ccc.de/v/subscribe10-21--feuilleton-von-unten-das-neue-berlin
+date: März 2019
 event: "[[Subscribe 10 März 2019]]"
-organizers:
+speakers:
   - Jan Wetzel
 video: "https://media.ccc.de/v/subscribe10-21--feuilleton-von-unten-das-neue-berlin"
 source: community
 checked: false
 ---
-
-## Beschreibung
 
 
 

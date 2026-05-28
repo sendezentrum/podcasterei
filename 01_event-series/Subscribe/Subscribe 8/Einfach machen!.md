@@ -1,16 +1,15 @@
 ---
 type: talk
 name: Einfach machen!
-datum: Oktober 2016
+url: https://www.youtube.com/watch?v=wKO07EMbpNM
+date: Oktober 2016
 event: ""[[Subscribe 8 Oktober 2016]]""
-organizers:
+speakers:
   - Florian Meyer-Hawranek
 video: "https://www.youtube.com/watch?v=wKO07EMbpNM"
 source: community
 checked: false
 ---
-
-## Beschreibung
 
 
 

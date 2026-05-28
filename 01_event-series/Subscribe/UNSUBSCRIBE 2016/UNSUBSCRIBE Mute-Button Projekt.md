@@ -1,16 +1,15 @@
 ---
 type: talk
 name: UNSUBSCRIBE: Mute-Button Projekt
-datum: Juni 2016
+url: https://www.youtube.com/watch?v=FoaqZLU_790
+date: Juni 2016
 event: ""[[UNSUBSCRIBE 2016]]""
-organizers:
+speakers:
   - []
 video: "https://www.youtube.com/watch?v=FoaqZLU_790"
 source: community
 checked: false
 ---
-
-## Beschreibung
 
 
 

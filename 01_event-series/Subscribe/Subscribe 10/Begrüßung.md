@@ -1,19 +1,18 @@
 ---
 type: talk
 name: Begrüßung
-datum: März 2019
+url: https://media.ccc.de/v/subscribe10-65-begrung
+date: März 2019
 event: "[[Subscribe 10 März 2019]]"
-organizers:
+speakers:
   - Klaudia Zotzmann-Koch
   - Daniela Ishorst
   - Stefan Schulz
-  - "Tim Pritlove" 
+  - "Tim Pritlove"
 video: "https://media.ccc.de/v/subscribe10-65-begrung"
 source: community
 checked: false
 ---
-
-## Beschreibung
 
 
 

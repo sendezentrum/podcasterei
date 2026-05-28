@@ -1,16 +1,15 @@
 ---
 type: talk
 name: Ultraschall für Fortgeschrittene
-datum: März 2019
+url: https://media.ccc.de/v/subscribe10-19-ultraschall-fr-fortgeschrittene
+date: März 2019
 event: "[[Subscribe 10 März 2019]]"
-organizers:
-  - "Udo Sauer" 
+speakers:
+  - "Udo Sauer"
 video: "https://media.ccc.de/v/subscribe10-19-ultraschall-fr-fortgeschrittene"
 source: community
 checked: false
 ---
-
-## Beschreibung
 
 
 

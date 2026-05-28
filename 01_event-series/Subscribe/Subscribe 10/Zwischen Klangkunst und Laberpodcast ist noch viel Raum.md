@@ -1,16 +1,15 @@
 ---
 type: talk
 name: Zwischen Klangkunst und Laberpodcast ist noch viel Raum
-datum: März 2019
+url: https://media.ccc.de/v/subscribe10-18-zwischen-klangkunst-und-laberpodcast-ist-noch-viel-raum-neue-kreative-wege-der-kulturvermittlung-mit-internet-und-audio
+date: März 2019
 event: "[[Subscribe 10 März 2019]]"
-organizers:
+speakers:
   - Friedemann Brenneis
 video: "https://media.ccc.de/v/subscribe10-18-zwischen-klangkunst-und-laberpodcast-ist-noch-viel-raum-neue-kreative-wege-der-kulturvermittlung-mit-internet-und-audio"
 source: community
 checked: false
 ---
-
-## Beschreibung
 
 
 

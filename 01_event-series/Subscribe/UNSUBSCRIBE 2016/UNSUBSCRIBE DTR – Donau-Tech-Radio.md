@@ -1,16 +1,15 @@
 ---
 type: talk
 name: UNSUBSCRIBE: DTR – Donau-Tech-Radio
-datum: Juni 2016
+url: https://www.youtube.com/watch?v=XNbrJDoElZY
+date: Juni 2016
 event: ""[[UNSUBSCRIBE 2016]]""
-organizers:
+speakers:
   - []
 video: "https://www.youtube.com/watch?v=XNbrJDoElZY"
 source: community
 checked: false
 ---
-
-## Beschreibung
 
 
 

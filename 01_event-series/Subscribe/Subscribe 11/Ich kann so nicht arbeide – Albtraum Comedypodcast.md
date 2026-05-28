@@ -1,20 +1,19 @@
 ---
 type: talk
 name: Ich kann so nicht arbeide – Albtraum Comedypodcast
+url: https://pretalx.c3voc.de/subscribe11/talk/8JFHS3/
 code: 8JFHS3
-datum: 2024-10-18 17:45
+date: 2024-10-18 17:45
 duration: 00:30
 room: Großer Saal
 track: Vorträge
 event: "[[Subscribe 11 Oktober 2024]]"
-organizers:
+speakers:
   - Danny Frede
 video: "https://media.ccc.de/v/subscribe11-58189-ich-kann-so-nicht-arbeide-albtraum-comedypodcast"
 source: community
 checked: false
 ---
-
-## Beschreibung
 
 10 Dinge, die ich nach einem Jahr und hundert Folgen gelernt habe.
 

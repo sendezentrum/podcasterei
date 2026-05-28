@@ -1,16 +1,15 @@
 ---
 type: talk
 name: Podcasting aus Sicht der BR-Medienforschung
-datum: Oktober 2016
+url: https://www.youtube.com/watch?v=0Dl-nN8jCE0
+date: Oktober 2016
 event: ""[[Subscribe 8 Oktober 2016]]""
-organizers:
+speakers:
   - Birgit van Eimeren
 video: "https://www.youtube.com/watch?v=0Dl-nN8jCE0"
 source: community
 checked: false
 ---
-
-## Beschreibung
 
 
 

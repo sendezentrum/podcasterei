@@ -1,16 +1,15 @@
 ---
 type: talk
 name: Workshop: Video killed the Podcast Star
-datum: Oktober 2016
+url: https://www.youtube.com/watch?v=L27YKHxshBQ
+date: Oktober 2016
 event: ""[[Subscribe 8 Oktober 2016]]""
-organizers:
+speakers:
   - []
 video: "https://www.youtube.com/watch?v=L27YKHxshBQ"
 source: community
 checked: false
 ---
-
-## Beschreibung
 
 
 

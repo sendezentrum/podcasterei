@@ -1,16 +1,15 @@
 ---
 type: talk
 name: UNSUBSCRIBE: Octopod
-datum: Juni 2016
+url: https://www.youtube.com/watch?v=vsJM2GCY3rA
+date: Juni 2016
 event: ""[[UNSUBSCRIBE 2016]]""
-organizers:
+speakers:
   - []
 video: "https://www.youtube.com/watch?v=vsJM2GCY3rA"
 source: community
 checked: false
 ---
-
-## Beschreibung
 
 
 

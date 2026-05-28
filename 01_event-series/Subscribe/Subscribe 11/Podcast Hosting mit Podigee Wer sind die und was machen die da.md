@@ -1,20 +1,19 @@
 ---
 type: talk
 name: Podcast Hosting mit Podigee: Wer sind die und was machen die da?
+url: https://pretalx.c3voc.de/subscribe11/talk/JFKN8K/
 code: JFKN8K
-datum: 2024-10-19 14:00
+date: 2024-10-19 14:00
 duration: 00:30
 room: Großer Saal
 track: Vorträge
 event: "[[Subscribe 11 Oktober 2024]]"
-organizers:
+speakers:
   - "[[Benjamin Zimmer]]"
 video: "https://media.ccc.de/v/subscribe11-58224-podcast-hosting-mit-podigee-wer-sind-die-und-was-machen-die-da-"
 source: community
 checked: false
 ---
-
-## Beschreibung
 
 Warum man ein Podcast Hosting braucht und warum Podigee richtig sein könnte.
 

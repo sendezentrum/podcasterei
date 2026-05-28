@@ -1,16 +1,15 @@
 ---
 type: talk
 name: Das parallele Podcastuniversum
-datum: Mai 2016
+url: https://www.youtube.com/watch?v=3g5YvE4ifn0
+date: Mai 2016
 event: ""[[Subscribe 7 Mai 2016]]""
-organizers:
+speakers:
   - []
 video: "https://www.youtube.com/watch?v=3g5YvE4ifn0"
 source: community
 checked: false
 ---
-
-## Beschreibung
 
 
 

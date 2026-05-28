@@ -1,16 +1,15 @@
 ---
 type: talk
 name: Ohne Müll
-datum: März 2019
+url: https://media.ccc.de/v/subscribe10-62-ohne-mll-wie-ein-selbstversuch-hrer-innen-zum-nachdenken-brachte
+date: März 2019
 event: "[[Subscribe 10 März 2019]]"
-organizers:
+speakers:
   - Kerstin Ruskowski
 video: "https://media.ccc.de/v/subscribe10-62-ohne-mll-wie-ein-selbstversuch-hrer-innen-zum-nachdenken-brachte"
 source: community
 checked: false
 ---
-
-## Beschreibung
 
 
 

@@ -1,16 +1,15 @@
 ---
 type: talk
 name: Das Podlove-Universum
-datum: Oktober 2016
+url: https://www.youtube.com/watch?v=agiayo7c2Gw
+date: Oktober 2016
 event: ""[[Subscribe 8 Oktober 2016]]""
-organizers:
+speakers:
   - "[[Tim Pritlove]]"
 video: "https://www.youtube.com/watch?v=agiayo7c2Gw"
 source: community
 checked: false
 ---
-
-## Beschreibung
 
 
 

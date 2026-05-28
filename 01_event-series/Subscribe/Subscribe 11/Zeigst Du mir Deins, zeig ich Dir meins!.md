@@ -1,20 +1,19 @@
 ---
 type: talk
 name: Zeigst Du mir Deins, zeig ich Dir meins!
+url: https://pretalx.c3voc.de/subscribe11/talk/C8YUQS/
 code: C8YUQS
-datum: 2024-10-19 15:45
+date: 2024-10-19 15:45
 duration: 02:45
 room: Kleiner Saal
-track: 
+track:
 event: "[[Subscribe 11 Oktober 2024]]"
-organizers:
+speakers:
   - []
 video: "https://media.ccc.de/v/subscribe11-58227-zeigst-du-mir-deins-zeig-ich-dir-meins"
 source: community
 checked: false
 ---
-
-## Beschreibung
 
 Gegenseitige Vorstellung von Podcast-Hardware.
 

@@ -1,16 +1,15 @@
 ---
 type: talk
 name: Podcasts und Öffis
-datum: Mai 2016
+url: https://www.youtube.com/watch?v=MZK98vbXZco
+date: Mai 2016
 event: ""[[Subscribe 7 Mai 2016]]""
-organizers:
+speakers:
   - []
 video: "https://www.youtube.com/watch?v=MZK98vbXZco"
 source: community
 checked: false
 ---
-
-## Beschreibung
 
 
 

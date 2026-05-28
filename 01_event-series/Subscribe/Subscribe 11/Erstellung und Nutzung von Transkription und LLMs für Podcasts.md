@@ -1,20 +1,19 @@
 ---
 type: talk
 name: Erstellung und Nutzung von Transkription und LLMs für Podcasts
+url: https://pretalx.c3voc.de/subscribe11/talk/LUV8EX/
 code: LUV8EX
-datum: 2024-10-20 10:00
+date: 2024-10-20 10:00
 duration: 00:45
 room: Raum 6
 track: Barcamp
 event: "[[Subscribe 11 Oktober 2024]]"
-organizers:
+speakers:
   - "[[Tim Pritlove]]"
 video: "https://media.ccc.de/v/subscribe11-58202-erstellung-und-nutzung-von-transkription-und-llms-fr-podcasts"
 source: community
 checked: false
 ---
-
-## Beschreibung
 
 Automatische Transkription und Nutzung in Feeds.
 

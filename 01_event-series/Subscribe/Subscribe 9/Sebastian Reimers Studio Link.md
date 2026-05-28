@@ -1,16 +1,15 @@
 ---
 type: talk
 name: Sebastian Reimers: Studio Link
-datum: Oktober 2017
+url: https://www.youtube.com/watch?v=GiOBrWiLM3s
+date: Oktober 2017
 event: ""[[Subscribe 9 Oktober 2017]]""
-organizers:
+speakers:
   - "[[Sebastian Reimers]]"
 video: "https://www.youtube.com/watch?v=GiOBrWiLM3s"
 source: community
 checked: false
 ---
-
-## Beschreibung
 
 
 

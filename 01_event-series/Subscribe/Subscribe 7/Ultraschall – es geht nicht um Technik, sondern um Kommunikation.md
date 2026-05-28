@@ -1,16 +1,15 @@
 ---
 type: talk
 name: Ultraschall – es geht nicht um Technik, sondern um Kommunikation
-datum: Mai 2016
+url: https://www.youtube.com/watch?v=-lw-_3QLP7Y
+date: Mai 2016
 event: ""[[Subscribe 7 Mai 2016]]""
-organizers:
+speakers:
   - "[[Ralf Stockmann]]"
 video: "https://www.youtube.com/watch?v=-lw-_3QLP7Y"
 source: community
 checked: false
 ---
-
-## Beschreibung
 
 
 

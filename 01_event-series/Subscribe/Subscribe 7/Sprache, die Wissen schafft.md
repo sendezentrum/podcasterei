@@ -1,16 +1,15 @@
 ---
 type: talk
 name: Sprache, die Wissen schafft
-datum: Mai 2016
+url: https://www.youtube.com/watch?v=-mzXY3nYOaU
+date: Mai 2016
 event: ""[[Subscribe 7 Mai 2016]]""
-organizers:
+speakers:
   - Melanie Bartos
 video: "https://www.youtube.com/watch?v=-mzXY3nYOaU"
 source: community
 checked: false
 ---
-
-## Beschreibung
 
 
 

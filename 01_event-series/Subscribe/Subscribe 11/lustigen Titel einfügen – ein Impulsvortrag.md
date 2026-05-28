@@ -1,20 +1,19 @@
 ---
 type: talk
 name: *lustigen Titel einfügen* – ein Impulsvortrag
+url: https://pretalx.c3voc.de/subscribe11/talk/CXJDHN/
 code: CXJDHN
-datum: 2024-10-20 12:30
+date: 2024-10-20 12:30
 duration: 00:15
 room: Großer Saal
-track: 
+track:
 event: "[[Subscribe 11 Oktober 2024]]"
-organizers:
+speakers:
   - Danny Frede
 video: "https://media.ccc.de/v/subscribe11-58251--lustigen-titel-einfgen-ein-impulsvortrag"
 source: community
 checked: false
 ---
-
-## Beschreibung
 
 Humor ist entscheidend um Hörer zu Fans zu machen.
 

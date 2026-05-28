@@ -1,16 +1,15 @@
 ---
 type: talk
 name: Podcast küsst Radio
-datum: Oktober 2016
+url: https://www.youtube.com/watch?v=TVZo0JfswUs
+date: Oktober 2016
 event: ""[[Subscribe 8 Oktober 2016]]""
-organizers:
+speakers:
   - Lothar Bodingbauer
 video: "https://www.youtube.com/watch?v=TVZo0JfswUs"
 source: community
 checked: false
 ---
-
-## Beschreibung
 
 
 

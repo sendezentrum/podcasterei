@@ -1,19 +1,18 @@
 ---
 type: talk
 name: Twitch für Podcastende
+url: https://pretalx.c3voc.de/subscribe11/talk/PCCWDW/
 code: PCCWDW
-datum: 2024-10-19 12:20
+date: 2024-10-19 12:20
 duration: 00:40
 room: Raum 4
 track: Barcamp
 event: "[[Subscribe 11 Oktober 2024]]"
-organizers:
+speakers:
   - Moritz Giessmann
 source: community
 checked: false
 ---
-
-## Beschreibung
 
 Erfahrungsbericht zu Twitch für Podcaster.
 

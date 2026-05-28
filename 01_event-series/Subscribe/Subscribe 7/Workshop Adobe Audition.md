@@ -1,16 +1,15 @@
 ---
 type: talk
 name: Workshop: Adobe Audition
-datum: Mai 2016
+url: https://www.youtube.com/watch?v=Oxm4uA-koNo
+date: Mai 2016
 event: ""[[Subscribe 7 Mai 2016]]""
-organizers:
+speakers:
   - []
 video: "https://www.youtube.com/watch?v=Oxm4uA-koNo"
 source: community
 checked: false
 ---
-
-## Beschreibung
 
 
 

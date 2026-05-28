@@ -1,16 +1,15 @@
 ---
 type: talk
 name: Begrüßung Subscribe 9
-datum: Oktober 2017
+url: https://www.youtube.com/watch?v=PIA4Ifgx_ds
+date: Oktober 2017
 event: ""[[Subscribe 9 Oktober 2017]]""
-organizers:
+speakers:
   - []
 video: "https://www.youtube.com/watch?v=PIA4Ifgx_ds"
 source: community
 checked: false
 ---
-
-## Beschreibung
 
 
 

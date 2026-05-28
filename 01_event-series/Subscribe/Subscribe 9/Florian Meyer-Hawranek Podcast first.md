@@ -1,16 +1,15 @@
 ---
 type: talk
 name: Florian Meyer-Hawranek: Podcast first?
-datum: Oktober 2017
+url: https://www.youtube.com/watch?v=2f5wIfkeVec
+date: Oktober 2017
 event: ""[[Subscribe 9 Oktober 2017]]""
-organizers:
+speakers:
   - Florian Meyer-Hawranek
 video: "https://www.youtube.com/watch?v=2f5wIfkeVec"
 source: community
 checked: false
 ---
-
-## Beschreibung
 
 
 
