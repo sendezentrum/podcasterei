@@ -3,10 +3,10 @@ type: Person
 name: Bernd Rupp
 datum:
 contributes:
- - "[[GanzOhr]]"
- - "[[Wissenschaftspodcasts]]"
+  - "[[GanzOhr]]"
+  - "[[Wissenschaftspodcasts]]"
 orgs:
- - "[[Wisspod]]"
+  - "[[Wisspod]]"
 podcasts:
   - []
 topics:

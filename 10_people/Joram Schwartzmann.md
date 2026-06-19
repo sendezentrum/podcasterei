@@ -3,9 +3,9 @@ type: Person
 name: Joram Schwartzmann
 datum:
 contributes:
- - "[[Ultraschall]]"
+  - "[[Ultraschall]]"
 orgs:
- - []
+  - []
 podcasts:
   - []
 topics:

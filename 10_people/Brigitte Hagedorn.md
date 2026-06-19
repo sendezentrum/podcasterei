@@ -3,9 +3,9 @@ type: Person
 name: Brigitte Hagedorn
 datum:
 contributes:
- - []
+  - []
 orgs:
- - []
+  - []
 podcasts:
   - []
 topics:

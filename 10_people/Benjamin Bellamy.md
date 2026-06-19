@@ -3,9 +3,9 @@ type: Person
 name: Benjamin Bellamy
 datum:
 contributes:
- - "[[Castopod]]"
+  - "[[Castopod]]"
 orgs:
- - "[[Ad Aures]]"
+  - "[[Ad Aures]]"
 podcasts:
   - []
 topics:

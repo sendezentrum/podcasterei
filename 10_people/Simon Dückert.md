@@ -3,9 +3,9 @@ type: Person
 name: Simon Dückert
 datum:
 contributes:
- - "[[Sendegate]]"
+  - "[[Sendegate]]"
 orgs:
- - []
+  - []
 podcasts:
   - []
 topics:

@@ -3,9 +3,9 @@ type: Person
 name: Meo Mespotine
 datum:
 contributes:
- - "[[Ultraschall]]"
+  - "[[Ultraschall]]"
 orgs:
- - []
+  - []
 podcasts:
   - []
 topics:

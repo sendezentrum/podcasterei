@@ -3,10 +3,10 @@ type: Person
 name: Tim Pritlove
 datum:
 contributes:
- - "[[Das Sendezentrum]]"
- - "[[Sendegate]]"
+  - "[[Das Sendezentrum]]"
+  - "[[Sendegate]]"
 orgs:
- - "[[Das Sendezentrum]]"
+  - "[[Das Sendezentrum]]"
 podcasts:
   - "[[Podlove]]"
 topics:

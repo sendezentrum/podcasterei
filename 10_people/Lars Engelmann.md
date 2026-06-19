@@ -3,9 +3,9 @@ type: Person
 name: Lars Engelmann
 datum:
 contributes:
- - "[[Geschichtenkapsel]]"
+  - "[[Geschichtenkapsel]]"
 orgs:
- - []
+  - []
 podcasts:
   - "[[Geschichtenkapsel]]"
 topics:

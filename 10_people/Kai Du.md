@@ -3,9 +3,9 @@ type: Person
 name: Kai Du
 datum:
 contributes:
- - "[[Geschichtenkapsel]]"
+  - "[[Geschichtenkapsel]]"
 orgs:
- - []
+  - []
 podcasts:
   - "[[Geschichtenkapsel]]"
 topics:

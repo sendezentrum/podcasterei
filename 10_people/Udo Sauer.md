@@ -3,9 +3,9 @@ type: Person
 name: Udo Sauer
 datum:
 contributes:
- - "[[Ultraschall]]"
+  - "[[Ultraschall]]"
 orgs:
- - []
+  - []
 podcasts:
   - []
 topics:

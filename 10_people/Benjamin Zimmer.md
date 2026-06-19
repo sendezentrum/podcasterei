@@ -3,9 +3,9 @@ type: Person
 name: Benjamin Zimmer
 datum:
 contributes:
- - []
+  - []
 orgs:
- - []
+  - []
 podcasts:
   - []
 topics:

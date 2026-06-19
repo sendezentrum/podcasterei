@@ -14,9 +14,9 @@ participants:
   - "[[Branchen-Professionals der Podcast-Szene]]"
 
 orgs:
- - "[[Haus 1]]"
- - "[[MedienNetzwerk Bayern]]"
- - "[[Bayerischer Rundfunk]]"
+  - "[[Haus 1]]"
+  - "[[MedienNetzwerk Bayern]]"
+  - "[[Bayerischer Rundfunk]]"
 
 podcasts:
   - "[[hauseins Podcasts]]"

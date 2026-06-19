@@ -3,10 +3,10 @@ type: Person
 name: Sebastian Reimers
 datum:
 contributes:
- - "[[Podstock]]"
- - "[[Ultraschall]]"
+  - "[[Podstock]]"
+  - "[[Ultraschall]]"
 orgs:
- - "[[IT-Service Sebastian Reimers]]"
+  - "[[IT-Service Sebastian Reimers]]"
 podcasts:
   - "[[Studio Link]]"
 topics:

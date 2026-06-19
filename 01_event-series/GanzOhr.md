@@ -12,8 +12,8 @@ participants:
   - "[[Audio-Enthusiast:innen]]"
 
 orgs:
- - "[[Wisspod]]"
- - "[[Otto-von-Guericke-Universität Magdeburg]]"
+  - "[[Wisspod]]"
+  - "[[Otto-von-Guericke-Universität Magdeburg]]"
 
 podcasts:
   - "[[Wissenschaftspodcasts]]"

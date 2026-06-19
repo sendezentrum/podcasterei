@@ -3,9 +3,9 @@ type: Person
 name: Christian Bednarek
 datum:
 contributes:
- - "[[Fyyd]]"
+  - "[[Fyyd]]"
 orgs:
- - []
+  - []
 podcasts:
   - []
 topics:

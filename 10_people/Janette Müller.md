@@ -3,9 +3,9 @@ type: Person
 name: Janette Müller
 datum:
 contributes:
- - "[[Sendegate]]"
+  - "[[Sendegate]]"
 orgs:
- - []
+  - []
 podcasts:
   - []
 topics:

@@ -3,9 +3,9 @@ type: Person
 name: Klaus Uhrig
 datum:
 contributes:
- - []
+  - []
 orgs:
- - []
+  - []
 podcasts:
   - []
 topics:

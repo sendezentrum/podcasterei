@@ -6,14 +6,14 @@ contributes:
 orgs:
 podcasts:
 topics:
-	- frauen im podcast bereich
-	- live aufnahmen
-	- mikrofon setup
-	- perfektionismus loslassen
-	- recherche vorbereitung
-	- schnitt erlebnis
-	- sendegate community
-	- shownotes aufbereitung
+- frauen im podcast bereich
+- live aufnahmen
+- mikrofon setup
+- perfektionismus loslassen
+- recherche vorbereitung
+- schnitt erlebnis
+- sendegate community
+right- shownotes aufbereitung
 source: community
 checked: false
 ---

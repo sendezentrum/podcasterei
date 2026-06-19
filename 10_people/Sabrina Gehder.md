@@ -3,9 +3,9 @@ type: Person
 name: Sabrina Gehder
 datum:
 contributes:
- - "[[Parlamentsrevue]]"
+  - "[[Parlamentsrevue]]"
 orgs:
- - []
+  - []
 podcasts:
   - "[[Parlamentsrevue]]"
 topics:

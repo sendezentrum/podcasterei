@@ -3,9 +3,9 @@ type: Person
 name: Malik Aziz
 datum:
 contributes:
- - "[[Ultraschall]]"
+  - "[[Ultraschall]]"
 orgs:
- - []
+  - []
 podcasts:
   - []
 topics:

@@ -12,12 +12,12 @@ participants:
   - "[[Audio-Interessierte]]"
 
 orgs:
- - "[[IT-Service Sebastian Reimers]]"
+  - "[[IT-Service Sebastian Reimers]]"
 
 organizers:
- - "[[Sebastian Reimers]]"
- - "[[Kirsten]]"
- - "[[Sven Gorny]]"
+  - "[[Sebastian Reimers]]"
+  - "[[Kirsten]]"
+  - "[[Sven Gorny]]"
 
 podcasts:
   - "[[Live-Podcasts (verschiedene Shows)]]"

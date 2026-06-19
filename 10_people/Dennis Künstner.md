@@ -3,9 +3,9 @@ type: Person
 name: Dennis Künstner
 datum:
 contributes:
- - "[[HoerTalk]]"
+  - "[[HoerTalk]]"
 orgs:
- - []
+  - []
 podcasts:
   - []
 topics:

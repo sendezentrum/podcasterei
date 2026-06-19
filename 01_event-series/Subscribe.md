@@ -12,9 +12,9 @@ participants:
   - "[[Community-Mitglieder der Podcast-Szene]]"
 
 orgs:
- - "[[Das Sendezentrum]]"
- - "[[Sendegate]]"
- - "[[Podlove]]"
+  - "[[Das Sendezentrum]]"
+  - "[[Sendegate]]"
+  - "[[Podlove]]"
 
 podcasts:
   - "[[Die Sondersendung]]"

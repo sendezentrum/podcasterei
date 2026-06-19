@@ -3,9 +3,9 @@ type: Person
 name: Claudia Krell
 datum:
 contributes:
- - "[[Das Sendezentrum]]"
+  - "[[Das Sendezentrum]]"
 orgs:
- - "[[Das Sendezentrum]]"
+  - "[[Das Sendezentrum]]"
 podcasts:
   - []
 topics:
