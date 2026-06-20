@@ -3,9 +3,9 @@ type: Person
 name: Georg Holzmann
 url: https://auphonic.com/
 contributes:
- - "[[Auphonic]]"
+  - "[[Auphonic]]"
 orgs:
- - "[[Auphonic]]"
+  - "[[Auphonic]]"
 podcasts:
   - []
 topics:

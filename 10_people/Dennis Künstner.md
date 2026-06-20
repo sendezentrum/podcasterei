@@ -3,9 +3,9 @@ type: Person
 name: Dennis Künstner
 url: https://www.hoer-talk.de/
 contributes:
- - "[[HoerTalk]]"
+  - "[[HoerTalk]]"
 orgs:
- - []
+  - []
 podcasts:
   - []
 topics:

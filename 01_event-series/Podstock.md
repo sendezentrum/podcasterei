@@ -11,7 +11,7 @@ audience:
   - "[[Audio-Interessierte]]"
 
 orgs:
- - "[[IT-Service Sebastian Reimers]]"
+  - "[[IT-Service Sebastian Reimers]]"
 
 organizers:
  - "[[Sebastian Reimers]]"
@@ -39,7 +39,7 @@ Podstock ist ein nicht-kommerzielles Podcast-Festival im Barcamp-Format, einmal 
 
 ## Teilnehmer & Verbindungen
 
-Die Veranstaltung richtet sich an Podcaster:innen, Hörer:innen und insbesondere an unabhängige Podcast-Projekte. Teilnehmende können selbst Inhalte beitragen, Sessions gestalten und sich intensiv innerhalb der Community vernetzen. Hauptverantwortlich ist aktuell [[Sebastian Reimers]], der bei der Organisaiton der Veranstaltung durch ein freiwilliges Orga-Team ([[Kirsten]], [[Sven Gorny]], …) unterstützt wird.
+Die Veranstaltung richtet sich an Podcaster:innen, Hörer:innen und insbesondere an unabhängige Podcast-Projekte. Teilnehmende können selbst Inhalte beitragen, Sessions gestalten und sich intensiv innerhalb der Community vernetzen. Hauptverantwortlich ist aktuell [[Sebastian Reimers]], der bei der Organisation der Veranstaltung durch ein freiwilliges Orga-Team ([[Kirsten]], [[Sven Gorny]], …) unterstützt wird.
 
 ## Bedeutung
 

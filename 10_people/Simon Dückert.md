@@ -3,9 +3,9 @@ type: Person
 name: Simon Dückert
 url: https://sendegate.de/
 contributes:
- - "[[Sendegate]]"
+  - "[[Sendegate]]"
 orgs:
- - []
+  - []
 podcasts:
   - []
 topics:

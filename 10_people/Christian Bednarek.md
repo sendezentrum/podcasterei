@@ -3,9 +3,9 @@ type: Person
 name: Christian Bednarek
 url: https://fyyd.de/
 contributes:
- - "[[Fyyd]]"
+  - "[[Fyyd]]"
 orgs:
- - []
+  - []
 podcasts:
   - []
 topics:

@@ -3,9 +3,9 @@ type: Person
 name: Janette Müller
 url: https://sendegate.de/
 contributes:
- - "[[Sendegate]]"
+  - "[[Sendegate]]"
 orgs:
- - []
+  - []
 podcasts:
   - []
 topics:

@@ -3,9 +3,9 @@ type: Person
 name: Alexander Heimbuch
 url: https://podlove.org/
 contributes:
- - "[[Podlove]]"
+  - "[[Podlove]]"
 orgs:
- - []
+  - []
 podcasts:
   - "[[Podlove]]"
 topics:

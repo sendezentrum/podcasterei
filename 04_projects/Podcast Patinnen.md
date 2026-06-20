@@ -2,10 +2,10 @@
 type: Project
 name: Podcast Pat*innen
 contributes:
- - "[[Das Sendezentrum]]"
- - "[[Sendegate]]"
+  - "[[Das Sendezentrum]]"
+  - "[[Sendegate]]"
 orgs:
- - "[[Das Sendezentrum]]"
+  - "[[Das Sendezentrum]]"
 podcasts:
   - []
 topics:

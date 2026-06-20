@@ -3,9 +3,9 @@ type: Person
 name: Sabrina Gehder
 url: https://parlamentsrevue.de
 contributes:
- - "[[Parlamentsrevue]]"
+  - "[[Parlamentsrevue]]"
 orgs:
- - []
+  - []
 podcasts:
   - "[[Parlamentsrevue]]"
 topics:

@@ -3,9 +3,9 @@ type: Person
 name: Claudia Krell
 url: https://das-sendezentrum.de/
 contributes:
- - "[[Das Sendezentrum]]"
+  - "[[Das Sendezentrum]]"
 orgs:
- - "[[Das Sendezentrum]]"
+  - "[[Das Sendezentrum]]"
 podcasts:
   - []
 topics:

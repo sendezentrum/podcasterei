@@ -3,9 +3,9 @@ type: Person
 name: Joram Schwartzmann
 url: http://www.youtube.com/@JoramMachtSachen
 contributes:
- - "[[Ultraschall]]"
+  - "[[Ultraschall]]"
 orgs:
- - []
+  - []
 podcasts:
   - []
 topics:

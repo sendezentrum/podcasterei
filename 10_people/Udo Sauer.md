@@ -3,9 +3,9 @@ type: Person
 name: Udo Sauer
 url: https://ultraschall.fm/danke/
 contributes:
- - "[[Ultraschall]]"
+  - "[[Ultraschall]]"
 orgs:
- - []
+  - []
 podcasts:
   - []
 topics:

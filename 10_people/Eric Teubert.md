@@ -3,7 +3,7 @@ type: Person
 name: Eric Teubert
 url: https://podlove.org/
 orgs:
- - "[[Podlove]]"
+  - "[[Podlove]]"
 podcasts:
   - "[[Podlovers]]"
 topics:

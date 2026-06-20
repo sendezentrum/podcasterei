@@ -13,7 +13,12 @@ audience:
   - "[[Community-Mitglieder der Podcast-Szene]]"
 
 orgs:
- - "[[Das Sendezentrum]]"
+  - "[[Das Sendezentrum]]"
+  - "[[Sendegate]]"
+  - "[[Podlove]]"
+
+podcasts:
+  - "[[Die Sondersendung]]"
 
 topics:
   - Podcasting

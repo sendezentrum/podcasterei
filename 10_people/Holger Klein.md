@@ -3,7 +3,7 @@ type: Person
 name: Holger Klein
 url: https://de.wikipedia.org/wiki/Holger_Klein
 contributes:
- - "[[WRINT]]"
+  - "[[WRINT]]"
 orgs:
   - "[[Haus 1]]"
 podcasts:

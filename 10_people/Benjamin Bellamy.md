@@ -3,9 +3,9 @@ type: Person
 name: Benjamin Bellamy
 url: https://castopod.org/
 contributes:
- - "[[Castopod]]"
+  - "[[Castopod]]"
 orgs:
- - "[[Ad Aures]]"
+  - "[[Ad Aures]]"
 podcasts:
   - []
 topics:

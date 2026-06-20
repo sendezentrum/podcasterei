@@ -3,9 +3,9 @@ type: Person
 name: Lars Engelmann
 url: https://geschichtenkapsel.de
 contributes:
- - "[[Geschichtenkapsel]]"
+  - "[[Geschichtenkapsel]]"
 orgs:
- - []
+  - []
 podcasts:
   - "[[Geschichtenkapsel]]"
 topics:

@@ -3,10 +3,10 @@ type: Person
 name: Ralf Stockmann
 url: https://ultraschall.fm/
 contributes:
- - "[[Ultraschall]]"
- - "[[Das Sendezentrum]]"
+  - "[[Ultraschall]]"
+  - "[[Das Sendezentrum]]"
 orgs:
- - "[[Das Sendezentrum]]"
+  - "[[Das Sendezentrum]]"
 podcasts:
   - "[[Ultraschall]]"
 topics:

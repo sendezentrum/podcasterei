@@ -3,9 +3,9 @@ type: Person
 name: Kai Du
 url: https://geschichtenkapsel.de
 contributes:
- - "[[Geschichtenkapsel]]"
+  - "[[Geschichtenkapsel]]"
 orgs:
- - []
+  - []
 podcasts:
   - "[[Geschichtenkapsel]]"
 topics:
