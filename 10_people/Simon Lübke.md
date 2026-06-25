@@ -10,13 +10,14 @@ podcasts:
   - []
 topics:
   - Podcast-Forschung
-  - Journalismus
+  - Politische Kommunikation
   - Medien
 source: community
-checked: false
+checked: true
 ---
 
-Wissenschaftlicher Mitarbeiter an der Universität Leipzig. Forscht zur deutschsprachigen Podcast-Szene, u.a. zur bislang größten Befragung von ~1.500 Podcastenden in Deutschland.
+# Simon Lübke
+Forscher im Bereich Politische Kommunikation am Institut für Kommunikations- und Medienwissenschaft, Universität Leipzig. Mitautor der bislang größten Podcastenden-Befragung weltweit (gemeinsam mit [[Vera Katzenberger]]).
 
 ## Verbindungen
 
@@ -25,3 +26,4 @@ Zusammenarbeit mit [[Vera Katzenberger]]. Vortrag auf [[re-publica 26]]: [[Wer s
 ## Quellen / Hinweise
 
 - [re:publica 26 Session](https://www.re-publica.com/de/session/wer-sendet-hier-eigentlich-motivationen-einstellungen-der-deutschen-podcastszene)
+- [Video (YouTube)](https://www.youtube.com/watch?v=gDLeJCIYxPc)
