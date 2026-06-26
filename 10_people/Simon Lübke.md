@@ -13,7 +13,7 @@ topics:
   - Politische Kommunikation
   - Medien
 source: community
-checked: true
+checked: false
 ---
 
 # Simon Lübke

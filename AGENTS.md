@@ -35,7 +35,7 @@ All notes use YAML frontmatter. The `type` field uses [schema.org](https://schem
 Custom subtypes in use (not strict schema.org, treated as refinements of Organization/Event):
 `PodcastLabel`, `PodcastNetwork`, `EventSeries`, `talk`
 
-`source` is typically `community`. `checked: false` until the entry has been reviewed.
+`source` is typically `community`. `checked: false` until the entry has been reviewed by a human. Never change `checked: false` to `checked: true` — that field is for human review only.
 
 ## Content conventions (from `99_community/README_Checkliste.md`)
 

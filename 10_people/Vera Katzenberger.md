@@ -13,7 +13,7 @@ topics:
   - Journalismus
   - Medien
 source: community
-checked: true
+checked: false
 ---
 
 # Vera Katzenberger

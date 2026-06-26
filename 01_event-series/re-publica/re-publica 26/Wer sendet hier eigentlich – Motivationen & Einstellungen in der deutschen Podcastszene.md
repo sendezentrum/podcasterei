@@ -16,7 +16,7 @@ topics:
   - Geschäftsmodelle
   - Community
 source: community
-checked: true
+checked: false
 ---
 
 Kurzvortrag von [[Vera Katzenberger]] (Journalismusforschung) und [[Simon Lübke]] (Politische Kommunikation), beide Institut für Kommunikations- und Medienwissenschaft, Universität Leipzig. Lightning Box 1, STATION Berlin, [[re-publica 26]], 20. Mai 2026 (letzter Konferenztag, erster Slot).
