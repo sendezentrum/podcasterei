@@ -2,12 +2,9 @@
 type: Person
 name: Nele Heise
 url: https://sendungsbewusstsein.info
-contributes:
-  - []
-orgs:
-  - []
-podcasts:
-  - []
+contributes: []
+orgs: []
+podcasts: []
 topics:
   - Podcasting
   - Medienforschung

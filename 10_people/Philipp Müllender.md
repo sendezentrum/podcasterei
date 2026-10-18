@@ -5,12 +5,12 @@ contributes:
 orgs:
 podcasts:
 topics:
-	- auphonic
-	- authentizitaet mut
-	- gespraeche begegnungen
-	- mikrofon setup
-	- sendegate community
-	- ipod generation
+  - auphonic
+  - authentizitaet mut
+  - gespraeche begegnungen
+  - mikrofon setup
+  - sendegate community
+  - ipod generation
 source: community
 checked: false
 ---
@@ -71,7 +71,7 @@ Auphonic, Veröffentlichung über Let's Cast, Reaper + Ultraschall. Zoom H6 als 
 
 > „Da habe ich halt auch schon so Sachen gehabt wie das, ja, ich bin mal aufgestattet, wenn ich vor dem Mikro mich irgendwie dreimal auf den Boden geschmissen habe."
 
-**Themen:** [[Auphonic]] · [[Mikrofon-Setup]]
+**Themen:** [[Auphonic (Thema)|Auphonic]] · [[Mikrofon-Setup]]
 
 → [[Technik]]
 

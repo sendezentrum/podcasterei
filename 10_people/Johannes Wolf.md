@@ -3,12 +3,12 @@ type: Person
 name: Johannes Wolf
 contributes:
 orgs:
-	- "[[Lano Inc.]]"
+  - "[[Lano Inc.]]"
 podcasts:
 topics:
-	- Podcast
-	- Audioproduktion
-	- Community
+  - Podcast
+  - Audioproduktion
+  - Community
 source: community
 checked: false
 ---

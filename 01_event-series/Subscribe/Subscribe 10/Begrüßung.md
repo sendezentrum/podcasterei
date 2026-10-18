@@ -3,7 +3,7 @@ type: talk
 name: Begrüßung
 url: https://media.ccc.de/v/subscribe10-65-begrung
 date: März 2019
-event: "[[Subscribe 10 März 2019]]"
+event: "[[Subscribe 10]]"
 speakers:
   - Klaudia Zotzmann-Koch
   - Daniela Ishorst

@@ -2,12 +2,9 @@
 type: Person
 name: Michael Seemann
 url: https://sendungsbewusstsein.info
-contributes:
-  - []
-orgs:
-  - []
-podcasts:
-  - []
+contributes: []
+orgs: []
+podcasts: []
 topics:
   - Podcast
   - Medien

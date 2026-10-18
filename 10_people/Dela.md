@@ -5,11 +5,11 @@ contributes:
 orgs:
 podcasts:
 topics:
-	- fandom als einstieg
-	- gespraeche begegnungen
-	- hoerer feedback
-	- spass motivation
-	- zeitaufwand
+  - fandom als einstieg
+  - gespraeche begegnungen
+  - hoerer feedback
+  - spass motivation
+  - zeitaufwand
 source: community
 checked: false
 ---

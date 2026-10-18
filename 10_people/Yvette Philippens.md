@@ -5,9 +5,9 @@ contributes:
 orgs:
 podcasts:
 topics:
-	- mikrofon setup
-	- schnitt tools garageband
-	- social media vermarktung
+  - mikrofon setup
+  - schnitt tools garageband
+  - social media vermarktung
 source: community
 checked: false
 ---

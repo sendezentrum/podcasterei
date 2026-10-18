@@ -2,17 +2,13 @@
 type: Organization
 name: C3VOC
 
-podcasts:
-  - []
+podcasts: []
 
-projekte:
-  - []
+projekte: []
 
-labels:
-  - []
+labels: []
 
-events:
-  - []
+events: []
 
 topics:
   - Video

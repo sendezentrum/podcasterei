@@ -7,9 +7,8 @@ date: 2024-10-19 15:45
 duration: 02:45
 room: Kleiner Saal
 track:
-event: "[[Subscribe 11 Oktober 2024]]"
-speakers:
-  - []
+event: "[[Subscribe 11]]"
+speakers: []
 video: "https://media.ccc.de/v/subscribe11-58227-zeigst-du-mir-deins-zeig-ich-dir-meins"
 source: community
 checked: false

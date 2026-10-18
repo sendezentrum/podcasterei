@@ -4,8 +4,7 @@ name: Dirk Schumann
 url: https://www.podlovers.org
 contributes:
   - "[[Podlove]]"
-orgs:
-  - []
+orgs: []
 podcasts:
   - "[[Podlovers]]"
 topics:

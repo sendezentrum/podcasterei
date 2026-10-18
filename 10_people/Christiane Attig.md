@@ -5,12 +5,12 @@ contributes:
 orgs:
 podcasts:
 topics:
-	- auphonic
-	- gespraeche begegnungen
-	- hoerer feedback
-	- live aufnahmen
-	- schnitt tools ultraschall reaper
-	- wissenschaftspodcasts
+  - auphonic
+  - gespraeche begegnungen
+  - hoerer feedback
+  - live aufnahmen
+  - schnitt tools ultraschall reaper
+  - wissenschaftspodcasts
 source: community
 checked: false
 ---
@@ -27,7 +27,7 @@ Erster Berührungspunkt: ihr damaliger Freund hörte Podcasts zum Einschlafen �
 
 > „Methodisch inkorrekt war das so der erste Podcast, wo ich das wirklich, wo ich jede Folge weggehört habe."
 
-**Themen:** [[Wissenschaftspodcasts]]
+**Themen:** [[Wissenschaftspodcasts (Thema)|Wissenschaftspodcasts]]
 
 → [[Erster Berührungspunkt & Anstoß]]
 
@@ -39,7 +39,7 @@ Starke Hörerin, aber durch Wegfall des Pendelns (Leipzig–Chemnitz, 4h täglic
 
 > „Das ist so ein Podcast, den ich auch immer komplett sofort weghöre, sobald ich da eine Folge sehe."
 
-**Themen:** [[Gespräche & Begegnungen]] · [[Wissenschaftspodcasts]]
+**Themen:** [[Gespräche & Begegnungen]] · [[Wissenschaftspodcasts (Thema)|Wissenschaftspodcasts]]
 
 → [[Eigener Podcast-Konsum]]
 
@@ -51,7 +51,7 @@ Live-Aufnahme im Futurium Berlin für 'Science Trios' (Podcast über Frauen und 
 
 > „Die sind irgendwie auf unser Podcast aufmerksam geworden, [...] da ist eben eine Person vom Futurium auf uns [zugekommen]."
 
-**Themen:** [[Live-Aufnahmen]] · [[Wissenschaftspodcasts]]
+**Themen:** [[Live-Aufnahmen]] · [[Wissenschaftspodcasts (Thema)|Wissenschaftspodcasts]]
 
 → [[Erinnerungswürdige Aufnahme]]
 
@@ -63,7 +63,7 @@ Für ihre Wissenschafts-Videos macht sie alles selbst in Ultraschall. Andere Pod
 
 > „Auphonic ist auch wirklich nur noch als der letzte Schliff, um es sendefähig zu machen."
 
-**Themen:** [[Auphonic]] · [[Schnitt-Tools (Ultraschall - Reaper)|Schnitt-Tools (Ultraschall/Reaper)]]
+**Themen:** [[Auphonic (Thema)|Auphonic]] · [[Schnitt-Tools (Ultraschall - Reaper)|Schnitt-Tools (Ultraschall/Reaper)]]
 
 → [[Zeitaufwand pro Folge]]
 
@@ -75,7 +75,7 @@ Alles in Ultraschall selbst. Hosting auf Podigy mit integriertem Auphonic – nu
 
 > „Auphonic ist auch wirklich nur noch als der letzte Schliff, um es sendefähig zu machen."
 
-**Themen:** [[Auphonic]] · [[Schnitt-Tools (Ultraschall - Reaper)|Schnitt-Tools (Ultraschall/Reaper)]]
+**Themen:** [[Auphonic (Thema)|Auphonic]] · [[Schnitt-Tools (Ultraschall - Reaper)|Schnitt-Tools (Ultraschall/Reaper)]]
 
 → [[Technik]]
 

@@ -4,10 +4,8 @@ name: Dominik Wagner
 url: https://podlove.org/about
 contributes:
   - "[[Podlove]]"
-orgs:
-  - []
-podcasts:
-  - []
+orgs: []
+podcasts: []
 topics:
   - iOS-Entwicklung
   - Open Source

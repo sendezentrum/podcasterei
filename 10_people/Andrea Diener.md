@@ -4,8 +4,7 @@ name: Andrea Diener
 url: https://sendungsbewusstsein.info
 contributes:
   - "[[Tsundoku]]"
-orgs:
-  - []
+orgs: []
 podcasts:
   - "[[Tsundoku]]"
 topics:

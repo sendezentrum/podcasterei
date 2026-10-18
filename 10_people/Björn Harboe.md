@@ -4,8 +4,7 @@ name: Björn Harboe
 url: https://sendungsbewusstsein.info/sb-023
 contributes:
   - "[[Hobbyquerschnitt]]"
-orgs:
-  - []
+orgs: []
 podcasts:
   - "[[Hobbyquerschnitt]]"
 topics:

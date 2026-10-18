@@ -5,16 +5,16 @@ contributes:
 orgs:
 podcasts:
 topics:
-	- begleitmedium
-	- fandom als einstieg
-	- frauen im podcast bereich
-	- gespraeche begegnungen
-	- lernen entwicklung
-	- live aufnahmen
-	- pandemie als ausloeser
-	- recherche vorbereitung
-	- schnitt erlebnis
-	- social media vermarktung
+  - begleitmedium
+  - fandom als einstieg
+  - frauen im podcast bereich
+  - gespraeche begegnungen
+  - lernen entwicklung
+  - live aufnahmen
+  - pandemie als ausloeser
+  - recherche vorbereitung
+  - schnitt erlebnis
+  - social media vermarktung
 source: community
 checked: false
 ---

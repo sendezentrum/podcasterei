@@ -3,7 +3,7 @@ type: talk
 name: Mehr oder weniger Dynamik? Hauptsache laut?
 url: https://media.ccc.de/v/subscribe10-37-mehr-oder-weniger-dynamik-hauptsache-laut-die-richtige-mischung-macht-den-guten-ton-
 date: März 2019
-event: "[[Subscribe 10 März 2019]]"
+event: "[[Subscribe 10]]"
 speakers:
   - "Georg Holzmann"
 video: "https://media.ccc.de/v/subscribe10-37-mehr-oder-weniger-dynamik-hauptsache-laut-die-richtige-mischung-macht-den-guten-ton-"

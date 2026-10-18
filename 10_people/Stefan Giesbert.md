@@ -5,16 +5,16 @@ contributes:
 orgs:
 podcasts:
 topics:
-	- auphonic
-	- filmpodcasts
-	- gespraeche begegnungen
-	- lernen entwicklung
-	- live aufnahmen
-	- mikrofon setup
-	- recherche vorbereitung
-	- schnitt erlebnis
-	- shownotes aufbereitung
-	- ipod generation
+  - auphonic
+  - filmpodcasts
+  - gespraeche begegnungen
+  - lernen entwicklung
+  - live aufnahmen
+  - mikrofon setup
+  - recherche vorbereitung
+  - schnitt erlebnis
+  - shownotes aufbereitung
+  - ipod generation
 source: community
 checked: false
 ---
@@ -67,7 +67,7 @@ Bei seinem ehemaligen 'Sneakball'-Cocktail-Podcast war es sehr aufwändig – 2 
 
 > „Manchmal habe ich wirklich während des Filmschauens mir schon ein paar Sachen runtergeschrieben, [...] manchmal kommt das Leben dazwischen, da musst du so ein bisschen on the fly was bauen."
 
-**Themen:** [[Auphonic]] · [[Recherche & Vorbereitung]] · [[Schnitt-Erlebnis]]
+**Themen:** [[Auphonic (Thema)|Auphonic]] · [[Recherche & Vorbereitung]] · [[Schnitt-Erlebnis]]
 
 → [[Zeitaufwand pro Folge]]
 

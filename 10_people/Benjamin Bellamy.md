@@ -6,8 +6,7 @@ contributes:
   - "[[Castopod]]"
 orgs:
   - "[[Ad Aures]]"
-podcasts:
-  - []
+podcasts: []
 topics:
   - Open Source
   - Podcast Hosting

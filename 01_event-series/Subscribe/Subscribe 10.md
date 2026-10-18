@@ -16,8 +16,7 @@ orgs:
   - "[[Sendegate]]"
   - "[[Deutschlandfunk]]"
 
-podcasts:
-  - []
+podcasts: []
 
 topics:
   - Podcasting

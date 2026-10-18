@@ -7,7 +7,7 @@ date: 2024-10-20 10:00
 duration: 00:30
 room: Großer Saal
 track: Meta
-event: "[[Subscribe 11 Oktober 2024]]"
+event: "[[Subscribe 11]]"
 speakers:
   - Orga
 video: "https://media.ccc.de/v/subscribe11-58243-was-war-samstag-"

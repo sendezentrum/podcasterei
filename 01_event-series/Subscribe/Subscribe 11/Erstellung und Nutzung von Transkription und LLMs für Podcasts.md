@@ -7,7 +7,7 @@ date: 2024-10-20 10:00
 duration: 00:45
 room: Raum 6
 track: Barcamp
-event: "[[Subscribe 11 Oktober 2024]]"
+event: "[[Subscribe 11]]"
 speakers:
   - "[[Tim Pritlove]]"
 video: "https://media.ccc.de/v/subscribe11-58202-erstellung-und-nutzung-von-transkription-und-llms-fr-podcasts"

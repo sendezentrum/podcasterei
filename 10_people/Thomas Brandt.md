@@ -2,12 +2,9 @@
 type: Person
 name: Thomas Brandt
 url: https://sendungsbewusstsein.info/sb-025
-contributes:
-  - []
-orgs:
-  - []
-podcasts:
-  - []
+contributes: []
+orgs: []
+podcasts: []
 topics:
   - Podcast
   - CCC

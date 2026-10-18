@@ -2,17 +2,14 @@
 type: Organization
 name: Deutschlandradio
 
-podcasts:
-  - []
+podcasts: []
 
 projekte:
   - "[[ARD Sounds]]"
 
-labels:
-  - []
+labels: []
 
-events:
-  - []
+events: []
 
 topics:
   - Öffentlich-rechtlich

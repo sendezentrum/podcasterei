@@ -1,9 +1,9 @@
 ---
 type: talk
-name: Tim Pritlove: Die dritte Welle
+name: "Tim Pritlove: Die dritte Welle"
 url: https://www.youtube.com/watch?v=bYwDm1KnJSs
 date: Oktober 2017
-event: ""[[Subscribe 9 Oktober 2017]]""
+event: "[[Subscribe 9]]"
 speakers:
   - "[[Tim Pritlove]]"
 video: "https://www.youtube.com/watch?v=bYwDm1KnJSs"

@@ -5,9 +5,9 @@ contributes:
 orgs:
 podcasts:
 topics:
-	- headset vs mikro
-	- schnitt tools audacity
-	- sendegate community
+  - headset vs mikro
+  - schnitt tools audacity
+  - sendegate community
 source: community
 checked: false
 ---

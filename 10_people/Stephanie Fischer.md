@@ -5,13 +5,13 @@ contributes:
 orgs:
 podcasts:
 topics:
-	- authentizitaet mut
-	- buehnenaffinitaet
-	- duo format
-	- lernen entwicklung
-	- mikrofon setup
-	- recherche vorbereitung
-	- sendegate community
+  - authentizitaet mut
+  - buehnenaffinitaet
+  - duo format
+  - lernen entwicklung
+  - mikrofon setup
+  - recherche vorbereitung
+  - sendegate community
 source: community
 checked: false
 ---

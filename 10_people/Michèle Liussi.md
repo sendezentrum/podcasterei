@@ -5,15 +5,15 @@ contributes:
 orgs:
 podcasts:
 topics:
-	- aufnahme tools studio link riverside
-	- blue yeti
-	- duo format
-	- gespraeche begegnungen
-	- recherche vorbereitung
-	- schnitt erlebnis
-	- spass motivation
-	- true crime
-	- zeitaufwand
+  - aufnahme tools studio link riverside
+  - blue yeti
+  - duo format
+  - gespraeche begegnungen
+  - recherche vorbereitung
+  - schnitt erlebnis
+  - spass motivation
+  - true crime
+  - zeitaufwand
 source: community
 checked: false
 ---

@@ -5,14 +5,14 @@ contributes:
 orgs:
 podcasts:
 topics:
-	- authentizitaet mut
-	- gespraeche begegnungen
-	- lernen entwicklung
-	- mikrofon setup
-	- pandemie als ausloeser
-	- schnitt erlebnis
-	- schnitt tools audacity
-	- social media vermarktung
+  - authentizitaet mut
+  - gespraeche begegnungen
+  - lernen entwicklung
+  - mikrofon setup
+  - pandemie als ausloeser
+  - schnitt erlebnis
+  - schnitt tools audacity
+  - social media vermarktung
 source: community
 checked: false
 ---

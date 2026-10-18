@@ -7,7 +7,7 @@ date: 2024-10-19 17:00
 duration: 00:45
 room: Raum 6
 track: Barcamp
-event: "[[Subscribe 11 Oktober 2024]]"
+event: "[[Subscribe 11]]"
 speakers:
   - Thomas Brandt
 source: community

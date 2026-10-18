@@ -4,8 +4,7 @@ name: Sven Mencke
 url: https://sendungsbewusstsein.info
 contributes:
   - "[[Culinaricast]]"
-orgs:
-  - []
+orgs: []
 podcasts:
   - "[[Culinaricast]]"
 topics:

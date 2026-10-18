@@ -4,8 +4,7 @@ name: Lina Madita
 url: https://sendungsbewusstsein.info
 contributes:
   - "[[Fressefreiheit]]"
-orgs:
-  - []
+orgs: []
 podcasts:
   - "[[Fressefreiheit]]"
 topics:

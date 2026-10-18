@@ -7,7 +7,7 @@ date: 2024-10-18 17:45
 duration: 00:30
 room: Großer Saal
 track: Vorträge
-event: "[[Subscribe 11 Oktober 2024]]"
+event: "[[Subscribe 11]]"
 speakers:
   - Danny Frede
 video: "https://media.ccc.de/v/subscribe11-58189-ich-kann-so-nicht-arbeide-albtraum-comedypodcast"

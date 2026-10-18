@@ -29,7 +29,7 @@ Ultraschall, der mit jedem Update einfacher wird. Auphonic-Klangoptimierung. 'Ne
 
 > „Jetzt machst du ja gefühlt nur noch so klick klick klick und dann hast du das komplette Setup fertig."
 
-**Themen:** [[Auphonic]] · [[Schnitt-Tools (Ultraschall - Reaper)|Schnitt-Tools (Ultraschall/Reaper)]]
+**Themen:** [[Auphonic (Thema)|Auphonic]] · [[Schnitt-Tools (Ultraschall - Reaper)|Schnitt-Tools (Ultraschall/Reaper)]]
 
 → [[Technik]]
 

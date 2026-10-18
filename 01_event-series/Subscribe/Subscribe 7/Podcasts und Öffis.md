@@ -3,9 +3,8 @@ type: talk
 name: Podcasts und Öffis
 url: https://www.youtube.com/watch?v=MZK98vbXZco
 date: Mai 2016
-event: ""[[Subscribe 7 Mai 2016]]""
-speakers:
-  - []
+event: "[[Subscribe 7]]"
+speakers: []
 video: "https://www.youtube.com/watch?v=MZK98vbXZco"
 source: community
 checked: false

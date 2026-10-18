@@ -1,9 +1,9 @@
 ---
 type: talk
-name: Matthias Leitner: Call for Podcasts (BR)
+name: "Matthias Leitner: Call for Podcasts (BR)"
 url: https://www.youtube.com/watch?v=8Y48SlW2n34
 date: Oktober 2017
-event: ""[[Subscribe 9 Oktober 2017]]""
+event: "[[Subscribe 9]]"
 speakers:
   - Matthias Leitner
 video: "https://www.youtube.com/watch?v=8Y48SlW2n34"

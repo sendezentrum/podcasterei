@@ -10,8 +10,7 @@ participants:
 orgs:
   - "[[Lage der Nation GmbH]]"
 
-podcasts:
-  - []
+podcasts: []
 
 topics:
   - Podcast

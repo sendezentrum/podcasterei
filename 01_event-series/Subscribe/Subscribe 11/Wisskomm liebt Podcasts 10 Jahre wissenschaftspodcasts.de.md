@@ -1,13 +1,13 @@
 ---
 type: talk
-name: Wisskomm liebt Podcasts: 10 Jahre wissenschaftspodcasts.de
+name: "Wisskomm liebt Podcasts: 10 Jahre wissenschaftspodcasts.de"
 url: https://pretalx.c3voc.de/subscribe11/talk/LJLPSH/
 code: LJLPSH
 date: 2024-10-19 19:30
 duration: 00:45
 room: Raum 6
 track: Barcamp
-event: "[[Subscribe 11 Oktober 2024]]"
+event: "[[Subscribe 11]]"
 speakers:
   - "[[Melanie Bartos]]"
   - "[[Bernd Rupp]]"

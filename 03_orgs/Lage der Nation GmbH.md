@@ -7,14 +7,11 @@ podcasts:
   - "[[Kennzeichen E]]"
   - "[[Cybernation]]"
 
-projekte:
-  - []
+projekte: []
 
-labels:
-  - []
+labels: []
 
-events:
-  - []
+events: []
 
 topics:
   - Podcast

@@ -3,7 +3,7 @@ type: talk
 name: Verabschiedung
 url: https://media.ccc.de/v/subscribe10-61-verabschiedung
 date: März 2019
-event: "[[Subscribe 10 März 2019]]"
+event: "[[Subscribe 10]]"
 speakers:
   - Klaudia Zotzmann-Koch
   - Daniela Ishorst

@@ -4,8 +4,7 @@ name: Stephanie Dahn
 url: https://sendungsbewusstsein.info
 contributes:
   - "[[Vorgedacht]]"
-orgs:
-  - []
+orgs: []
 podcasts:
   - "[[Vorgedacht]]"
 topics:

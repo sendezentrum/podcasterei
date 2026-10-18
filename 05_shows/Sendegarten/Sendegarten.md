@@ -7,11 +7,9 @@ participants:
   - "[[Lars Naber]]"
   - "[[Sebastian Reimers]]"
 
-orgs:
-  - []
+orgs: []
 
-podcasts:
-  - []
+podcasts: []
 
 topics:
   - Podcast

@@ -3,7 +3,7 @@ type: talk
 name: Begrüßung PPW15a
 url: https://www.youtube.com/watch?v=LHUrvLOQbKI
 date: Mai 2015
-event: ""[[PPW 5 Mai 2015]]""
+event: "[[PPW15a]]"
 speakers:
   - "[[Tim Pritlove]]"
 video: "https://www.youtube.com/watch?v=LHUrvLOQbKI"

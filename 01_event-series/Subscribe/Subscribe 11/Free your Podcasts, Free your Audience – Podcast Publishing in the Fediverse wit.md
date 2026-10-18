@@ -7,7 +7,7 @@ date: 2024-10-20 11:30
 duration: 00:30
 room: Großer Saal
 track: Vorträge
-event: "[[Subscribe 11 Oktober 2024]]"
+event: "[[Subscribe 11]]"
 speakers:
   - "[[Benjamin Bellamy]]"
 video: "https://media.ccc.de/v/subscribe11-58191-free-your-podcasts-free-your-audience-podcast-publishing-in-the-fediverse-with-castopod-"

@@ -7,7 +7,7 @@ date: 2024-10-19 12:20
 duration: 00:40
 room: Raum 6
 track: Barcamp
-event: "[[Subscribe 11 Oktober 2024]]"
+event: "[[Subscribe 11]]"
 speakers:
   - "[[Johannes Wolf]]"
 video: "https://media.ccc.de/v/subscribe11-58217-puerto-patida-und-das-leben-am-limit-der-soundspuren"

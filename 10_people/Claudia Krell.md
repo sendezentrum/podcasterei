@@ -6,8 +6,7 @@ contributes:
   - "[[Das Sendezentrum]]"
 orgs:
   - "[[Das Sendezentrum]]"
-podcasts:
-  - []
+podcasts: []
 topics:
   - Podcasting
   - Community

@@ -5,11 +5,11 @@ contributes:
 orgs:
 podcasts:
 topics:
-	- duo format
-	- hoerer feedback
-	- mikrofon setup
-	- true crime
-	- zeitaufwand
+  - duo format
+  - hoerer feedback
+  - mikrofon setup
+  - true crime
+  - zeitaufwand
 source: community
 checked: false
 ---

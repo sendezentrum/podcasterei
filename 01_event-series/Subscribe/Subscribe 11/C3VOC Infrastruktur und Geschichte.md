@@ -7,7 +7,7 @@ date: 2024-10-19 20:30
 duration: 00:30
 room: Großer Saal
 track: Vorträge
-event: "[[Subscribe 11 Oktober 2024]]"
+event: "[[Subscribe 11]]"
 speakers:
   - Andi
   - Daniel Molkentin

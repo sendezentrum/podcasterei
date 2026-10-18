@@ -4,12 +4,10 @@ name: Andreas Hubel
 url: https://sendungsbewusstsein.info/sb-024
 aliases:
   - saerdnaer
-contributes:
-  - []
+contributes: []
 orgs:
   - "[[C3VOC]]"
-podcasts:
-  - []
+podcasts: []
 topics:
   - Podcast
   - CCC

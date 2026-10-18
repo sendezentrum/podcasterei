@@ -2,12 +2,9 @@
 type: Person
 name: Tine Nowak
 url: https://sendungsbewusstsein.info/sb-011
-contributes:
-  - []
-orgs:
-  - []
-podcasts:
-  - []
+contributes: []
+orgs: []
+podcasts: []
 topics:
   - Podcast
   - CCC

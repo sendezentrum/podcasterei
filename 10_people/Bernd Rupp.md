@@ -7,8 +7,7 @@ contributes:
   - "[[Wissenschaftspodcasts]]"
 orgs:
   - "[[Wisspod]]"
-podcasts:
-  - []
+podcasts: []
 topics:
   - Wissenschaftspodcasts
   - Community

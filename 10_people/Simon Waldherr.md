@@ -2,10 +2,8 @@
 type: Person
 name: Simon Waldherr
 url: https://www.podlovers.org
-contributes:
-  - []
-orgs:
-  - []
+contributes: []
+orgs: []
 podcasts:
   - "[[Podlovers]]"
 topics:

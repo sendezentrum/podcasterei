@@ -1,9 +1,9 @@
 ---
 type: talk
-name: Lothar Bodingbauer: Featurebau
+name: "Lothar Bodingbauer: Featurebau"
 url: https://www.youtube.com/watch?v=xlWecoJmLow
 date: Oktober 2017
-event: ""[[Subscribe 9 Oktober 2017]]""
+event: "[[Subscribe 9]]"
 speakers:
   - Lothar Bodingbauer
 video: "https://www.youtube.com/watch?v=xlWecoJmLow"

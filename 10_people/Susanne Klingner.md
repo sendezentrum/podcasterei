@@ -2,12 +2,10 @@
 type: Person
 name: Susanne Klingner
 url: https://hauseins.fm/team/
-contributes:
-  - []
+contributes: []
 orgs:
   - "[[Haus 1]]"
-podcasts:
-  - []
+podcasts: []
 topics:
   - Journalismus
   - Podcast

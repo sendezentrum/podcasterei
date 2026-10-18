@@ -2,17 +2,13 @@
 type: Organization
 name: Zebra Audio
 
-podcasts:
-  - []
+podcasts: []
 
-projekte:
-  - []
+projekte: []
 
-labels:
-  - []
+labels: []
 
-events:
-  - []
+events: []
 
 topics:
   - Produktion

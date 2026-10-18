@@ -5,8 +5,7 @@ beteiligte:
   - "[[Anne-Katrin Pache-Wilke]]"
 podcasts:
   - "[[Podcast Faible]]"
-events:
-  - []
+events: []
 topics:
   - Frageliste
   - Themenfindung

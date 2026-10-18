@@ -4,8 +4,7 @@ name: Nicolas Wöhrl
 url: https://sendungsbewusstsein.info
 contributes:
   - "[[Methodisch Inkorrekt]]"
-orgs:
-  - []
+orgs: []
 podcasts:
   - "[[Methodisch Inkorrekt]]"
 topics:

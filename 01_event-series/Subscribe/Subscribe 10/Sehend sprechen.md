@@ -3,7 +3,7 @@ type: talk
 name: Sehend sprechen
 url: https://media.ccc.de/v/subscribe10-51-sehend-sprechen
 date: März 2019
-event: "[[Subscribe 10 März 2019]]"
+event: "[[Subscribe 10]]"
 speakers:
   - Christopher van der Meyden
 video: "https://media.ccc.de/v/subscribe10-51-sehend-sprechen"

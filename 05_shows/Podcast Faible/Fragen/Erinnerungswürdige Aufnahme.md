@@ -14,7 +14,7 @@ tags: [frage]
 - [[Fandom als Einstieg]] — [[Dela]], [[Leni Bohrmann]], [[Sascha Gottschalk]], [[Tanja]]
 - [[Live-Aufnahmen]] — [[Christiane Attig]], [[Leni Bohrmann]], [[Stefan Giesbert]]
 - [[Gespräche & Begegnungen]] — [[Alexander Haas]], [[Arne Ruddat]], [[Soenke Scharnhorst]]
-- [[Wissenschaftspodcasts]] — [[Alexander Haas]], [[Christiane Attig]]
+- [[Wissenschaftspodcasts (Thema)|Wissenschaftspodcasts]] — [[Alexander Haas]], [[Christiane Attig]]
 
 ## Alle Antworten
 

@@ -5,14 +5,14 @@ contributes:
 orgs:
 podcasts:
 topics:
-	- authentizitaet mut
-	- begleitmedium
-	- gespraeche begegnungen
-	- headset vs mikro
-	- remove silence
-	- true crime
-	- wissenschaftspodcasts
-	- ipod generation
+  - authentizitaet mut
+  - begleitmedium
+  - gespraeche begegnungen
+  - headset vs mikro
+  - remove silence
+  - true crime
+  - wissenschaftspodcasts
+  - ipod generation
 source: community
 checked: false
 ---
@@ -29,7 +29,7 @@ checked: false
 
 > „Das ist so wie Radio, das kannst du aber mitnehmen, das kannst du jederzeit hören, es ist auch nicht so tot produziert."
 
-**Themen:** [[Begleitmedium]] · [[Wissenschaftspodcasts]] · [[iPod-Generation]]
+**Themen:** [[Begleitmedium]] · [[Wissenschaftspodcasts (Thema)|Wissenschaftspodcasts]] · [[iPod-Generation]]
 
 → [[Erster Berührungspunkt & Anstoß]]
 
@@ -41,7 +41,7 @@ checked: false
 
 > „Aus irgendeinem Grund entspannt mich sowas total."
 
-**Themen:** [[True Crime]] · [[Wissenschaftspodcasts]]
+**Themen:** [[True Crime]] · [[Wissenschaftspodcasts (Thema)|Wissenschaftspodcasts]]
 
 → [[Eigener Podcast-Konsum]]
 

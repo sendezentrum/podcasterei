@@ -5,9 +5,9 @@ contributes:
 orgs:
 podcasts:
 topics:
-	- live aufnahmen
-	- sendegate community
-	- wissenschaftspodcasts
+  - live aufnahmen
+  - sendegate community
+  - wissenschaftspodcasts
 source: community
 checked: false
 ---
@@ -27,7 +27,7 @@ Kirsten war nie Gast in einem Podcast – sie kam über das Podstock-Catering in
 TODO: Zitat von Sven oder Kirsten?
 > „Da habe ich also einfach an, weiß ich gar nicht, Mail oder Info ins Podstock geschrieben und einfach so, hey, ich hab gehört, ihr braucht irgendwie für dann und dann noch eine Mahlzeit."
 
-**Themen:** [[Live-Aufnahmen]] · [[Sendegate-Community]] · [[Wissenschaftspodcasts]]
+**Themen:** [[Live-Aufnahmen]] · [[Sendegate-Community]] · [[Wissenschaftspodcasts (Thema)|Wissenschaftspodcasts]]
 
 → [[Erster Berührungspunkt & Anstoß]]
 

@@ -4,10 +4,8 @@ name: Janette Müller
 url: https://sendegate.de/
 contributes:
   - "[[Sendegate]]"
-orgs:
-  - []
-podcasts:
-  - []
+orgs: []
+podcasts: []
 topics:
   - Community
   - Podcasting

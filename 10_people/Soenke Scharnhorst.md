@@ -5,10 +5,10 @@ contributes:
 orgs:
 podcasts:
 topics:
-	- auphonic
-	- gespraeche begegnungen
-	- hoerer feedback
-	- remove silence
+  - auphonic
+  - gespraeche begegnungen
+  - hoerer feedback
+  - remove silence
 source: community
 checked: false
 ---
@@ -59,7 +59,7 @@ Ralf-Stockmann-Gedächtnis-Set – Headset abgelegt, Rode-Gesangsmikro angesteck
 
 > „Ich höre es mir erst gar nicht an, ich mache gehen Ultraschall, mache Remove Silence und dann wird es so automatisch erstmal normalisiert."
 
-**Themen:** [[Auphonic]] · [[Remove silence]]
+**Themen:** [[Auphonic (Thema)|Auphonic]] · [[Remove silence]]
 
 → [[Technik]]
 

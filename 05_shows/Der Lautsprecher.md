@@ -8,8 +8,7 @@ participants:
 orgs:
   - "[[Metaebene]]"
 
-podcasts:
-  - []
+podcasts: []
 
 topics:
   - Podcast

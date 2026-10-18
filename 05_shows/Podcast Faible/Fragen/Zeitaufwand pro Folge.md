@@ -18,7 +18,7 @@ tags: [frage]
 - [[Fandom als Einstieg]] — [[Anne Autenrieb]], [[Leni Bohrmann]]
 - [[Familie & Privatleben]] — [[Pascal Wichmann]], [[Sascha Rupp]]
 - [[Social Media & Vermarktung]] — [[Heike Drexel]], [[Leni Bohrmann]]
-- [[Auphonic]] — [[Christiane Attig]], [[Stefan Giesbert]]
+- [[Auphonic (Thema)|Auphonic]] — [[Christiane Attig]], [[Stefan Giesbert]]
 - [[Schnitt-Tools (Ultraschall - Reaper)|Schnitt-Tools (Ultraschall/Reaper)]] — [[Anne Autenrieb]], [[Christiane Attig]]
 
 ## Alle Antworten

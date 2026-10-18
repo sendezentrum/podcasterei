@@ -2,17 +2,14 @@
 type: Organization
 name: SWR
 
-podcasts:
-  - []
+podcasts: []
 
 projekte:
   - "[[ARD Sounds]]"
 
-labels:
-  - []
+labels: []
 
-events:
-  - []
+events: []
 
 topics:
   - Öffentlich-rechtlich

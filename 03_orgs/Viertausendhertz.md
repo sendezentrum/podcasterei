@@ -2,17 +2,13 @@
 type: Organization
 name: Viertausendhertz
 
-podcasts:
-  - []
+podcasts: []
 
-projekte:
-  - []
+projekte: []
 
-labels:
-  - []
+labels: []
 
-events:
-  - []
+events: []
 
 topics:
   - Podcast-Label

@@ -2,17 +2,13 @@
 type: Organization
 name: Hammer & Amboss
 
-podcasts:
-  - []
+podcasts: []
 
-projekte:
-  - []
+projekte: []
 
-labels:
-  - []
+labels: []
 
-events:
-  - []
+events: []
 
 topics:
   - Produktion

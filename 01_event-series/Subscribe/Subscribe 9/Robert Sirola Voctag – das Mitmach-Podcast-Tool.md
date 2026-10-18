@@ -1,9 +1,9 @@
 ---
 type: talk
-name: Robert Sirola: Voctag – das Mitmach-Podcast-Tool
+name: "Robert Sirola: Voctag – das Mitmach-Podcast-Tool"
 url: https://www.youtube.com/watch?v=oP3lbz-lYVs
 date: Oktober 2017
-event: ""[[Subscribe 9 Oktober 2017]]""
+event: "[[Subscribe 9]]"
 speakers:
   - Robert Sirola
 video: "https://www.youtube.com/watch?v=oP3lbz-lYVs"

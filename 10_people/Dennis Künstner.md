@@ -4,10 +4,8 @@ name: Dennis Künstner
 url: https://www.hoer-talk.de/
 contributes:
   - "[[HoerTalk]]"
-orgs:
-  - []
-podcasts:
-  - []
+orgs: []
+podcasts: []
 topics:
   - Hörspiel
   - Community

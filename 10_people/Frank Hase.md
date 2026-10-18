@@ -4,10 +4,8 @@ name: Frank Hase
 url: https://podlove.org/about
 contributes:
   - "[[Podlove]]"
-orgs:
-  - []
-podcasts:
-  - []
+orgs: []
+podcasts: []
 topics:
   - JavaScript
   - Open Source

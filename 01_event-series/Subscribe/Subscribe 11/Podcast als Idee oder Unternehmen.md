@@ -7,7 +7,7 @@ date: 2024-10-19 14:45
 duration: 00:45
 room: Großer Saal
 track: Vorträge
-event: "[[Subscribe 11 Oktober 2024]]"
+event: "[[Subscribe 11]]"
 speakers:
   - Stefan Schulz
   - "[[Katrin Rönicke]]"

@@ -5,12 +5,12 @@ contributes:
 orgs:
 podcasts:
 topics:
-	- aufnahme tools studio link riverside
-	- fandom als einstieg
-	- recherche vorbereitung
-	- schnitt erlebnis
-	- sendegate community
-	- zeitaufwand
+  - aufnahme tools studio link riverside
+  - fandom als einstieg
+  - recherche vorbereitung
+  - schnitt erlebnis
+  - sendegate community
+  - zeitaufwand
 source: community
 checked: false
 ---

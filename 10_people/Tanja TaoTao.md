@@ -2,17 +2,18 @@
 type: Person
 name: Tanja
 aliases:
+  - Tanja
   - TaoTao
 social:
-	-	https://troet.cafe/@Taotica
+  - https://troet.cafe/@Taotica
 contributes:
 orgs:
 podcasts:
 topics:
-	- fandom als einstieg
-	- pandemie als ausloeser
-	- shownotes aufbereitung
-	- spass motivation
+  - fandom als einstieg
+  - pandemie als ausloeser
+  - shownotes aufbereitung
+  - spass motivation
 source: community
 checked: false
 ---

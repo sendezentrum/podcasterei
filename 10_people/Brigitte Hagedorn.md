@@ -2,12 +2,9 @@
 type: Person
 name: Brigitte Hagedorn
 url: https://www.audiobeitraege.de/
-contributes:
-  - []
-orgs:
-  - []
-podcasts:
- - []
+contributes: []
+orgs: []
+podcasts: []
 topics:
  - Podcasting
  - Coaching

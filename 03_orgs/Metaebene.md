@@ -2,18 +2,15 @@
 type: Organization
 name: Metaebene Personal Media
 
-podcasts:
-  - []
+podcasts: []
 
 projekte:
   - "[[Podlove]]"
   - "[[Das Sendezentrum]]"
 
-labels:
-  - []
+labels: []
 
-events:
-  - []
+events: []
 
 topics:
   - Podcasting

@@ -8,11 +8,9 @@ members:
   - "[[Dave Jones]]"
   - "[[Podcast Index]]"
 
-podcasts:
-  - []
+podcasts: []
 
-events:
-  - []
+events: []
 
 topics:
   - Standards

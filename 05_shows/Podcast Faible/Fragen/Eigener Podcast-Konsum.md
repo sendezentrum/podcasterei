@@ -11,7 +11,7 @@ tags: [frage]
 
 ## Wiederkehrende Muster
 
-- [[Wissenschaftspodcasts]] — [[Alexander Haas]], [[Anne Autenrieb]], [[Christiane Attig]], [[Sebastian Stix]]
+- [[Wissenschaftspodcasts (Thema)|Wissenschaftspodcasts]] — [[Alexander Haas]], [[Anne Autenrieb]], [[Christiane Attig]], [[Sebastian Stix]]
 - [[Fandom als Einstieg]] — [[Alexander Haas]], [[Dela]], [[Sascha Gottschalk]]
 - [[True Crime]] — [[Michèle Liussi]], [[Patrick Lohmeier]], [[Sebastian Stix]]
 - [[Gespräche & Begegnungen]] — [[Christiane Attig]], [[Heike Drexel]], [[Stefan Giesbert]]

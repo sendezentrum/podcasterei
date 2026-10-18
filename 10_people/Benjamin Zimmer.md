@@ -1,12 +1,9 @@
 ---
 type: Person
 name: Benjamin Zimmer
-contributes:
-  - []
-orgs:
-  - []
-podcasts:
-  - []
+contributes: []
+orgs: []
+podcasts: []
 topics:
   -
 source: community

@@ -3,7 +3,7 @@ type: talk
 name: Podlove State of the Union PPW14b
 url: https://www.youtube.com/watch?v=qdHD5kxrklY
 date: November 2014
-event: ""[[PPW 4 November 2014]]""
+event: "[[PPW14b]]"
 speakers:
   - "[[Tim Pritlove]]"
 video: "https://www.youtube.com/watch?v=qdHD5kxrklY"

@@ -5,10 +5,10 @@ contributes:
 orgs:
 podcasts:
 topics:
-	- psychologie persoenlichkeitsentwicklung
-	- recherche vorbereitung
-	- schnitt tools audacity
-	- spass motivation
+  - psychologie persoenlichkeitsentwicklung
+  - recherche vorbereitung
+  - schnitt tools audacity
+  - spass motivation
 source: community
 checked: false
 ---

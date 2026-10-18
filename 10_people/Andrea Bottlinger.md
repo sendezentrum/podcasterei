@@ -2,12 +2,9 @@
 type: Person
 name: Andrea Bottlinger
 url: https://sendungsbewusstsein.info
-contributes:
-  - []
-orgs:
-  - []
-podcasts:
-  - []
+contributes: []
+orgs: []
+podcasts: []
 topics:
   - Podcast
 source: community

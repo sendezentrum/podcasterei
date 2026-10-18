@@ -13,7 +13,7 @@ tags: [moc]
 - [[Stefan Brocksch (Esel & Teddy)]] (2)
 - [[Pandemie als Auslöser]] (5)
 - [[Fandom als Einstieg]] (6)
-- [[Wissenschaftspodcasts]] (5)
+- [[Wissenschaftspodcasts (Thema)|Wissenschaftspodcasts]] (5)
 
 ## Format & Themen
 
@@ -31,7 +31,7 @@ tags: [moc]
 - [[Schnitt-Tools (Ultraschall - Reaper)|Schnitt-Tools (Ultraschall/Reaper)]] (7)
 - [[Schnitt-Tools (Audacity)]] (4)
 - [[Schnitt-Tools (GarageBand)]] (2)
-- [[Auphonic]] (6)
+- [[Auphonic (Thema)|Auphonic]] (6)
 - [[Aufnahme-Tools (Studio Link - Riverside)|Aufnahme-Tools (Studio Link/Riverside)]] (3)
 - [[Schnitt-Erlebnis]] (7)
 - [[Recherche & Vorbereitung]] (9)

@@ -2,12 +2,9 @@
 type: Person
 name: Andre Lampe
 url: https://sendungsbewusstsein.info
-contributes:
-  - []
-orgs:
-  - []
-podcasts:
-  - []
+contributes: []
+orgs: []
+podcasts: []
 topics:
   - Podcast
   - Wissenschaftskommunikation

@@ -2,17 +2,13 @@
 type: Organization
 name: Kugel & Niere
 
-podcasts:
-  - []
+podcasts: []
 
-projekte:
-  - []
+projekte: []
 
-labels:
-  - []
+labels: []
 
-events:
-  - []
+events: []
 
 topics:
   - Produktion

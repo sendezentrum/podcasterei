@@ -7,7 +7,7 @@ date: 2024-10-20 15:00
 duration: 01:00
 room: Großer Saal
 track: Meta
-event: "[[Subscribe 11 Oktober 2024]]"
+event: "[[Subscribe 11]]"
 speakers:
   - "[[Tim Pritlove]]"
   - Orga

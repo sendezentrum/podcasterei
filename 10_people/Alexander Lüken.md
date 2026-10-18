@@ -4,10 +4,8 @@ name: Alexander Lüken
 url: https://podlove.org/about
 contributes:
   - "[[Podlove]]"
-orgs:
-  - []
-podcasts:
-  - []
+orgs: []
+podcasts: []
 topics:
   - Web-Entwicklung
   - Open Source

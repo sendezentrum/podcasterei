@@ -3,7 +3,7 @@ type: talk
 name: Verabschiedung Subscribe 8
 url: https://www.youtube.com/watch?v=Zl5LJSC5cAc
 date: Oktober 2016
-event: ""[[Subscribe 8 Oktober 2016]]""
+event: "[[Subscribe 8]]"
 speakers:
   - "[[Claudia Krell]]"
   - "[[Tim Pritlove]]"

@@ -1,13 +1,13 @@
 ---
 type: talk
-name: Die Zukunft ist dezentral: Podcasts und das Fediverse
+name: "Die Zukunft ist dezentral: Podcasts und das Fediverse"
 url: https://pretalx.c3voc.de/subscribe11/talk/7LUKDS/
 code: 7LUKDS
 date: 2024-10-20 10:30
 duration: 00:30
 room: Großer Saal
 track: Vorträge
-event: "[[Subscribe 11 Oktober 2024]]"
+event: "[[Subscribe 11]]"
 speakers:
   - Andi
   - "[[Melanie Bartos]]"

@@ -3,7 +3,7 @@ type: talk
 name: Der Tag – Ein Gespräch mit Florian Schwinn
 url: https://media.ccc.de/v/subscribe10-6-der-tag-ein-gesprch-mit-florian-schwinn
 date: März 2019
-event: "[[Subscribe 10 März 2019]]"
+event: "[[Subscribe 10]]"
 speakers:
   - "Tim Pritlove"
 video: "https://media.ccc.de/v/subscribe10-6-der-tag-ein-gesprch-mit-florian-schwinn"

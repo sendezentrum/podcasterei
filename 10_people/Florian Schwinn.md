@@ -6,8 +6,7 @@ contributes:
   - "[[Der Lautsprecher]]"
 orgs:
   - "[[HR]]"
-podcasts:
-  - []
+podcasts: []
 topics:
   - Podcast
   - Radio

@@ -4,10 +4,8 @@ name: Sven Sedivy
 url: https://podlove.org/about
 contributes:
   - "[[Podlove]]"
-orgs:
-  - []
-podcasts:
-  - []
+orgs: []
+podcasts: []
 topics:
   - Design
   - Podcasting

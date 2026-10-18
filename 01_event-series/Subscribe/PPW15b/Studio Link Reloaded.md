@@ -3,7 +3,7 @@ type: talk
 name: Studio Link Reloaded
 url: https://www.youtube.com/watch?v=gBnkXJbaUuE
 date: November 2015
-event: ""[[PPW 6 November 2015]]""
+event: "[[PPW15b]]"
 speakers:
   - "[[Sebastian Reimers]]"
 video: "https://www.youtube.com/watch?v=gBnkXJbaUuE"

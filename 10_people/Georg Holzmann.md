@@ -6,8 +6,7 @@ contributes:
   - "[[Auphonic]]"
 orgs:
   - "[[Auphonic]]"
-podcasts:
-  - []
+podcasts: []
 topics:
   - Audio
   - Podcasting

@@ -1,12 +1,9 @@
 ---
 type: Person
 name: Mateusz Sojka
-contributes:
-  - []
-orgs:
-  - []
-podcasts:
-  - []
+contributes: []
+orgs: []
+podcasts: []
 topics:
   -
 source: community

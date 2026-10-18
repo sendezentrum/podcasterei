@@ -6,8 +6,7 @@ contributes:
   - "[[Sendegate]]"
 orgs:
   - "[[Das Sendezentrum]]"
-podcasts:
-  - []
+podcasts: []
 topics:
   - Mentoring
   - Community

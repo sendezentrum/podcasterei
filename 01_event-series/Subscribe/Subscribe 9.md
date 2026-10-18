@@ -16,8 +16,7 @@ orgs:
   - "[[Sendegate]]"
   - "[[Bayerischer Rundfunk]]"
 
-podcasts:
-  - []
+podcasts: []
 
 topics:
   - Podcasting

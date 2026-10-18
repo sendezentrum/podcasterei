@@ -31,11 +31,10 @@ podcasts:
   - "[[Speaking Refugee. The VULNER Podcast]]"
   - "[[Thüringen 2024]]"
   - "[[Wind und Wurzeln]]"
-  - "[[„Wir schaffen das!"]]"
+  - '[[„Wir schaffen das!"]]'
   - "[[Wochendämmerung]]"
 
-orgs:
-  - []
+orgs: []
 
 topics:
   - Podcast

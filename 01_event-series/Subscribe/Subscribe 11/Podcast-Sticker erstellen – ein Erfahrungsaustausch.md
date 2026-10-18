@@ -7,7 +7,7 @@ date: 2024-10-20 11:30
 duration: 00:30
 room: Raum 6
 track: Barcamp
-event: "[[Subscribe 11 Oktober 2024]]"
+event: "[[Subscribe 11]]"
 speakers:
   - Imogen Hüsing
 source: community

@@ -7,7 +7,7 @@ date: 2024-10-18 17:15
 duration: 00:30
 room: Großer Saal
 track: Vorträge
-event: "[[Subscribe 11 Oktober 2024]]"
+event: "[[Subscribe 11]]"
 speakers:
   - Thomas Brandt
 video: "https://media.ccc.de/v/subscribe11-58203-bildet-banden-der-weg-zu-einer-podcast-kooperative-"

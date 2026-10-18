@@ -5,10 +5,10 @@ contributes:
 orgs:
 podcasts:
 topics:
-	- gespraeche begegnungen
-	- mikrofon setup
-	- zeitaufwand
-	- ipod generation
+  - gespraeche begegnungen
+  - mikrofon setup
+  - zeitaufwand
+  - ipod generation
 source: community
 checked: false
 ---

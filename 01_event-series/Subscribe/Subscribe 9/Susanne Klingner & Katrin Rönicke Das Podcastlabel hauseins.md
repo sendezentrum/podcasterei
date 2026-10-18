@@ -1,9 +1,9 @@
 ---
 type: talk
-name: Susanne Klingner & Katrin Rönicke: Das Podcastlabel hauseins
+name: "Susanne Klingner & Katrin Rönicke: Das Podcastlabel hauseins"
 url: https://www.youtube.com/watch?v=obCh1_eLTmo
 date: Oktober 2017
-event: ""[[Subscribe 9 Oktober 2017]]""
+event: "[[Subscribe 9]]"
 speakers:
   - "[[Susanne Klingner]]"
   - "[[Katrin Rönicke]]"

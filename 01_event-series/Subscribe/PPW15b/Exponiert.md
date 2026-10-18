@@ -3,9 +3,8 @@ type: talk
 name: Exponiert
 url: https://www.youtube.com/watch?v=iEFkKpF3HSE
 date: November 2015
-event: ""[[PPW 6 November 2015]]""
-speakers:
-  - []
+event: "[[PPW15b]]"
+speakers: []
 video: "https://www.youtube.com/watch?v=iEFkKpF3HSE"
 source: community
 checked: false

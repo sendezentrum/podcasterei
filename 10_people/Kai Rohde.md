@@ -5,12 +5,12 @@ contributes:
 orgs:
 podcasts:
 topics:
-	- gespraeche begegnungen
-	- hoerer feedback
-	- mikrofon setup
-	- perfektionismus loslassen
-	- recherche vorbereitung
-	- schnitt tools garageband
+  - gespraeche begegnungen
+  - hoerer feedback
+  - mikrofon setup
+  - perfektionismus loslassen
+  - recherche vorbereitung
+  - schnitt tools garageband
 source: community
 checked: false
 ---

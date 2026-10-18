@@ -7,7 +7,7 @@ date: 2024-10-20 11:00
 duration: 00:30
 room: Großer Saal
 track: Vorträge
-event: "[[Subscribe 11 Oktober 2024]]"
+event: "[[Subscribe 11]]"
 speakers:
   - MacSnider
 video: "https://media.ccc.de/v/subscribe11-58184-plattformfrei-und-spass-dabei"

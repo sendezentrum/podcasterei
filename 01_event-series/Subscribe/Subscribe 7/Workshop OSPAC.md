@@ -1,11 +1,10 @@
 ---
 type: talk
-name: Workshop: OSPAC
+name: "Workshop: OSPAC"
 url: https://www.youtube.com/watch?v=YL9ftMqcbxk
 date: Mai 2016
-event: ""[[Subscribe 7 Mai 2016]]""
-speakers:
-  - []
+event: "[[Subscribe 7]]"
+speakers: []
 video: "https://www.youtube.com/watch?v=YL9ftMqcbxk"
 source: community
 checked: false

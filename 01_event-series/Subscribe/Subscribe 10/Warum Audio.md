@@ -3,7 +3,7 @@ type: talk
 name: Warum Audio?
 url: https://media.ccc.de/v/subscribe10-25-warum-audio-wie-spiegel-online-eine-stimme-bekam
 date: März 2019
-event: "[[Subscribe 10 März 2019]]"
+event: "[[Subscribe 10]]"
 speakers:
   - Yasemin Yüksel
   - Sandra Sperber

@@ -4,8 +4,7 @@ name: Michaela Lehr
 url: https://www.podlovers.org
 contributes:
   - "[[Podlove]]"
-orgs:
-  - []
+orgs: []
 podcasts:
   - "[[Podlovers]]"
 topics:

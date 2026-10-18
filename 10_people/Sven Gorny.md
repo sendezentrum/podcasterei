@@ -5,9 +5,9 @@ contributes:
 orgs:
 podcasts:
 topics:
-	- live aufnahmen
-	- sendegate community
-	- wissenschaftspodcasts
+  - live aufnahmen
+  - sendegate community
+  - wissenschaftspodcasts
 source: community
 checked: false
 ---
@@ -24,7 +24,7 @@ Sven kam über die YouTube-Community 'Geek & Sundry' zum Podcasten und gründete
 
 TODO: Zitat von Sven oder Kirsten?
 
-**Themen:** [[Live-Aufnahmen]] · [[Sendegate-Community]] · [[Wissenschaftspodcasts]]
+**Themen:** [[Live-Aufnahmen]] · [[Sendegate-Community]] · [[Wissenschaftspodcasts (Thema)|Wissenschaftspodcasts]]
 
 → [[Erster Berührungspunkt & Anstoß]]
 

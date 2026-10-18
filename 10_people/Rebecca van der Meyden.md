@@ -12,7 +12,7 @@ topics:
 - recherche vorbereitung
 - schnitt erlebnis
 - sendegate community
-right- shownotes aufbereitung
+- shownotes aufbereitung
 source: community
 checked: false
 ---

@@ -4,8 +4,7 @@ name: Alexander Heimbuch
 url: https://podlove.org/
 contributes:
   - "[[Podlove]]"
-orgs:
-  - []
+orgs: []
 podcasts:
   - "[[Podlove]]"
 topics:

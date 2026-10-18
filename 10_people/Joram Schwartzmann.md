@@ -4,10 +4,8 @@ name: Joram Schwartzmann
 url: http://www.youtube.com/@JoramMachtSachen
 contributes:
   - "[[Ultraschall]]"
-orgs:
-  - []
-podcasts:
-  - []
+orgs: []
+podcasts: []
 topics:
   - Audio-Produktion
   - Tutorials

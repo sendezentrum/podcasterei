@@ -4,8 +4,7 @@ name: Nico Herzog
 url: https://sendungsbewusstsein.info
 contributes:
   - "[[Bildsprache]]"
-orgs:
-  - []
+orgs: []
 podcasts:
   - "[[Bildsprache]]"
 topics:

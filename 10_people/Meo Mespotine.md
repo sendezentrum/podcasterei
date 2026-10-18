@@ -4,10 +4,8 @@ name: Meo Mespotine
 url: https://ultraschall.fm/danke/
 contributes:
   - "[[Ultraschall]]"
-orgs:
-  - []
-podcasts:
-  - []
+orgs: []
+podcasts: []
 topics:
   - Audio-Produktion
   - Open Source

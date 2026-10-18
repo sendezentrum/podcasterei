@@ -3,7 +3,7 @@ type: talk
 name: Zwischen Eilmeldung und Evergreen
 url: https://media.ccc.de/v/subscribe10-63-zwischen-eilmeldung-und-evergreen-wie-bildet-man-aktuelle-themen-und-diskussionen-im-podcast-ab-samstag-
 date: März 2019
-event: "[[Subscribe 10 März 2019]]"
+event: "[[Subscribe 10]]"
 speakers:
   - Sarah Zerback
   - Ann-Katrin Büüsker

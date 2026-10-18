@@ -1,9 +1,9 @@
 ---
 type: talk
-name: Florian Meyer-Hawranek: Podcast first?
+name: "Florian Meyer-Hawranek: Podcast first?"
 url: https://www.youtube.com/watch?v=2f5wIfkeVec
 date: Oktober 2017
-event: ""[[Subscribe 9 Oktober 2017]]""
+event: "[[Subscribe 9]]"
 speakers:
   - Florian Meyer-Hawranek
 video: "https://www.youtube.com/watch?v=2f5wIfkeVec"

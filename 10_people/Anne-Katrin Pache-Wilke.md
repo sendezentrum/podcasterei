@@ -2,10 +2,8 @@
 type: Person
 name: Anne-Katrin Pache-Wilke
 url: https://fyyd.de/podcast/podcast-faible/0
-contributes:
-  - []
-orgs:
-  - []
+contributes: []
+orgs: []
 podcasts:
   - "[[Podcast Faible]]"
 topics:

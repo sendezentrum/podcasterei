@@ -3,7 +3,7 @@ type: talk
 name: Auphonic
 url: https://www.youtube.com/watch?v=9Fw0u7jCyGY
 date: November 2015
-event: ""[[PPW 6 November 2015]]""
+event: "[[PPW15b]]"
 speakers:
   - "[[Georg Holzmann]]"
 video: "https://www.youtube.com/watch?v=9Fw0u7jCyGY"

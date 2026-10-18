@@ -5,13 +5,13 @@ contributes:
 orgs:
 podcasts:
 topics:
-	- auphonic
-	- duo format
-	- familie privatleben
-	- filmpodcasts
-	- hoerer feedback
-	- schnitt tools ultraschall reaper
-	- sendegate community
+  - auphonic
+  - duo format
+  - familie privatleben
+  - filmpodcasts
+  - hoerer feedback
+  - schnitt tools ultraschall reaper
+  - sendegate community
 source: community
 checked: false
 ---
@@ -52,7 +52,7 @@ Ultraschall/Reaper für Schnitt, Auphonic für Klangoptimierung (immer noch gern
 
 > „Ich mache das mit der Phonic eigentlich immer sehr gerne noch zusätzlich."
 
-**Themen:** [[Auphonic]] · [[Schnitt-Tools (Ultraschall - Reaper)|Schnitt-Tools (Ultraschall/Reaper)]]
+**Themen:** [[Auphonic (Thema)|Auphonic]] · [[Schnitt-Tools (Ultraschall - Reaper)|Schnitt-Tools (Ultraschall/Reaper)]]
 
 → [[Technik]]
 

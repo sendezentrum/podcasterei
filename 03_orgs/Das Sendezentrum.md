@@ -1,5 +1,5 @@
 ---
-type: Organisaiton
+type: Organization
 name: Das Sendezentrum
 url: https://das-sendezentrum.de/
 topics:

@@ -3,9 +3,8 @@ type: talk
 name: Podcast-Jeopardy – Die Ü-Show
 url: https://www.youtube.com/watch?v=8rcYx92AvSg
 date: November 2015
-event: ""[[PPW 6 November 2015]]""
-speakers:
-  - []
+event: "[[PPW15b]]"
+speakers: []
 video: "https://www.youtube.com/watch?v=8rcYx92AvSg"
 source: community
 checked: false

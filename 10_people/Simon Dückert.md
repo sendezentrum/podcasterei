@@ -4,10 +4,8 @@ name: Simon Dückert
 url: https://sendegate.de/
 contributes:
   - "[[Sendegate]]"
-orgs:
-  - []
-podcasts:
-  - []
+orgs: []
+podcasts: []
 topics:
   - Community
   - Podcasting

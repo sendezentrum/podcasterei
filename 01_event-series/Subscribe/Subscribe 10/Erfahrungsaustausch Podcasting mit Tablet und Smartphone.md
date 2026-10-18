@@ -3,7 +3,7 @@ type: talk
 name: Erfahrungsaustausch Podcasting mit Tablet und Smartphone
 url: https://media.ccc.de/v/subscribe10-55-erfahrungsaustausch-podcasting-mit-tablet-smartphone
 date: März 2019
-event: "[[Subscribe 10 März 2019]]"
+event: "[[Subscribe 10]]"
 speakers:
   - Alexander Drechsel
 video: "https://media.ccc.de/v/subscribe10-55-erfahrungsaustausch-podcasting-mit-tablet-smartphone"

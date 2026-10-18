@@ -7,7 +7,7 @@ date: 2024-10-18 20:30
 duration: 01:00
 room: Großer Saal
 track: Vorträge
-event: "[[Subscribe 11 Oktober 2024]]"
+event: "[[Subscribe 11]]"
 speakers:
   - "[[Tim Pritlove]]"
 video: "https://media.ccc.de/v/subscribe11-58195-im-dunkeln-ist-alles-viel-aufregender"

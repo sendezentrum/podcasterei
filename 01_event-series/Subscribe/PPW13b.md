@@ -16,8 +16,7 @@ orgs:
   - "[[Das Sendezentrum]]"
   - "[[Podlove]]"
 
-podcasts:
-  - []
+podcasts: []
 
 topics:
   - Podcasting

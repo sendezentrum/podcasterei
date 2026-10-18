@@ -4,10 +4,8 @@ name: Alexandra von Criegern
 url: https://podlove.org/about
 contributes:
   - "[[Podlove]]"
-orgs:
-  - []
-podcasts:
-  - []
+orgs: []
+podcasts: []
 topics:
   - Frontend-Entwicklung
   - Open Source

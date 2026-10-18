@@ -3,7 +3,7 @@ type: talk
 name: Podigee Premium als Spendenmodell
 url: https://media.ccc.de/v/subscribe10-50-podigee-premium-als-spendenmodell
 date: März 2019
-event: "[[Subscribe 10 März 2019]]"
+event: "[[Subscribe 10]]"
 speakers:
   - Podigee
 video: "https://media.ccc.de/v/subscribe10-50-podigee-premium-als-spendenmodell"

@@ -5,12 +5,12 @@ contributes:
 orgs:
 podcasts:
 topics:
-	- fandom als einstieg
-	- gespraeche begegnungen
-	- mikrofon setup
-	- schnitt tools ultraschall reaper
-	- stefan brocksch esel teddy
-	- wissenschaftspodcasts
+  - fandom als einstieg
+  - gespraeche begegnungen
+  - mikrofon setup
+  - schnitt tools ultraschall reaper
+  - stefan brocksch esel teddy
+  - wissenschaftspodcasts
 source: community
 checked: false
 ---
@@ -39,7 +39,7 @@ checked: false
 
 > „Ich bin da gnadenlos. [...] Wenn ich merke, ich komme irgendwie drei, vier Wochen nicht hinterher, dann lösche ich die alten Folgen und springe die aktuelle."
 
-**Themen:** [[Fandom als Einstieg]] · [[Wissenschaftspodcasts]]
+**Themen:** [[Fandom als Einstieg]] · [[Wissenschaftspodcasts (Thema)|Wissenschaftspodcasts]]
 
 → [[Eigener Podcast-Konsum]]
 
@@ -51,7 +51,7 @@ Die Folgen mit besonderen Gästen aus dem Perry-Rhodan-Universum: Autor Robert C
 
 > „Das ist so eine der Folgen, wo ich sage, wenn einer mal bei uns reinschnuppern will, das ist so eine der Folgen."
 
-**Themen:** [[Gespräche & Begegnungen]] · [[Wissenschaftspodcasts]]
+**Themen:** [[Gespräche & Begegnungen]] · [[Wissenschaftspodcasts (Thema)|Wissenschaftspodcasts]]
 
 → [[Erinnerungswürdige Aufnahme]]
 

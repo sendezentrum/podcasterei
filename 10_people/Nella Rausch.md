@@ -5,12 +5,12 @@ contributes:
 orgs:
 podcasts:
 topics:
-	- blue yeti
-	- gemischtes hack
-	- gespraeche begegnungen
-	- psychologie persoenlichkeitsentwicklung
-	- recherche vorbereitung
-	- schnitt tools audacity
+  - blue yeti
+  - gemischtes hack
+  - gespraeche begegnungen
+  - psychologie persoenlichkeitsentwicklung
+  - recherche vorbereitung
+  - schnitt tools audacity
 source: community
 checked: false
 ---

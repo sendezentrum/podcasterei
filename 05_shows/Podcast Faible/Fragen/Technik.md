@@ -13,7 +13,7 @@ tags: [frage]
 
 - [[Mikrofon-Setup]] — [[Alexander Haas]], [[Alexander Karls]], [[Arne Ruddat]], [[Heike Drexel]], [[Johannes Wolf]], [[Kai Rohde]], [[Patrick Lohmeier]], [[Philipp Müllender]], [[Rebecca van der Meyden]], [[Stefan Giesbert]], [[Yvette Philippens]]
 - [[Schnitt-Tools (Ultraschall - Reaper)|Schnitt-Tools (Ultraschall/Reaper)]] — [[Alexander Haas]], [[Britt-Marie]], [[Christian Steiner]], [[Christiane Attig]], [[Johannes Wolf]], [[Pascal Wichmann]]
-- [[Auphonic]] — [[Britt-Marie]], [[Christiane Attig]], [[Pascal Wichmann]], [[Philipp Müllender]], [[Soenke Scharnhorst]]
+- [[Auphonic (Thema)|Auphonic]] — [[Britt-Marie]], [[Christiane Attig]], [[Pascal Wichmann]], [[Philipp Müllender]], [[Soenke Scharnhorst]]
 - [[Schnitt-Tools (Audacity)]] — [[Alexander Waschkau]], [[Franziska von Lehel]], [[Heike Drexel]], [[Nella Rausch]]
 - [[Aufnahme-Tools (Studio Link - Riverside)|Aufnahme-Tools (Studio Link/Riverside)]] — [[Alexander Karls]], [[Michèle Liussi]]
 - [[Blue yeti]] — [[Michèle Liussi]], [[Nella Rausch]]

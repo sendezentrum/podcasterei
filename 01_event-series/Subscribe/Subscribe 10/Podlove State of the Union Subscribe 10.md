@@ -3,7 +3,7 @@ type: talk
 name: Podlove State of the Union
 url: https://media.ccc.de/v/subscribe10-7-podlove-state-of-the-union
 date: März 2019
-event: "[[Subscribe 10 März 2019]]"
+event: "[[Subscribe 10]]"
 speakers:
   - "Tim Pritlove"
   - "Alexander Heimbuch"

@@ -2,10 +2,8 @@
 type: Person
 name: Daniela Ishorst
 url: https://www.podlovers.org
-contributes:
-  - []
-orgs:
-  - []
+contributes: []
+orgs: []
 podcasts:
   - "[[Podlovers]]"
 topics:

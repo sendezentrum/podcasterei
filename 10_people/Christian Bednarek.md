@@ -4,10 +4,8 @@ name: Christian Bednarek
 url: https://fyyd.de/
 contributes:
   - "[[Fyyd]]"
-orgs:
-  - []
-podcasts:
-  - []
+orgs: []
+podcasts: []
 topics:
   - Podcast Discovery
   - Open Source

@@ -5,13 +5,13 @@ contributes:
 orgs:
 podcasts:
 topics:
-	- buehnenaffinitaet
-	- fandom als einstieg
-	- gespraeche begegnungen
-	- pandemie als ausloeser
-	- schnitt tools ultraschall reaper
-	- sendegate community
-	- wissenschaftspodcasts
+  - buehnenaffinitaet
+  - fandom als einstieg
+  - gespraeche begegnungen
+  - pandemie als ausloeser
+  - schnitt tools ultraschall reaper
+  - sendegate community
+  - wissenschaftspodcasts
 source: community
 checked: false
 ---
@@ -40,7 +40,7 @@ Bezieht Infos über Podcast-Nachrichten (keine Tagesschau, keine Zeitung). Wisse
 
 > „Es klingt total, als wäre ich irgendwie 50 oder so, also Eltern- und Finanzratgeber. Why not?"
 
-**Themen:** [[Wissenschaftspodcasts]]
+**Themen:** [[Wissenschaftspodcasts (Thema)|Wissenschaftspodcasts]]
 
 → [[Eigener Podcast-Konsum]]
 

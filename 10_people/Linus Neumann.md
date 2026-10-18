@@ -4,8 +4,7 @@ name: Linus Neumann
 url: https://sendungsbewusstsein.info
 contributes:
   - "[[Logbuch:Netzpolitik]]"
-orgs:
-  - []
+orgs: []
 podcasts:
   - "[[Logbuch:Netzpolitik]]"
 topics:

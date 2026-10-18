@@ -4,8 +4,7 @@ name: Chris Marquardt
 url: https://sendungsbewusstsein.info
 contributes:
   - "[[Happy Shooting]]"
-orgs:
-  - []
+orgs: []
 podcasts:
   - "[[Happy Shooting]]"
 topics:

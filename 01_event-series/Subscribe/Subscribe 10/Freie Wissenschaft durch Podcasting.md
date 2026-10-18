@@ -3,7 +3,7 @@ type: talk
 name: Freie Wissenschaft durch Podcasting
 url: https://media.ccc.de/v/subscribe10-56-freie-wissenschaft-durch-podcasting
 date: März 2019
-event: "[[Subscribe 10 März 2019]]"
+event: "[[Subscribe 10]]"
 speakers:
   - Michael Karbacher
 video: "https://media.ccc.de/v/subscribe10-56-freie-wissenschaft-durch-podcasting"

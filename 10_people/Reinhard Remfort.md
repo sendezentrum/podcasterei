@@ -2,12 +2,9 @@
 type: Person
 name: Reinhard Remfort
 url: https://sendungsbewusstsein.info
-contributes:
-  - []
-orgs:
-  - []
-podcasts:
-  - []
+contributes: []
+orgs: []
+podcasts: []
 topics:
   - Podcast
   - Wissenschaft

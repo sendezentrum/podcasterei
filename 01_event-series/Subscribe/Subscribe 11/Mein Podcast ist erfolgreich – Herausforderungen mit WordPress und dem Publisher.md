@@ -7,7 +7,7 @@ date: 2024-10-19 16:00
 duration: 00:30
 room: Großer Saal
 track: Vorträge
-event: "[[Subscribe 11 Oktober 2024]]"
+event: "[[Subscribe 11]]"
 speakers:
   - Marcel Stuht
 video: "https://media.ccc.de/v/subscribe11-58226-mein-podcast-ist-erfolgreich-herausforderungen-mit-wordpress-und-dem-publisher"

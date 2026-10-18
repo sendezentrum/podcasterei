@@ -6,8 +6,7 @@ contributes:
   - Forschung
 orgs:
   - "[[Universität Leipzig]]"
-podcasts:
-  - []
+podcasts: []
 topics:
   - Podcast-Forschung
   - Politische Kommunikation

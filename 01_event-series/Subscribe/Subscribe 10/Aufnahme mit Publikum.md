@@ -3,7 +3,7 @@ type: talk
 name: Aufnahme mit Publikum
 url: https://media.ccc.de/v/subscribe10-45-aufnahme-mit-publikum
 date: März 2019
-event: "[[Subscribe 10 März 2019]]"
+event: "[[Subscribe 10]]"
 speakers:
   - Lothar Bodingbauer
 video: "https://media.ccc.de/v/subscribe10-45-aufnahme-mit-publikum"
