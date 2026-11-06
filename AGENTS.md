@@ -5,7 +5,7 @@ This file provides guidance to AI Agents e.g. Claude Code (claude.ai/code) when 
 
 An **Obsidian vault** documenting the German-speaking (DACH) podcast ecosystem — its people, organizations, projects, networks, and events. Content is in German. There are no build, lint, or test commands.
 
-Remote `origin` (`ssh://git@codeberg.org/sendezentrum/podcasterei.git`) is configured with a second pushurl to `git@github.com:sendezentrum/podcasterei.git` — a plain `git push origin main` pushes to both codeberg and GitHub as equal masters (not a one-way mirror). A separate `github` remote also exists for fetching from or pushing to GitHub alone if needed.
+Remote `origin` (`ssh://git@codeberg.org/sendezentrum/podcasterei.git`) is configured with a second pushurl to `git@github.com:sendezentrum/podcasterei.git` — a plain `git push origin main` pushes to both codeberg and GitHub as equal masters (not a one-way mirror). Separate `github` and `codeberg` remotes also exist, each pointing at just one host, for fetching from or pushing to a single remote alone if needed.
 
 ## Directory structure
 
