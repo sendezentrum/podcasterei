@@ -5,11 +5,11 @@ contributes:
 orgs:
 podcasts:
 topics:
-	- aufnahme tools studio link riverside
-	- gemischtes hack
-	- gespraeche begegnungen
-	- mikrofon setup
-	- pandemie als ausloeser
+  - aufnahme tools studio link riverside
+  - gemischtes hack
+  - gespraeche begegnungen
+  - mikrofon setup
+  - pandemie als ausloeser
 source: community
 checked: false
 ---

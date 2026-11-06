@@ -1,3 +1,12 @@
 /.obsidian/workspace.json
 /.claude/settings.local.json
 /.vscode
+.DS_Store
+__pycache__
+/.obsidian/backlink.json
+/.obsidian/webviewer.json
+/.obsidian/plugins/github-copilot/
+/.obsidian/plugins/pretty-properties/
+/.raw/
+/copilot/
+.tmp_fix_ep_refs.rb
