@@ -12,6 +12,9 @@ speakers:
   - "[[Laura Bohné]]"
   - "[[Šejla Begović]]"
   - "[[Hendrik Rack]]"
+podcast: "[[hauseins Podcast]]"
+episode_url: https://shows.acast.com/63a18974981c02001029f695/episodes/698f157bd6c27a06bb568289
+audio: https://sphinx.acast.com/p/open/s/63a18974981c02001029f695/e/698f157bd6c27a06bb568289/media.mp3
 source: community
 checked: false
 ---
@@ -26,3 +29,4 @@ Vor 5 Jahren startete das PULS Talente Programm, um junge Menschen fernab journa
 
 - [somanyvoices.de: Warum unqualifizierte 20-Jährige die Zukunft der Medienlandschaft sind](https://somanyvoices.de/programm-25/die-zukunft-der-medienlandschaft/)
 - [Programm So Many Voices 2025](https://somanyvoices.de/programm-25/)
+- [[hauseins Podcast]], Folge 30 (2026-03-13): [So many Voices 25: Warum unqualifizierte 20jährige die Zukunft der Medienlandschaft sind](https://shows.acast.com/63a18974981c02001029f695/episodes/698f157bd6c27a06bb568289)

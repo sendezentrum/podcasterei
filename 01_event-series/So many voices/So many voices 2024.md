@@ -18,6 +18,9 @@ organizers:
 orgs:
   - "[[Haus 1]]"
 
+podcasts:
+  - "[[hauseins Podcast]]"
+
 speakers:
   - "[[Azadê Peşmen]]"
   - "[[Antonia Franz]]"
@@ -84,6 +87,7 @@ Auftakt der Reihe; etablierte das Format aus Großer Bühne, zwei Workshop-Räum
 
 ## Quellen / Hinweise
 
+- Mitschnitte ausgewählter Sessions im [[hauseins Podcast]]
 - [Programm So Many Voices 2024](https://somanyvoices.de/programm-24/)
 - Fahrplan (c3voc schedule.json): `raw/events/somanyvoices/somanyvoices2024.schedule-v1.json` (frab-kompatibel), `…schedule-v2.json` (vollständig, mit Speaker-Bios)
 - [C3VOC Import](https://import.c3voc.de/schedule/somanyvoices2024.json?showall=yes)

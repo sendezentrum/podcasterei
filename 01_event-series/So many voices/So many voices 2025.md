@@ -18,6 +18,9 @@ organizers:
 orgs:
   - "[[Haus 1]]"
 
+podcasts:
+  - "[[hauseins Podcast]]"
+
 speakers:
   - "[[Jeanne Drach]]"
   - "[[Laura Bohné]]"
@@ -91,5 +94,6 @@ Erweitert um einen Konferenzraum für den „Code of Fairness“ (Arbeits- und H
 
 ## Quellen / Hinweise
 
+- Mitschnitte ausgewählter Sessions im [[hauseins Podcast]]
 - [Programm So Many Voices 2025](https://somanyvoices.de/programm-25/)
 - Fahrplan (c3voc schedule.json): `raw/events/somanyvoices/somanyvoices2025.schedule-v1.json` (frab-kompatibel), `…schedule-v2.json` (vollständig, mit Speaker-Bios)

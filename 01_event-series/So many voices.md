@@ -25,7 +25,7 @@ orgs:
   - "[[Bayerischer Rundfunk]]"
 
 podcasts:
-  - "[[hauseins Podcasts]]"
+  - "[[hauseins Podcast]]"
 
 topics:
   - Podcasting

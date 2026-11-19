@@ -10,6 +10,9 @@ event: "[[So many voices 2024]]"
 guid: 6fcec377-0490-4146-9e14-1a325df69376
 speakers:
   - "[[Sarah Zaheer]]"
+podcast: "[[hauseins Podcast]]"
+episode_url: https://shows.acast.com/63a18974981c02001029f695/episodes/678f8970c4926bdc793728ac
+audio: https://sphinx.acast.com/p/open/s/63a18974981c02001029f695/e/678f8970c4926bdc793728ac/media.mp3
 source: community
 checked: false
 ---
@@ -24,3 +27,4 @@ In der Podcastlandschaft sind Perspektiven von BiPoC und Menschen mit Migrations
 
 - [somanyvoices.de: Empowerment durch Community-Podcasts](https://somanyvoices.de/programm-24/community-podcasts/)
 - [Programm So Many Voices 2024](https://somanyvoices.de/programm-24/)
+- [[hauseins Podcast]], Folge 20 (2025-01-21): [So many Voices 24: Empowerment durch Community-Podcasts](https://shows.acast.com/63a18974981c02001029f695/episodes/678f8970c4926bdc793728ac)

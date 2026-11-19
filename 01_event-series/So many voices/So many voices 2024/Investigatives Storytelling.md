@@ -13,6 +13,9 @@ speakers:
   - "[[Christiane Hawranek]]"
   - "[[Pia Stendera]]"
   - "[[Lukas Schöne]]"
+podcast: "[[hauseins Podcast]]"
+episode_url: https://shows.acast.com/63a18974981c02001029f695/episodes/6798a2fcdc087d2d295edd1e
+audio: https://sphinx.acast.com/p/open/s/63a18974981c02001029f695/e/6798a2fcdc087d2d295edd1e/media.mp3
 source: community
 checked: false
 ---
@@ -27,3 +30,4 @@ Podcast-Dokus bieten eine tolle Möglichkeit, große und investigative Recherche
 
 - [somanyvoices.de: Investigatives Storytelling](https://somanyvoices.de/programm-24/investigatives-storytelling/)
 - [Programm So Many Voices 2024](https://somanyvoices.de/programm-24/)
+- [[hauseins Podcast]], Folge 21 (2025-01-28): [So many Voices 24: Wie wird aus einer großen Recherche ein spannender Podcast?](https://shows.acast.com/63a18974981c02001029f695/episodes/6798a2fcdc087d2d295edd1e)

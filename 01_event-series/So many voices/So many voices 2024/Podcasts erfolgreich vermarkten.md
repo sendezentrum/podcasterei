@@ -11,6 +11,9 @@ guid: 62bfa290-6072-4e8a-adf5-911f4a9ca965
 speakers:
   - "[[Daniela Knoll]]"
   - "[[Ulf Buermeyer]]"
+podcast: "[[hauseins Podcast]]"
+episode_url: https://shows.acast.com/63a18974981c02001029f695/episodes/67b4504ed24f7fcce8f01586
+audio: https://sphinx.acast.com/p/open/s/63a18974981c02001029f695/e/67b4504ed24f7fcce8f01586/media.mp3
 source: community
 checked: false
 ---
@@ -25,3 +28,4 @@ Daniela Knoll, Head of Marketing bei Lage der Nation Media, und Ulf Buermeyer, C
 
 - [somanyvoices.de: Podcasts erfolgreich vermarkten](https://somanyvoices.de/programm-24/podcasts-vermarkten/)
 - [Programm So Many Voices 2024](https://somanyvoices.de/programm-24/)
+- [[hauseins Podcast]], Folge 22 (2025-02-18): [So many Voices 24: Podcasts erfolgreich vermarkten](https://shows.acast.com/63a18974981c02001029f695/episodes/67b4504ed24f7fcce8f01586)

@@ -12,6 +12,9 @@ speakers:
   - "[[Shalin Rogall]]"
   - "[[Teresa Sickert]]"
   - "[[Lukas Schöne]]"
+podcast: "[[hauseins Podcast]]"
+episode_url: https://shows.acast.com/63a18974981c02001029f695/episodes/698f0f721506be1a7e780897
+audio: https://sphinx.acast.com/p/open/s/63a18974981c02001029f695/e/698f0f721506be1a7e780897/media.mp3
 source: community
 checked: false
 ---
@@ -26,3 +29,4 @@ Geschichten über Menschen berühren – aber ob sie empowern oder ausnutzen, h�
 
 - [somanyvoices.de: Zwischen Empathie und Voyeurismus](https://somanyvoices.de/programm-25/zwischen-empathie-und-voyeurismus/)
 - [Programm So Many Voices 2025](https://somanyvoices.de/programm-25/)
+- [[hauseins Podcast]], Folge 29 (2026-02-13): [So many Voices 25: Zwischen Empathie und Voyeurismus](https://shows.acast.com/63a18974981c02001029f695/episodes/698f0f721506be1a7e780897)

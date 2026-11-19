@@ -12,6 +12,9 @@ speakers:
   - "[[Azadê Peşmen]]"
   - "[[Pia Stendera]]"
   - "[[Sophia Wetzke]]"
+podcast: "[[hauseins Podcast]]"
+episode_url: https://shows.acast.com/63a18974981c02001029f695/episodes/698f0bd91506be1a7e769f6f
+audio: https://sphinx.acast.com/p/open/s/63a18974981c02001029f695/e/698f0bd91506be1a7e769f6f/media.mp3
 source: community
 checked: false
 ---
@@ -26,3 +29,4 @@ Seit einigen Jahren erleben narrative Podcasts einen regelrechten Hype in Deutsc
 
 - [somanyvoices.de: Storytelling vs. Recherche](https://somanyvoices.de/programm-25/storytelling-vs-recherche/)
 - [Programm So Many Voices 2025](https://somanyvoices.de/programm-25/)
+- [[hauseins Podcast]], Folge 27 (2026-02-13): [So many Voices 25: Storytelling vs. Recherche?](https://shows.acast.com/63a18974981c02001029f695/episodes/698f0bd91506be1a7e769f6f)

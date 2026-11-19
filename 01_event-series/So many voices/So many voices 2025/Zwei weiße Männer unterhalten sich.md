@@ -13,6 +13,9 @@ speakers:
   - "[[Katrin Rönicke]]"
   - "[[Vera Katzenberger]]"
   - "[[Dennis Chiponda]]"
+podcast: "[[hauseins Podcast]]"
+episode_url: https://shows.acast.com/63a18974981c02001029f695/episodes/698f0d9db0cb4fc2fdfc4515
+audio: https://sphinx.acast.com/p/open/s/63a18974981c02001029f695/e/698f0d9db0cb4fc2fdfc4515/media.mp3
 source: community
 checked: false
 ---
@@ -27,3 +30,4 @@ Die Podcastbranche ist zwar jung und entstand als Grassroots-Bewegung, aber beso
 
 - [somanyvoices.de: Zwei weiße Männer unterhalten sich…](https://somanyvoices.de/programm-25/zwei-weisse-maenner-unterhalten-sich/)
 - [Programm So Many Voices 2025](https://somanyvoices.de/programm-25/)
+- [[hauseins Podcast]], Folge 28 (2026-02-13): [So many Voices 25: Zwei weiße Männer unterhalten sich…](https://shows.acast.com/63a18974981c02001029f695/episodes/698f0d9db0cb4fc2fdfc4515)
