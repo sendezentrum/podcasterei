@@ -12,6 +12,9 @@ speakers:
   - "[[Christian Bollert]]"
   - "[[Heike Kleffner]]"
   - "[[Lisa Bögl]]"
+podcasts:
+  - "[[Hey München]]"
+  - "[[DAZWISCHEN]]"
 source: community
 checked: false
 ---
@@ -22,7 +25,13 @@ Wie Podcasts den Lokaljournalismus bereichern können.
 
 In den vergangenen Jahren haben sich Podcast-Macherinnen und -Macher stark auf thematische Nischen spezialisiert. Interessanterweise ist eine „Nische“ dabei fast unbeachtet geblieben: Regionalität. Selbst lokale und regionale Medien versuchen mit ihren Podcasts häufig ein nationales Publikum anzusprechen. In den vergangenen Monaten ändert sich das jedoch. Regionale und lokale Podcasts werden als Chance für digitalen Journalismus von Medienhäusern, aber auch von freien Journalistinnen und Journalisten erkannt.
 
+## Verbindungen
+
+Beispiele aus der Session: [[DAZWISCHEN]], der Sachsen-Anhalt-Podcast von [[detektor.fm]] unter Projektleitung von [[Christian Bollert]], und [[Hey München]], der München-Podcast der [[Süddeutsche Zeitung]], den [[Lisa Bögl]] mit [[Linus Freymark]] moderiert.
+
 ## Quellen / Hinweise
 
 - [somanyvoices.de: Regionalpodcasts als Innovation im digitalen Journalismus](https://somanyvoices.de/programm-26/regionalpodcasts/)
 - [Programm So Many Voices 2026](https://somanyvoices.de/programm-26/)
+- [DAZWISCHEN – Der Sachsen-Anhalt-Podcast (detektor.fm)](https://detektor.fm/dazwischen-sachsen-anhalt)
+- [Hey München (Süddeutsche Zeitung)](https://www.sueddeutsche.de/thema/Hey_M%C3%BCnchen)
