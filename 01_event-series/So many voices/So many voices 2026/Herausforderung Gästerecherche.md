@@ -25,7 +25,9 @@ So suchen und finden wir immer wieder neue Geschichten.
 
 ## Verbindungen
 
-Die Session dreht sich um [[Eltern ohne Filter]], den Eltern-Podcast der ARD vom [[BR]]. [[Eva Deinert]] ist dort Redakteurin, [[Johannes Molz]] schreibt Texte über Elterndinge. Seit der neuen Staffel im Mai 2026 moderieren im Wechsel vier Hosts, die inzwischen über ganz Deutschland verteilt sind: [[Kathrin Hasselbeck]], [[Elisabeth Möckel]], [[Jim Laage]] und [[Tim Winterscheid]].
+Die Session dreht sich um [[Eltern ohne Filter]] („Elternleben wie es wirklich ist“), den Podcast für die ARD vom [[BR]] (Redaktion Notizbuch/Bayern 2). [[Eva Deinert]] ist dort Redakteurin, [[Johannes Molz]] schreibt Texte über Elterndinge. Seit der neuen Staffel im Mai 2026 moderieren im Wechsel vier Hosts, die inzwischen über ganz Deutschland verteilt sind: [[Kathrin Hasselbeck]], [[Elisabeth Möckel]] („Else“), [[Jim Laage]] und [[Tim Winterscheid]].
+
+Podcast-Fakten laut Folie in der Session: Gesprächs- und Reportageformat, Veröffentlichung jeden Freitag ab 15 Uhr, ca. 35 Minuten pro Folge, jährlich 36 Folgen plus Sonderformate, aktuell über 270 Folgen in ARD Sounds.
 
 Johannes Molz war wegen Bahnchaos nicht vor Ort (Hinweis aus der Community, 20.11.2026).
 
@@ -33,5 +35,6 @@ Johannes Molz war wegen Bahnchaos nicht vor Ort (Hinweis aus der Community, 20.1
 
 - [somanyvoices.de: Herausforderung Gästerecherche](https://somanyvoices.de/programm-26/herausforderung-gaesterecherche/)
 - [Programm So Many Voices 2026](https://somanyvoices.de/programm-26/)
+- Folie „Podcast-Fakten“ aus der Session (Foto aus der Community, 20.11.2026)
 - [ARD Sounds: Eltern ohne Filter](https://www.ardsounds.de/sendung/eltern-ohne-filter/urn:ard:show:821f9bc1b027e65d/)
 - [Feed (BR)](https://feeds.br.de/eltern-ohne-filter/feed.xml) – Hosts laut Folgenbeschreibungen, u. a. „Neue Staffel, neue Hosts: Es geht wieder los!“ (08.05.2026)
