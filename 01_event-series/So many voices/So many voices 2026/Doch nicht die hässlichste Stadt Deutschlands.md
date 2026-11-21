@@ -24,3 +24,8 @@ Pforzheim soll die hässlichste Stadt Deutschlands sein – wenn man Jan Böhmer
 
 - [somanyvoices.de: Doch nicht die hässlichste Stadt Deutschlands?](https://somanyvoices.de/programm-26/hasslichste-stadt-deutschlands/)
 - [Programm So Many Voices 2026](https://somanyvoices.de/programm-26/)
+
+### Erwähnte Podcasts und Organisationen
+
+- Podcast: [Ugly Pforzheim (DASDING)](https://www.dasding.de/podcasts/podcast-ugly-pforzheim-102.html) – 9 Folgen, Februar–März 2025; auch bei [ARD Sounds](https://www.ardsounds.de/sendung/ugly-pforzheim/urn:ard:show:fdb4e733e5948680/) und [Apple Podcasts](https://podcasts.apple.com/de/podcast/ugly-pforzheim/id1797504435)
+- [DASDING (SWR)](https://www.dasding.de/)
