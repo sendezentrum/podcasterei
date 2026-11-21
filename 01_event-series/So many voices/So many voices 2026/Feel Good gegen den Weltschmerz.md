@@ -29,6 +29,8 @@ Doku-Podcasts beschäftigen sich häufig mit düsteren oder belastenden Themen w
 
 ### Erwähnte Podcasts und Organisationen
 
+- Podcast: [Der König von TikTok](https://www.ardsounds.de/sendung/der-koenig-von-tiktok/urn:ard:show:68f1f08180b6490b/) (ARD Sounds)
+- Podcast: [Das Imperium Pamela Reif – Workout zur Macht](https://www.ardsounds.de/sendung/das-imperium-pamela-reif-workout-zur-macht/urn:ard:show:66122c1a8115a8f0/) (ARD Sounds)
 - Podcast: [OBSESSED - Döner Papers](https://podcasts.apple.com/de/podcast/obsessed-d%C3%B6ner-papers/id1812384628)
 - Podcast: [Stars unserer Kindheit: Peter Lustig & Elfie Donnelly](https://podcasts.apple.com/de/podcast/stars-unserer-kindheit-peter-lustig-elfie-donnelly/id1814376994)
 - Podcast: [Reclaim: Tic Tac Toe](https://podcasts.apple.com/de/podcast/reclaim-tic-tac-toe/id1893907212)

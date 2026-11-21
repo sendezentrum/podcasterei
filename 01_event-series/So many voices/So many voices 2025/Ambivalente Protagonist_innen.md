@@ -29,6 +29,7 @@ Viele Storytelling-Podcasts fokussieren in ihrem Narrativ stark auf einzelne, zu
 
 ### Erwähnte Podcasts und Organisationen
 
+- Podcast: [Der König von TikTok](https://www.ardsounds.de/sendung/der-koenig-von-tiktok/urn:ard:show:68f1f08180b6490b/) (ARD Sounds)
 - Podcast: [Just Love](https://podcasts.apple.com/de/podcast/just-love/id1605765371)
 - Podcast: [Seelenfänger](https://podcasts.apple.com/de/podcast/seelenf%C3%A4nger/id1646014385)
 - Podcast: [Stars unserer Kindheit: Peter Lustig & Elfie Donnelly](https://podcasts.apple.com/de/podcast/stars-unserer-kindheit-peter-lustig-elfie-donnelly/id1814376994)

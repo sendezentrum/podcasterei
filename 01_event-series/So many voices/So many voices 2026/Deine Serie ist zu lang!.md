@@ -28,6 +28,7 @@ Hand aufs Herz: Wie oft brecht ihr Podcast-Serien ab oder springt direkt zum End
 
 ### Erwähnte Podcasts und Organisationen
 
+- Podcast: [Kaff Crimes – Absurde Verbrechen aus der Provinz](https://www.ardsounds.de/sendung/kaff-crimes-absurde-verbrechen-aus-der-provinz/urn:ard:show:21ddd2f5bcdb80d6/) (ARD Sounds)
 - Podcast: [Spielabbruch – Macht Gewalt den Amateurfußball kaputt?](https://podcasts.apple.com/de/podcast/spielabbruch-macht-gewalt-den-amateurfu%C3%9Fball-kaputt/id1840362303)
 - Podcast: [Die Millionendiebin](https://podcasts.apple.com/de/podcast/die-millionendiebin/id1747692444)
 - Podcast: [Y-Kollektiv – Der Podcast](https://podcasts.apple.com/de/podcast/y-kollektiv-der-podcast/id1541115832)

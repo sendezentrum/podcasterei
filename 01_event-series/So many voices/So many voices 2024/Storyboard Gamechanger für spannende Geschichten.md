@@ -28,6 +28,8 @@ Zu viele Protagonist*innen, Handlungsstränge, offene Fragen und Infos? Beim Erz
 
 ### Erwähnte Podcasts und Organisationen
 
+- Podcast: [4 Tage Angst](https://www.ardsounds.de/sendung/4-tage-angst/urn:ard:show:7e1a1c2d41062455/) (ARD Sounds)
+- Podcast: [Die Flut - Warum musste Johanna sterben?](https://www.ardsounds.de/sendung/die-flut-warum-musste-johanna-sterben/urn:ard:show:5a0051350237e3c9/) (ARD Sounds)
 - Podcast: [Seelenfänger](https://podcasts.apple.com/de/podcast/seelenf%C3%A4nger/id1646014385)
 - Podcast: [I Will Survive - Der Kampf gegen die AIDS-Krise](https://podcasts.apple.com/de/podcast/i-will-survive-der-kampf-gegen-die-aids-krise/id1742787475)
 - Podcast: [Telephobia - Dieser eine Anruf](https://podcasts.apple.com/de/podcast/telephobia-dieser-eine-anruf/id1685905182)
