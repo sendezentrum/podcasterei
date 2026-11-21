@@ -170,7 +170,7 @@ Erster Schub 2007 'Republika-Spirit' – alle haben irgendwas im Internet gemach
 
 ### [[Rebecca van der Meyden]] (Ep 29)
 
-2006 begann sie wegen 2h täglichem Auto-Pendeln Podcasts zu hören. Schnell fand sie 'Puerto Partida' – einen Mitspiel-Rollenspiel-Podcast – und wurde Kandidatin und damit Teil der Insel-Community. Nach einem Auftritt beim Podstock-Festival fragten 'Die Kulturpessimistinnen' sie als Gast – aus dem Gastauftritt wurde feste Mitarbeit. Ihr erstes komplett selbstgemachtes Projekt war der Fanpodcast FCPP für Puerto Partida.
+2006 begann sie wegen 2h täglichem Auto-Pendeln Podcasts zu hören. Schnell fand sie [[Puerto Patida]] – einen Mitspiel-Rollenspiel-Podcast – und wurde Kandidatin und damit Teil der Insel-Community. Nach einem Auftritt beim Podstock-Festival fragten 'Die Kulturpessimistinnen' sie als Gast – aus dem Gastauftritt wurde feste Mitarbeit. Ihr erstes komplett selbstgemachtes Projekt war der Fanpodcast FCPP für Puerto Patida.
 
 > „Wenn man einmal angefangen hat, dann ergeben sich hier und da noch Gelegenheiten auch zu podcasten und man denkt plötzlich, ach, zu dem Thema würde ich auch gerne noch was machen."
 
