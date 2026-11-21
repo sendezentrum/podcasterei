@@ -1,0 +1,1185 @@
+{
+  "$schema": "https://c3voc.de/schedule/schema.json",
+  "generator": {
+    "name": "somanyvoices-scraper",
+    "version": "2.0",
+    "url": "https://somanyvoices.de/programm-24/"
+  },
+  "schedule": {
+    "version": "2.0",
+    "base_url": "https://somanyvoices.de/",
+    "conference": {
+      "acronym": "somanyvoices2024",
+      "title": "So Many Voices 2024",
+      "time_zone_name": "Europe/Berlin",
+      "description": "Podcast-Konferenz „von Podcaster:innen für Podcaster:innen“ in München, veranstaltet von hauseins.",
+      "url": "https://somanyvoices.de/programm-24/",
+      "start": "2024-11-22T13:00:00+01:00",
+      "end": "2024-11-23T13:10:00+01:00",
+      "daysCount": 2,
+      "timeslot_duration": "00:05",
+      "logo": "",
+      "keywords": [
+        "podcast",
+        "konferenz",
+        "münchen"
+      ],
+      "colors": {},
+      "tracks": [],
+      "rooms": [
+        {
+          "name": "Große Bühne",
+          "slug": "grosse-buehne",
+          "guid": "cf8566a6-c1da-5758-a88f-9d8e61f721df",
+          "type": "stage",
+          "features": {
+            "recording": "record_by_default"
+          }
+        },
+        {
+          "name": "Workshop 1",
+          "slug": "workshop-1",
+          "guid": "2f243b81-3ef0-5d92-814d-ea39897eab90",
+          "type": "workshop",
+          "features": {
+            "recording": "not_recorded_by_default"
+          }
+        },
+        {
+          "name": "Workshop 2",
+          "slug": "workshop-2",
+          "guid": "99b25df6-aada-5f41-9b0a-142bc8da3dd0",
+          "type": "workshop",
+          "features": {
+            "recording": "not_recorded_by_default"
+          }
+        },
+        {
+          "name": "Startup Space",
+          "slug": "startup-space",
+          "guid": "58b32f4a-8c74-59e8-9a56-ca96c7b146c9",
+          "type": "workshop",
+          "features": {
+            "recording": "not_recorded_by_default"
+          }
+        }
+      ],
+      "days": [
+        {
+          "index": 1,
+          "date": "2024-11-22",
+          "day_start": "2024-11-22T13:00:00+01:00",
+          "day_end": "2024-11-22T22:00:00+01:00",
+          "rooms": {
+            "Große Bühne": [
+              {
+                "guid": "2f08e0bc-443a-4bea-9be6-d8c9386ace7d",
+                "type": "other",
+                "id": 56293,
+                "slug": "somanyvoices2024-56293-begrussung",
+                "title": "Begrüßung",
+                "subtitle": "",
+                "date": "2024-11-22T14:00:00+01:00",
+                "start": "14:00",
+                "duration": "00:10",
+                "room": "Große Bühne",
+                "track": "",
+                "language": "de",
+                "logo": "",
+                "abstract": "",
+                "description": "",
+                "persons": [
+                  {
+                    "guid": "aa345470-b23b-5236-bccf-e2da2c89df85",
+                    "name": "Katrin Rönicke"
+                  },
+                  {
+                    "guid": "6ba5bfef-340f-5e50-a594-6a80547bd75e",
+                    "name": "Susanne Klingner"
+                  },
+                  {
+                    "guid": "c7f0fe40-c845-53bc-b745-338f68057046",
+                    "name": "Lukas Schöne"
+                  }
+                ],
+                "url": "",
+                "end": "2024-11-22T14:10:00+01:00",
+                "do_not_record": false,
+                "do_not_stream": false,
+                "links": [],
+                "feedback_url": "",
+                "origin_url": "",
+                "attachments": [],
+                "recording_license": ""
+              },
+              {
+                "guid": "cc1b0eae-9a61-4d04-a023-3f464646fae9",
+                "type": "lecture",
+                "id": 56295,
+                "slug": "somanyvoices2024-56295-brauchen-wir-eine",
+                "title": "Brauchen wir eine Podcast-Lobby?",
+                "subtitle": "Eine Keynote über faire Bezahlung und anständige Arbeitsbedingungen in der Podcastbranche Azadê Peşmen",
+                "date": "2024-11-22T14:10:00+01:00",
+                "start": "14:10",
+                "duration": "00:50",
+                "room": "Große Bühne",
+                "track": "",
+                "language": "de",
+                "logo": "",
+                "abstract": "Eine Keynote über faire Bezahlung und anständige Arbeitsbedingungen in der Podcastbranche Azadê Peşmen",
+                "description": "2024 muss man niemandem mehr erklären, warum Storytelling-Podcasts funktionieren. Rechtfertigen muss man sich erst beim Budget: Öffentlich-rechtliche Sender sind zögerlich, wenn es darum geht, aufwändige Formate zu produzieren, kommerzielle Anbieter geben anders als noch vor ein paar Jahren kaum neue Formate mehr in Auftrag. Immer wieder wird um Honorare gestritten und gerade in der Podcastbranche arbeiten oft Berufsanfänger*innen für Gagen, die mit Rezession und Inflation nicht mehr konkurrenzfähig sind. Sowohl Freie, als auch Produktionsfirmen diskutieren und kämpfen meist individuell vor sich her. Anders als in der Filmbranche gibt es in Deutschland noch keine eigene Interessensvereinigung, die feste Standards und Preise ausschließlich für Podcaster*innen und Audioproudzent*innen verhandelt. Etwas, was in den USA deutlich anders aussieht. Brauchen wir eine eigene deutsche Podcastlobby?",
+                "persons": [
+                  {
+                    "guid": "88e4bc0b-a395-5900-9c8a-6cb047aa995f",
+                    "name": "Azadê Peşmen",
+                    "biography": "Azadê Peşmen ist Co-Gründer*in von Qzeng Productions und Gründer*in von rabbithole media. Das erste Mal war Azadê beim argentinischen Community-Radio Radio Gráfica in der Rap-Sendung „Rimas Rebeldes“ on air und seit dem Volontariat beim Deutschlandfunk berichtet Azadê mittlerweile aus Brasilien, der Türkei oder dem Irak über Sicherheits- und Außenpolitik. Außerdem hostet Azadê Storytelling-Podcasts wie „Deso – der Rapper, der zum IS ging“ oder den täglichen Nachrichtenpodcast „Was jetzt?“. (Foto: Elif Küçük)",
+                    "avatar": "https://somanyvoices.de/wp-content/uploads/2024/10/Azade-Pesmen-c-Elif-Kuecuek-1-e1727792390606.jpg"
+                  }
+                ],
+                "url": "https://somanyvoices.de/programm-24/podcast-lobby/",
+                "end": "2024-11-22T15:00:00+01:00",
+                "do_not_record": false,
+                "do_not_stream": false,
+                "links": [
+                  {
+                    "url": "https://somanyvoices.de/programm-24/podcast-lobby/",
+                    "title": "somanyvoices.de",
+                    "type": "related"
+                  }
+                ],
+                "feedback_url": "",
+                "origin_url": "https://somanyvoices.de/programm-24/podcast-lobby/",
+                "attachments": [],
+                "recording_license": ""
+              },
+              {
+                "guid": "f16688d6-4683-4668-abbb-b98a7529d0b0",
+                "type": "lecture",
+                "id": 56294,
+                "slug": "somanyvoices2024-56294-investigatives-st",
+                "title": "Investigatives Storytelling",
+                "subtitle": "Wie wird aus einer großen Recherche ein spannender Podcast? Drei Macherinnen erzählen",
+                "date": "2024-11-22T15:00:00+01:00",
+                "start": "15:00",
+                "duration": "01:00",
+                "room": "Große Bühne",
+                "track": "",
+                "language": "de",
+                "logo": "",
+                "abstract": "Wie wird aus einer großen Recherche ein spannender Podcast? Drei Macherinnen erzählen",
+                "description": "Podcast-Dokus bieten eine tolle Möglichkeit, große und investigative Recherchen in mehreren Folgen zu erzählen und dabei auch zu vermitteln, wie schwierig diese manchmal sind, besonders in heiklen Bereichen wie MeToo und Verdachtsberichterstattung. Es gibt genug Raum , um die Protagonist*innen zu Wort kommen zu lassen und die gesellschaftliche Relevanz zu erklären.\n\nAber durch die Besonderheit von mehreren Folgen, die dramaturgisch aufgebaut werden, gibt es auch besondere Fallstricke. Worauf sollte man achten? Wie die Angst vor dem Mikro nehmen? Wie nimmt man in sensiblen Situationen vor Ort auf? Und wie sucht man gute O-Töne aus? Was kann der Podcast besser als das große Dossier? Darüber sprechen in diesem Panel die Journalistinnen Antonia Franz, Christiane Hawranek und Pia Stendera.",
+                "persons": [
+                  {
+                    "guid": "e6212bcb-070e-532e-9cf3-7101034adc47",
+                    "name": "Antonia Franz",
+                    "biography": "Antonia Franz ist Redakteurin im Podcastteam der Süddeutschen Zeitung. Dort konzipiert, schreibt und recherchiert sie vor allem für Dokupodcasts wie „Verzockt“ oder „Feuerzone – Das System Rammstein“.",
+                    "avatar": "https://somanyvoices.de/wp-content/uploads/2024/09/AntoniaFranz-scaled-e1728564070332.jpg"
+                  },
+                  {
+                    "guid": "1eb60477-cdd0-51c5-9b7b-74d2c7fab431",
+                    "name": "Christiane Hawranek",
+                    "biography": "Christiane Hawranek ist Reporterin bei BR Recherche und Autorin von Dokus für den BR und die ARD. 2024 ist ihr Podcast „Seelenfänger – Toxic Tantra“ erschienen. Sie interessiert sich für Menschen, denen Unrecht geschieht: zum Beispiel Kindern in der Kita („Tatort Kita“) oder älteren Menschen („Das Horrorheim“). Für die Podcast-Serie „Die gefallenen Mädchen“ hat sie Mütter begleitet, die Zwangsadoptionen erlebt haben. Christiane Hawranek hat mehrere Preise gewonnen, u.a. den Axel-Springer-Preis und den Robert Geisendörfer Preis.",
+                    "avatar": "https://somanyvoices.de/wp-content/uploads/2024/09/Christiane-Hawranek-Foto-Sabrina-Wanninger-1-scaled-e1728326083482.jpg"
+                  },
+                  {
+                    "guid": "04505a0d-ad38-5f93-8140-d76832d4cbb9",
+                    "name": "Pia Stendera",
+                    "biography": "Pia Stendera arbeitet als freie Journalistin für Print-, Audio- und Bewegtbildmedien – immer mit dem Ziel, dicht recherchierte Geschichten nah am Menschen zu erzählen. Besondere Aufmerksamkeit und Auszeichnungen erhielt sie als Co-Autorin und Host von dem Spotify Original Podcast „Boys Club – Macht und Missbrauch bei Axel Springer“.",
+                    "avatar": "https://somanyvoices.de/wp-content/uploads/2024/09/IMG_8482ed-scaled-e1728326124997.jpg"
+                  },
+                  {
+                    "guid": "c7f0fe40-c845-53bc-b745-338f68057046",
+                    "name": "Lukas Schöne",
+                    "biography": "Lukas Schöne arbeitet beim MedienNetzwerk Bayern als Branchenexperte für Audio und Journalismus. Er organisiert u.a. die Audio-Panels der Medientage München und der Lokalrundfunktage. Er tauscht sich intensiv mit der Branche aus, um Kooperationen und innovative Projekte anzustoßen. Außerdem ist er Host von „This is media NOW“, dem Podcast der Medientage München.",
+                    "avatar": "https://somanyvoices.de/wp-content/uploads/2024/10/Lukas-Schoene.jpg"
+                  }
+                ],
+                "url": "https://somanyvoices.de/programm-24/investigatives-storytelling/",
+                "end": "2024-11-22T16:00:00+01:00",
+                "do_not_record": false,
+                "do_not_stream": false,
+                "links": [
+                  {
+                    "url": "https://somanyvoices.de/programm-24/investigatives-storytelling/",
+                    "title": "somanyvoices.de",
+                    "type": "related"
+                  },
+                  {
+                    "url": "https://shows.acast.com/63a18974981c02001029f695/episodes/6798a2fcdc087d2d295edd1e",
+                    "title": "hauseins Podcast: So many Voices 24: Wie wird aus einer großen Recherche ein spannender Podcast?",
+                    "type": "media"
+                  }
+                ],
+                "feedback_url": "",
+                "origin_url": "https://somanyvoices.de/programm-24/investigatives-storytelling/",
+                "attachments": [],
+                "recording_license": ""
+              },
+              {
+                "guid": "62bfa290-6072-4e8a-adf5-911f4a9ca965",
+                "type": "lecture",
+                "id": 56296,
+                "slug": "somanyvoices2024-56296-podcasts-erfolgre",
+                "title": "Podcasts erfolgreich vermarkten",
+                "subtitle": "Wie verdiene ich mit meinem Podcast genug Geld, ohne journalistische Standards zu verletzen?",
+                "date": "2024-11-22T16:30:00+01:00",
+                "start": "16:30",
+                "duration": "01:00",
+                "room": "Große Bühne",
+                "track": "",
+                "language": "de",
+                "logo": "",
+                "abstract": "Wie verdiene ich mit meinem Podcast genug Geld, ohne journalistische Standards zu verletzen?",
+                "description": "Daniela Knoll, Head of Marketing bei Lage der Nation Media, und Ulf Buermeyer, Co-Host der „Lage der Nation“, plaudern aus dem Nähkästchen! Ein Blick hinter die Kulissen eines der größten deutschen Podcasts:\n\nDie „Lage der Nation“, einer der reichweitenstärksten Politik-Podcasts Deutschlands, produziert unabhängigen Journalismus und finanziert ein mehrköpfiges Team. Ohne Verlag, ohne Investor. Mit eigener Vermarktung und Fremdvermarktung. Die „Lage der Nation“ steht finanziell auf mehreren Säulen, die im Prinzip alle Podcasts für sich nutzen können. Welche das sind und wie das konkret geht? Darüber berichten die beiden und beantworten danach gerne Fragen des Publikums.",
+                "persons": [
+                  {
+                    "guid": "f4949a1d-e8d6-5807-b0ef-636f060eb2cd",
+                    "name": "Daniela Knoll",
+                    "biography": "Daniela Knoll, Head of Marketing bei „Lage der Nation“, ist Handelsfachwirtin und studierte Marketingwirtin (BAW) und verantwortet das Marketing und die Vermarktung des Podcast. Knoll war viele Jahre bei Verlagen und beim Radio in der nationalen und internationalen Mediaberatung tätig, bevor sie 2022 zur „Lage der Nation“ kam, um dort u.a. die Eigenvermarktung zu professionalisieren. In ihrer Freizeit engagiert Daniela Knoll sich ehrenamtlich bei der UNICEF Arbeitsgruppe München im Aktionsteam Kinderrechte und ist gerne in den Bergen unterwegs.",
+                    "avatar": "https://somanyvoices.de/wp-content/uploads/2024/10/Daniela-Knoll-1.jpeg"
+                  },
+                  {
+                    "guid": "ff27b6be-cb4a-5387-b8fd-b4c81064200e",
+                    "name": "Ulf Buermeyer",
+                    "biography": "Dr. Ulf Buermeyer , Co-Host der „Lage der Nation“, ist promovierter Jurist, war zehn Jahre Richter am Berliner Landgericht und ist Mitgründer und Vorstandsmitglied der Gesellschaft für Freiheitsrechte e.V. (GFF). Seit 2016 moderiert er gemeinsam mit dem Journalisten Philip Banse den wöchentlichen Podcast „Lage der Nation“, einen der meistgehörten politischen Podcasts in Deutschland. Zudem schreibt er regelmäßig u.a. für den Freitag, die Süddeutsche Zeitung und ZEIT Online. In seiner Freizeit entwickelt Ulf Buermeyer Apps für iPhone und iPad und reist gerne mit dem Zug quer durch Europa.",
+                    "avatar": "https://somanyvoices.de/wp-content/uploads/2024/10/Ulf-Buermeyer-Portrait-1.jpg"
+                  }
+                ],
+                "url": "https://somanyvoices.de/programm-24/podcasts-vermarkten/",
+                "end": "2024-11-22T17:30:00+01:00",
+                "do_not_record": false,
+                "do_not_stream": false,
+                "links": [
+                  {
+                    "url": "https://somanyvoices.de/programm-24/podcasts-vermarkten/",
+                    "title": "somanyvoices.de",
+                    "type": "related"
+                  },
+                  {
+                    "url": "https://shows.acast.com/63a18974981c02001029f695/episodes/67b4504ed24f7fcce8f01586",
+                    "title": "hauseins Podcast: So many Voices 24: Podcasts erfolgreich vermarkten",
+                    "type": "media"
+                  }
+                ],
+                "feedback_url": "",
+                "origin_url": "https://somanyvoices.de/programm-24/podcasts-vermarkten/",
+                "attachments": [],
+                "recording_license": ""
+              },
+              {
+                "guid": "95be2012-4d29-4a27-b732-453d764f52e4",
+                "type": "lecture",
+                "id": 56297,
+                "slug": "somanyvoices2024-56297-wie-schaffen-wir",
+                "title": "Wie schaffen wir Nähe, ohne Protagonist*innen auszubeuten?",
+                "subtitle": "Welche Verantwortung haben Podcaster*innen, die Protagonist*innen-zentrierte, menschliche Geschichten erzählen?",
+                "date": "2024-11-22T17:30:00+01:00",
+                "start": "17:30",
+                "duration": "01:00",
+                "room": "Große Bühne",
+                "track": "",
+                "language": "de",
+                "logo": "",
+                "abstract": "Welche Verantwortung haben Podcaster*innen, die Protagonist*innen-zentrierte, menschliche Geschichten erzählen?",
+                "description": "Menschen ganz nah kommen: Das geht fast nirgendwo so gut wie in Podcasts. Je persönlicher die Geschichte, desto mitreißender lässt sie sich erzählen. Unseren Protagonist*innen verlangen wir dabei ganz schön viel ab: Sie sollen ihr Innerstes mit uns teilen, sich an schmerzhafte Momente zurückerinnern und ihre Gedanken und Gefühle der Öffentlichkeit preisgeben. Was wir aus diesen „emotionalen O-Tönen“ machen – darüber haben sie kaum Kontrolle. Wie bringt man Protagonist*innen dazu sich zu öffnen, ohne dass sie das hinterher bereuen? Was können und sollten Medien eigentlich im Gegenzug bieten für so viel Offenheit? Wie schafft man überhaupt Nähe? Und wann müssen wir unsere Protagonist*innen schützen?",
+                "persons": [
+                  {
+                    "guid": "b51fa68a-cff3-5feb-aeab-865753514ff9",
+                    "name": "Lea Utz",
+                    "biography": "Lea Utz ist Journalistin, Autorin und Podcast-Host beim Bayerischen Rundfunk. Sie hostet und schreibt den Podcast „ Telephobia – Dieser eine Anruf“. Menschen ganz nah zu kommen ist für sie das Schönste und gleichzeitig Schwierigste an ihrer Arbeit. 2024 wurde sie mit dem Deutschen Podcast Preis für das Beste Gespräch ausgezeichnet. Im BR- StoryTeam arbeitet sie zusammen mit ihren Kolleg*innen daran, aus spannenden Stoffen gute Geschichten zu machen. Zuletzt war sie Redakteurin bei „Wild Wild Web“.",
+                    "avatar": "https://somanyvoices.de/wp-content/uploads/2024/09/Foto-Lea-Utz-e1728571512750.png"
+                  },
+                  {
+                    "guid": "c353a0ec-0a21-5543-a589-ed264cdace5d",
+                    "name": "Sandro Schroeder",
+                    "biography": "Sandro Schroeder beschäftigt sich als freier Journalist seit 2016 schwerpunktmäßig mit Podcasts. Zuletzt war er Autor im Team von „11KM – der Tagesschau-Podcast“, dann Co-Autor des Podcasts „Tatort Ostsee“ und zuletzt Regisseur sowie Producer bei „Rammstein – Row Zero“. Außerdem ist er Autor des Podcast-Newsletters „Hören/Sagen“ und schreibt Podcast-Kritiken für Übermedien.",
+                    "avatar": "https://somanyvoices.de/wp-content/uploads/2024/10/Sandro-Schroeder-e1728568023864.jpg"
+                  },
+                  {
+                    "guid": "f40409ff-d0e9-599a-a224-3c6106d6757a",
+                    "name": "Steffi Groth",
+                    "biography": "Steffi Groth ist ausgebildete Rundfunk-Journalistin (NDR) und erzählt als Filmemacherin (ARD, Arte), Podcasterin (radioeins, hauseins) und Moderatorin (NDR, FluxFM) Geschichten, um Menschen damit zu bewegen. Zuletzt geschehen mit: „This Band is Tocotronic“ und „Thüringen 2024 – Was wäre, wenn?“.",
+                    "avatar": "https://somanyvoices.de/wp-content/uploads/2024/10/Steffi-kl.jpg"
+                  }
+                ],
+                "url": "https://somanyvoices.de/programm-24/naehe-ohne-auszubeuten/",
+                "end": "2024-11-22T18:30:00+01:00",
+                "do_not_record": false,
+                "do_not_stream": false,
+                "links": [
+                  {
+                    "url": "https://somanyvoices.de/programm-24/naehe-ohne-auszubeuten/",
+                    "title": "somanyvoices.de",
+                    "type": "related"
+                  }
+                ],
+                "feedback_url": "",
+                "origin_url": "https://somanyvoices.de/programm-24/naehe-ohne-auszubeuten/",
+                "attachments": [],
+                "recording_license": ""
+              }
+            ],
+            "Workshop 1": [
+              {
+                "guid": "5a1d8a7a-551c-5b84-a7f9-930b6ededb91",
+                "type": "workshop",
+                "id": 924004,
+                "slug": "somanyvoices2024-924004-musik-im-audiostorytelling",
+                "title": "Musik im Audiostorytelling",
+                "subtitle": "Musik in Audioproduktionen als Story-Tool einsetzen",
+                "date": "2024-11-22T15:00:00+01:00",
+                "start": "15:00",
+                "duration": "01:00",
+                "room": "Workshop 1",
+                "track": "",
+                "language": "de",
+                "logo": "",
+                "abstract": "Musik in Audioproduktionen als Story-Tool einsetzen",
+                "description": "Wie arbeiten Producer*innen und Komponist*innen zusammen, um packende Storytelling-Podcasts zu kreieren? In dieser Q&A-Session öffnen Komponist Joscha Grunewald und Podcast-Producerin Militsa Tekelieva ihre Werkzeugkästen für euch! Wie entsteht der perfekte Soundtrack für einen Podcast? Wann wird Musik zum Erzählinstrument, und wann ist Stille kraftvoller? Militsa und Joscha geben Einblick in ihre Arbeit an Formaten wie „Deutsche Geister“, „Der Spion in unseren Handys“ (Zeit Online), „Laute Legenden. WACKEN“ (RTL) und „Lösch alles, Bro!“ (ZDF frontal) und zeigen wie Musik gezielt eingesetzt werden kann, um Geschichten zum Leben zu erwecken.\n\nPodcasts & Musik Freitag, 22. November 2024",
+                "persons": [
+                  {
+                    "guid": "e0f74ccd-151d-5ec0-aa24-d031f40cb65c",
+                    "name": "Militsa Tekeliva",
+                    "biography": "Militsa Tekelieva ist als Lead Producerin bei Pool Artists für den Bereich Postproduktion zuständig. Wenn sie nicht mit der Organisation des Produktionsalltags beschäftigt ist, produziert sie selber. Sie schneidet auch Ähms und kürzt Gesprächspausen, ihre Lieblingsprojekte sind aber aufwendige Doku- und Storytellingformate, bei denen sie viel mit Musik und Sound Design spielen kann. Zu ihren letzten Produktionen gehören die Podcasts „Deutsche Geister – Die Geschichte von Schmusch und Schmidt“, „Laute Legenden. WACKEN.“ und „Der Spion in unseren Handys“.",
+                    "avatar": "https://somanyvoices.de/wp-content/uploads/2024/10/Mili-kl.jpg"
+                  },
+                  {
+                    "guid": "9c1863b5-546f-5882-9735-341422725a1c",
+                    "name": "Paula Georgi",
+                    "biography": "Paula Georgi produziert als Lead Producerin Podcasts bei Pool Artists. Sie begleitet Konzeptphasen, organisiert Equipment, Räume und nicht zuletzt Producer*innen und Cutter*innen. Außerdem ist sie Fan von Pool Artists Vier-Tage Woche, Bürohund Chakka und Podcasts, die mit einem Jingle beginnen. Privat hostet sie mit Lele Lucas den Musikpodcast/Radiosendung „All You Can Eat Interviews“ und hofft, 2024 endlich mit einem Berlinpodcast anzufangen. Bitte sprecht sie auf letzteres Projekt nicht an.",
+                    "avatar": "https://somanyvoices.de/wp-content/uploads/2024/10/Paula-Georgi-kl-1.jpg"
+                  },
+                  {
+                    "guid": "4307610b-7992-5815-9bb8-d08019614404",
+                    "name": "Joscha Grunewald",
+                    "biography": "Joscha Grunewald ist Komponist, Sounddesigner und Tontechniker, spezialisiert auf Audio Storytelling. Von Podcast wie „Boys Club“, Zeit Onlines „Was jetzt? Spezial” oder „Vulcan Files – Putins Krieg im Netz” vom Spiegel bis zu Werbefilmen für Nike oder VW erzählt er Geschichten mit Ton und Technik.",
+                    "avatar": "https://somanyvoices.de/wp-content/uploads/2024/10/Joscha-Profil-kl.jpg"
+                  }
+                ],
+                "url": "https://somanyvoices.de/programm-24/podcasts-musik/",
+                "end": "2024-11-22T16:00:00+01:00",
+                "do_not_record": true,
+                "do_not_stream": true,
+                "links": [
+                  {
+                    "url": "https://somanyvoices.de/programm-24/podcasts-musik/",
+                    "title": "somanyvoices.de",
+                    "type": "related"
+                  }
+                ],
+                "feedback_url": "",
+                "origin_url": "https://somanyvoices.de/programm-24/podcasts-musik/",
+                "attachments": [],
+                "recording_license": ""
+              },
+              {
+                "guid": "28abb5b9-038e-5333-8214-d264d55b3b43",
+                "type": "workshop",
+                "id": 924008,
+                "slug": "somanyvoices2024-924008-storyboard-gamechanger-fuer",
+                "title": "Storyboard: Gamechanger für spannende Geschichten",
+                "subtitle": "Wie Storyboards Podcasts wie „Seelenfänger“ oder „I Will Survive“ besser und spannender gemacht haben",
+                "date": "2024-11-22T16:30:00+01:00",
+                "start": "16:30",
+                "duration": "01:00",
+                "room": "Workshop 1",
+                "track": "",
+                "language": "de",
+                "logo": "",
+                "abstract": "Wie Storyboards Podcasts wie „Seelenfänger“ oder „I Will Survive“ besser und spannender gemacht haben",
+                "description": "Zu viele Protagonist*innen, Handlungsstränge, offene Fragen und Infos? Beim Erzählen komplexer Stories kann man leicht den Überblick verlieren. Für das BR StoryTeam hat sich daher vor allem ein Mittel als Gamechanger herausgestellt: das Storyboard. In dieser Session erklärt BR StoryTeam-Leiter Till Ottlitz, wie Storyboards geholfen haben, erfolgreiche Podcasts wie „Seelenfänger“ oder „I Will Survive“ besser und spannender zu erzählen. Alles was man braucht, sind ein paar bunte Zettel und vielleicht diese Session zur Inspiration.",
+                "persons": [
+                  {
+                    "guid": "67ff5c35-3970-5624-823e-9f9846d37151",
+                    "name": "André Dér-Hörmeyer",
+                    "biography": "André Dér-Hörmeyer ist Co-Host, Autor und Regisseur des BR Podcasts “Wild Wild Web”. Er gibt Storytelling und Podcasting Workshops und war als Berater an preisgekrönten Podcastserien wie “Die Flut” und “Narcoland” beteiligt. Als Producer hat er bei der Produktionsfirma “Undone” den Podcast “Legion: Hacking Anonymous” mitentwickelt.",
+                    "avatar": "https://somanyvoices.de/wp-content/uploads/2024/11/AndreDerHoermeyer_c_julia_knoblauch_kl.jpg"
+                  },
+                  {
+                    "guid": "5978637a-90db-53ed-86fe-56c02d16423c",
+                    "name": "Till Ottlitz",
+                    "biography": "Till Ottlitz leitet das BR StoryTeam und betreut als Redakteur Podcast-Serien wie „I Will Survive“, „Telephobia“ oder „Wild Wild Web“. Er unterrichtet Storytelling und Podcasting an der Deutschen Journalistenschule. Sein persönlichstes Projekt ist der Podcast „4 Tage Angst“ über die Flucht seiner Mutter aus der DDR.",
+                    "avatar": "https://somanyvoices.de/wp-content/uploads/2024/10/Till-Ottlitz-kl.jpg"
+                  }
+                ],
+                "url": "https://somanyvoices.de/programm-24/gamechanger-storybord/",
+                "end": "2024-11-22T17:30:00+01:00",
+                "do_not_record": true,
+                "do_not_stream": true,
+                "links": [
+                  {
+                    "url": "https://somanyvoices.de/programm-24/gamechanger-storybord/",
+                    "title": "somanyvoices.de",
+                    "type": "related"
+                  }
+                ],
+                "feedback_url": "",
+                "origin_url": "https://somanyvoices.de/programm-24/gamechanger-storybord/",
+                "attachments": [],
+                "recording_license": ""
+              },
+              {
+                "guid": "652cffeb-e33a-59b4-87c8-8ac6fb7325fd",
+                "type": "workshop",
+                "id": 924012,
+                "slug": "somanyvoices2024-924012-das-kleine-im",
+                "title": "Das Kleine im Großen",
+                "subtitle": "Das Premium Audio-Netzwerk von Seven.One Audio und Podigee",
+                "date": "2024-11-22T17:30:00+01:00",
+                "start": "17:30",
+                "duration": "01:00",
+                "room": "Workshop 1",
+                "track": "",
+                "language": "de",
+                "logo": "",
+                "abstract": "Das Premium Audio-Netzwerk von Seven.One Audio und Podigee",
+                "description": "Wie lässt sich ein Podcast monetarisieren, wenn nicht gerade ein Klaas Heufer-Umlauf hinter dem Mikrofon sitzt und der Kontakt zur Love Brand eher weniger auf Gegenseitigkeit beruht? Die Antwort sind gebündelte Podcast-Reichweiten in einem starken Netzwerk. Gegründet von Podigee und Seven.One Audio profitieren im Premium Audio Netzwerk auch Podcasts mit kleinerer Reichweite von der Anbindung an ein starkes Netzwerk und werden so für Werbepartner*innen attraktiv. Durch die Einbindung erhalten kleinere Podcasts Zugang zu einem etablierten Vermarkter, der ihnen hilft, durch Native Producer Reads für Kund*innen interessant zu sein.\n\nVice President Content & Strategy bei Seven.One Audio Karin Kessler erläutert, wie durch gezielte Bündelung von Reichweiten und datengetriebene Targeting-Strategien auch Nischenformate erfolgreich monetarisiert werden können. Der Vortrag zeigt praxisnah, wie diese Synergien es ermöglichen, hochwertige Inhalte trotz geringer Reichweite gewinnbringend zu vermarkten, sodass sich auch kleinere Formate finanzieren können. Der Fokus liegt dabei auf der Bedeutung von Vertrauen und Qualität als wesentliche Erfolgsfaktoren im Premium Audio-Netzwerk.",
+                "persons": [
+                  {
+                    "guid": "0cee0e68-34ec-516c-bfb9-12a8637e75d0",
+                    "name": "Karin Kessler",
+                    "biography": "Karin Kessler ist Vice President Content & Strategy bei Seven.One Audio, Deutschlands führendem Podcast Netzwerk. Sie startete ihren Werdegang in der Werbebranche und betreute Kunden im Bereich Apps und Mobile Marketing. Später wechselte sie zu ProSiebenSat.1 Digital, wo sie als Head of Media und Access die Marketingkommunikation digitaler Brands steuerte. Seit 2019 war sie beim Aufbau der Podcast Unit der Seven.One Entertainment Group beteiligt und verantwortet heute die Content Unit sowie die Bereiche Ad Tech und Marketing innerhalb von Seven.One Audio.",
+                    "avatar": "https://somanyvoices.de/wp-content/uploads/2024/10/karin_Kessler_71audio-e1728327670405.jpeg"
+                  }
+                ],
+                "url": "https://somanyvoices.de/programm-24/das-kleine-im-grossen/",
+                "end": "2024-11-22T18:30:00+01:00",
+                "do_not_record": true,
+                "do_not_stream": true,
+                "links": [
+                  {
+                    "url": "https://somanyvoices.de/programm-24/das-kleine-im-grossen/",
+                    "title": "somanyvoices.de",
+                    "type": "related"
+                  }
+                ],
+                "feedback_url": "",
+                "origin_url": "https://somanyvoices.de/programm-24/das-kleine-im-grossen/",
+                "attachments": [],
+                "recording_license": ""
+              }
+            ],
+            "Workshop 2": [
+              {
+                "guid": "ce1e5cb7-62e3-5b67-bfe2-961a93d5b2bf",
+                "type": "workshop",
+                "id": 924005,
+                "slug": "somanyvoices2024-924005-steady-wie-deine",
+                "title": "Steady: Wie deine Podcast-Community bei der Finanzierung helfen kann",
+                "subtitle": "Wie du die perfekte Mitgliedschaftskampagne für deinen Podcast startest und Geld mit deiner Community verdienst",
+                "date": "2024-11-22T15:00:00+01:00",
+                "start": "15:00",
+                "duration": "01:00",
+                "room": "Workshop 2",
+                "track": "",
+                "language": "de",
+                "logo": "",
+                "abstract": "Wie du die perfekte Mitgliedschaftskampagne für deinen Podcast startest und Geld mit deiner Community verdienst",
+                "description": "",
+                "persons": [
+                  {
+                    "guid": "66863504-4a1f-53d6-a338-8f4f8aae5429",
+                    "name": "Sebastian Esser",
+                    "biography": "Sebastian Esser ist Journalist und Unternehmer in Berlin. Er ist Mitgründer des Magazins Krautreporter und Geschäftsführer von Steady, einer Membership-Plattform für unabhängige Medienmacher*innen. Steady unterstützt Podcaster*innen und andere Medienmacher*innen dabei, Geld mit ihrer Community zu verdienen und zahlt inzwischen etwa 1,4 Millionen Euro im Monat an sie aus.",
+                    "avatar": "https://somanyvoices.de/wp-content/uploads/2024/10/Sebastian-Esser-kl.jpg"
+                  }
+                ],
+                "url": "https://somanyvoices.de/programm-24/steady/",
+                "end": "2024-11-22T16:00:00+01:00",
+                "do_not_record": true,
+                "do_not_stream": true,
+                "links": [
+                  {
+                    "url": "https://somanyvoices.de/programm-24/steady/",
+                    "title": "somanyvoices.de",
+                    "type": "related"
+                  }
+                ],
+                "feedback_url": "",
+                "origin_url": "https://somanyvoices.de/programm-24/steady/",
+                "attachments": [],
+                "recording_license": ""
+              },
+              {
+                "guid": "a8a2eb50-7d7e-5696-9abc-55c260681b14",
+                "type": "workshop",
+                "id": 924009,
+                "slug": "somanyvoices2024-924009-sounderlebnisse-aus-daten",
+                "title": "Sounderlebnisse aus Daten",
+                "subtitle": "Datensonifikation: Die Infografik für Podcasts – ohne Code!",
+                "date": "2024-11-22T16:30:00+01:00",
+                "start": "16:30",
+                "duration": "01:00",
+                "room": "Workshop 2",
+                "track": "",
+                "language": "de",
+                "logo": "",
+                "abstract": "Datensonifikation: Die Infografik für Podcasts – ohne Code!",
+                "description": "Standest du schon mal vor der Frage, wie du Zahlen und Daten für dein Publikum verständlich machst? Im Onlinejournalismus und im Fernsehen lautet die Antwort oft: Kein Problem, da machen wir eine Grafik. In der Audiowelt geht das natürlich nicht so einfach! Aber es gibt einen Weg abseits von Shownotes oder Videopodcasts: Datensonifikation . Mit Sonifikation kannst du Zahlen hörbar machen, statt sie vorzulesen. In dieser Session lernst du Grundlagen eines Tools kennen, für das du keine Programmierkenntnisse brauchst. Wenn du ein bisschen mitmachen willst, bring gern deinen Laptop und (kabelgebundene) Kopfhörer mit.",
+                "persons": [
+                  {
+                    "guid": "022e6026-7b19-5704-88df-ac8780455c7f",
+                    "name": "Nándor Hulverscheidt",
+                    "biography": "Ich bin Nándor Hulverscheidt , arbeite hauptsächlich als Datenjournalist und hoste selbst keinen Podcast. Alle paar Folgen bin ich im Faktencheck der hauseins „Wochendämmerung“ von Kadda und Holgi zu hören. Das Hören von Podcasts muss ich in meiner Freizeit mit vielen anderen Interessen vereinen, darunter zum Beispiel Musik. Dieses Hobby hat auch mit meiner Session auf der So Many Voices zu tun. In letzter Zeit höre ich selbst gern den Podcast „ too many tabs“ .",
+                    "avatar": "https://somanyvoices.de/wp-content/uploads/2024/09/Speaker_Profilbild_SoManyVoices_Nandor_Hulverscheidt-scaled-e1728322261848.jpg"
+                  }
+                ],
+                "url": "https://somanyvoices.de/programm-24/sound-aus-daten/",
+                "end": "2024-11-22T17:30:00+01:00",
+                "do_not_record": true,
+                "do_not_stream": true,
+                "links": [
+                  {
+                    "url": "https://somanyvoices.de/programm-24/sound-aus-daten/",
+                    "title": "somanyvoices.de",
+                    "type": "related"
+                  }
+                ],
+                "feedback_url": "",
+                "origin_url": "https://somanyvoices.de/programm-24/sound-aus-daten/",
+                "attachments": [],
+                "recording_license": ""
+              },
+              {
+                "guid": "5c34c972-f472-50fa-a398-8ce3c9c71fb5",
+                "type": "workshop",
+                "id": 924013,
+                "slug": "somanyvoices2024-924013-von-der-literatur",
+                "title": "Von der Literatur für Podcasts lernen",
+                "subtitle": "Ein Workshop zur großen Erzählung, die in jeder Geschichte steckt – und wie man sie hörbar macht Miku Sophie Kühmel",
+                "date": "2024-11-22T17:30:00+01:00",
+                "start": "17:30",
+                "duration": "01:00",
+                "room": "Workshop 2",
+                "track": "",
+                "language": "de",
+                "logo": "",
+                "abstract": "Ein Workshop zur großen Erzählung, die in jeder Geschichte steckt – und wie man sie hörbar macht Miku Sophie Kühmel",
+                "description": "Miku Sophie Kühmel ist Podcast Producer und Schriftsteller*in. Miku kümmert sich bei Podcast Projekten meist um Dramaturgie, Storytelling – und das Schreiben. Manchmal auch um Konzepte. Diese Session gibt einen Einblick, wie diese beiden Berufsfelder zusammenhängen und gibt den Teilnehmenden Learnings an die Hand, die sich in bisherigen Podcast-Projekten als hilfreich herausgestellt haben. Und es wird in diesem Workshop eine Schreibübung zur Figurenpsychologie geben.",
+                "persons": [
+                  {
+                    "guid": "f6db5bf8-500d-5096-9ee0-a1b05f1d3a68",
+                    "name": "Miku Sophie Kühmel",
+                    "biography": "Seit 2017 produziert Miku Sophie Kühmel Podcasts für Deutschlandfunk, ZDF, SWR, Wondery, Audible u.a. Dabei ist Miku als Dramaturg*in und Autor*in tätig; zum Beispiel beim Podcast „Billion Dollar Apes“ (Deutscher Podcastpreis 2024, Beste Innovation). Außerdem ist Miku Schriftsteller*in. Der Debütroman „Kintsugi“ erschien 2019 und brachte diverse Preise ein, seither sind der zweite Roman „Triskele“ (2022) und die erste Anthologie „Brüste“ (2024, mit Linus Giese) erschienen.",
+                    "avatar": "https://somanyvoices.de/wp-content/uploads/2024/09/thumbnail_MikuSophieKuehmelHR_MG_8099-scaled-e1728565243707.jpg"
+                  }
+                ],
+                "url": "https://somanyvoices.de/programm-24/von-literatur-lernen/",
+                "end": "2024-11-22T18:30:00+01:00",
+                "do_not_record": true,
+                "do_not_stream": true,
+                "links": [
+                  {
+                    "url": "https://somanyvoices.de/programm-24/von-literatur-lernen/",
+                    "title": "somanyvoices.de",
+                    "type": "related"
+                  }
+                ],
+                "feedback_url": "",
+                "origin_url": "https://somanyvoices.de/programm-24/von-literatur-lernen/",
+                "attachments": [],
+                "recording_license": ""
+              }
+            ],
+            "Startup Space": [
+              {
+                "guid": "02ab74ac-463d-57e7-a0ed-6a9a5ffbb1e8",
+                "type": "workshop",
+                "id": 924006,
+                "slug": "somanyvoices2024-924006-ethischer-journalismus-im",
+                "title": "Ethischer Journalismus im Podcast",
+                "subtitle": "Wie wollen wir über Krisen berichten?",
+                "date": "2024-11-22T15:00:00+01:00",
+                "start": "15:00",
+                "duration": "01:00",
+                "room": "Startup Space",
+                "track": "",
+                "language": "de",
+                "logo": "",
+                "abstract": "Wie wollen wir über Krisen berichten?",
+                "description": "Krieg, Klima, Terror, Migration – wir leben in einer Zeit, in der unterschiedlichste Krisen zeitgleich passieren. Wie wollen wir als Journalist*innen über diese Krisen sprechen? Wie können wir Audio nutzen, um diese Krisen greifbar zu machen? Wie gehen wir in Anbetracht des Ausmaßes dieser Krisen mit Ohnmacht um? Und wie sorgen wir dafür, dass wichtige Themen hier nicht untergehen?\n\nIn dieser Session wird e in kurzer Impulsvortrag in das Thema einführen. Der anschließende Austausch findet in Form eines World Cafés statt – dazu definieren wir vier Kernthemen, zu denen wir uns in wechselnden Kleingruppen austauschen.\n\nEthischer Journalismus Am Freitag, 22. November 2024",
+                "persons": [
+                  {
+                    "guid": "d2160f93-4fc5-5f9e-b8d3-c57c261696e3",
+                    "name": "Lisa Tuttlies",
+                    "biography": "Lisa Tuttlies leitet die Redaktion bei ACB Stories, einem Podcaststudio in Berlin mit Fokus auf News-Formaten und narrativen Doku-Reihen. ACB Stories hat unter anderem den preisgekrönten Doku-Podcast „190220 – Ein Jahr nach Hanau“ produziert, oder „Memento Moria – Was heute an Europas Grenzen passiert“, „Springerstiefel – Fascho oder Punk“, sowie den täglichen Newspodcast „FOMO – Was habe ich heute verpasst“. Als Redaktionsleiterin überblickt Lisa alle Themen der Podcast-Produktionen und die redaktionelle Arbeit.",
+                    "avatar": "https://somanyvoices.de/wp-content/uploads/2024/10/Foto_LisaTuttlies_by-Philotheus-Nisch-kl.jpg"
+                  },
+                  {
+                    "guid": "e1c96142-e361-536e-b4d3-5bbd6f130b1a",
+                    "name": "Viola Funk",
+                    "biography": "Viola Funk leitet das Berliner Podcast-Studio ACB Stories. Dort verantwortet und produziert sie verschiedene Doku-Formate wie „Springerstiefel“, „Memento Moria“ oder „Scambit“, sowie das tägliche News-Format „FOMO – Was habe ich heute verpasst?“. Für ihre Arbeit am Podcast „190220“ wurde sie 2021 mit dem Grimme Online Award ausgezeichnet.",
+                    "avatar": "https://somanyvoices.de/wp-content/uploads/2024/10/Viola-Funk-by-Lisa-Tuttlies-kl.jpg"
+                  }
+                ],
+                "url": "https://somanyvoices.de/programm-24/ethischer-journalismus/",
+                "end": "2024-11-22T16:00:00+01:00",
+                "do_not_record": true,
+                "do_not_stream": true,
+                "links": [
+                  {
+                    "url": "https://somanyvoices.de/programm-24/ethischer-journalismus/",
+                    "title": "somanyvoices.de",
+                    "type": "related"
+                  }
+                ],
+                "feedback_url": "",
+                "origin_url": "https://somanyvoices.de/programm-24/ethischer-journalismus/",
+                "attachments": [],
+                "recording_license": ""
+              },
+              {
+                "guid": "1becd159-686a-50c1-bc4d-329fdf958949",
+                "type": "workshop",
+                "id": 924010,
+                "slug": "somanyvoices2024-924010-podcast-partnerschaft-auf",
+                "title": "Podcast-Partnerschaft auf Augenhöhe",
+                "subtitle": "Warum Unternehmen Podcasts unterstützen sollten – und was das mit Vertrauen zu tun hat",
+                "date": "2024-11-22T16:30:00+01:00",
+                "start": "16:30",
+                "duration": "01:00",
+                "room": "Startup Space",
+                "track": "",
+                "language": "de",
+                "logo": "",
+                "abstract": "Warum Unternehmen Podcasts unterstützen sollten – und was das mit Vertrauen zu tun hat",
+                "description": "Ein Gespräch zwischen Frank Joung, Host des Podcasts „Halbe Katoffl“ und Gaby Wasensteiner, Senior Brand Managerin bei LinkedIn über inhaltliche Absprachen, Markenaufbau und Glaubwürdigkeit. Gemeinsam haben sie die „Work Edition“ von Halbe Katoffl entwickelt.",
+                "persons": [
+                  {
+                    "guid": "fc127047-70dc-5984-9b3a-f26f878d3988",
+                    "name": "Gaby Wasensteiner",
+                    "biography": "Gaby Wasensteiner ist als Sr. Brand Manager bei LinkedIn für den Markenaufbau im DACH Raum (Deutschland, Österreich, Schweiz) verantwortlich. Nach ihrem Magister Studium der Japanologie, Transnationalen Germanistik und Pädagogik war sie in verschiedenen Ländern, Branchen und Unternehmen tätig. In diesen Jahren konnte sie viel Erfahrung sammeln, nicht nur im Bereich Marketing und interkultureller Kommunikation, sondern auch für die Themen Personal Branding, Netzwerken und Jobsuche. Über diese Themen und ihre Insights spricht Gaby als LinkedIn Karriere-Expertin und gibt zudem in „Rock Your Profile“-Workshops handfeste Tipps und Tricks rund um die Nutzung von LinkedIn und den Aufbau des eigenen Profils.",
+                    "avatar": "https://somanyvoices.de/wp-content/uploads/2024/09/Gaby-Wasensteiner-Portrait-scaled-e1728329095633.jpg"
+                  },
+                  {
+                    "guid": "e545a840-9e6b-5a5e-9b5f-ab7cc9e0529e",
+                    "name": "Frank Joung",
+                    "biography": "Frank Joung war in seinem früheren professionellem Leben Lokalredakteur und Sportjournalist. 2016 gründete er „Halbe Katoffl“, den ersten deutschsprachigen Podcast, der sich ganz mit der Lebenswelt von Deutschen mit nichtdeutschen Wurzeln beschäftigte. „Halbe Katoffl“ war bereits für mehrere Preise nominiert, u.a. für den Deutschen Podcast Preis und den Grimme Online Award. Neben dem Podcast moderiert er Events und Talks und gibt Podcast-Workshops an Schulen. Er ist verheiratet, hat zwei Kinder und lebt in Berlin.",
+                    "avatar": "https://somanyvoices.de/wp-content/uploads/2024/09/Frank_Joung_Halbe_Katoffl_Shirt_cut-scaled-e1728329037523.jpg"
+                  }
+                ],
+                "url": "https://somanyvoices.de/programm-24/podcast-partnerschaften/",
+                "end": "2024-11-22T17:30:00+01:00",
+                "do_not_record": true,
+                "do_not_stream": true,
+                "links": [
+                  {
+                    "url": "https://somanyvoices.de/programm-24/podcast-partnerschaften/",
+                    "title": "somanyvoices.de",
+                    "type": "related"
+                  }
+                ],
+                "feedback_url": "",
+                "origin_url": "https://somanyvoices.de/programm-24/podcast-partnerschaften/",
+                "attachments": [],
+                "recording_license": ""
+              },
+              {
+                "guid": "16453466-858b-5cc9-b292-34122b4b0015",
+                "type": "workshop",
+                "id": 924014,
+                "slug": "somanyvoices2024-924014-podcast-branding-von",
+                "title": "Podcast-Branding von A bis Z",
+                "subtitle": "… am Beispiel von „Juice“ – alles über Formatentwicklung und was den Podcast zu einer Brand gemacht hat",
+                "date": "2024-11-22T17:30:00+01:00",
+                "start": "17:30",
+                "duration": "01:00",
+                "room": "Startup Space",
+                "track": "",
+                "language": "de",
+                "logo": "",
+                "abstract": "… am Beispiel von „Juice“ – alles über Formatentwicklung und was den Podcast zu einer Brand gemacht hat",
+                "description": "Eine der großen Fragen unserer Branche ist: Wie schafft man es, eine große Hörer*innenschaft aufzubauen, auch wenn die Hosts keine eigene Reichweite mitbringen? Das Team des Podcasts „Juice“ stand vor genau dieser Herausforderung. Den Podcast gibt es seit März 2024, darin erzählen die Hosts Lea und Lina echte Gossip-Geschichten anonymisiert weiter. Und das ohne eine Plattform oder eigene Reichweite als Unterstützung – der Podcast ist eine Eigenproduktion von Kugel und Niere. Kann das funktionieren? In dieser Session geht es um den Aufbau einer Podcast-Brand und Reichweite und welche Herausforderungen das Team von „Juice“ dabei erlebt hat. Vom Konzept über Sounddesign, visuelle Identität und Social Media bis hin zu Community Building und Distribution: Die Hosts sprechen über wertvolle Insights und Erfahrungen, die sie gemacht haben.",
+                "persons": [
+                  {
+                    "guid": "926cc7a8-54fd-596d-b5ad-aec5a6e8c56d",
+                    "name": "Lea Dakowski",
+                    "biography": "Lea Dakowski ist Podcastproducerin und Host. Seit 2021 arbeitet sie bei Kugel und Niere, hat dort unter anderem für „Wissen Weekly“ geschrieben und den Wondery-Podcast „Verdammt Berühmt“ betreut. Seit März 2024 hostet sie mit Lina Kempenich zusammen den Podcast „Juice“, in dem sie sich echte Gossip-Geschichten anonymisiert weitererzählen.",
+                    "avatar": "https://somanyvoices.de/wp-content/uploads/2024/10/Lea-Dakowski_c_julia_mueller-scaled-e1728323000655.jpg"
+                  },
+                  {
+                    "guid": "8052e643-50b2-5535-bf24-5ec71a15d0b6",
+                    "name": "Lina Kempenich",
+                    "biography": "Lina Kempenich ist Podcastproducerin und Host. Sie arbeitet seit 2022 bei Kugel und Niere und betreut dort unter anderem Eigenproduktionen wie „1000 erste Dates“ und „Darwin gefällt das“. Seit März 2024 hostet sie außerdem mit Lea Dakowski zusammen den Podcast „Juice“, in dem sie sich echte Gossip-Geschichten anonymisiert weitererzählen.",
+                    "avatar": "https://somanyvoices.de/wp-content/uploads/2024/10/Lina_Kempenich_c_julia_mueller-scaled-e1728323081238.jpg"
+                  }
+                ],
+                "url": "https://somanyvoices.de/programm-24/podcast-branding/",
+                "end": "2024-11-22T18:30:00+01:00",
+                "do_not_record": true,
+                "do_not_stream": true,
+                "links": [
+                  {
+                    "url": "https://somanyvoices.de/programm-24/podcast-branding/",
+                    "title": "somanyvoices.de",
+                    "type": "related"
+                  }
+                ],
+                "feedback_url": "",
+                "origin_url": "https://somanyvoices.de/programm-24/podcast-branding/",
+                "attachments": [],
+                "recording_license": ""
+              }
+            ]
+          }
+        },
+        {
+          "index": 2,
+          "date": "2024-11-23",
+          "day_start": "2024-11-23T09:00:00+01:00",
+          "day_end": "2024-11-23T13:10:00+01:00",
+          "rooms": {
+            "Große Bühne": [
+              {
+                "guid": "b6f3ed69-c522-4c94-a12e-080e1e0856dc",
+                "type": "lecture",
+                "id": 56298,
+                "slug": "somanyvoices2024-56298-ki-tools-in-der-p",
+                "title": "KI-Tools in der Podcast-Produktion",
+                "subtitle": "Was bringen sie wirklich? Wo sind ihre Grenzen? Wo sollten wir Grenzen setzen?",
+                "date": "2024-11-23T10:00:00+01:00",
+                "start": "10:00",
+                "duration": "01:00",
+                "room": "Große Bühne",
+                "track": "",
+                "language": "de",
+                "logo": "",
+                "abstract": "Was bringen sie wirklich? Wo sind ihre Grenzen? Wo sollten wir Grenzen setzen?",
+                "description": "Der KI-Hype hat längst die Podcastbranche erreicht und wöchentlich tauchen neue Tools auf, die einiges versprechen: Nie wieder “Ähms” schneiden! Perfekter Klang mit einem Knopfdruck! Selber moderieren? Brauchste nicht mehr, das macht dein Voice Klon! Aber wie gut sind diese Werkzeuge wirklich? Und lassen sie sich so einfach in bestehende Produktionsworkflows einarbeiten? Richtet sich die KI nach mir oder muss ich meine Standards an die KI anpassen? Diese Fragen wollen wir bei einer kritischen Bestandsaufnahme der bisherigen KI-Entwicklungen im Podcastbereich klären. Auf der Bühne diskutieren Podcastschaffende, die diese Tools schon effektiv einsetzen, mit Skeptiker*innen. Am Ende der Diskussionsrunde wisst ihr, welche Werkzeuge jetzt schon gut anwendbar sind, was Schrott ist und was noch auf uns zukommen könnte.",
+                "persons": [
+                  {
+                    "guid": "b39603e8-47c0-5029-96b4-d9f60669140c",
+                    "name": "Caspar von Allwörden",
+                    "biography": "Caspar von Allwörden beschäftigt sich seit vielen Jahren mit Technologie und schreibt und podcastet darüber. Angefangen bei Hardware-Gadgets, über VR & AR bis hin zu Künstlicher Intelligenz. Er testet regelmäßig die neuesten Tools und Apps und lotet deren Grenzen aus. Caspar ist Host des Tech-News-Podcasts „Silicon Weekly“ und Redakteur bei Radio Bremen. Dort schaut er mit einem etwas anderen Blick auf die Themen, denn er ist Teil des Teams zur Implementierung von KI in die redaktionelle Arbeit.",
+                    "avatar": "https://somanyvoices.de/wp-content/uploads/2024/10/Caspar-kl.jpg"
+                  },
+                  {
+                    "guid": "507ce8a7-53f1-524e-948f-f537fbd97db1",
+                    "name": "Marie Luise Nolte",
+                    "biography": "Marie Luise Nolte ist Mitgründerin des RETELL Podcast Hub, welches sich mit dem Lizenzgeschäft durch lokale Adaption etablierter Podcastformate auf internationalen Märkten befasst. Zuvor war sie drei Jahre bei Seven.One Audio (Pro7Sat1) tätig, wo sie den Aufbau der Podcastvermarktung begleiten konnte.",
+                    "avatar": "https://somanyvoices.de/wp-content/uploads/2025/02/Marie-Luise-kl.jpg"
+                  },
+                  {
+                    "guid": "11a32619-1452-5207-987d-575c6982c9fc",
+                    "name": "Niklas Münch",
+                    "biography": "Niklas Münch ist freier Journalist für Podcasts und befasst sich als Projektleiter, Autor, Audioproduzent und Konzeptentwickler mit allen Facetten des Mediums. In seinem Newsletter „Workflow Shortcuts“ schreibt er über Tools und Methoden, die das Podcasten einfacher machen. Im Podcast „Hinter den Zeilen“ haben Tobias Hausdorf und Niklas ihre Erfahrungen als Nachwuchsjournalisten geteilt und kritisch auf die Medienbranche geblickt.",
+                    "avatar": "https://somanyvoices.de/wp-content/uploads/2024/10/Niklas-Muench-kl.png"
+                  }
+                ],
+                "url": "https://somanyvoices.de/programm-24/ki-tools/",
+                "end": "2024-11-23T11:00:00+01:00",
+                "do_not_record": false,
+                "do_not_stream": false,
+                "links": [
+                  {
+                    "url": "https://somanyvoices.de/programm-24/ki-tools/",
+                    "title": "somanyvoices.de",
+                    "type": "related"
+                  }
+                ],
+                "feedback_url": "",
+                "origin_url": "https://somanyvoices.de/programm-24/ki-tools/",
+                "attachments": [],
+                "recording_license": ""
+              },
+              {
+                "guid": "6fcec377-0490-4146-9e14-1a325df69376",
+                "type": "lecture",
+                "id": 56299,
+                "slug": "somanyvoices2024-56299-empowerment-durch",
+                "title": "Empowerment durch Community-Podcasts",
+                "subtitle": "Ein Talk über Zugänge zu migrantischen Communitys und wie eine sensible und authentische Ansprache gelingt",
+                "date": "2024-11-23T11:00:00+01:00",
+                "start": "11:00",
+                "duration": "01:00",
+                "room": "Große Bühne",
+                "track": "",
+                "language": "de",
+                "logo": "",
+                "abstract": "Ein Talk über Zugänge zu migrantischen Communitys und wie eine sensible und authentische Ansprache gelingt",
+                "description": "In der Podcastlandschaft sind Perspektiven von BiPoC und Menschen mit Migrations- und Fluchtgeschichte bisher unterrepräsentiert. Hinzu kommt, dass es nicht die eine Migrations-Community gibt, sondern einzelne, überaus diverse Communities, die voller spannender Geschichten, Menschen und Themen stecken. In diesem interaktiven Vortrag soll es um das Empowerment von migrantischen Perspektiven durch das Medium Podcast gehen. Welche Themen sind für migrantische Zielgruppen interessant? Wie gelingt der Zugang zu ihnen und wie funktioniert eine sensible und authentische Ansprache? Die Journalistin Sarah Zaheer erzählt von ihren Erfahrungen mit dem Community-Podcast „curry on!“ und bringt Tipps & Tricks von anderen Podcaster*innen mit. Seit 2021 spricht sie mit ihrer Schwester Maya Zaheer über Themen, die die südasiatische Diaspora in Deutschland bewegen. Dazu laden sie Gäst*innen ein, führen Interviews und recherchieren Hintergründe. Seit Januar 2022 gehört „curry on!“ zum kohero Magazin.",
+                "persons": [
+                  {
+                    "guid": "af1c0ba4-54e0-54b5-bf75-696980a64561",
+                    "name": "Sarah Zaheer",
+                    "biography": "Sarah Zaheer (sie/ihr) ist Redaktionsleiterin beim kohero Magazin und freie Journalistin für Hörfunk und Print. Seit 2021 ist sie Co-Host des südasiatischen Community-Podcasts „curry on!“. Sie arbeitet schwerpunktmäßig zu den Themen Migration, Flucht und Soziales.",
+                    "avatar": "https://somanyvoices.de/wp-content/uploads/2024/09/Sarah-Zaheer-Credit-Amad-Hamed-scaled-e1728325356797.jpg"
+                  }
+                ],
+                "url": "https://somanyvoices.de/programm-24/community-podcasts/",
+                "end": "2024-11-23T12:00:00+01:00",
+                "do_not_record": false,
+                "do_not_stream": false,
+                "links": [
+                  {
+                    "url": "https://somanyvoices.de/programm-24/community-podcasts/",
+                    "title": "somanyvoices.de",
+                    "type": "related"
+                  },
+                  {
+                    "url": "https://shows.acast.com/63a18974981c02001029f695/episodes/678f8970c4926bdc793728ac",
+                    "title": "hauseins Podcast: So many Voices 24: Empowerment durch Community-Podcasts",
+                    "type": "media"
+                  }
+                ],
+                "feedback_url": "",
+                "origin_url": "https://somanyvoices.de/programm-24/community-podcasts/",
+                "attachments": [],
+                "recording_license": ""
+              },
+              {
+                "guid": "4d475ba3-9bc2-4150-92ff-d67a57a94905",
+                "type": "lecture",
+                "id": 56300,
+                "slug": "somanyvoices2024-56300-wissenschaft-goes",
+                "title": "Wissenschaft Goes Viral",
+                "subtitle": "Wie wir bei Wissen Weekly die kompliziertesten Inhalte so erzählen, dass sie wirklich jede*r checkt",
+                "date": "2024-11-23T12:00:00+01:00",
+                "start": "12:00",
+                "duration": "01:00",
+                "room": "Große Bühne",
+                "track": "",
+                "language": "de",
+                "logo": "",
+                "abstract": "Wie wir bei Wissen Weekly die kompliziertesten Inhalte so erzählen, dass sie wirklich jede*r checkt",
+                "description": "Schaut man sich die erfolgreichsten Podcasts 2023 auf Spotify an, sticht „Wissen Weekly“ heraus: Neben Talk und True Crime-Formaten ist „Wissen Weekly“ das einzige skriptbasierte Wissensformat in den Top 10. In dieser Session zeigen Tatjana Thamerus und Lena Kohlwes, wieso. Dabei zeigen sie, wie man Wissenschaft für eine junge Zielgruppe präsentiert und gleichzeitig eine starke und treue Community aufbaut.",
+                "persons": [
+                  {
+                    "guid": "55b410c5-57ce-52a3-b62c-ec1776f5a4b4",
+                    "name": "Lena Kohlwes",
+                    "biography": "Lena Kohlwes ist Autorin und Podcastproducerin bei Kugel Und Niere. Dort betreut sie Formate wie „Wissen Weekly“, „1000 erste Dates“ oder „Pur+ Wissendrin“.",
+                    "avatar": "https://somanyvoices.de/wp-content/uploads/2024/10/Lena-kl.jpg"
+                  },
+                  {
+                    "guid": "c29e80e2-0718-5884-9524-0a9beb0571cc",
+                    "name": "Lisa-Sophie Scheurell"
+                  }
+                ],
+                "url": "https://somanyvoices.de/programm-24/wissenschaft-goes-viral/",
+                "end": "2024-11-23T13:00:00+01:00",
+                "do_not_record": false,
+                "do_not_stream": false,
+                "links": [
+                  {
+                    "url": "https://somanyvoices.de/programm-24/wissenschaft-goes-viral/",
+                    "title": "somanyvoices.de",
+                    "type": "related"
+                  }
+                ],
+                "feedback_url": "",
+                "origin_url": "https://somanyvoices.de/programm-24/wissenschaft-goes-viral/",
+                "attachments": [],
+                "recording_license": ""
+              },
+              {
+                "guid": "e25b5fde-eb6a-46c5-a424-c9704016603d",
+                "type": "other",
+                "id": 56301,
+                "slug": "somanyvoices2024-56301-abschied",
+                "title": "Abschied",
+                "subtitle": "",
+                "date": "2024-11-23T13:00:00+01:00",
+                "start": "13:00",
+                "duration": "00:10",
+                "room": "Große Bühne",
+                "track": "",
+                "language": "de",
+                "logo": "",
+                "abstract": "",
+                "description": "",
+                "persons": [],
+                "url": "",
+                "end": "2024-11-23T13:10:00+01:00",
+                "do_not_record": false,
+                "do_not_stream": false,
+                "links": [],
+                "feedback_url": "",
+                "origin_url": "",
+                "attachments": [],
+                "recording_license": ""
+              }
+            ],
+            "Workshop 1": [
+              {
+                "guid": "519ca184-59d1-5870-ab65-0234f34e86a2",
+                "type": "workshop",
+                "id": 924016,
+                "slug": "somanyvoices2024-924016-dynamische-podcast-werbung",
+                "title": "Dynamische Podcast-Werbung in der Praxis",
+                "subtitle": "Alles, was du wissen musst, um deinen Podcast zu monetarisieren",
+                "date": "2024-11-23T10:00:00+01:00",
+                "start": "10:00",
+                "duration": "01:00",
+                "room": "Workshop 1",
+                "track": "",
+                "language": "de",
+                "logo": "",
+                "abstract": "Alles, was du wissen musst, um deinen Podcast zu monetarisieren",
+                "description": "Wir zeigen dir, wie du Schritt für Schritt zur ersten Werbebuchung in deinem Podcast kommst und was genau im Hintergrund des Podigee Ad Marketplace passiert. Werbung hat für dich einen Beigeschmack? Das muss nicht sein. Nutze das Potenzial deiner Hörer*innen, von denen 81 % Podcast-Werbung positiv wahrnehmen, und monetarisiere deinen Podcast mit unserer Unterstützung. Wir bieten dir ein Netzwerk, welches es dir ermöglicht, Werbung unkompliziert, dynamisch und gezielt in deinen Podcast zu integrieren. Selbst journalistische Podcasts, die oft kreative Wege zur Vermarktung suchen, profitieren von unserem Angebot. Deine Community und deine Inhalte bleiben an erster Stelle. In unserer Session sprechen wir transparent über Zahlen und die Schwankungen im Werbemarkt. Was bedeuten diese Veränderungen für deinen Podcast und wie behältst du dabei die Kontrolle über deine Inhalte? Bist du unsicher, wie du loslegen sollst? Kein Problem – wir besprechen gemeinsam die Grundlagen.",
+                "persons": [
+                  {
+                    "guid": "a6a7ca38-e3d9-56bd-8259-2050c88b4812",
+                    "name": "Maraike Roncal",
+                    "biography": "Maraike Roncal unterstützt bei Podigee die Publisher in der erfolgreichen Veröffentlichung von Podcasts, indem sie Vermarktung, Auffindbarkeit und Strategien optimiert. Zuvor arbeitete sie als Redakteurin für TV- und Radio-Talkshows, bevor sie ihre Leidenschaft für Podcasts entdeckte und zu Podigee wechselte. In ihrer Freizeit hostet sie einen stimmlosen Einschlaf-Podcast bestehend aus Pinselstrich-Geräuschen.",
+                    "avatar": "https://somanyvoices.de/wp-content/uploads/2024/10/podigee-maraike-kl.jpg"
+                  },
+                  {
+                    "guid": "4f4f4305-77ec-51c9-a40c-c457393d7f7e",
+                    "name": "Benjamin Zimmer",
+                    "biography": "Benjamin Zimmer ist Mitgründer von Podigee, einer der führenden Podcast-Hosting-Plattformen in Deutschland. Zusammen mit Mateusz Sójka gründete er das Unternehmen 2013 mit dem Ziel, sowohl hobbymäßigen als auch professionellen Podcastern eine einfache und zuverlässige Lösung für das Hosting und später auch die Vermarktung ihrer Podcasts zu bieten.",
+                    "avatar": "https://somanyvoices.de/wp-content/uploads/2024/10/Podigee-Ben-kl.jpg"
+                  }
+                ],
+                "url": "https://somanyvoices.de/programm-24/dynamische-podcast-werbung/",
+                "end": "2024-11-23T11:00:00+01:00",
+                "do_not_record": true,
+                "do_not_stream": true,
+                "links": [
+                  {
+                    "url": "https://somanyvoices.de/programm-24/dynamische-podcast-werbung/",
+                    "title": "somanyvoices.de",
+                    "type": "related"
+                  }
+                ],
+                "feedback_url": "",
+                "origin_url": "https://somanyvoices.de/programm-24/dynamische-podcast-werbung/",
+                "attachments": [],
+                "recording_license": ""
+              },
+              {
+                "guid": "da77d5cd-9a6a-5a0b-b610-4c4e1c9ccc9e",
+                "type": "workshop",
+                "id": 924019,
+                "slug": "somanyvoices2024-924019-audio-for-all",
+                "title": "Audio for all",
+                "subtitle": "Tipps und Tricks für hochwertige Podcasts – Sound von Podcasts einfach und budget-friendy optimieren Leonhard Gillhaus Niklas Gramann",
+                "date": "2024-11-23T11:00:00+01:00",
+                "start": "11:00",
+                "duration": "01:00",
+                "room": "Workshop 1",
+                "track": "",
+                "language": "de",
+                "logo": "",
+                "abstract": "Tipps und Tricks für hochwertige Podcasts – Sound von Podcasts einfach und budget-friendy optimieren Leonhard Gillhaus Niklas Gramann",
+                "description": "Der Workshop bietet eine praxisnahe Einführung und Vertiefung in die Aufnahme und Bearbeitung von Podcasts. Teilnehmende erfahren, wie sie durch niedrigschwelligen Aufnahme-Techniken und Budget-Lösungen den Sound ihres Podcasts professionalisieren können. Praktische Übungen mit eigenen Audio-Beispielen ermöglichen direkte Anwendung und individuelles Feedback. Zusätzlich gibt der Workshop Einblicke in die Optimierung der Raumakustik für verbesserte Aufnahmebedingungen zu Hause oder unterwegs. Der Workshop richtet sich an angehende Podcaster*innen und solche, die ihren Podcast-Sound auf das nächste Level heben möchten.",
+                "persons": [
+                  {
+                    "guid": "7bd5b241-d67e-5c3a-8370-e36e2b146697",
+                    "name": "Leonhard Gillhaus"
+                  },
+                  {
+                    "guid": "d259010a-7143-5cf1-8857-56acc57ec4fc",
+                    "name": "Niklas Gramann",
+                    "biography": "Niklas Gramann ist Journalist mit einem Schwerpunkt auf Ton und Regie. Nach Jahren in der Podcastbranche bringt er viel Erfahrung in der Umsetzung von Audioprojekten mit. Seine Arbeit ist geprägt von einem kreativen Ansatz und einem Sinn für klare, funktionale Lösungen.",
+                    "avatar": "https://somanyvoices.de/wp-content/uploads/2024/10/Nik_Gra-kl.jpg"
+                  }
+                ],
+                "url": "https://somanyvoices.de/programm-24/audio-for-all/",
+                "end": "2024-11-23T12:00:00+01:00",
+                "do_not_record": true,
+                "do_not_stream": true,
+                "links": [
+                  {
+                    "url": "https://somanyvoices.de/programm-24/audio-for-all/",
+                    "title": "somanyvoices.de",
+                    "type": "related"
+                  }
+                ],
+                "feedback_url": "",
+                "origin_url": "https://somanyvoices.de/programm-24/audio-for-all/",
+                "attachments": [],
+                "recording_license": ""
+              },
+              {
+                "guid": "3b652254-678d-56ad-8940-fe75d50243e9",
+                "type": "workshop",
+                "id": 924022,
+                "slug": "somanyvoices2024-924022-wie-nutze-ich",
+                "title": "Wie nutze ich KI für meinen Podcast?",
+                "subtitle": "Automatische Audio Post Production mit Auphonic",
+                "date": "2024-11-23T12:00:00+01:00",
+                "start": "12:00",
+                "duration": "01:00",
+                "room": "Workshop 1",
+                "track": "",
+                "language": "de",
+                "logo": "",
+                "abstract": "Automatische Audio Post Production mit Auphonic",
+                "description": "Auphonic bietet eine Audio KI Toolbox fürs Podcasting. Wir entfernen störende Hintergrundgeräusche, Rauschen und Raumhall, bringen unterschiedliche Sprecher aufs gleiche Level und machen ihre Stimmen mit unserem AutoEQ angenehm wohlklingend. Dazu schneiden wir Stille und Füllworte aus der Aufnahme heraus und geben dir noch ein Transkript deines Podcasts mit Kapiteln und Zusammenfassung dazu.\n\nWir entwickeln alle unsere Algorithmen und KI-Modelle selbst! Wie so ein KI-Modell trainiert wird, was dabei zu beachten ist, verschiedene Usecases und Anforderungen an das Produkt sowie Tipps & Tricks in der Anwendung zeigen wir dir hier höchstpersönlich. Hier lernst du, wie du KI für dich arbeiten lässt und wie du Auphonic optimal für deine Audioproduktion nutzen kannst.",
+                "persons": [
+                  {
+                    "guid": "776c83a3-b3cc-5b8d-8c55-392abd3e8221",
+                    "name": "Christoph Grasser",
+                    "biography": "Christoph Grasser ist Toningenieur, seit 10 Jahren professioneller Tontechniker, Produzent und Musiker. Er beschäftigt sich seit seiner Kindheit mit Technologie und den verschiedensten Trends und Entwicklungen. Mit einer Faszination für Innovation und neue Ideen bringt er sein Audio-Wissen nun bei Auphonic ein, wo er gemeinsam mit Gründer Georg Holzmann die Business & Marketing Seite des Unternehmens übernimmt.",
+                    "avatar": "https://somanyvoices.de/wp-content/uploads/2024/10/CG_Auphonic-Portrait-kl.jpg"
+                  }
+                ],
+                "url": "https://somanyvoices.de/programm-24/auphonic/",
+                "end": "2024-11-23T13:00:00+01:00",
+                "do_not_record": true,
+                "do_not_stream": true,
+                "links": [
+                  {
+                    "url": "https://somanyvoices.de/programm-24/auphonic/",
+                    "title": "somanyvoices.de",
+                    "type": "related"
+                  }
+                ],
+                "feedback_url": "",
+                "origin_url": "https://somanyvoices.de/programm-24/auphonic/",
+                "attachments": [],
+                "recording_license": ""
+              }
+            ],
+            "Workshop 2": [
+              {
+                "guid": "ab5282ac-c6c2-5ddf-9ae0-f66d737037bb",
+                "type": "workshop",
+                "id": 924020,
+                "slug": "somanyvoices2024-924020-frei-authentisch-und",
+                "title": "Frei, authentisch und professionell: Gespräche in Podcasts",
+                "subtitle": "Wie muss ich meinen Podcast und meine Sprecher*innen-Texte vorbereiten, um informativ, aber gleichzeitig spontan und natürlich zu klingen?",
+                "date": "2024-11-23T11:00:00+01:00",
+                "start": "11:00",
+                "duration": "01:00",
+                "room": "Workshop 2",
+                "track": "",
+                "language": "de",
+                "logo": "",
+                "abstract": "Wie muss ich meinen Podcast und meine Sprecher*innen-Texte vorbereiten, um informativ, aber gleichzeitig spontan und natürlich zu klingen?",
+                "description": "Podcasts funktionieren dann besonders gut, wenn Menschen miteinander im Gespräch sind. Doch ein unvorbereitetes Gespräch endet nicht selten darin, dass die Leute zu viel labern. Wir wollen wissen: Wie schafft man es, ein Gespräch so vorzubereiten, dass es einerseits auf den Punkt kommt und nicht im Faselmorast versumpft, andererseits aber auch nicht abgelesen und künstlich klingt? Besonders bei vorher geskripteten Texten kann das eine große Herausforderung sein.\n\nMoritz Metz und Katrin Rönicke sammeln Tipps und Tricks und ergründen in diesem Workshop den Sweetspot zwischen Lockerheit und Vorarbeit. Und sie wollen wissen: Wie macht ihr das? Wir wollen mit der ganzen Runde ins Gespräch kommen und Tipps und Tricks sammeln, die Gespräche professioneller und lockerer machen.",
+                "persons": [
+                  {
+                    "guid": "aa345470-b23b-5236-bccf-e2da2c89df85",
+                    "name": "Katrin Rönicke",
+                    "biography": "Katrin Rönicke produziert und hostet seit 2013 Podcasts, bei hauseins den „Lila Podcast“, „Die Wochendämmerung“ und „anekdotisch evident“. Darüber hinaus moderierte sie „Lakonisch elegant“ von DLF Kultur und war Sprecherin in der Audible Produktion „Blaupause“. Wenn sie nicht podcastet, schreibt sie Bücher über Sex und Emanzipation. Ihr letztes Buch erschien 2019: „ Beate Uhse: Ein Leben gegen Tabus“ . Sie ist Gründerin und Geschäftsführerin von hauseins.",
+                    "avatar": "https://somanyvoices.de/wp-content/uploads/2024/10/Katrin_Roenicke_Andi_Weiland-kl.jpg"
+                  },
+                  {
+                    "guid": "ecac2fe4-e3a5-53d9-a727-59846fc3a149",
+                    "name": "Moritz Metz",
+                    "biography": "Moritz Metz, Audiojournalist an der Schnittstelle zwischen Politik und Technologie. Erste Radioschritte beim BR Zündfunk 1999. Erster Podcast 2006 bei einem Berliner Piratensender. Heute Redakteur des Dlf-Politikpodcast im Hauptstadtstudio, Co-Host des Podcasts „KI verstehen“ und Reporter des wöchentlichen Dlf-Selbermachtipps. Universalnerd für Audioqualität, Investigativrecherchen und Live-on-Tape-Reportagen. Kommt zu selten zu seinen privaten Podcasts „Netzbasteln“ und „Internet Explorers“.",
+                    "avatar": "https://somanyvoices.de/wp-content/uploads/2024/10/Moritz-Metz-kl.jpg"
+                  }
+                ],
+                "url": "https://somanyvoices.de/programm-24/frei-sprechen/",
+                "end": "2024-11-23T12:00:00+01:00",
+                "do_not_record": true,
+                "do_not_stream": true,
+                "links": [
+                  {
+                    "url": "https://somanyvoices.de/programm-24/frei-sprechen/",
+                    "title": "somanyvoices.de",
+                    "type": "related"
+                  }
+                ],
+                "feedback_url": "",
+                "origin_url": "https://somanyvoices.de/programm-24/frei-sprechen/",
+                "attachments": [],
+                "recording_license": ""
+              }
+            ],
+            "Startup Space": [
+              {
+                "guid": "f37e6cb4-e025-5fa0-a41b-d67ff69875bf",
+                "type": "workshop",
+                "id": 924017,
+                "slug": "somanyvoices2024-924017-freelancer-innen-im",
+                "title": "Freelancer*innen im Podcast-Business",
+                "subtitle": "Wie schützen wir uns besser vor (Selbst)Ausbeutung? Ein Erfahrungsaustausch, bei dem wir Forderungen an die Branche formulieren",
+                "date": "2024-11-23T10:00:00+01:00",
+                "start": "10:00",
+                "duration": "01:00",
+                "room": "Startup Space",
+                "track": "",
+                "language": "de",
+                "logo": "",
+                "abstract": "Wie schützen wir uns besser vor (Selbst)Ausbeutung? Ein Erfahrungsaustausch, bei dem wir Forderungen an die Branche formulieren",
+                "description": "Freelancer*innen sind (auch) in der Podcast-Branche meist das schwächste Glied in der Wertschöpfungskette. Gerade in Zeiten, in denen der Markt schwächelt, sind Vernetzung und Austausch wichtig, damit sich freie Autor*innen organisieren, um prekäre Arbeitsbedingungen zu thematisieren und zu verändern. Wir wollen mit euch über Finanzierungsmodelle, Workflows, Schutz vor Selbstausbeutung, prekäre Honorierung und die Rolle der großen Medienhäuser sprechen.\n\nWas brauchen Freelancer*innen, damit sich ihre Arbeit finanziell lohnt? Wie kann eine lukrative Zusammenarbeit mit Redaktionen und Produktionsfirmen aussehen? Wir wollen diese Session einerseits zum Austausch und Vernetzen nutzen, aber auch konkrete Forderungen an die Branche stellen, die wir nach der So Many Voices als Code of Fairness veröffentlichen.",
+                "persons": [
+                  {
+                    "guid": "04505a0d-ad38-5f93-8140-d76832d4cbb9",
+                    "name": "Pia Stendera",
+                    "biography": "Pia Stendera arbeitet als freie Journalistin für Print-, Audio- und Bewegtbildmedien – immer mit dem Ziel, dicht recherchierte Geschichten nah am Menschen zu erzählen. Besondere Aufmerksamkeit und Auszeichnungen erhielt sie als Co-Autorin und Host von dem Spotify Original Podcast „Boys Club – Macht und Missbrauch bei Axel Springer“.",
+                    "avatar": "https://somanyvoices.de/wp-content/uploads/2024/09/IMG_8482ed-scaled-e1728326124997.jpg"
+                  },
+                  {
+                    "guid": "6ba5bfef-340f-5e50-a594-6a80547bd75e",
+                    "name": "Susanne Klingner",
+                    "biography": "Susanne Klingner ist Journalistin in München. Bis 2017 vor allem schreibend, seitdem als Geschäftsführerin bei hauseins, u.a. zu hören im „Lila Podcast“ und beim „Plan W Podcast“ der Süddeutschen Zeitung. Inzwischen ist Susanne vor allem im Hintergrund tätig und entwickelt durcherzählte Formaten wie „Wir schaffen das!“, „Just Love“ oder „Putins Krieg im Netz“. Außerdem organisiert sie die So Many Voices.",
+                    "avatar": "https://somanyvoices.de/wp-content/uploads/2024/10/Susanne_qukl-e1728633836234.jpg"
+                  },
+                  {
+                    "guid": "cbfa392e-2444-5892-9ba2-11182babbf85",
+                    "name": "Simon Wörz"
+                  }
+                ],
+                "url": "https://somanyvoices.de/programm-24/freelancerinnen/",
+                "end": "2024-11-23T11:00:00+01:00",
+                "do_not_record": true,
+                "do_not_stream": true,
+                "links": [
+                  {
+                    "url": "https://somanyvoices.de/programm-24/freelancerinnen/",
+                    "title": "somanyvoices.de",
+                    "type": "related"
+                  }
+                ],
+                "feedback_url": "",
+                "origin_url": "https://somanyvoices.de/programm-24/freelancerinnen/",
+                "attachments": [],
+                "recording_license": ""
+              },
+              {
+                "guid": "1b94b00c-793a-521b-bc11-968ac5df3e93",
+                "type": "workshop",
+                "id": 924023,
+                "slug": "somanyvoices2024-924023-community-building-durch",
+                "title": "Community-Building durch hyperlokale Podcasts",
+                "subtitle": "Ein Podcast für gut 12.000 Menschen vor Ort – wie das funktionieren kann",
+                "date": "2024-11-23T12:00:00+01:00",
+                "start": "12:00",
+                "duration": "01:00",
+                "room": "Startup Space",
+                "track": "",
+                "language": "de",
+                "logo": "",
+                "abstract": "Ein Podcast für gut 12.000 Menschen vor Ort – wie das funktionieren kann",
+                "description": "Kann Journalismus dazu beitragen, lokale Communitys zu stärken? Wir glauben: aber sowas von! In unserem Eichenau-Podcast stellen wir interessante Menschen vor, die nur ihr Bezug zum selben Ort verbindet. Ziel ist es, zu zeigen, wie viel Vielfalt, Kreativität und Engagement in dieser mittelgroßen und auf den ersten Blick nur mittelspannenden Gemeinde steckt. Wir wollen das Interesse an Nachbar*innen und Mitbürger*innen neu entfachen, einen Oh-wow-Effekt erzeugen und für neu Zugezogene und Alteingessessene neue Anknüpfungspunkte schaffen. Wer weiß, vielleicht ist die Frau, die vor einem an der Kasse steht, eine weitgereiste Fotografin oder die neue Bestatterin? In unserem Podcast lernen sich Eichenauer*innen gegenseitig kennen – und erfahren nebenbei vielleicht noch das ein oder andere über ihren Ort. Der Eichenau-Podcast erscheint ab Herbst 2024 alle zwei Wochen. Wir wollen mit euch über unser Projekt und unsere Beweggründe diskutieren und freuen uns über Impulse für die erste Staffel!",
+                "persons": [
+                  {
+                    "guid": "3b483e0e-2c34-57f5-9b42-1f558b5fa394",
+                    "name": "Lena Jakat",
+                    "biography": "Lena Jakat ist ausgebildete Online-Journalistin und fasziniert von der Vielfalt des Storytellings im Digitalen. Sie ist stellvertretende Chefredakteurin bei der Augsburger Allgemeinen und dort zuständig für die digitale Transformation. Vorher hat sie beim Media Lab Bayern und der Süddeutschen Zeitung gearbeitet.",
+                    "avatar": "https://somanyvoices.de/wp-content/uploads/2024/10/Lena-Jakat-kl.jpg"
+                  },
+                  {
+                    "guid": "cc51ea1e-ffa8-5583-a24f-acbc1d07321e",
+                    "name": "Peter Wagner",
+                    "biography": "Peter Wagner ist ausgebildeter Journalist und kauft sich auf Reisen an jedem neuen Ort die Lokalzeitung. Damit er ein Gefühl dafür bekommt, wie die Leute da so sind. Er arbeitet in der Kommunikation eines Münchner Unternehmens und war vorher viele Jahre bei der Süddeutschen Zeitung.",
+                    "avatar": "https://somanyvoices.de/wp-content/uploads/2024/10/Peter-Wagner-kl.jpg"
+                  }
+                ],
+                "url": "https://somanyvoices.de/programm-24/hyperlokale-podcasts/",
+                "end": "2024-11-23T13:00:00+01:00",
+                "do_not_record": true,
+                "do_not_stream": true,
+                "links": [
+                  {
+                    "url": "https://somanyvoices.de/programm-24/hyperlokale-podcasts/",
+                    "title": "somanyvoices.de",
+                    "type": "related"
+                  }
+                ],
+                "feedback_url": "",
+                "origin_url": "https://somanyvoices.de/programm-24/hyperlokale-podcasts/",
+                "attachments": [],
+                "recording_license": ""
+              }
+            ]
+          }
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,571 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//somanyvoices-scraper//DE
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:So Many Voices 2026
+X-WR-TIMEZONE:Europe/Berlin
+BEGIN:VTIMEZONE
+TZID:Europe/Berlin
+BEGIN:DAYLIGHT
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+TZNAME:CEST
+DTSTART:19700329T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=-1SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+TZNAME:CET
+DTSTART:19701025T030000
+RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:c3a38025-4205-540d-96e1-6726a60e7bb8@somanyvoices.de
+DTSTAMP:20261119T220221Z
+DTSTART;TZID=Europe/Berlin:20261120T140000
+DTEND;TZID=Europe/Berlin:20261120T141000
+SUMMARY:Begrüßung (Große Bühne)
+LOCATION:So Many Voices – Große Bühne\, Balanstraße 73\, Haus 11\, Mü
+ nchen
+DESCRIPTION:Mit: Katrin Rönicke\, Lukas Schöne\, Susanne Klingner
+CATEGORIES:Große Bühne
+END:VEVENT
+BEGIN:VEVENT
+UID:c4897f81-81eb-52ce-aa26-419c59f7bf7d@somanyvoices.de
+DTSTAMP:20261119T220221Z
+DTSTART;TZID=Europe/Berlin:20261120T141000
+DTEND;TZID=Europe/Berlin:20261120T145500
+SUMMARY:Keynote: Bildet Banden! (Große Bühne)
+LOCATION:So Many Voices – Große Bühne\, Balanstraße 73\, Haus 11\, Mü
+ nchen
+DESCRIPTION:Wie Netzwerke unsere Arbeit\, Bezahlung und Geschichten besser 
+ machen\n\nMit: Linh Tran\, Sarah Zaheer\n\nIn der Podcast-Branche herrscht
+  viel Konkurrenzdruck. Doch was passiert\, wenn wir aufhören\, unsere Arb
+ eit allein zu denken? Netzwerke\, Kollektive und Kooperationen ermögliche
+ n nicht nur Austausch. Sie können Wissen teilen\, Verhandlungsmacht aufba
+ uen und neue Zugänge schaffen – zu Aufträgen\, fairer Bezahlung und Si
+ chtbarkeit.\n\nhttps://somanyvoices.de/programm-26/bildet-banden/
+CATEGORIES:Große Bühne
+URL:https://somanyvoices.de/programm-26/bildet-banden/
+END:VEVENT
+BEGIN:VEVENT
+UID:fb4b7c3c-fdd5-5d6f-99ff-9c017c8ad92f@somanyvoices.de
+DTSTAMP:20261119T220221Z
+DTSTART;TZID=Europe/Berlin:20261120T140000
+DTEND;TZID=Europe/Berlin:20261120T145500
+SUMMARY:Audio-Übertragung (Workshop)
+LOCATION:So Many Voices – Workshop\, Balanstraße 73\, Haus 11\, München
+DESCRIPTION:Begrüßung + Keynote\n\nAudio-Übertragung von Begrüßung und
+  Keynote aus der Großen Bühne.
+CATEGORIES:Workshop
+END:VEVENT
+BEGIN:VEVENT
+UID:d0cd8f91-b7ea-599a-8de4-8a3c4594e715@somanyvoices.de
+DTSTAMP:20261119T220221Z
+DTSTART;TZID=Europe/Berlin:20261120T150000
+DTEND;TZID=Europe/Berlin:20261120T154500
+SUMMARY:Alpha Boys: Willkommen in der Manosphere (Große Bühne)
+LOCATION:So Many Voices – Große Bühne\, Balanstraße 73\, Haus 11\, Mü
+ nchen
+DESCRIPTION:Wie aus 100.000 TikToks eine SRF-Podcastserie wurde\n\nMit: Oli
+ ver Kerrison\, Raphaël Günther\n\nDisziplin\, Looksmaxxing und Frauenhas
+ s: In der Manosphere versprechen Influencer Erfolg durch männliche Domina
+ nz. Warum spricht das viele junge Männer an? Und welche Rolle spielen dab
+ ei Plattformen wie TikTok?\n\nhttps://somanyvoices.de/programm-26/alpha-bo
+ ys/
+CATEGORIES:Große Bühne
+URL:https://somanyvoices.de/programm-26/alpha-boys/
+END:VEVENT
+BEGIN:VEVENT
+UID:589053ad-3575-5b5c-89e4-aa2ee8e7d29e@somanyvoices.de
+DTSTAMP:20261119T220221Z
+DTSTART;TZID=Europe/Berlin:20261120T150000
+DTEND;TZID=Europe/Berlin:20261120T154500
+SUMMARY:Regionalpodcasts als Innovation im digitalen Journalismus (Workshop
+ )
+LOCATION:So Many Voices – Workshop\, Balanstraße 73\, Haus 11\, München
+DESCRIPTION:Wie Podcasts den Lokaljournalismus bereichern können\n\nMit: C
+ hristian Bollert\, Heike Kleffner\, Lisa Bögl\n\nIn den vergangenen Jahre
+ n haben sich Podcast-Macherinnen und -Macher stark auf thematische Nischen
+  spezialisiert. Interessanterweise ist eine „Nische“ dabei fast unbeac
+ htet geblieben: Regionalität. Selbst lokale und regionale Medien versuche
+ n mit ihren Podcasts häufig ein nationales Publikum anzusprechen. In den 
+ vergangenen Monaten ändert sich das jedoch. Regionale und lokale Podcasts
+  werden als Chance für digitalen Journalismus von Medienhäusern\, aber a
+ uch von freien Journalistinnen und Journalisten erkannt.\n\nhttps://somany
+ voices.de/programm-26/regionalpodcasts/
+CATEGORIES:Workshop
+URL:https://somanyvoices.de/programm-26/regionalpodcasts/
+END:VEVENT
+BEGIN:VEVENT
+UID:67d556d6-d246-503b-adc9-d79fe395af43@somanyvoices.de
+DTSTAMP:20261119T220221Z
+DTSTART;TZID=Europe/Berlin:20261120T150000
+DTEND;TZID=Europe/Berlin:20261120T154500
+SUMMARY:Kling\, Boom\, Whoosh! (Startup Space)
+LOCATION:So Many Voices – Startup Space\, Balanstraße 73\, Haus 11\, Mü
+ nchen
+DESCRIPTION:So entsteht ein Sound Design von A bis Z\n\nMit: Bony Stoev\, J
+ ulia Ongyerth\n\nJulia Ongyerth (SZ) und Bony Stoev (freier Sound Designer
+ ) erzählen\, wie sie an den Sound Design Prozess von Podcasts herangehen.
+  Von der ersten Idee bis zum finalen Export. Bei allen Produktionen wird 
+ über Sound gesprochen. Oft geht es dabei um Musik. Was ist aber mit den a
+ nderen Ebenen\, wie Geräuschen\, SFX\, Atmosphären und allem dazwischen?
+  Julia und Bony erzählen von ihren Erfahrungen in der Produktion und von 
+ spannenden Sound Arrangements. Von der Ideenfindung bis zur Frage\, ob man
+  wirklich ein Skript für gutes Sound Design braucht? Sie vergleichen ihre
+  Prozesse. Was sie teilen und was sie unterschiedlich sehen. Geben Einblic
+ ke hinter die Kulissen und wie sie mit Zeitdruck umgehen. Und natürlich T
+ ools\, Tools\, Tools. Und vor allem KI\, KI\, KI. Aber vielleicht braucht 
+ man die auch gar nicht für guten Sound?\n\nhttps://somanyvoices.de/progra
+ mm-26/kling-boom-whoosh/
+CATEGORIES:Startup Space
+URL:https://somanyvoices.de/programm-26/kling-boom-whoosh/
+END:VEVENT
+BEGIN:VEVENT
+UID:0ac2cf0c-5b00-5e46-87d4-7914c23a1ec3@somanyvoices.de
+DTSTAMP:20261119T220221Z
+DTSTART;TZID=Europe/Berlin:20261120T163000
+DTEND;TZID=Europe/Berlin:20261120T171500
+SUMMARY:Deine Serie ist zu lang! (Große Bühne)
+LOCATION:So Many Voices – Große Bühne\, Balanstraße 73\, Haus 11\, Mü
+ nchen
+DESCRIPTION:So finden wir die ideale Folgenzahl\n\nMit: Amelie Neumann\, Pa
+ mina Rosenthal\n\nHand aufs Herz: Wie oft brecht ihr Podcast-Serien ab ode
+ r springt direkt zum Ende\, ohne alles anzuhören? Wir definitiv zu oft! O
+ bwohl wir Podcast-Serien LIEBEN. Aber als Macherin ist es auch einfach ver
+ dammt schwer\, abzuwägen\, wie lang ein Stoff wirklich trägt. Deshalb ha
+ ben wir uns gefragt: Wieso gibt es eigentlich keine Formel für genau dies
+ e Frage? In diesem Input möchten wir unseren Entscheidungsbaum vorstellen
+ : Eine Entscheidungshilfe für alle Podcast-Macher*innen\, basierend auf S
+ torytelling-Hacks. Amelie Neumann (ua. „Internet Girl“ und „Kaff Cri
+ mes“) und Pamina Rosenthal (ua. „Spielabbruch“ und „Die Millionend
+ iebin“) sprechen über Wendepunkte\, Cliffhanger\, Teaser\, Explainer-Pa
+ rts und möchten damit jeder Geschichte dabei helfen\, genau so lang zu da
+ uern\, dass die Zuhörenden von Anfang bis Ende am Ball bleiben.\n\nhttps:
+ //somanyvoices.de/programm-26/deine-serie-ist-zu-lang/
+CATEGORIES:Große Bühne
+URL:https://somanyvoices.de/programm-26/deine-serie-ist-zu-lang/
+END:VEVENT
+BEGIN:VEVENT
+UID:f6c27e9e-f3b8-56ec-9894-2f0e233e395e@somanyvoices.de
+DTSTAMP:20261119T220221Z
+DTSTART;TZID=Europe/Berlin:20261120T163000
+DTEND;TZID=Europe/Berlin:20261120T171500
+SUMMARY:Boom\, Nische oder Business (Workshop)
+LOCATION:So Many Voices – Workshop\, Balanstraße 73\, Haus 11\, München
+DESCRIPTION:Die deutsche Podcastszene im Faktencheck\n\nMit: Han Rieger\, L
+ ea Schön\, Tabea Volz\n\nLiebe Podcastmacher*innen – wer seid ihr eigen
+ tlich?\n\nhttps://somanyvoices.de/programm-26/boom-nische-oder-business/
+CATEGORIES:Workshop
+URL:https://somanyvoices.de/programm-26/boom-nische-oder-business/
+END:VEVENT
+BEGIN:VEVENT
+UID:af1d4446-50b0-50e3-93f7-8b5797b2e365@somanyvoices.de
+DTSTAMP:20261119T220221Z
+DTSTART;TZID=Europe/Berlin:20261120T163000
+DTEND;TZID=Europe/Berlin:20261120T171500
+SUMMARY:Herausforderung Gästerecherche (Startup Space)
+LOCATION:So Many Voices – Startup Space\, Balanstraße 73\, Haus 11\, Mü
+ nchen
+DESCRIPTION:So suchen und finden wir immer wieder neue Geschichten\n\nMit: 
+ Eva Deinert\, Johannes Molz\n\n“Eltern ohne Filter” ist ein Podcast de
+ r ARD\, ein Always-on-Format übers echte Leben als Eltern\, ganz filterlo
+ s. In jeder Folge treffen unsere Hosts Eltern\, die vor besonderen Herausf
+ orderungen stehen oder einfach ihre Geschichte erzählen.\n\nhttps://soman
+ yvoices.de/programm-26/herausforderung-gaesterecherche/
+CATEGORIES:Startup Space
+URL:https://somanyvoices.de/programm-26/herausforderung-gaesterecherche/
+END:VEVENT
+BEGIN:VEVENT
+UID:16b6ef5d-44fc-5da5-9456-0b2cd4914b7a@somanyvoices.de
+DTSTAMP:20261119T220221Z
+DTSTART;TZID=Europe/Berlin:20261120T173000
+DTEND;TZID=Europe/Berlin:20261120T181500
+SUMMARY:Ende gut\, alles gut? (Große Bühne)
+LOCATION:So Many Voices – Große Bühne\, Balanstraße 73\, Haus 11\, Mü
+ nchen
+DESCRIPTION:Wie wir einen Schluss finden\, der im Kopf bleibt\n\nMit: Lea U
+ tz\n\nIn den Einstieg stecken wir oft viel Zeit\, aber wie geht eigentlich
+  ein guter Schluss? Und: welcher passt?\n\nhttps://somanyvoices.de/program
+ m-26/ende-gut-alles-gut/
+CATEGORIES:Große Bühne
+URL:https://somanyvoices.de/programm-26/ende-gut-alles-gut/
+END:VEVENT
+BEGIN:VEVENT
+UID:94478d1f-1f79-5067-9df6-e31dd8b4953b@somanyvoices.de
+DTSTAMP:20261119T220221Z
+DTSTART;TZID=Europe/Berlin:20261120T173000
+DTEND;TZID=Europe/Berlin:20261120T181500
+SUMMARY:Triggerwarnung (Workshop)
+LOCATION:So Many Voices – Workshop\, Balanstraße 73\, Haus 11\, München
+DESCRIPTION:Wie erzählen wir in Podcasts sensibel über Gewalt?\n\nMit: An
+ tonia Fischer\, Kassra Zargaran\, Sandra Sperber\n\nWenn Verbrechen zum Po
+ dcaststoff werden\, stehen wir vor sensiblen Fragen: Wo sind die Grenzen v
+ on Information\, Einordnung und Dramatisierung? Wirken Triggerwarnungen? W
+ ie viele Details sollten wir erzählen? Und welche Verantwortung tragen wi
+ r als Hosts und Redaktionen? Wir wollen diskutieren\, wie Gewaltverbrechen
+  in Podcasts spannend\, aber gleichzeitig respektvoll erzählt werden kön
+ nen und auf welche Botschaften es dabei ankommt.\n\nhttps://somanyvoices.d
+ e/programm-26/triggerwarnung/
+CATEGORIES:Workshop
+URL:https://somanyvoices.de/programm-26/triggerwarnung/
+END:VEVENT
+BEGIN:VEVENT
+UID:4092ac70-325b-575f-aa97-d79f89f51b70@somanyvoices.de
+DTSTAMP:20261119T220221Z
+DTSTART;TZID=Europe/Berlin:20261120T173000
+DTEND;TZID=Europe/Berlin:20261120T181500
+SUMMARY:Podcast-Marketing: So macht’s Großbritannien! (Startup Space)
+LOCATION:So Many Voices – Startup Space\, Balanstraße 73\, Haus 11\, Mü
+ nchen
+DESCRIPTION:Schaut hinter die Kulissen der größten Podcasts Großbritanni
+ ens und erfahrt\, welche Marketingstrategien wirklich funktionieren\n\nMit
+ : Giulia Ciccolella\n\nDie Podcast-Branche boomt und jede Woche starten ne
+ ue Shows. Aber neue Zuhörer*innen zu gewinnen und sie in loyale follower 
+ zu verwandeln\, ist eine Herausforderung\, mit der Podcaster*innen weltwei
+ t konfrontiert sind.\n\nhttps://somanyvoices.de/programm-26/podcast-market
+ ing/
+CATEGORIES:Startup Space
+URL:https://somanyvoices.de/programm-26/podcast-marketing/
+END:VEVENT
+BEGIN:VEVENT
+UID:2ba5a754-6731-5544-9a63-39478cecbd63@somanyvoices.de
+DTSTAMP:20261119T220221Z
+DTSTART;TZID=Europe/Berlin:20261120T181500
+DTEND;TZID=Europe/Berlin:20261120T183000
+SUMMARY:Abschied für heute (Große Bühne)
+LOCATION:So Many Voices – Große Bühne\, Balanstraße 73\, Haus 11\, Mü
+ nchen
+DESCRIPTION:Mit: Katrin Rönicke\, Lukas Schöne\, Susanne Klingner
+CATEGORIES:Große Bühne
+END:VEVENT
+BEGIN:VEVENT
+UID:cfbf5c00-2877-5c51-8c0f-35cb29876f52@somanyvoices.de
+DTSTAMP:20261119T220221Z
+DTSTART;TZID=Europe/Berlin:20261121T095500
+DTEND;TZID=Europe/Berlin:20261121T100000
+SUMMARY:Hello again! (Große Bühne)
+LOCATION:So Many Voices – Große Bühne\, Balanstraße 73\, Haus 11\, Mü
+ nchen
+DESCRIPTION:Mit: Katrin Rönicke\, Lukas Schöne\, Susanne Klingner
+CATEGORIES:Große Bühne
+END:VEVENT
+BEGIN:VEVENT
+UID:53925f04-0334-5868-b4bf-200291b514b4@somanyvoices.de
+DTSTAMP:20261119T220221Z
+DTSTART;TZID=Europe/Berlin:20261121T100000
+DTEND;TZID=Europe/Berlin:20261121T104500
+SUMMARY:Storytelling\, but different (Große Bühne)
+LOCATION:So Many Voices – Große Bühne\, Balanstraße 73\, Haus 11\, Mü
+ nchen
+DESCRIPTION:Wie ungewöhnliche Erzählentscheidungen Geschichten besser mac
+ hen können\n\nMit: Jens Thiele\n\nViele narrative Podcasts orientieren si
+ ch an denselben erzählerischen Vorbildern und greifen deshalb oft auf äh
+ nliche Formen zurück. Dabei gibt es zahlreiche Beispiele\, in denen die M
+ acher:innen bewusst andere Wege gehen: Eine Folge wird wie ein Stand-up er
+ öffnet\, ein Musical unterbricht plötzlich die Handlung\, eine Erzähler
+ in wird zur unzuverlässigen Figur oder ein dokumentarischer Podcast erzä
+ hlt das Geschehen wie eine Krankenhausserie. Anhand ausgewählter Audiobei
+ spiele aus internationalen Storytelling-Podcasts zeigt diese Session ungew
+ öhnliche erzählerische Entscheidungen und untersucht\, warum sie funktio
+ nieren. Es geht nicht um Experimente um ihrer selbst willen\, sondern um d
+ ie Frage\, wie Form\, Ton und Dramaturgie einer Geschichte dienen können.
+  Welche Möglichkeiten bleiben ungenutzt\, wenn wir immer wieder auf diese
+ lben Erzählmuster zurückgreifen? Und wie finden wir für eine Geschichte
+  die Form\, die sie wirklich braucht?\n\nhttps://somanyvoices.de/programm-
+ 26/storytelling-but-different/
+CATEGORIES:Große Bühne
+URL:https://somanyvoices.de/programm-26/storytelling-but-different/
+END:VEVENT
+BEGIN:VEVENT
+UID:c0528ad4-db3e-5a00-9d6e-19336752e062@somanyvoices.de
+DTSTAMP:20261119T220221Z
+DTSTART;TZID=Europe/Berlin:20261121T100000
+DTEND;TZID=Europe/Berlin:20261121T104500
+SUMMARY:Was weiß dein Podcast-Archiv? (Workshop)
+LOCATION:So Many Voices – Workshop\, Balanstraße 73\, Haus 11\, München
+DESCRIPTION:Wie man die Inhalte aus Audiodateien befreit\n\nMit: Maximilian
+  Karasz\n\nViele Stunden Recherche und Vorbereitung\, Aufzeichnung… und 
+ dann? Dann sind sämtliche Informationen in einer MP3-Datei eingesperrt. P
+ odcasts sind ein wunderschönes Format\, aber die Durchsuchbarkeit hängt 
+ sehr stark davon ab\, wie eifrig die Metadaten von Hand gepflegt werden\, 
+ und auch dann ist eine recht enge Auswahl unumgänglich. In diesem Worksho
+ p stelle ich Euch ein Projekt vor\, das ich zusammen mit Marco Herack\, Ho
+ st des Mikroökonomen-Podcasts\, umgesetzt habe: die Verarbeitung von gut 
+ zehn Jahren Audioarchiv\, mit hunderten Stunden Audio aus über 550 Episod
+ en verschiedener Formate und mehr als 100 Sprecher*innen in eine umfassend
+ e\, durchsuchbare (und auch mittels KI nutzbare) Datenbank. Wir beschäfti
+ gen uns damit\, wie diese Verarbeitung abläuft\, welchen Wert die Belegba
+ rkeit von Aussagen in Zeiten von KI hat\, was am Ende doch noch von Hand z
+ u entscheiden ist\, und natürlich mit Euren Fragen zur Thematik.\n\nhttps
+ ://somanyvoices.de/programm-26/was-weiss-dein-podcast-archiv/
+CATEGORIES:Workshop
+URL:https://somanyvoices.de/programm-26/was-weiss-dein-podcast-archiv/
+END:VEVENT
+BEGIN:VEVENT
+UID:d73f6389-7644-5ee6-8031-54bd433eb5f8@somanyvoices.de
+DTSTAMP:20261119T220221Z
+DTSTART;TZID=Europe/Berlin:20261121T100000
+DTEND;TZID=Europe/Berlin:20261121T104500
+SUMMARY:Community-Bindung durch Gamification (Startup Space)
+LOCATION:So Many Voices – Startup Space\, Balanstraße 73\, Haus 11\, Mü
+ nchen
+DESCRIPTION:Wie wir Beteiligung statt Bonuscontent zum Motor für Community
+ -Bindung und Finanzierung gemacht haben\n\nMit: Andreas Dohm\, Sebastian S
+ onntag\n\nViele Podcasts stehen vor derselben Herausforderung: Reichweite 
+ allein reicht nicht mehr. Wie bindet man eine aktive Podcast-Community und
+  baut ein Finanzierungssystem für einen Podcast auf\, ohne Hörer*innen m
+ it Bonuscontent\, Abo-Druck und „Exklusiv für Mitglieder“-Werbung zu 
+ erschlagen? Mit dem „Discovery Panel“ betreiben wir seit 2017 einen St
+ ar Trek Podcast und besprechen Episoden aller (neuen) Star Trek Serien. We
+ il die Zukunft des Franchises derzeit ungewiss ist\, haben wir aus der Not
+  eine Tugend gemacht und eine Mitgliederplattform gebaut. Episodenarchiv\,
+  Community-Bewertungen\, Games\, Badges\, eine interne Währung\, die man 
+ vor allem durch Beteiligung verdient – und mit der man beeinflussen kann
+ \, welche Folgen wir im Podcast besprechen. In dieser Session zeigen wir a
+ nhand konkreter Beispiele\, welche Gamification-Mechaniken bei uns funktio
+ nieren\, welche überraschend gescheitert sind und warum Beteiligung oft s
+ tärker motiviert als exklusive Inhalte oder klassische Mitgliedervorteil.
+ \n\nhttps://somanyvoices.de/programm-26/gamification/
+CATEGORIES:Startup Space
+URL:https://somanyvoices.de/programm-26/gamification/
+END:VEVENT
+BEGIN:VEVENT
+UID:8038cd32-0cf4-5e98-99cd-8bfa07f39dec@somanyvoices.de
+DTSTAMP:20261119T220221Z
+DTSTART;TZID=Europe/Berlin:20261121T110000
+DTEND;TZID=Europe/Berlin:20261121T114500
+SUMMARY:Vom Podcast zum YouTube-Format (Große Bühne)
+LOCATION:So Many Voices – Große Bühne\, Balanstraße 73\, Haus 11\, Mü
+ nchen
+DESCRIPTION:am Beispiel von „Deutschland3000 mit Eva Schulz“\n\nMit: Ca
+ mille Laveu\, Isabella Huber\n\nDie beiden wichtigsten Audioplattformen in
+  Deutschland sind YouTube und Spotify – warte mal… YouTube? Müssen wi
+ r da jetzt auch alle hin? Diese Frage wollen wir mit Euch diskutieren. Am 
+ Beispiel von „Deutschland3000 mit Eva Schulz“ wollen wir darüber spre
+ chen\, wie es gelingen kann\, aus einem Podcast eine YouTube- Umsetzung zu
+  machen – wie viel Aufwand das ist und für wen es sich lohnt. Seit Mär
+ z 2026 gibt es unseren Podcast auch als Video-Format auf YouTube. Wie wir 
+ das vorbereitet und umgesetzt haben\, auf welche (erwartbaren und unerwart
+ eten) Hürden wir gestoßen sind\, wie sich unsere Arbeit verändert hat u
+ nd wie wir jetzt auf die ersten Monate zurückblicken: Wir teilen unsere g
+ rößten Fails und wichtigsten Learnings– und beantworten eure Fragen. D
+ iese Session bietet praxisnahe Einblicke und konkrete Tipps für alle\, di
+ e mit dem Gedanken spielen\, einen YouTube-Kanal aufzuziehen.\n\nhttps://s
+ omanyvoices.de/programm-26/vom-podcast-zum-youtube-format/
+CATEGORIES:Große Bühne
+URL:https://somanyvoices.de/programm-26/vom-podcast-zum-youtube-format/
+END:VEVENT
+BEGIN:VEVENT
+UID:7bf18a5e-8e07-55b0-9e0b-b28035ed4076@somanyvoices.de
+DTSTAMP:20261119T220221Z
+DTSTART;TZID=Europe/Berlin:20261121T110000
+DTEND;TZID=Europe/Berlin:20261121T114500
+SUMMARY:LinkedIn für Podcaster*innen (Workshop)
+LOCATION:So Many Voices – Workshop\, Balanstraße 73\, Haus 11\, München
+DESCRIPTION:Wie Podcasts über LinkedIn neue Hörer*innen\, Gäste und Spon
+ sor*innen gewinnen können\n\nMit: Christian Bollert\, Gaby Wasensteiner\n
+ \nPodcasts leben von guten Inhalten\, spannenden Gästen und einer engagie
+ rten Community. Doch Reichweite\, Netzwerk und Community entstehen nicht a
+ llein durch die Veröffentlichung neuer Folgen. LinkedIn bietet Podcaster*
+ innen die Möglichkeit\, sichtbar zu werden\, relevante Kontakte aufzubaue
+ n und neue Zielgruppen zu erreichen.\n\nhttps://somanyvoices.de/programm-2
+ 6/linkedin-fuer-podcasterinnen/
+CATEGORIES:Workshop
+URL:https://somanyvoices.de/programm-26/linkedin-fuer-podcasterinnen/
+END:VEVENT
+BEGIN:VEVENT
+UID:f2e204c9-8b5e-5d83-ab94-706163893424@somanyvoices.de
+DTSTAMP:20261119T220221Z
+DTSTART;TZID=Europe/Berlin:20261121T110000
+DTEND;TZID=Europe/Berlin:20261121T114500
+SUMMARY:Genossenschaft statt Einzelkampf (Startup Space)
+LOCATION:So Many Voices – Startup Space\, Balanstraße 73\, Haus 11\, Mü
+ nchen
+DESCRIPTION:Was unabhängige Podcasts strukturell brauchen\, um sichtbar un
+ d wirtschaftlich tragfähig zu werden\n\nMit: Britta Schewe\n\nViele Podc
+ asts entstehen aus Leidenschaft\, journalistischem Interesse oder kreative
+ r Neugier. Doch wenn aus einem Format mehr werden soll als ein Herzensproj
+ ekt\, kommen schnell strukturelle Fragen dazu: Wie entsteht verlässliche 
+ Finanzierung? Wie wird ein Podcast auffindbar? Wer kümmert sich um Vermar
+ ktung\, Distribution\, Rechte\, Partnerschaften und langfristige Erlöse? 
+ Und muss wirklich jedes erfolgreiche Podcast-Team irgendwann eine eigene k
+ leine Firma um sich herum bauen? In dieser Session spricht Britta Schewe 
+ über die Frage\, welche gemeinsamen Strukturen unabhängige Podcaster*inn
+ en brauchen\, um wirtschaftlich stärker und weniger abhängig von einzeln
+ en Plattformen zu werden. Ausgehend von Talk?Now!\, einem creator-owned St
+ reaming- und Distributionsmodell rund um Videopodcasts\, geht es um Plattf
+ ormabhängigkeit\, Monetarisierung\, Sichtbarkeit\, Kooperation statt Konk
+ urrenz und die Frage\, warum genossenschaftliche Modelle eine echte Zukunf
+ tschance für die Podcastbranche sein können.\n\nhttps://somanyvoices.de/
+ programm-26/genossenschaft-statt-einzelkampf/
+CATEGORIES:Startup Space
+URL:https://somanyvoices.de/programm-26/genossenschaft-statt-einzelkampf/
+END:VEVENT
+BEGIN:VEVENT
+UID:12781aa6-520f-5421-b1a0-39a57d541e3d@somanyvoices.de
+DTSTAMP:20261119T220221Z
+DTSTART;TZID=Europe/Berlin:20261121T120000
+DTEND;TZID=Europe/Berlin:20261121T124500
+SUMMARY:Feel Good gegen den Weltschmerz (Große Bühne)
+LOCATION:So Many Voices – Große Bühne\, Balanstraße 73\, Haus 11\, Mü
+ nchen
+DESCRIPTION:Warum wir mehr Leichtigkeit in Doku-Podcasts brauchen\n\nMit: A
+ ylin Doğan\, Dennis Müller\, Julius Bretzel\n\nDoku-Podcasts beschäftig
+ en sich häufig mit düsteren oder belastenden Themen wie Machtmissbrauch 
+ oder gesellschaftlichen Abgründen. Auch wir erzählen solche Geschichten 
+ – und vielleicht beobachten wir gerade deshalb\, dass im Genre oft wenig
+  Platz für andere Tonalitäten bleibt.\n\nhttps://somanyvoices.de/program
+ m-26/gegen-den-weltschmerz/
+CATEGORIES:Große Bühne
+URL:https://somanyvoices.de/programm-26/gegen-den-weltschmerz/
+END:VEVENT
+BEGIN:VEVENT
+UID:12f35cf7-95b7-55a4-b768-265a7416540a@somanyvoices.de
+DTSTAMP:20261119T220221Z
+DTSTART;TZID=Europe/Berlin:20261121T120000
+DTEND;TZID=Europe/Berlin:20261121T124500
+SUMMARY:Problematische Männer-Kult (Workshop)
+LOCATION:So Many Voices – Workshop\, Balanstraße 73\, Haus 11\, München
+DESCRIPTION:Und wie man über sie reden sollte\n\nMit: Dinah Rothenberg\, V
+ iola Funk\n\nIn der Podcast-Welt gibt es ein nahezu unfehlbares Erfolgsrez
+ ept: problematische Männer. Nicht nur am Mikrofon in Gesprächspodcasts\,
+  sondern zunehmend auch im Storytelling-Bereich. Peter Thiel\, Cui Bono\, 
+ True Crime – wir sezieren die problematischsten Männer der Welt\, seien
+  es Milliardäre\, Rechtsextreme oder Mörder. Die Faszination liegt im ka
+ um vorstellbaren Bösen\, im Mythos des im Verborgenen operierenden Superv
+ illains oder des Supergenies\, das mehr versteht als alle anderen. Und all
+ e lieben es.\n\nhttps://somanyvoices.de/programm-26/problematische-maenner
+ -kult/
+CATEGORIES:Workshop
+URL:https://somanyvoices.de/programm-26/problematische-maenner-kult/
+END:VEVENT
+BEGIN:VEVENT
+UID:cffa8c86-8d7d-569f-a4ef-c4ed7cf2d939@somanyvoices.de
+DTSTAMP:20261119T220221Z
+DTSTART;TZID=Europe/Berlin:20261121T120000
+DTEND;TZID=Europe/Berlin:20261121T124500
+SUMMARY:Wir wollen keine Vorlesung hören (Startup Space)
+LOCATION:So Many Voices – Startup Space\, Balanstraße 73\, Haus 11\, Mü
+ nchen
+DESCRIPTION:Wie man passende Expert*innen findet und gute Wissenschaftsgesp
+ räche vorbereitet\n\nMit: Marie Eickhoff\, Michèle Loetzner\n\nEin spann
+ endes Wissenschaftsinterview beginnt lange vor dem Aufnahmegerät. Wie fin
+ det man passende Expert*innen? Warum landen Medienanfragen oft bei den fal
+ schen Personen (oder immer nur bei Männern)? Und wie bereitet man Forsche
+ nde so vor\, dass aus Fachwissen ein verständliches und spannendes Gespr
+ äch wird?\n\nhttps://somanyvoices.de/programm-26/keine-vorlesung/
+CATEGORIES:Startup Space
+URL:https://somanyvoices.de/programm-26/keine-vorlesung/
+END:VEVENT
+BEGIN:VEVENT
+UID:993e45be-9df2-5d90-b1a2-6d3ebf4e3fa6@somanyvoices.de
+DTSTAMP:20261119T220221Z
+DTSTART;TZID=Europe/Berlin:20261121T133000
+DTEND;TZID=Europe/Berlin:20261121T141500
+SUMMARY:Für mehr Vielfalt auf Augenhöhe im narrativen Podcast (Große Bü
+ hne)
+LOCATION:So Many Voices – Große Bühne\, Balanstraße 73\, Haus 11\, Mü
+ nchen
+DESCRIPTION:Warum unsere Geschichten von uns selbst erzählt werden müssen
+ \n\nMit: Aida Amini\, Linh Tran\, Omeima Garci\n\nJournalist*innen of Colo
+ r und mit Migrations- und Fluchtgeschichte erleben regelmäßig Rassismus 
+ und Diskriminierung in Redaktionen. Das wirkt sich auch auf das Erzählen 
+ von Geschichten im Podcast aus. Was wir uns von Auftraggeber*innen und Pro
+ duktionsfirmen wünschen\, so dass multidimensionales Geschichtenerzählen
+  möglich ist. 90 Prozent der Journalist*innen of Color und mit Migrations
+ - und Fluchtgeschichte erleben Rassismus in Redaktionen. Das hat das Kitt-
+ Kollektiv in einer Umfrage unter knapp 200 Betroffenen erhoben. Wir stelle
+ n die wichtigsten Ergebnisse der Umfrage vor und sprechen darüber\, was e
+ s für Journalist*innen of Color und mit Migrations- und Fluchterfahrungen
+  bedeutet\, Podcasts zu machen. Wissen Redaktionen und Produktionsfirmen z
+ u schätzen\, dass es bestimmte Perspektiven braucht\, um migrantisch gepr
+ ägte Geschichten respektvoll und multidimensional zu erzählen? Was unter
+ scheidet unabhängige Produktionsfirmen von öffentlich-rechtlichen Redakt
+ ionen? Welche Räume und Möglichkeiten können sie bieten\, aber auch ver
+ wehren? Die Podcasterinnen Omeima Garci\, Linh Tran und Aida Amini erzähl
+ en sowohl von guten\, als auch von weniger guten Erfahrungen. Gemeinsam ve
+ rsuchen sie eine Antwort auf die Frage zu finden: Was brauchen wir\, damit
+  Vielfalt auf Augenhöhe im narrativen Podcast möglich ist?\n\nhttps://so
+ manyvoices.de/programm-26/fur-mehr-vielfalt/
+CATEGORIES:Große Bühne
+URL:https://somanyvoices.de/programm-26/fur-mehr-vielfalt/
+END:VEVENT
+BEGIN:VEVENT
+UID:438811d1-4012-5038-b3c8-86252b1b9c5c@somanyvoices.de
+DTSTAMP:20261119T220221Z
+DTSTART;TZID=Europe/Berlin:20261121T133000
+DTEND;TZID=Europe/Berlin:20261121T141500
+SUMMARY:Der schlechteste Podcast-Sound der Welt (Workshop)
+LOCATION:So Many Voices – Workshop\, Balanstraße 73\, Haus 11\, München
+DESCRIPTION:Und wie wir ihn retten\n\nMit: Christoph Grasser\n\nUngleich la
+ ute Stimmen\, Raumhall\, Hintergrundrauschen\, Ähms\, Räusperer und quä
+ lende Pausen: Wir haben einen Podcast aufgenommen\, in dem so ziemlich all
+ es schiefgeht\, was schiefgehen kann. In dieser Session retten wir ihn gem
+ einsam. Problem für Problem. Bei jedem Schritt hört ihr im direkten Vorh
+ er-Nachher-Vergleich\, was sich verändert: Pegel angleichen\, Hall und St
+ örgeräusche entfernen\, Füllwörter und Stille automatisch rausschneide
+ n. Ihr lernt dabei nicht nur\, wie sich jedes dieser Probleme beheben läs
+ st\, sondern auch\, woran ihr es erkennt und wie ihr es bei der nächsten 
+ Aufnahme von vornherein vermeidet. Am Ende steht eine Folge in Studioquali
+ tät und ihr wisst genau\, welche Schritte heute auf Knopfdruck funktionie
+ ren und wo eure Ohren weiterhin die letzte Instanz sind.\n\nhttps://somany
+ voices.de/programm-26/der-schlechteste-podcast-sound/
+CATEGORIES:Workshop
+URL:https://somanyvoices.de/programm-26/der-schlechteste-podcast-sound/
+END:VEVENT
+BEGIN:VEVENT
+UID:03659ff3-dfb7-5dfd-a8df-20457723d237@somanyvoices.de
+DTSTAMP:20261119T220221Z
+DTSTART;TZID=Europe/Berlin:20261121T133000
+DTEND;TZID=Europe/Berlin:20261121T141500
+SUMMARY:Doch nicht die hässlichste Stadt Deutschlands? (Startup Space)
+LOCATION:So Many Voices – Startup Space\, Balanstraße 73\, Haus 11\, Mü
+ nchen
+DESCRIPTION:Warum wir mehr Alltag mit Tiefgang in journalistischen Podcasts
+  brauchen\n\nMit: Tamara Keller\n\nPforzheim soll die hässlichste Stadt D
+ eutschlands sein – wenn man Jan Böhmermann\, Hazel Brugger oder Nina Ch
+ uba fragt. Stimmt das wirklich? Dieser Frage ist Tamara Keller gemeinsam m
+ it einem Team von DasDing ein Jahr lang im Storytelling-Podcast „Ugly Pf
+ orzheim“ nachgegangen. Ziel war es\, mal ein möglichst lokales Thema in
+  einem Podcast aufzubereiten – und zwar so\, dass es besonders nahe an d
+ en Alltagsproblemen der Menschen spielt. Ist dieses Ziel aufgegangen? Teil
+ s\, teils. In dieser Session erzähle ich\, was funktioniert hat und was n
+ icht und warum. Zudem gebe ich Einblicke\, wie man besondere Nähe zu Prot
+ agonist*innen herstellt ohne sie als eine Schablone zu benutzen. Denn das 
+ ist das\, was dieses Podcast-Projekt ausmacht: Einzigartige sehr tiefe Ges
+ präche mit viel empathischer Nähe\, die soziale Ungleichheit und Unegrec
+ htigkeit sichtbar machen. Eine Auseinandersetzung mit Problemen\, die jede
+ *r kennt und die der Journalismus dringend wieder braucht.\n\nhttps://soma
+ nyvoices.de/programm-26/hasslichste-stadt-deutschlands/
+CATEGORIES:Startup Space
+URL:https://somanyvoices.de/programm-26/hasslichste-stadt-deutschlands/
+END:VEVENT
+BEGIN:VEVENT
+UID:914144d5-e9c0-5366-97f6-ba8390f29f57@somanyvoices.de
+DTSTAMP:20261119T220221Z
+DTSTART;TZID=Europe/Berlin:20261121T143000
+DTEND;TZID=Europe/Berlin:20261121T145000
+SUMMARY:Was bisher geschah… (Große Bühne)
+LOCATION:So Many Voices – Große Bühne\, Balanstraße 73\, Haus 11\, Mü
+ nchen
+DESCRIPTION:Eine kurze Zusammenfassung der So Many Voices 26\n\nMit: Lukas 
+ Schöne
+CATEGORIES:Große Bühne
+END:VEVENT
+BEGIN:VEVENT
+UID:f20d802f-2ef0-5c73-a5e0-49792f2e71cc@somanyvoices.de
+DTSTAMP:20261119T220221Z
+DTSTART;TZID=Europe/Berlin:20261121T145000
+DTEND;TZID=Europe/Berlin:20261121T150000
+SUMMARY:Abschied (Große Bühne)
+LOCATION:So Many Voices – Große Bühne\, Balanstraße 73\, Haus 11\, Mü
+ nchen
+DESCRIPTION:Mit: Katrin Rönicke\, Lukas Schöne\, Susanne Klingner
+CATEGORIES:Große Bühne
+END:VEVENT
+END:VCALENDAR

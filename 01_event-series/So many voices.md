@@ -2,7 +2,12 @@
 type: EventSeries
 name: So Many Voices
 url: https://somanyvoices.de/
-date: 2026-11-20 bis 2026-11-21
+inception: 2024
+
+editions:
+  - "[[So many voices 2024]]"
+  - "[[So many voices 2025]]"
+  - "[[So many voices 2026]]"
 
 audience:
   - "[[Podcaster:innen]]"
@@ -20,7 +25,7 @@ orgs:
   - "[[Bayerischer Rundfunk]]"
 
 podcasts:
-  - "[[hauseins Podcasts]]"
+  - "[[hauseins Podcast]]"
 
 topics:
   - Podcasting
@@ -36,7 +41,7 @@ checked: false
 ---
 
 # So Many Voices
-So Many Voices ist eine Podcast-Konferenz „von Podcaster:innen für Podcaster:innen“, die am 20. und 21. November 2026 in München stattfindet. Sie kombiniert Diskussionen, Workshops und Networking, um Austausch und Lernen innerhalb der Podcast-Branche zu fördern. 
+So Many Voices ist eine Podcast-Konferenz „von Podcaster:innen für Podcaster:innen“, die seit 2024 jährlich im November in München stattfindet (2026: 20. und 21. November). Sie kombiniert Diskussionen, Workshops und Networking, um Austausch und Lernen innerhalb der Podcast-Branche zu fördern. 
 
 ## Teilnehmer & Verbindungen
 
@@ -49,3 +54,5 @@ So Many Voices ist ein vergleichsweise neues, aber wachsendes Branchentreffen, d
 ## Quellen / Hinweise
 
 - [https://somanyvoices.de/](https://somanyvoices.de/)
+- Programme: [2024](https://somanyvoices.de/programm-24/), [2025](https://somanyvoices.de/programm-25/), [2026](https://somanyvoices.de/programm-26/)
+- Fahrpläne als c3voc schedule.json: `raw/events/somanyvoices/`

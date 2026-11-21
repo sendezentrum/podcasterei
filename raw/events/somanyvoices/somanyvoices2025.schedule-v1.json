@@ -1,0 +1,1002 @@
+{
+  "$schema": "https://c3voc.de/schedule/schema.json",
+  "generator": {
+    "name": "somanyvoices-scraper",
+    "version": "1.0"
+  },
+  "schedule": {
+    "version": "1.0",
+    "conference": {
+      "acronym": "somanyvoices2025",
+      "title": "So many VOICES",
+      "time_zone_name": "Europe/Berlin",
+      "tracks": [],
+      "rooms": [
+        {
+          "name": "Große Bühne",
+          "slug": "495c22c3-087e-52f2-8db2-9e7d79df9a1d",
+          "guid": "495c22c3-087e-52f2-8db2-9e7d79df9a1d"
+        },
+        {
+          "name": "Workshop 1",
+          "slug": "30c1bbf0-44e5-5466-8637-1f66b4ecdf99",
+          "guid": "30c1bbf0-44e5-5466-8637-1f66b4ecdf99"
+        },
+        {
+          "name": "Workshop 2",
+          "slug": "5591b84b-5217-5fb3-9e6d-c97f0d051cc0",
+          "guid": "5591b84b-5217-5fb3-9e6d-c97f0d051cc0"
+        },
+        {
+          "name": "Startup Space",
+          "slug": "8bbf43f5-999e-56f3-8d08-2e5eaa0238dc",
+          "guid": "8bbf43f5-999e-56f3-8d08-2e5eaa0238dc"
+        },
+        {
+          "name": "Konferenzraum",
+          "slug": "9bd7c6af-07b1-54d6-96b4-f9fcd0440da6",
+          "guid": "9bd7c6af-07b1-54d6-96b4-f9fcd0440da6"
+        }
+      ],
+      "days": [
+        {
+          "index": 1,
+          "date": "2025-11-21",
+          "day_start": "2025-11-21T13:00:00+01:00",
+          "day_end": "2025-11-21T22:00:00+01:00",
+          "rooms": {
+            "Große Bühne": [
+              {
+                "guid": "e7a55b9a-5f74-5d97-8b47-d1f39ed884a8",
+                "type": "other",
+                "id": 925001,
+                "slug": "somanyvoices2025-925001-begruessung",
+                "title": "Begrüßung",
+                "subtitle": "",
+                "date": "2025-11-21T14:00:00+01:00",
+                "start": "14:00",
+                "duration": "00:10",
+                "room": "Große Bühne",
+                "track": "",
+                "language": "de",
+                "logo": "",
+                "abstract": "",
+                "description": "",
+                "recording": {
+                  "optout": false
+                },
+                "persons": [
+                  {
+                    "id": 43,
+                    "public_name": "Katharina Deichsel"
+                  },
+                  {
+                    "id": 1,
+                    "public_name": "Katrin Rönicke"
+                  },
+                  {
+                    "id": 3,
+                    "public_name": "Lukas Schöne"
+                  }
+                ],
+                "url": ""
+              },
+              {
+                "guid": "cd7a93a6-ca42-5bee-a0c5-a96e9997cac1",
+                "type": "lecture",
+                "id": 925002,
+                "slug": "somanyvoices2025-925002-keynote-zu-crazy",
+                "title": "Keynote: Zu crazy für diesen Podcast?!",
+                "subtitle": "Warum wir mehr spinnen sollten",
+                "date": "2025-11-21T14:10:00+01:00",
+                "start": "14:10",
+                "duration": "00:45",
+                "room": "Große Bühne",
+                "track": "",
+                "language": "de",
+                "logo": "",
+                "abstract": "Warum wir mehr spinnen sollten",
+                "description": "Eine Keynote für alle, die Podcasts nicht nur hören, sondern weiterdenken wollen, die radikal mit Struktur, Sound und Stimme brechen wollen. Denn das Medium ist jung – aber erstaunlich uniform. Warum? Und wie kommen wir da raus? Was, wenn Sounddesign nicht Beiwerk, sondern Erzählung ist? Was, wenn sich Stimmen überlagern und Realität auflöst? Hier geht es um Lust auf Form-Explosion und Grenzverschiebung.",
+                "recording": {
+                  "optout": false
+                },
+                "persons": [
+                  {
+                    "id": 44,
+                    "public_name": "Jeanne Drach"
+                  }
+                ],
+                "url": "https://somanyvoices.de/programm-25/zu-crazy-fuer-diesen-podcast/"
+              },
+              {
+                "guid": "d6ad6673-8621-57e7-a266-a1d1eec3944c",
+                "type": "lecture",
+                "id": 925004,
+                "slug": "somanyvoices2025-925004-warum-unqualifizierte-20",
+                "title": "Warum unqualifizierte 20-Jährige die Zukunft der Medienlandschaft sind",
+                "subtitle": "Wie echte Diversität statt Tokenism gelingt und was das für den Redaktionsalltag bedeutet",
+                "date": "2025-11-21T15:00:00+01:00",
+                "start": "15:00",
+                "duration": "00:45",
+                "room": "Große Bühne",
+                "track": "",
+                "language": "de",
+                "logo": "",
+                "abstract": "Wie echte Diversität statt Tokenism gelingt und was das für den Redaktionsalltag bedeutet",
+                "description": "Vor 5 Jahren startete das PULS Talente Programm, um junge Menschen fernab journalistischer Biografien, dafür mit einer starken Vision für den Bayerischen Rundfunk zu gewinnen. Das PULS Talente Programm ist mehr als nur ein Traineeprogramm, es ist eine Maßnahme den öffentlich-rechtlichen Auftrag zu erfüllen, mit seinen Programm und Inhalten wirklich alle Teile der Gesellschaft zu erreichen. Die PULS Talente haben uns authentisch vielfältiger gemacht, uns vor Shitstorms bewahrt und unser Programm insgesamt verbessert. Die Quereinsteiger:innen stellen die Redaktion gleichzeitig vor andere Herausforderungen als reguläre Volontierende oder Trainees: eine intensivere fachliche Betreuung oder die Heranführung an das System Medien, seine Regeln, Codes und Umgangsformen. Wir berichten, wie uns echte Diversität statt Tokenism gelingt und was das für unseren Redaktionsalltag bedeutet.",
+                "recording": {
+                  "optout": false
+                },
+                "persons": [
+                  {
+                    "id": 45,
+                    "public_name": "Laura Bohné"
+                  },
+                  {
+                    "id": 46,
+                    "public_name": "Šejla Begović"
+                  },
+                  {
+                    "id": 47,
+                    "public_name": "Hendrik Rack"
+                  }
+                ],
+                "url": "https://somanyvoices.de/programm-25/die-zukunft-der-medienlandschaft/"
+              },
+              {
+                "guid": "cf8ae88b-d6e3-551c-b419-1b85b7ba25b3",
+                "type": "lecture",
+                "id": 925009,
+                "slug": "somanyvoices2025-925009-zwischen-empathie-und",
+                "title": "Zwischen Empathie und Voyeurismus",
+                "subtitle": "Persönliche Geschichten mit Respekt erzählen",
+                "date": "2025-11-21T16:30:00+01:00",
+                "start": "16:30",
+                "duration": "00:45",
+                "room": "Große Bühne",
+                "track": "",
+                "language": "de",
+                "logo": "",
+                "abstract": "Persönliche Geschichten mit Respekt erzählen",
+                "description": "Geschichten über Menschen berühren – aber ob sie empowern oder ausnutzen, hängt vom Zugang ab. Empathie ist beim Geschichtenerzählen nicht nur ein Soft Skill, sondern eine echte professionelle Kompetenz. Ein sensibler Umgang mit retraumatisierenden Themen wie z. B. Gewalt oder Verlust ist essentiell. Aber wie erzählen wir Geschichten, sodass sie dem Leid der Menschen gerecht werden? Und gibt es zu viel Leid für eine Geschichte? Wie nah kann man seinen Protagonist*innen kommen, ohne übergriffig oder unkritisch zu sein? Ab wann sollten wir die Protagonist*innen auch schützen? Wie meistert man die Grenze zwischen journalistischer Neugierde und purem Voyeurismus?",
+                "recording": {
+                  "optout": false
+                },
+                "persons": [
+                  {
+                    "id": 48,
+                    "public_name": "Shalin Rogall"
+                  },
+                  {
+                    "id": 49,
+                    "public_name": "Teresa Sickert"
+                  },
+                  {
+                    "id": 3,
+                    "public_name": "Lukas Schöne"
+                  }
+                ],
+                "url": "https://somanyvoices.de/programm-25/zwischen-empathie-und-voyeurismus/"
+              },
+              {
+                "guid": "5493e283-32f4-5b70-9f24-13a77fc8665e",
+                "type": "lecture",
+                "id": 925013,
+                "slug": "somanyvoices2025-925013-zwei-weisse-maenner",
+                "title": "Zwei weiße Männer unterhalten sich…",
+                "subtitle": "Was müsste sich ändern, damit das Podcasting sein großes Versprechen wieder halten kann, dass doch jede*r zum Mikrofon greifen und senden könne",
+                "date": "2025-11-21T17:30:00+01:00",
+                "start": "17:30",
+                "duration": "00:45",
+                "room": "Große Bühne",
+                "track": "",
+                "language": "de",
+                "logo": "",
+                "abstract": "Was müsste sich ändern, damit das Podcasting sein großes Versprechen wieder halten kann, dass doch jede*r zum Mikrofon greifen und senden könne",
+                "description": "Die Podcastbranche ist zwar jung und entstand als Grassroots-Bewegung, aber besonders divers ist sie deshalb noch lange nicht. Die Charts sind geprägt von den immer gleichen Stimmen: männlich, weiß, prominent. In dieser Session geht es um eine Bestandsaufnahme mit harten Zahlen aus der Wissenschaft: Wie steht es um die Vielfalt in Podcasts? Und wir suchen nach den Knackpunkten, warum es weibliche, non-binäre und nicht-weiße Stimmen so viel schwerer haben. Was müsste sich ändern, damit das Podcasting sein großes Versprechen wieder halten kann, dass doch jede*r zum Mikrofon greifen und senden könne.",
+                "recording": {
+                  "optout": false
+                },
+                "persons": [
+                  {
+                    "id": 50,
+                    "public_name": "Ayesha Khan"
+                  },
+                  {
+                    "id": 1,
+                    "public_name": "Katrin Rönicke"
+                  },
+                  {
+                    "id": 51,
+                    "public_name": "Vera Katzenberger"
+                  },
+                  {
+                    "id": 52,
+                    "public_name": "Dennis Chiponda"
+                  }
+                ],
+                "url": "https://somanyvoices.de/programm-25/zwei-weisse-maenner-unterhalten-sich/"
+              },
+              {
+                "guid": "dfd15333-3331-5475-aad3-82e87e36fda0",
+                "type": "other",
+                "id": 925017,
+                "slug": "somanyvoices2025-925017-abschied-fuer-heute",
+                "title": "Abschied für heute",
+                "subtitle": "",
+                "date": "2025-11-21T18:15:00+01:00",
+                "start": "18:15",
+                "duration": "00:15",
+                "room": "Große Bühne",
+                "track": "",
+                "language": "de",
+                "logo": "",
+                "abstract": "",
+                "description": "",
+                "recording": {
+                  "optout": false
+                },
+                "persons": [
+                  {
+                    "id": 43,
+                    "public_name": "Katharina Deichsel"
+                  },
+                  {
+                    "id": 1,
+                    "public_name": "Katrin Rönicke"
+                  },
+                  {
+                    "id": 3,
+                    "public_name": "Lukas Schöne"
+                  }
+                ],
+                "url": ""
+              }
+            ],
+            "Workshop 1": [
+              {
+                "guid": "17b0ef0b-0d8f-5783-aa96-9b172f0f4294",
+                "type": "other",
+                "id": 925003,
+                "slug": "somanyvoices2025-925003-audio-uebertragung",
+                "title": "Audio-Übertragung",
+                "subtitle": "Begrüßung + Keynote",
+                "date": "2025-11-21T14:00:00+01:00",
+                "start": "14:00",
+                "duration": "00:55",
+                "room": "Workshop 1",
+                "track": "",
+                "language": "de",
+                "logo": "",
+                "abstract": "Begrüßung + Keynote",
+                "description": "Audio-Übertragung von Begrüßung und Keynote aus der Großen Bühne.",
+                "recording": {
+                  "optout": true
+                },
+                "persons": [],
+                "url": ""
+              },
+              {
+                "guid": "f0290dde-7137-59f2-a71e-cc4fb194b495",
+                "type": "workshop",
+                "id": 925005,
+                "slug": "somanyvoices2025-925005-der-dumpling",
+                "title": "Der Dumpling",
+                "subtitle": "Wie Podcast-Hosting natürlich klingt",
+                "date": "2025-11-21T15:00:00+01:00",
+                "start": "15:00",
+                "duration": "00:45",
+                "room": "Workshop 1",
+                "track": "",
+                "language": "de",
+                "logo": "",
+                "abstract": "Wie Podcast-Hosting natürlich klingt",
+                "description": "Wie schaffen wir es, im Podcast wie echte Menschen zu klingen, auch wenn wir eine recherchierte und strukturierte Geschichte erzählen?\n\nGemeinsam mit Tim Howard (ehemals Radiolab & Reply All) haben wir das Konzept des „Dumpling“ weiterentwickelt – eine Methode, bei der eine Person ihre Recherche teilt oder Hosts Gedanken austauschen, ohne die oft peinlichen „Boah, krass“-Momente aus vorgeskripteten Gesprächen.\n\nIm Workshop erklärt André Dér-Hörmeyer, wie der Dumpling funktioniert, wie sie ihn in ihre Recherchen einbinden, welche Fehler sie dabei machen und was wir gemeinsam daraus lernen können.",
+                "recording": {
+                  "optout": true
+                },
+                "persons": [
+                  {
+                    "id": 16,
+                    "public_name": "André Dér-Hörmeyer"
+                  }
+                ],
+                "url": "https://somanyvoices.de/programm-25/der-dumpling/"
+              },
+              {
+                "guid": "b4b74d91-f74f-5a45-8324-a8c22d5c15da",
+                "type": "workshop",
+                "id": 925010,
+                "slug": "somanyvoices2025-925010-newspodcast-0630",
+                "title": "Newspodcast 0630",
+                "subtitle": "Mit der Community gegen Nachrichtenmüdigkeit",
+                "date": "2025-11-21T16:30:00+01:00",
+                "start": "16:30",
+                "duration": "00:45",
+                "room": "Workshop 1",
+                "track": "",
+                "language": "de",
+                "logo": "",
+                "abstract": "Mit der Community gegen Nachrichtenmüdigkeit",
+                "description": "Nahost, Ukraine-Krieg, Klimakrise und Inflation. Viele junge Menschen sagen von sich selbst, dass sie die Krisen dieser Welt überfordern – und fragen sich, was Nachrichten überhaupt mit ihrem Leben zu tun haben. Ein häufig gewählter Ausweg: Nachrichten vermeiden. Das wollen wir vom Newspodcast 0630 nicht stehen lassen. In unserem Talk erzählen die Hosts Lisa Bertram und Matthis Dierkes, was wir dagegen tun. Wie wir die Community einbinden – über Sprachnachrichten, WhatsApp-Chats, Spotify-Umfragen oder Oldschool per Mail. Wir treffen den Bundeskanzler? Wir stellen Fragen aus der Community! Wir sprechen über Themen, die junge Menschen bewegen? Wir spielen Sprachnachrichten aus der Community!\n\nWas wir schonmal verraten können – das kommt bei unserem Publikum an: “Diese Art der Berichterstattung im direkten Kontakt zu den Hörern macht euch besonders und besonders wichtig”",
+                "recording": {
+                  "optout": true
+                },
+                "persons": [
+                  {
+                    "id": 53,
+                    "public_name": "Lisa Bertram"
+                  },
+                  {
+                    "id": 54,
+                    "public_name": "Matthis Dierkes"
+                  }
+                ],
+                "url": "https://somanyvoices.de/programm-25/newspodcast-0630/"
+              },
+              {
+                "guid": "8a4d95ea-f153-5650-b9d0-b9f6bc9d710e",
+                "type": "workshop",
+                "id": 925014,
+                "slug": "somanyvoices2025-925014-ki-im-podcast",
+                "title": "KI im Podcast-Workflow",
+                "subtitle": "Feature oder Fata Morgana?",
+                "date": "2025-11-21T17:30:00+01:00",
+                "start": "17:30",
+                "duration": "00:45",
+                "room": "Workshop 1",
+                "track": "",
+                "language": "de",
+                "logo": "",
+                "abstract": "Feature oder Fata Morgana?",
+                "description": "KI ist überall und macht angeblich alles einfacher. Aber was bedeutet das konkret für uns Podcaster:innen? Schreibt ChatGPT jetzt unsere Shownotes? Muss ich meine Stimme bald nicht mehr selbst einsprechen? Und kann ich Video-KIs schon für die Social-Media-Promo für Podcast einsetzen?\n\nIn dieser Session schauen wir uns mit möglichst vielen konkreten Beispielen an, was KI aktuell wirklich leisten kann und was (noch) Quatsch ist. Ich zeige euch Tools, die bei der Vorbereitung, bei der Produktion und bei der Promo helfen. Es geht um Transkripte, Schnitt, Nachbearbeitung, Stimmen, aber auch um ethische Stolperfallen und die große Frage: Schaffen wir uns mit der Nutzung von KI als Podcaster:innen vielleicht sogar selbst ab?",
+                "recording": {
+                  "optout": true
+                },
+                "persons": [
+                  {
+                    "id": 28,
+                    "public_name": "Caspar von Allwörden"
+                  }
+                ],
+                "url": "https://somanyvoices.de/programm-25/ki-im-podcast-workflow/"
+              }
+            ],
+            "Workshop 2": [
+              {
+                "guid": "6961675a-ac51-538f-abac-6e1ebb4c3228",
+                "type": "workshop",
+                "id": 925006,
+                "slug": "somanyvoices2025-925006-wer-erzaehlt-und",
+                "title": "Wer erzählt – und warum?",
+                "subtitle": "Die Host-Rolle im seriellen Storytelling-Podcast",
+                "date": "2025-11-21T15:00:00+01:00",
+                "start": "15:00",
+                "duration": "00:45",
+                "room": "Workshop 2",
+                "track": "",
+                "language": "de",
+                "logo": "",
+                "abstract": "Die Host-Rolle im seriellen Storytelling-Podcast",
+                "description": "In Storytelling-Podcasts kann der Host alles sein: ein absoluter Schwachpunkt – oder das Element, das eine Serie zum Fliegen bringt. Manche Geschichten sind so eng mit der Person des Hosts verknüpft, dass nur sie diese Geschichte überhaupt erzählen kann – weil sie selbst eine bestimmte Situation erlebt hat. Etwa als Rikschafahrer auf dem Oktoberfest wie in „Lederhosenkartell“, oder als vermeintlicher Helfer eines Justizopfers, der selbst auf eine Manipulation hereinfällt wie in „Mafia-Prinzessin“.\n\nAndere Hostfiguten hingegen sind eher außenstehende Erzähler*innen – verbunden mit einer tollen Geschichte, aber kein Teil von ihr. Aber eins ist ein Host immer: Eine Rolle, die das Ergebnis dramaturgischer Entscheidungen ist.\n\nWir stellen an konkreten Beispielen fünf typische Host-Kategorien vor – jede mit eigenen Stärken und Schwächen. Denn eine gute Podcast-Serie stellt sich nicht erst am Schluss die zentrale Frage, sondern gleich zu Beginn: WER erzählt mir diese Geschichte – und WARUM?",
+                "recording": {
+                  "optout": true
+                },
+                "persons": [
+                  {
+                    "id": 55,
+                    "public_name": "Laura Terberl"
+                  },
+                  {
+                    "id": 56,
+                    "public_name": "Patrick Bauer"
+                  }
+                ],
+                "url": "https://somanyvoices.de/programm-25/die-host-rolle-im-storytelling-podcast/"
+              },
+              {
+                "guid": "99adac9c-3193-5cd7-a03d-d9567be40e4f",
+                "type": "workshop",
+                "id": 925011,
+                "slug": "somanyvoices2025-925011-die-unsichtbare-kunst",
+                "title": "Die unsichtbare Kunst",
+                "subtitle": "Audioprobleme erkennen und vermeiden",
+                "date": "2025-11-21T16:30:00+01:00",
+                "start": "16:30",
+                "duration": "00:45",
+                "room": "Workshop 2",
+                "track": "",
+                "language": "de",
+                "logo": "",
+                "abstract": "Audioprobleme erkennen und vermeiden",
+                "description": "Gute Tontechnik fällt nicht auf – schlechte sofort. In dieser Session zeigen wir, worauf man achten sollte damit Aufnahmen klar verständlich sind und angenehm klingen. Wir sprechen über die häufigsten Probleme wie Raumhall, unterschiedliche Lautstärken, Störgeräusche oder schwer verständliche Sprache und erklären wie man sie schon bei der Aufnahme vermeidet. Außerdem geben wir praktische Tipps wie sich Fehler im Schnitt oder mit einfachen Werkzeugen nachträglich beheben lassen. Ziel ist es weniger Frust beim Editing und mehr Qualität im fertigen Ergebnis zu garantieren.",
+                "recording": {
+                  "optout": true
+                },
+                "persons": [
+                  {
+                    "id": 38,
+                    "public_name": "Christoph Grasser"
+                  }
+                ],
+                "url": "https://somanyvoices.de/programm-25/audioprobleme-erkennen-und-vermeiden/"
+              },
+              {
+                "guid": "5b594168-cfea-5ad1-9a5c-ed3b957962f0",
+                "type": "workshop",
+                "id": 925015,
+                "slug": "somanyvoices2025-925015-kleine-podcasts-groesser",
+                "title": "Kleine Podcasts größer machen",
+                "subtitle": "Neue Hörer:innen gewinnen und (endlich) mal Geld verdienen",
+                "date": "2025-11-21T17:30:00+01:00",
+                "start": "17:30",
+                "duration": "00:45",
+                "room": "Workshop 2",
+                "track": "",
+                "language": "de",
+                "logo": "",
+                "abstract": "Neue Hörer:innen gewinnen und (endlich) mal Geld verdienen",
+                "description": "In den vergangenen sechs Jahren haben die Wake Word Studios über 80 Podcasts produziert von “11 Leben” über “Metro Man” bis hin zu “Mensch!”. Sie gehören ebenfalls du den Pionieren des Podcast-Marketing und können mit ihrer Podcast-Analyse Plattform PODIUS den Podcast-Markt tiefer und genauer verstehen als andere. Angesichts von über 100.000 deutschen Podcasts tun sich gerade kleinere Podcasts schwer, ihr Publikum in diesem Hör-Dschungel zu finden. So fällt auch das Geld verdienen schwer. Josephine und Christoph tauchen mit Euch gemeinsam tief in die Trends im Podcast-Markt ein. Sie erklären mit zahlreichen Praxis-Beispielen, wie es auch kleinen Podcasts gelingen kann, in einer gemeinsamen Community erfolgreicher zu werden. Für alle, die die Zukunft des Podcastings aktiv mitgestalten möchten!",
+                "recording": {
+                  "optout": true
+                },
+                "persons": [
+                  {
+                    "id": 57,
+                    "public_name": "Josephine Aleyt"
+                  },
+                  {
+                    "id": 58,
+                    "public_name": "Christoph Falke"
+                  }
+                ],
+                "url": "https://somanyvoices.de/programm-25/kleine-podcasts-groesser-machen/"
+              }
+            ],
+            "Startup Space": [
+              {
+                "guid": "235a2fff-a8fb-515b-b551-9b90cf7588e2",
+                "type": "workshop",
+                "id": 925007,
+                "slug": "somanyvoices2025-925007-ambivalente-protagonist-innen",
+                "title": "Ambivalente Protagonist*innen",
+                "subtitle": "Wie nah darf man ihnen kommen, wie erhält man sich kritische Distanz?",
+                "date": "2025-11-21T15:00:00+01:00",
+                "start": "15:00",
+                "duration": "00:45",
+                "room": "Startup Space",
+                "track": "",
+                "language": "de",
+                "logo": "",
+                "abstract": "Wie nah darf man ihnen kommen, wie erhält man sich kritische Distanz?",
+                "description": "Viele Storytelling-Podcasts fokussieren in ihrem Narrativ stark auf einzelne, zum Teil hoch ambivalente, Persönlichkeiten. Wie kann es gelingen, solche Protagonist*innen über einen längeren Zeitraum zu begleiten, ohne dabei die kritischen Fragen der Recherche aus den Augen zu verlieren? Wie schützt man die Protagonisten vor sich selbst – oder sollte man das ohnehin lieber nicht tun? Und wie reagiert man, wenn die Stimmung auf einmal kippt und der Protagonist aussteigen oder die Podcaster*innen sogar verklagen will? Das alles besprechen Marlene Halser (“Just Love”), Dennis Müller (“Seelenfänger”, “Der König von TikTok”, “Stars unserer Kindheit”) und Klaus Uhrig.\n\nAmbivalente Protagonisten – Wie nah darf man ihnen kommen, wie erhält man sich kritische Distanz?",
+                "recording": {
+                  "optout": true
+                },
+                "persons": [
+                  {
+                    "id": 59,
+                    "public_name": "Marlene Halser"
+                  },
+                  {
+                    "id": 60,
+                    "public_name": "Dennis Müller"
+                  },
+                  {
+                    "id": 61,
+                    "public_name": "Klaus Uhrig"
+                  }
+                ],
+                "url": "https://somanyvoices.de/programm-25/ambivalente-protagonisten/"
+              },
+              {
+                "guid": "ab9ada2b-5395-5932-b504-33b51bf15597",
+                "type": "workshop",
+                "id": 925012,
+                "slug": "somanyvoices2025-925012-podcasting-im-kollektiv",
+                "title": "Podcasting im Kollektiv",
+                "subtitle": "Warum wir uns verbünden (müssen)",
+                "date": "2025-11-21T16:30:00+01:00",
+                "start": "16:30",
+                "duration": "00:45",
+                "room": "Startup Space",
+                "track": "",
+                "language": "de",
+                "logo": "",
+                "abstract": "Warum wir uns verbünden (müssen)",
+                "description": "Langwierige Recherchen, ein aufwendiger Skript-Prozess und gute Abstimmung zwischen den unterschiedlichen Gewerken. Einen guten Storytelling-Podcast umzusetzen, erfordert von der ersten Idee bis zum fertigen Produkt nicht nur viel Zeit und Arbeit, sondern auch unterschiedliche Skills. Die Lösung: Doku-Podcasts im Kollektiv machen – gerade als freischaffende Podcaster:innen.\n\nDiese Session zeigt, warum kollektive Strukturen die Antwort sein können: für mehr kreative Vielfalt, geteiltes Wissen und effiziente und nachhaltige Produktionsbedingungen. Was bringt Zusammenarbeit statt Konkurrenz? Wie sorgen kollektive Strukturen für mehr Sichtbarkeit in der Podcast-Branche? Und was braucht es, damit gemeinsames Arbeiten auch wirklich funktioniert?",
+                "recording": {
+                  "optout": true
+                },
+                "persons": [
+                  {
+                    "id": 62,
+                    "public_name": "Sabrina Höbel"
+                  },
+                  {
+                    "id": 60,
+                    "public_name": "Dennis Müller"
+                  },
+                  {
+                    "id": 63,
+                    "public_name": "Julius Bretzel"
+                  }
+                ],
+                "url": "https://somanyvoices.de/programm-25/podcasting-im-kollektiv/"
+              },
+              {
+                "guid": "41c5887e-29cf-5007-9f56-5778057d808c",
+                "type": "workshop",
+                "id": 925016,
+                "slug": "somanyvoices2025-925016-wow-100-hoerer",
+                "title": "Wow, 100 Hörer:innen!",
+                "subtitle": "Eine erste Bilanz des lokalen Eichenau Podcasts",
+                "date": "2025-11-21T17:30:00+01:00",
+                "start": "17:30",
+                "duration": "00:45",
+                "room": "Startup Space",
+                "track": "",
+                "language": "de",
+                "logo": "",
+                "abstract": "Eine erste Bilanz des lokalen Eichenau Podcasts",
+                "description": "Eine erste Bilanz des hyperlokalen Eichenau Podcasts\n\nIm Oktober 2024 starteten Lena Jakat und Peter Wagner den „Eichenau Podcast“: Alle zwei Wochen interviewen sie Leute aus ihrer 12.000-Menschen-Heimat im Westen von München. Historikerin oder Feuerwehrkommandant, Sprinter oder Fotografin, Geflüchtetenhelferin oder Pfefferminzanbauer. Die Idee: etwas für den Zusammenhalt machen, den Lokaljournalismus stärken. Auf ihrem „So Many Voices“-Panel im November 2024 diskutieren Lena und Peter mit dem Publikum: Wie wird ein Lokalpodcast erfolgreich? Worauf sollen wir acht geben? Ein Jahr später ziehen sie Zwischenbilanz: Wie läuft’s? Wie reagiert der Ort? Wie entwickeln sich die Hörer:innen-Zahlen? Tut der Podcast was für den Zusammenhalt? Welche Erwartungen wurden übertroffen, was erwies sich als falsche Annahme? Monetarisierung anyone? Und: Wie geht es von hier aus weiter? Eine interaktive Session – erst der Rückblick, dann die Diskussion mit dem Publikum.",
+                "recording": {
+                  "optout": true
+                },
+                "persons": [
+                  {
+                    "id": 41,
+                    "public_name": "Lena Jakat"
+                  },
+                  {
+                    "id": 42,
+                    "public_name": "Peter Wagner"
+                  }
+                ],
+                "url": "https://somanyvoices.de/programm-25/erste-bilanz-eichenau-podcast/"
+              }
+            ],
+            "Konferenzraum": [
+              {
+                "guid": "dc146749-9add-5df8-bd10-2bca3869d201",
+                "type": "workshop",
+                "id": 925008,
+                "slug": "somanyvoices2025-925008-code-of-fairness",
+                "title": "Code of Fairness",
+                "subtitle": "Wir formulieren Arbeits- und Honorarstandards für die Branche",
+                "date": "2025-11-21T15:00:00+01:00",
+                "start": "15:00",
+                "duration": "01:30",
+                "room": "Konferenzraum",
+                "track": "",
+                "language": "de",
+                "logo": "",
+                "abstract": "Wir formulieren Arbeits- und Honorarstandards für die Branche",
+                "description": "Währen der ersten So Many Voices haben wir begonnen zusammenzutragen, an welchen Ecken Arbeit im Podcasting nicht nur schlecht bezahlt ist, sondern auch strukturelle Problemstellen hat, die sich durch allgemeine Branchenstandards beheben ließen.\n\nDieses Jahr wollen wir einen Code of Fairness für die Branche konkret formulieren und wenn die Zeit reicht auch schon darüber sprechen, wie man Sender, Publisher und Produktionsfirmen davon überzeugen kann, sich diesen Standards anzuschließen.\n\nDie Session geht über die Kaffeepause, aber Kaffee, Tee, Kuchen und Obst gibt es trotzdem, während des Gesprächs.",
+                "recording": {
+                  "optout": true
+                },
+                "persons": [
+                  {
+                    "id": 43,
+                    "public_name": "Katharina Deichsel"
+                  }
+                ],
+                "url": "https://somanyvoices.de/programm-25/code-of-fairness/"
+              }
+            ]
+          }
+        },
+        {
+          "index": 2,
+          "date": "2025-11-22",
+          "day_start": "2025-11-22T09:00:00+01:00",
+          "day_end": "2025-11-22T13:00:00+01:00",
+          "rooms": {
+            "Große Bühne": [
+              {
+                "guid": "689770e6-2e93-5762-b32a-6f46a657f86b",
+                "type": "other",
+                "id": 925018,
+                "slug": "somanyvoices2025-925018-hello-again",
+                "title": "Hello again!",
+                "subtitle": "",
+                "date": "2025-11-22T09:55:00+01:00",
+                "start": "09:55",
+                "duration": "00:05",
+                "room": "Große Bühne",
+                "track": "",
+                "language": "de",
+                "logo": "",
+                "abstract": "",
+                "description": "",
+                "recording": {
+                  "optout": false
+                },
+                "persons": [
+                  {
+                    "id": 43,
+                    "public_name": "Katharina Deichsel"
+                  },
+                  {
+                    "id": 1,
+                    "public_name": "Katrin Rönicke"
+                  },
+                  {
+                    "id": 3,
+                    "public_name": "Lukas Schöne"
+                  }
+                ],
+                "url": ""
+              },
+              {
+                "guid": "68a2510a-4d1a-533a-8288-783f6390c754",
+                "type": "lecture",
+                "id": 925019,
+                "slug": "somanyvoices2025-925019-storytelling-vs-recherche",
+                "title": "Storytelling vs. Recherche",
+                "subtitle": "Wie kann man ergebnisoffen recherchieren, Quellen schützen und trotzdem einen dramaturgisch gelungenen und unterhaltsamen Podcast produzieren?",
+                "date": "2025-11-22T10:00:00+01:00",
+                "start": "10:00",
+                "duration": "00:45",
+                "room": "Große Bühne",
+                "track": "",
+                "language": "de",
+                "logo": "",
+                "abstract": "Wie kann man ergebnisoffen recherchieren, Quellen schützen und trotzdem einen dramaturgisch gelungenen und unterhaltsamen Podcast produzieren?",
+                "description": "Seit einigen Jahren erleben narrative Podcasts einen regelrechten Hype in Deutschland. Das zeigt sich nicht nur an den Hörer*innenzahlen. Immer mehr Reporter*innen versuchen auch im Audio zu denken. Welche Recherche trägt eine ganze Podcasterzählung und wie gut matchen investigative Recherche und Storytelling wirklich? Verführen bewährte dramatische Konzepte wie Heldenreise oder Aufstieg & Fall dazu, unser Material in ein Korsett zu zwängen oder sollten wir uns erzählerische Muster sogar noch stärker zunutze machen? Gerade im Spannungsfeld zwischen journalistischen Grundsätzen und dramaturgischen Modellen stellt sich immer wieder die Frage: Wie kann man ergebnisoffen recherchieren, Quellen schützen und trotzdem einen dramaturgisch gelungenen und unterhaltsamen Podcast produzieren? Und wer bezahlt dafür? Wir sprechen über unsere Erfahrungen in Audioprojekten wie, Amnestie Deutschland, Kino.to – Die verbotene Streaming Revolution, Greenhouse und Boys Club – Macht & Missbrauch.",
+                "recording": {
+                  "optout": false
+                },
+                "persons": [
+                  {
+                    "id": 4,
+                    "public_name": "Azadê Peşmen"
+                  },
+                  {
+                    "id": 7,
+                    "public_name": "Pia Stendera"
+                  },
+                  {
+                    "id": 64,
+                    "public_name": "Sophia Wetzke"
+                  }
+                ],
+                "url": "https://somanyvoices.de/programm-25/storytelling-vs-recherche/"
+              },
+              {
+                "guid": "3016985b-eabe-5479-a40d-69e0f74b86cb",
+                "type": "lecture",
+                "id": 925023,
+                "slug": "somanyvoices2025-925023-wie-erzaehlen-wir",
+                "title": "Wie erzählen wir andere Geschichten aus dem Osten?",
+                "subtitle": "Und welche Bedingungen braucht es, damit ostdeutsche Podcastmacher*innen in der Branche den Einfluss bekommen, der ihnen zusteht?",
+                "date": "2025-11-22T11:00:00+01:00",
+                "start": "11:00",
+                "duration": "00:45",
+                "room": "Große Bühne",
+                "track": "",
+                "language": "de",
+                "logo": "",
+                "abstract": "Und welche Bedingungen braucht es, damit ostdeutsche Podcastmacher*innen in der Branche den Einfluss bekommen, der ihnen zusteht?",
+                "description": "Die meisten Produktionsfirmen sitzen in westdeutschen Metropolen und in Berlin, ebenso die meisten Podcaster*innen. Das sorgt dafür, dass so wie in anderen Medien auch in vielen Podcasts ein verzerrtes Bild von „dem Osten“ dargestellt wird. Wie können wir das besser machen? Was braucht es, damit wir Geschichten besser erzählen? Und welche Bedingungen braucht es, damit ostdeutsche Podcastmacher*innen in der Branche den Einfluss bekommen, der ihnen zusteht?",
+                "recording": {
+                  "optout": false
+                },
+                "persons": [
+                  {
+                    "id": 65,
+                    "public_name": "Eva Morlang"
+                  },
+                  {
+                    "id": 66,
+                    "public_name": "Judith Geffert"
+                  },
+                  {
+                    "id": 7,
+                    "public_name": "Pia Stendera"
+                  },
+                  {
+                    "id": 52,
+                    "public_name": "Dennis Chiponda"
+                  }
+                ],
+                "url": "https://somanyvoices.de/programm-25/andere-geschichten-aus-dem-osten/"
+              },
+              {
+                "guid": "b156e117-9f72-5401-a7b3-0e5ddc12e44f",
+                "type": "lecture",
+                "id": 925026,
+                "slug": "somanyvoices2025-925026-einmal-doener-podcast",
+                "title": "Einmal Döner-Podcast bitte",
+                "subtitle": "Mit allem, aber ohne Klischees",
+                "date": "2025-11-22T12:00:00+01:00",
+                "start": "12:00",
+                "duration": "00:45",
+                "room": "Große Bühne",
+                "track": "",
+                "language": "de",
+                "logo": "",
+                "abstract": "Mit allem, aber ohne Klischees",
+                "description": "Der Döner Papers Podcast bringt Dinge zusammen, die eigentlich nicht zusammen gehören: seriöse Recherche und witzige Host-Texte, eine simple Frage und viel Tiefgang auf der Meta-Ebene – und vor allem: ein Thema für eine breite Zielgruppe und eine große Verantwortung gegenüber der eigenen Community. Host Aylin Doğan erklärt in diesem Workshop, wie sie und ihr Team in den Döner Papers versucht haben, über Rassismen aufzuklären, den Struggle der frühen Gastarbeiter-Generation fühlbar zu machen und das Klischee-beladene Thema Döner auf Augenhöhe mit der eigenen Community zu erzählen.",
+                "recording": {
+                  "optout": false
+                },
+                "persons": [
+                  {
+                    "id": 67,
+                    "public_name": "Aylin Doğan"
+                  }
+                ],
+                "url": "https://somanyvoices.de/programm-25/doener-papers/"
+              },
+              {
+                "guid": "c5adcf47-e0c2-5396-94a5-32bb5a1b84dd",
+                "type": "other",
+                "id": 925029,
+                "slug": "somanyvoices2025-925029-abschied",
+                "title": "Abschied",
+                "subtitle": "",
+                "date": "2025-11-22T12:50:00+01:00",
+                "start": "12:50",
+                "duration": "00:10",
+                "room": "Große Bühne",
+                "track": "",
+                "language": "de",
+                "logo": "",
+                "abstract": "",
+                "description": "",
+                "recording": {
+                  "optout": false
+                },
+                "persons": [
+                  {
+                    "id": 43,
+                    "public_name": "Katharina Deichsel"
+                  },
+                  {
+                    "id": 1,
+                    "public_name": "Katrin Rönicke"
+                  },
+                  {
+                    "id": 3,
+                    "public_name": "Lukas Schöne"
+                  }
+                ],
+                "url": ""
+              }
+            ],
+            "Workshop 1": [
+              {
+                "guid": "a9e97252-1db9-54fd-b8dd-3e4fe97121c4",
+                "type": "workshop",
+                "id": 925020,
+                "slug": "somanyvoices2025-925020-was-macht-einen",
+                "title": "Was macht einen guten Interviewpodcast aus?",
+                "subtitle": "Wann wird ein Interview zum echten Hörerlebnis?",
+                "date": "2025-11-22T10:00:00+01:00",
+                "start": "10:00",
+                "duration": "00:45",
+                "room": "Workshop 1",
+                "track": "",
+                "language": "de",
+                "logo": "",
+                "abstract": "Wann wird ein Interview zum echten Hörerlebnis?",
+                "description": "Wann wird ein Interview zum echten Hörerlebnis? Wie entstehen besondere Momente – und kann man die überhaupt vorbereiten? In dieser Session diskutieren wir, was einen guten Interviewpodcast ausmacht. Wie viel entsteht durch sorgfältige Vorbereitung – und wie viel durch Spontaneität und dem richtigen Gespür für den Moment? Welche Rolle spielt die Bekanntheit des Hosts – und wie bleiben Gast und Thema im Mittelpunkt? Wir wollen am Beispiel von „Deutschland 3000“ darüber sprechen, wie kreative Elemente, wie Spiele, Musik oder Audio-Schnipsel eine Folge bereichern können. Außerdem gibt es Insights direkt aus unserem Arbeitsalltag: Wie wählen wir Gäste aus, wie bereiten wir uns vor, welche Rolle spielt der Aufzeichnungsort? Wir teilen unsere größten Fails und wichtigsten Learnings– und beantworten eure Fragen. Diese Session bietet praxisnahe Einblicke ins Handwerk des Interviewpodcasts und inspiriert mit konkreten Tipps und Beispielen alle, die ihr Format weiterentwickeln möchten.",
+                "recording": {
+                  "optout": true
+                },
+                "persons": [
+                  {
+                    "id": 68,
+                    "public_name": "Merle Hömberg"
+                  },
+                  {
+                    "id": 69,
+                    "public_name": "Florian Barnikel"
+                  }
+                ],
+                "url": "https://somanyvoices.de/programm-25/guter-interviewpodcast/"
+              },
+              {
+                "guid": "4cdb100a-af53-58aa-ac16-4a24d98e16fe",
+                "type": "workshop",
+                "id": 925024,
+                "slug": "somanyvoices2025-925024-shape-your-story",
+                "title": "Shape Your Story",
+                "subtitle": "Dramaturgie, aber anders",
+                "date": "2025-11-22T11:00:00+01:00",
+                "start": "11:00",
+                "duration": "00:45",
+                "room": "Workshop 1",
+                "track": "",
+                "language": "de",
+                "logo": "",
+                "abstract": "Dramaturgie, aber anders",
+                "description": "Seit das Silicon Valley Wörter wie „Storytelling“ und „Heldenreise“ für sich entdeckt hat, könnte person meinen, die zutiefst menschliche Eigenschaft des Erzählens hätte den Shark gejumpt [sic]. Wer interessiert sich heute noch für Dramaturgie? Aber Fakt ist: hinter jedem Hörstück steht eine Erzählung und jede Erzählung hat einen Aufbau. Dieser Aufbau ist die Grundlage und die entscheidet, wie spannend und innovativ oder wie todlangweilig und pseudo-dramatisch eine Geschichte am Ende klingt. Ich glaube nicht dran, dass die Kunst des Erzählens sich auf eine Formel herunter brechen, sich coden oder berechnen lässt. Denn wie für alle Kunstformen braucht es auch für die Kunst der Dramaturgie: Handwerkszeug. Meine eigene Methode für die Suche nach der perfekten Form möchte ich in diesem Impuls vorstellen. Ganz greifbar, mit Beispielen aus meiner Arbeit und Einblicken in meine physische und digitale Werkstatt.",
+                "recording": {
+                  "optout": true
+                },
+                "persons": [
+                  {
+                    "id": 21,
+                    "public_name": "Miku Sophie Kühmel"
+                  }
+                ],
+                "url": "https://somanyvoices.de/programm-25/dramaturgie-aber-anders/"
+              },
+              {
+                "guid": "87bb7800-42c7-5468-baba-a47cbe749a9f",
+                "type": "workshop",
+                "id": 925027,
+                "slug": "somanyvoices2025-925027-how-not-to",
+                "title": "How (Not) to Pitch Podcasts",
+                "subtitle": "Was sollte ein Pitch enthalten?",
+                "date": "2025-11-22T12:00:00+01:00",
+                "start": "12:00",
+                "duration": "00:45",
+                "room": "Workshop 1",
+                "track": "",
+                "language": "de",
+                "logo": "",
+                "abstract": "Was sollte ein Pitch enthalten?",
+                "description": "Keine Frage bekommen wir von Freelancern und Produktionsfirmen so häufig gestellt wie: „Wie können wir Euch Podcasts pitchen? Und was soll in den Pitch rein?“ Weil wir so viele Vorschläge von unterschiedlichster Qualität bekommen, haben wir vom BR StoryTeam ein Ampel-System entwickelt. Florian Nöhbauer und Markus Malich geben einen Einblick in den Entscheidungsprozess des BR StoryTeams, geben Tipps und beantworten Fragen: – Vom Themenvorschlag zum Story-Pitch – Was sollte mein Pitch enthalten? – Nach welchen Kriterien sucht das BR StoryTeam Podcasts aus?",
+                "recording": {
+                  "optout": true
+                },
+                "persons": [
+                  {
+                    "id": 70,
+                    "public_name": "Markus Malich"
+                  },
+                  {
+                    "id": 71,
+                    "public_name": "Florian Nöhbauer"
+                  }
+                ],
+                "url": "https://somanyvoices.de/programm-25/podcast-pitch/"
+              }
+            ],
+            "Workshop 2": [
+              {
+                "guid": "d8db0816-ff26-52e0-b373-9890c8be8079",
+                "type": "workshop",
+                "id": 925021,
+                "slug": "somanyvoices2025-925021-ueber-tabu-themen",
+                "title": "Über Tabu-Themen sprechen",
+                "subtitle": "Wie man mit seinen Gästen über heikle Themen wie Geld spricht",
+                "date": "2025-11-22T10:00:00+01:00",
+                "start": "10:00",
+                "duration": "00:45",
+                "room": "Workshop 2",
+                "track": "",
+                "language": "de",
+                "logo": "",
+                "abstract": "Wie man mit seinen Gästen über heikle Themen wie Geld spricht",
+                "description": "In Deutschland spricht man nicht über Geld. Schon gar nicht persönlich. Warum eigentlich? Und was passiert, wenn man es doch tut?\n\nFelix Oldenburg, Gründer der Plattform bcause und Host des Podcasts “Das Neue Geben”, erzählt, wie er es geschafft hat, dass Menschen wie Verena Pausder, Gerhard Schick oder Christian Vollmann öffentlich ihre „Geldgeschichte“ teilen. Es geht um Vertrauen, Timing – und darum, dass Geld mehr mit Beziehungen zu tun hat als mit Zahlen. Für seinen Podcast bedeutet das, dass Felix auch eine Beziehung zu seinen Gesprächspartner*innen aufbauen muss. (oder so)\n\nEine Session über kluge Gesprächsführung und die Frage, warum es Zeit ist, über Tabuthemen zu sprechen, in diesem Fall: anders über Geld zu reden.",
+                "recording": {
+                  "optout": true
+                },
+                "persons": [
+                  {
+                    "id": 72,
+                    "public_name": "Felix Oldenburg"
+                  }
+                ],
+                "url": "https://somanyvoices.de/programm-25/tabuthema-geld/"
+              },
+              {
+                "guid": "6ea2f7cf-ab58-59fd-905a-201594fdbdeb",
+                "type": "workshop",
+                "id": 925025,
+                "slug": "somanyvoices2025-925025-anonyme-quellen",
+                "title": "Anonyme Quellen",
+                "subtitle": "Ein Tabu für jeden Podcast?",
+                "date": "2025-11-22T11:00:00+01:00",
+                "start": "11:00",
+                "duration": "00:45",
+                "room": "Workshop 2",
+                "track": "",
+                "language": "de",
+                "logo": "",
+                "abstract": "Ein Tabu für jeden Podcast?",
+                "description": "Nein! Wichtige Recherchen zu #Machtmissbrauch können trotzdem erzählt werden\n\nWie erzählt man Geschichten über Audio, wenn die Quellen anonym bleiben müssen? Was haben wir aus lokalen und internationalen Podcasts über den Umgang mit schutzbedürftigen Personen gelernt? Und welche Fragen stellen sich heute mehr denn je: Soll man Schauspieler:innen einsetzen – oder künstliche Stimmen? Und selbst mit Einwilligung – wie schützt man eine Quelle wirklich?\n\nIn diesem Panel sprechen die Investigativjournalistin Maria Christoph und die freie Reporterin Nora Voit (Schwerpunkt: Machtmissbrauch) über die Herausforderungen und Chancen bei der Arbeit mit anonymen Stimmen. Sie diskutieren ethische Fragen, technische Lösungen und persönliche Learnings aus Podcasts wie Boys Club, Row Zero, Feuerzone, Lucky Boy, Fallen Angels oder The Retrievals – Formate, die den investigativen Audiojournalismus nachhaltig verändert haben.",
+                "recording": {
+                  "optout": true
+                },
+                "persons": [
+                  {
+                    "id": 73,
+                    "public_name": "Maria Christoph"
+                  },
+                  {
+                    "id": 74,
+                    "public_name": "Nora Voit"
+                  }
+                ],
+                "url": "https://somanyvoices.de/programm-25/anonyme-quellen/"
+              },
+              {
+                "guid": "00652c75-859a-5bbc-987f-63ab61ad9ad5",
+                "type": "workshop",
+                "id": 925028,
+                "slug": "somanyvoices2025-925028-postproduktion-auf-autopilot",
+                "title": "Postproduktion auf Autopilot",
+                "subtitle": "KI-Tools für Podcasts & Audio",
+                "date": "2025-11-22T12:00:00+01:00",
+                "start": "12:00",
+                "duration": "00:45",
+                "room": "Workshop 2",
+                "track": "",
+                "language": "de",
+                "logo": "",
+                "abstract": "KI-Tools für Podcasts & Audio",
+                "description": "In diesem Workshop zeigen wir euch, wie spezialisierte KI-Tools die Arbeit mit Audio effizienter machen können, ohne menschliche Kreativität zu ersetzen.\n\nLive nehmen wir Inhalte auf, zeigen die automatische Analyse, erstellen Kapitelmarken, Shownotes und extrahieren Zitate. Gemeinsam optimieren wir Prompts, diskutieren Best Practices und vergleichen Vorher-Nachher-Ergebnisse.\n\nIhr erlebt, wie wiederkehrende Aufgaben in der Postproduktion enorm Zeit sparen und gleichzeitig die Qualität der Inhalte steigt. Perfekt für alle, die KI gezielt als Werkzeug einsetzen möchten, statt sie nur zu beobachten.\n\nPostproduktion auf Autopilot: KI-Tools für Podcasts & Audio",
+                "recording": {
+                  "optout": true
+                },
+                "persons": [
+                  {
+                    "id": 35,
+                    "public_name": "Benjamin Zimmer"
+                  },
+                  {
+                    "id": 75,
+                    "public_name": "Corinna Christa Hengelein"
+                  }
+                ],
+                "url": "https://somanyvoices.de/programm-25/postproduktion-autopilot/"
+              }
+            ],
+            "Startup Space": [
+              {
+                "guid": "6d6c107a-41ce-5ebb-af40-b3201dea83ea",
+                "type": "workshop",
+                "id": 925022,
+                "slug": "somanyvoices2025-925022-indie-podcast-real",
+                "title": "Indie Podcast Real Talk",
+                "subtitle": "Warum kleine Podcasts mehr Bühne brauchen und wie sie diese bekommen",
+                "date": "2025-11-22T10:00:00+01:00",
+                "start": "10:00",
+                "duration": "02:45",
+                "room": "Startup Space",
+                "track": "",
+                "language": "de",
+                "logo": "",
+                "abstract": "Warum kleine Podcasts mehr Bühne brauchen und wie sie diese bekommen",
+                "description": "Die Sichtbarkeit von Indie-Podcasts schwindet, während große Promi-Formate Bühne, Sponsorengelder und Aufmerksamkeit bekommen. Doch Podcasts waren einst ein Medium der Unabhängigen: kreativ, mutig, nahbar. In dieser Session sprechen wir über den Wert der Indie-Szene, über Formate, die mit Leidenschaft und ohne finanziellen Rückhalt produzieren und darüber, warum gerade diese Vielfalt für die gesamte Podcast-Landschaft überlebenswichtig ist. Wenn die Indie-Stimmen verstummen, verliert die Szene einen großen Teil ihrer Authentizität und Tiefe.\n\nDiese Session ist ein ausührliches Get-Together für alle Indie-Podcast-Macher*innen. Wir tauschen uns aus: Wie organisiert ihr eure Arbeit, wie interagiert ihr mit der Community, wie bleibt ihr am Ball – und wie geht es euch insgesamt?\n\nNeben dem Austausch mit anderen Indies bekommt ihr Impulse zu den Themen Reichweite und Discovery.\n\nReichweite ist DIE entscheidende Messgröße im Podcasting. Marilena Berends spricht darüber, wie man sich eine Community aufbaut, ohne großes Marketingbudget? Was bedeutet Reichweite wirklich – und wie wichtig ist sie? Wie kann man vom Podcasten leben – wenn überhaupt. Oder ist das ein naiver Traum? Hier ist ein Raum, um offen über die Realität des Indie-Podcastens zu sprechen: über kreative Freiheit, strukturelle Unsicherheiten, unerwartete Erfolgsmomente und alles, was dazwischenliegt – um Erfahrungen, Strategien und auch Zweifel zu teilen.\n\nAnna Scholz und Carolina Torres sprechen über Podcast-Discovery: Wie entdeckt man richtig gute Podcasts? Was im Umkehrschluss heißt: Wie werde ich mit meinem Podcast gefunden? Welche Rolle spielen persönliche Empfehlungen? Was können Algorithmen jetzt schon? Etablieren sich Podcasts irgendwann ähnlich wie Bücher und Filme im Kulturressort – und warum sind sie da noch immer Außenseiter?\n\nDie gesamte Session ist offen gestaltet, für maximalen Erfahrungsaustausch, um voneinander zu lernen. Sie erstreckt sich über den gesamten Vormittag.",
+                "recording": {
+                  "optout": true
+                },
+                "persons": [
+                  {
+                    "id": 76,
+                    "public_name": "Anna Scholz"
+                  },
+                  {
+                    "id": 77,
+                    "public_name": "Carolina Torres"
+                  },
+                  {
+                    "id": 78,
+                    "public_name": "Elisabeth Urban"
+                  },
+                  {
+                    "id": 79,
+                    "public_name": "Marilena Berends"
+                  },
+                  {
+                    "id": 80,
+                    "public_name": "Giovanni Pellegrino"
+                  }
+                ],
+                "url": "https://somanyvoices.de/programm-25/indie-podcast-real-talk/"
+              }
+            ],
+            "Konferenzraum": []
+          }
+        }
+      ]
+    }
+  }
+}
