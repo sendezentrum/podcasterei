@@ -29,3 +29,7 @@ Daniela Knoll, Head of Marketing bei Lage der Nation Media, und Ulf Buermeyer, C
 - [somanyvoices.de: Podcasts erfolgreich vermarkten](https://somanyvoices.de/programm-24/podcasts-vermarkten/)
 - [Programm So Many Voices 2024](https://somanyvoices.de/programm-24/)
 - [[hauseins Podcast]], Folge 22 (2025-02-18): [So many Voices 24: Podcasts erfolgreich vermarkten](https://shows.acast.com/63a18974981c02001029f695/episodes/67b4504ed24f7fcce8f01586)
+
+### Erwähnte Podcasts und Organisationen
+
+- Podcast: [Lage der Nation - der Politik-Podcast aus Berlin](https://podcasts.apple.com/de/podcast/lage-der-nation-der-politik-podcast-aus-berlin/id1092957894)

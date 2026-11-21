@@ -24,3 +24,7 @@ Miku Sophie Kühmel ist Podcast Producer und Schriftsteller*in. Miku kümmert si
 
 - [somanyvoices.de: Von der Literatur für Podcasts lernen](https://somanyvoices.de/programm-24/von-literatur-lernen/)
 - [Programm So Many Voices 2024](https://somanyvoices.de/programm-24/)
+
+### Erwähnte Podcasts und Organisationen
+
+- Podcast: [Billion Dollar Apes – Kunst, Gier, NFTs](https://podcasts.apple.com/de/podcast/billion-dollar-apes-kunst-gier-nfts/id1690558938)

@@ -24,3 +24,8 @@ Eine Keynote über faire Bezahlung und anständige Arbeitsbedingungen in der Pod
 
 - [somanyvoices.de: Brauchen wir eine Podcast-Lobby?](https://somanyvoices.de/programm-24/podcast-lobby/)
 - [Programm So Many Voices 2024](https://somanyvoices.de/programm-24/)
+
+### Erwähnte Podcasts und Organisationen
+
+- Podcast: [Deso – Der Rapper, der zum IS ging](https://podcasts.apple.com/de/podcast/deso-der-rapper-der-zum-is-ging/id1614827951)
+- Podcast: [Was jetzt?](https://podcasts.apple.com/de/podcast/was-jetzt/id1279335230)

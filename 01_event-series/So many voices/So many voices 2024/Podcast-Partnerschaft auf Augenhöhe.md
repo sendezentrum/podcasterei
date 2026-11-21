@@ -25,3 +25,8 @@ Ein Gespräch zwischen Frank Joung, Host des Podcasts „Halbe Katoffl“ und Ga
 
 - [somanyvoices.de: Podcast-Partnerschaft auf Augenhöhe](https://somanyvoices.de/programm-24/podcast-partnerschaften/)
 - [Programm So Many Voices 2024](https://somanyvoices.de/programm-24/)
+
+### Erwähnte Podcasts und Organisationen
+
+- Podcast: [Halbe Katoffl](https://podcasts.apple.com/de/podcast/halbe-katoffl/id1189305423)
+- Podcast: [X und Y - Der Podcast über Medien und Feminismus](https://podcasts.apple.com/de/podcast/x-und-y-der-podcast-%C3%BCber-medien-und-feminismus/id1544654013)

@@ -26,3 +26,10 @@ Freelancer*innen sind (auch) in der Podcast-Branche meist das schwächste Glied 
 
 - [somanyvoices.de: Freelancer*innen im Podcast-Business](https://somanyvoices.de/programm-24/freelancerinnen/)
 - [Programm So Many Voices 2024](https://somanyvoices.de/programm-24/)
+
+### Erwähnte Podcasts und Organisationen
+
+- Podcast: [Boys Club – Macht & Missbrauch bei Axel Springer](https://podcasts.apple.com/de/podcast/boys-club-macht-missbrauch-bei-axel-springer/id1806641167)
+- Podcast: [Feminismus für alle. Der Lila Podcast.](https://podcasts.apple.com/de/podcast/feminismus-f%C3%BCr-alle-der-lila-podcast/id660027731)
+- Podcast: [Plan W](https://podcasts.apple.com/de/podcast/plan-w/id1370285242)
+- Podcast: [Just Love](https://podcasts.apple.com/de/podcast/just-love/id1605765371)

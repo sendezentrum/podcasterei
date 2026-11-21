@@ -26,3 +26,13 @@ Doku-Podcasts beschäftigen sich häufig mit düsteren oder belastenden Themen w
 
 - [somanyvoices.de: Feel Good gegen den Weltschmerz](https://somanyvoices.de/programm-26/gegen-den-weltschmerz/)
 - [Programm So Many Voices 2026](https://somanyvoices.de/programm-26/)
+
+### Erwähnte Podcasts und Organisationen
+
+- Podcast: [OBSESSED - Döner Papers](https://podcasts.apple.com/de/podcast/obsessed-d%C3%B6ner-papers/id1812384628)
+- Podcast: [Stars unserer Kindheit: Peter Lustig & Elfie Donnelly](https://podcasts.apple.com/de/podcast/stars-unserer-kindheit-peter-lustig-elfie-donnelly/id1814376994)
+- Podcast: [Reclaim: Tic Tac Toe](https://podcasts.apple.com/de/podcast/reclaim-tic-tac-toe/id1893907212)
+- Podcast: [Die Millionendiebin](https://podcasts.apple.com/de/podcast/die-millionendiebin/id1747692444)
+- Podcast: [Seelenfänger](https://podcasts.apple.com/de/podcast/seelenf%C3%A4nger/id1646014385)
+- Podcast: [Der Germanwings-Absturz – Zehn Jahre ohne euch | WDR](https://podcasts.apple.com/de/podcast/der-germanwings-absturz-zehn-jahre-ohne-euch-wdr/id1795044676)
+- [Lagune 11 – Podcast-Kollektiv](https://lagune11.de/)

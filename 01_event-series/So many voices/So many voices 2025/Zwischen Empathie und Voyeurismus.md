@@ -30,3 +30,8 @@ Geschichten über Menschen berühren – aber ob sie empowern oder ausnutzen, h�
 - [somanyvoices.de: Zwischen Empathie und Voyeurismus](https://somanyvoices.de/programm-25/zwischen-empathie-und-voyeurismus/)
 - [Programm So Many Voices 2025](https://somanyvoices.de/programm-25/)
 - [[hauseins Podcast]], Folge 29 (2026-02-13): [So many Voices 25: Zwischen Empathie und Voyeurismus](https://shows.acast.com/63a18974981c02001029f695/episodes/698f0f721506be1a7e780897)
+
+### Erwähnte Podcasts und Organisationen
+
+- Podcast: [Unter Mördern – Leben im Gefängnis](https://podcasts.apple.com/de/podcast/unter-m%C3%B6rdern-leben-im-gef%C3%A4ngnis/id1773359504)
+- Podcast: [This is Media NOW – das Update für alle, die Medien machen](https://podcasts.apple.com/de/podcast/this-is-media-now-das-update-f%C3%BCr-alle-die-medien-machen/id1538419686)

@@ -24,3 +24,7 @@ Viele narrative Podcasts orientieren sich an denselben erzählerischen Vorbilder
 
 - [somanyvoices.de: Storytelling, but different](https://somanyvoices.de/programm-26/storytelling-but-different/)
 - [Programm So Many Voices 2026](https://somanyvoices.de/programm-26/)
+
+### Erwähnte Podcasts und Organisationen
+
+- Podcast: [Nocturno](https://podcasts.apple.com/de/podcast/nocturno/id1894671571)

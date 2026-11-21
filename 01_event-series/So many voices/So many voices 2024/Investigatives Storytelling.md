@@ -31,3 +31,10 @@ Podcast-Dokus bieten eine tolle Möglichkeit, große und investigative Recherche
 - [somanyvoices.de: Investigatives Storytelling](https://somanyvoices.de/programm-24/investigatives-storytelling/)
 - [Programm So Many Voices 2024](https://somanyvoices.de/programm-24/)
 - [[hauseins Podcast]], Folge 21 (2025-01-28): [So many Voices 24: Wie wird aus einer großen Recherche ein spannender Podcast?](https://shows.acast.com/63a18974981c02001029f695/episodes/6798a2fcdc087d2d295edd1e)
+
+### Erwähnte Podcasts und Organisationen
+
+- Podcast: [Verzockt – Das System Sportwetten](https://podcasts.apple.com/de/podcast/verzockt-das-system-sportwetten/id1806643396)
+- Podcast: [Seelenfänger](https://podcasts.apple.com/de/podcast/seelenf%C3%A4nger/id1646014385)
+- Podcast: [Boys Club – Macht & Missbrauch bei Axel Springer](https://podcasts.apple.com/de/podcast/boys-club-macht-missbrauch-bei-axel-springer/id1806641167)
+- Podcast: [This is Media NOW – das Update für alle, die Medien machen](https://podcasts.apple.com/de/podcast/this-is-media-now-das-update-f%C3%BCr-alle-die-medien-machen/id1538419686)

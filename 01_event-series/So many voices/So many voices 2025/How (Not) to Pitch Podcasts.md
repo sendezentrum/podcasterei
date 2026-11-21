@@ -25,3 +25,8 @@ Keine Frage bekommen wir von Freelancern und Produktionsfirmen so häufig gestel
 
 - [somanyvoices.de: How (Not) to Pitch Podcasts](https://somanyvoices.de/programm-25/podcast-pitch/)
 - [Programm So Many Voices 2025](https://somanyvoices.de/programm-25/)
+
+### Erwähnte Podcasts und Organisationen
+
+- Podcast: [OBSESSED - Döner Papers](https://podcasts.apple.com/de/podcast/obsessed-d%C3%B6ner-papers/id1812384628)
+- Podcast: [Nicht Mehr Mein Land - In der Manosphere](https://podcasts.apple.com/de/podcast/nicht-mehr-mein-land-in-der-manosphere/id1832691429)

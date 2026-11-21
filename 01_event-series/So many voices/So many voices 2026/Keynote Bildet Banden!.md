@@ -31,3 +31,8 @@ In der Podcast-Branche herrscht viel Konkurrenzdruck. Doch was passiert, wenn wi
 
 - [somanyvoices.de: Keynote: Bildet Banden!](https://somanyvoices.de/programm-26/bildet-banden/)
 - [Programm So Many Voices 2026](https://somanyvoices.de/programm-26/)
+
+### Erwähnte Podcasts und Organisationen
+
+- [Munich International Stone Center for Inequality Research (ISI München), Unterstützer der Session](https://www.isi-munich.de/)
+- [Kitt Kollektiv](https://www.kittkollektiv.de/)

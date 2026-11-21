@@ -31,3 +31,8 @@ Die meisten Produktionsfirmen sitzen in westdeutschen Metropolen und in Berlin, 
 - [somanyvoices.de: Wie erzählen wir andere Geschichten aus dem Osten?](https://somanyvoices.de/programm-25/andere-geschichten-aus-dem-osten/)
 - [Programm So Many Voices 2025](https://somanyvoices.de/programm-25/)
 - [[hauseins Podcast]], Folge 26 (2026-02-12): [So many Voices 25: Wie erzählen wir andere Geschichten aus dem Osten?](https://shows.acast.com/63a18974981c02001029f695/episodes/698ddf975a0d566e5b8dd921)
+
+### Erwähnte Podcasts und Organisationen
+
+- Podcast: [Boys Club – Macht & Missbrauch bei Axel Springer](https://podcasts.apple.com/de/podcast/boys-club-macht-missbrauch-bei-axel-springer/id1806641167)
+- Podcast: [Mauerecho – Ost trifft West](https://podcasts.apple.com/de/podcast/mauerecho-ost-trifft-west/id1802576216)

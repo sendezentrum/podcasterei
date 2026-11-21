@@ -24,3 +24,8 @@ Standest du schon mal vor der Frage, wie du Zahlen und Daten für dein Publikum 
 
 - [somanyvoices.de: Sounderlebnisse aus Daten](https://somanyvoices.de/programm-24/sound-aus-daten/)
 - [Programm So Many Voices 2024](https://somanyvoices.de/programm-24/)
+
+### Erwähnte Podcasts und Organisationen
+
+- Podcast: [Die Wochendämmerung - Der stabile Wochenrückblick](https://podcasts.apple.com/de/podcast/die-wochend%C3%A4mmerung-der-stabile-wochenr%C3%BCckblick/id1287979850)
+- Podcast: [too many tabs – der Podcast](https://podcasts.apple.com/de/podcast/too-many-tabs-der-podcast/id1641881364)

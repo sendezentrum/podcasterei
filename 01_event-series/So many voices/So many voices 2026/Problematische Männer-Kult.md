@@ -25,3 +25,9 @@ In der Podcast-Welt gibt es ein nahezu unfehlbares Erfolgsrezept: problematische
 
 - [somanyvoices.de: Problematische Männer-Kult](https://somanyvoices.de/programm-26/problematische-maenner-kult/)
 - [Programm So Many Voices 2026](https://somanyvoices.de/programm-26/)
+
+### Erwähnte Podcasts und Organisationen
+
+- Podcast: [Memento Moria – Was heute an Europas Grenzen passiert](https://podcasts.apple.com/de/podcast/memento-moria-was-heute-an-europas-grenzen-passiert/id1806642197)
+- Podcast: [Schwarz Rot Blut - Der True Crime Podcast über rassistische Gewalt in Deutschland](https://podcasts.apple.com/de/podcast/schwarz-rot-blut-der-true-crime-podcast-%C3%BCber-rassistische/id1625681425)
+- [Slowly media auf Instagram](https://www.instagram.com/slowly.media)

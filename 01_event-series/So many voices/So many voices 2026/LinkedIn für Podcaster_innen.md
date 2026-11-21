@@ -25,3 +25,7 @@ Podcasts leben von guten Inhalten, spannenden Gästen und einer engagierten Comm
 
 - [somanyvoices.de: LinkedIn für Podcaster*innen](https://somanyvoices.de/programm-26/linkedin-fuer-podcasterinnen/)
 - [Programm So Many Voices 2026](https://somanyvoices.de/programm-26/)
+
+### Erwähnte Podcasts und Organisationen
+
+- Podcast: [DAZWISCHEN Der Sachsen-Anhalt-Podcast](https://podcasts.apple.com/de/podcast/dazwischen-der-sachsen-anhalt-podcast/id1886418094)

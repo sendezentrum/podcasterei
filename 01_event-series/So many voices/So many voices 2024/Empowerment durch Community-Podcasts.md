@@ -28,3 +28,7 @@ In der Podcastlandschaft sind Perspektiven von BiPoC und Menschen mit Migrations
 - [somanyvoices.de: Empowerment durch Community-Podcasts](https://somanyvoices.de/programm-24/community-podcasts/)
 - [Programm So Many Voices 2024](https://somanyvoices.de/programm-24/)
 - [[hauseins Podcast]], Folge 20 (2025-01-21): [So many Voices 24: Empowerment durch Community-Podcasts](https://shows.acast.com/63a18974981c02001029f695/episodes/678f8970c4926bdc793728ac)
+
+### Erwähnte Podcasts und Organisationen
+
+- Podcast: [curry on!](https://podcasts.apple.com/de/podcast/curry-on/id1566004929)

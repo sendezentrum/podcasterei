@@ -30,3 +30,8 @@ Viele Podcasts entstehen aus Leidenschaft, journalistischem Interesse oder kreat
 
 - [somanyvoices.de: Genossenschaft statt Einzelkampf](https://somanyvoices.de/programm-26/genossenschaft-statt-einzelkampf/)
 - [Programm So Many Voices 2026](https://somanyvoices.de/programm-26/)
+
+### Erwähnte Podcasts und Organisationen
+
+- [Talk?Now!](https://talk-now.de/)
+- [Talk?Now! Network auf Instagram](https://www.instagram.com/talknownetwork/)

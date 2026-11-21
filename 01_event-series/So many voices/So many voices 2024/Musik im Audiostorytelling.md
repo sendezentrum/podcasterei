@@ -26,3 +26,12 @@ Wie arbeiten Producer*innen und Komponist*innen zusammen, um packende Storytelli
 
 - [somanyvoices.de: Musik im Audiostorytelling](https://somanyvoices.de/programm-24/podcasts-musik/)
 - [Programm So Many Voices 2024](https://somanyvoices.de/programm-24/)
+
+### Erwähnte Podcasts und Organisationen
+
+- Podcast: [Deutsche Geister](https://podcasts.apple.com/de/podcast/deutsche-geister/id1756338990)
+- Podcast: [Der Spion in unseren Handys](https://podcasts.apple.com/de/podcast/der-spion-in-unseren-handys/id1682879238)
+- Podcast: [Lösch alles, Bro!](https://podcasts.apple.com/de/podcast/l%C3%B6sch-alles-bro/id1775420660)
+- Podcast: [All You Can Eat Interviews](https://podcasts.apple.com/de/podcast/all-you-can-eat-interviews/id1131035407)
+- Podcast: [Boys Club – Macht & Missbrauch bei Axel Springer](https://podcasts.apple.com/de/podcast/boys-club-macht-missbrauch-bei-axel-springer/id1806641167)
+- Podcast: [Was jetzt? – Spezial](https://podcasts.apple.com/de/podcast/was-jetzt-spezial/id1649762549)

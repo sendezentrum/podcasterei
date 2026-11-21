@@ -38,3 +38,8 @@ Johannes Molz war wegen Bahnchaos nicht vor Ort (Hinweis aus der Community, 20.1
 - Folie „Podcast-Fakten“ aus der Session (Foto aus der Community, 20.11.2026)
 - [ARD Sounds: Eltern ohne Filter](https://www.ardsounds.de/sendung/eltern-ohne-filter/urn:ard:show:821f9bc1b027e65d/)
 - [Feed (BR)](https://feeds.br.de/eltern-ohne-filter/feed.xml) – Hosts laut Folgenbeschreibungen, u. a. „Neue Staffel, neue Hosts: Es geht wieder los!“ (08.05.2026)
+
+### Erwähnte Podcasts und Organisationen
+
+- Podcast: [Eltern ohne Filter](https://podcasts.apple.com/de/podcast/eltern-ohne-filter/id1487634629)
+- [Eltern ohne Filter auf Instagram](https://www.instagram.com/elternohnefilter)

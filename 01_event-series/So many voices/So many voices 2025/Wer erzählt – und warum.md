@@ -25,3 +25,8 @@ In Storytelling-Podcasts kann der Host alles sein: ein absoluter Schwachpunkt �
 
 - [somanyvoices.de: Wer erzählt – und warum?](https://somanyvoices.de/programm-25/die-host-rolle-im-storytelling-podcast/)
 - [Programm So Many Voices 2025](https://somanyvoices.de/programm-25/)
+
+### Erwähnte Podcasts und Organisationen
+
+- Podcast: [Auf den Punkt](https://podcasts.apple.com/de/podcast/auf-den-punkt/id1411449986)
+- Podcast: [Das Thema](https://podcasts.apple.com/de/podcast/das-thema/id1298017479)

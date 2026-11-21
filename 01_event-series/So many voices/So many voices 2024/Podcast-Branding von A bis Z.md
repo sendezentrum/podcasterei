@@ -25,3 +25,11 @@ Eine der großen Fragen unserer Branche ist: Wie schafft man es, eine große Hö
 
 - [somanyvoices.de: Podcast-Branding von A bis Z](https://somanyvoices.de/programm-24/podcast-branding/)
 - [Programm So Many Voices 2024](https://somanyvoices.de/programm-24/)
+
+### Erwähnte Podcasts und Organisationen
+
+- Podcast: [JUICE - Echte Storys zum Weitererzählen](https://podcasts.apple.com/de/podcast/juice-echte-storys-zum-weitererz%C3%A4hlen/id1734233705)
+- Podcast: [Wissen Weekly](https://podcasts.apple.com/de/podcast/wissen-weekly/id1766913806)
+- Podcast: [Verdammt Berühmt](https://podcasts.apple.com/de/podcast/verdammt-ber%C3%BChmt/id1654764125)
+- Podcast: [1000 erste Dates](https://podcasts.apple.com/de/podcast/1000-erste-dates/id1553443581)
+- Podcast: [Darwin gefällt das](https://podcasts.apple.com/de/podcast/darwin-gef%C3%A4llt-das/id1645244877)

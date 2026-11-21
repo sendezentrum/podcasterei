@@ -25,3 +25,8 @@ In den vergangenen sechs Jahren haben die Wake Word Studios über 80 Podcasts pr
 
 - [somanyvoices.de: Kleine Podcasts größer machen](https://somanyvoices.de/programm-25/kleine-podcasts-groesser-machen/)
 - [Programm So Many Voices 2025](https://somanyvoices.de/programm-25/)
+
+### Erwähnte Podcasts und Organisationen
+
+- Podcast: [11 Leben – Die Welt von Lothar Matthäus](https://podcasts.apple.com/de/podcast/11-leben-die-welt-von-lothar-matth%C3%A4us/id1529264775)
+- Podcast: [Metro Men - Eine wahre Geschichte](https://podcasts.apple.com/de/podcast/metro-men-eine-wahre-geschichte/id1713360123)

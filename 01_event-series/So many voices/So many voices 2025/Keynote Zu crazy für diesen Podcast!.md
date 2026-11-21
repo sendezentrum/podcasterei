@@ -28,3 +28,8 @@ Eine Keynote für alle, die Podcasts nicht nur hören, sondern weiterdenken woll
 - [somanyvoices.de: Keynote: Zu crazy für diesen Podcast?!](https://somanyvoices.de/programm-25/zu-crazy-fuer-diesen-podcast/)
 - [Programm So Many Voices 2025](https://somanyvoices.de/programm-25/)
 - [[hauseins Podcast]], Folge 24 (2025-12-19): [So many Voices 25: Zu crazy für diesen Podcast?! Warum wir mehr spinnen sollten – Jeanne Drach](https://shows.acast.com/63a18974981c02001029f695/episodes/69452bfef756711739a050a9)
+
+### Erwähnte Podcasts und Organisationen
+
+- [OH WOW Creative Content](https://www.ohwow.eu/)
+- [OH WOW auf Instagram](https://www.instagram.com/ohwow_eu/)

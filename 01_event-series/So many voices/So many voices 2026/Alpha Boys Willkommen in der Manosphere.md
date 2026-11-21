@@ -25,3 +25,7 @@ Disziplin, Looksmaxxing und Frauenhass: In der Manosphere versprechen Influencer
 
 - [somanyvoices.de: Alpha Boys: Willkommen in der Manosphere](https://somanyvoices.de/programm-26/alpha-boys/)
 - [Programm So Many Voices 2026](https://somanyvoices.de/programm-26/)
+
+### Erwähnte Podcasts und Organisationen
+
+- Podcast: [News Plus Hintergründe](https://podcasts.apple.com/de/podcast/news-plus-hintergr%C3%BCnde/id1479011923)

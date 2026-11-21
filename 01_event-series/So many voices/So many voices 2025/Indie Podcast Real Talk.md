@@ -28,3 +28,9 @@ Die Sichtbarkeit von Indie-Podcasts schwindet, während große Promi-Formate Bü
 
 - [somanyvoices.de: Indie Podcast Real Talk](https://somanyvoices.de/programm-25/indie-podcast-real-talk/)
 - [Programm So Many Voices 2025](https://somanyvoices.de/programm-25/)
+
+### Erwähnte Podcasts und Organisationen
+
+- Podcast: [Wissen Weekly](https://podcasts.apple.com/de/podcast/wissen-weekly/id1766913806)
+- Podcast: [Sinneswandel](https://podcasts.apple.com/de/podcast/sinneswandel/id1289618739)
+- Podcast: [So geht Podcast](https://podcasts.apple.com/de/podcast/so-geht-podcast/id1579878646)

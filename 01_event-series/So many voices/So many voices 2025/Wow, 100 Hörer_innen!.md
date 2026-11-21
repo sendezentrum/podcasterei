@@ -25,3 +25,8 @@ Eine erste Bilanz des hyperlokalen Eichenau Podcasts
 
 - [somanyvoices.de: Wow, 100 Hörer:innen!](https://somanyvoices.de/programm-25/erste-bilanz-eichenau-podcast/)
 - [Programm So Many Voices 2025](https://somanyvoices.de/programm-25/)
+
+### Erwähnte Podcasts und Organisationen
+
+- Podcast: [Eichenau Podcast](https://podcasts.apple.com/de/podcast/eichenau-podcast/id1781001776)
+- [Der Eichenau Podcast auf Instagram](https://www.instagram.com/eichenaupodcast/)

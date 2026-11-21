@@ -24,3 +24,8 @@ In Deutschland spricht man nicht über Geld. Schon gar nicht persönlich. Warum 
 
 - [somanyvoices.de: Über Tabu-Themen sprechen](https://somanyvoices.de/programm-25/tabuthema-geld/)
 - [Programm So Many Voices 2025](https://somanyvoices.de/programm-25/)
+
+### Erwähnte Podcasts und Organisationen
+
+- Podcast: [Das Neue Geben](https://podcasts.apple.com/de/podcast/das-neue-geben/id1747886866)
+- [bcause](https://www.bcause.de/)

@@ -25,3 +25,12 @@ Zu viele Protagonist*innen, Handlungsstränge, offene Fragen und Infos? Beim Erz
 
 - [somanyvoices.de: Storyboard: Gamechanger für spannende Geschichten](https://somanyvoices.de/programm-24/gamechanger-storybord/)
 - [Programm So Many Voices 2024](https://somanyvoices.de/programm-24/)
+
+### Erwähnte Podcasts und Organisationen
+
+- Podcast: [Seelenfänger](https://podcasts.apple.com/de/podcast/seelenf%C3%A4nger/id1646014385)
+- Podcast: [I Will Survive - Der Kampf gegen die AIDS-Krise](https://podcasts.apple.com/de/podcast/i-will-survive-der-kampf-gegen-die-aids-krise/id1742787475)
+- Podcast: [Telephobia - Dieser eine Anruf](https://podcasts.apple.com/de/podcast/telephobia-dieser-eine-anruf/id1685905182)
+- Podcast: [Wild Wild Web - Geschichten aus dem Internet](https://podcasts.apple.com/de/podcast/wild-wild-web-geschichten-aus-dem-internet/id1574676417)
+- Podcast: [Narcoland](https://podcasts.apple.com/de/podcast/narcoland/id1605582996)
+- Podcast: [Legion](https://podcasts.apple.com/de/podcast/legion/id1650197064)

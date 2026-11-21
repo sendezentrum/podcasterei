@@ -30,3 +30,11 @@ Seit einigen Jahren erleben narrative Podcasts einen regelrechten Hype in Deutsc
 - [somanyvoices.de: Storytelling vs. Recherche](https://somanyvoices.de/programm-25/storytelling-vs-recherche/)
 - [Programm So Many Voices 2025](https://somanyvoices.de/programm-25/)
 - [[hauseins Podcast]], Folge 27 (2026-02-13): [So many Voices 25: Storytelling vs. Recherche?](https://shows.acast.com/63a18974981c02001029f695/episodes/698f0bd91506be1a7e769f6f)
+
+### Erwähnte Podcasts und Organisationen
+
+- Podcast: [Deso – Der Rapper, der zum IS ging](https://podcasts.apple.com/de/podcast/deso-der-rapper-der-zum-is-ging/id1614827951)
+- Podcast: [Was jetzt?](https://podcasts.apple.com/de/podcast/was-jetzt/id1279335230)
+- Podcast: [Boys Club – Macht & Missbrauch bei Axel Springer](https://podcasts.apple.com/de/podcast/boys-club-macht-missbrauch-bei-axel-springer/id1806641167)
+- Podcast: [Grenzgänger - die Geschichte des Berlin-Sounds](https://podcasts.apple.com/de/podcast/grenzg%C3%A4nger-die-geschichte-des-berlin-sounds/id1819893971)
+- Podcast: [UNFASSBAR – ein Simplicissimus Podcast](https://podcasts.apple.com/de/podcast/unfassbar-ein-simplicissimus-podcast/id1773622508)

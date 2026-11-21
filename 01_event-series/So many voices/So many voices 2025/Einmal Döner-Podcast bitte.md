@@ -28,3 +28,7 @@ Der Döner Papers Podcast bringt Dinge zusammen, die eigentlich nicht zusammen g
 - [somanyvoices.de: Einmal Döner-Podcast bitte](https://somanyvoices.de/programm-25/doener-papers/)
 - [Programm So Many Voices 2025](https://somanyvoices.de/programm-25/)
 - [[hauseins Podcast]], Folge 25 (2026-02-03): [So many Voices 25: Einmal Döner-Podcast bitte – mit allem, aber ohne Klischees](https://shows.acast.com/63a18974981c02001029f695/episodes/698217ac13c1477af2274099)
+
+### Erwähnte Podcasts und Organisationen
+
+- Podcast: [Wissen Weekly](https://podcasts.apple.com/de/podcast/wissen-weekly/id1766913806)

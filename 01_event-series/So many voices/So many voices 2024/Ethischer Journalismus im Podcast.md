@@ -25,3 +25,11 @@ Krieg, Klima, Terror, Migration – wir leben in einer Zeit, in der unterschiedl
 
 - [somanyvoices.de: Ethischer Journalismus im Podcast](https://somanyvoices.de/programm-24/ethischer-journalismus/)
 - [Programm So Many Voices 2024](https://somanyvoices.de/programm-24/)
+
+### Erwähnte Podcasts und Organisationen
+
+- Podcast: [190220 - Ein Jahr nach Hanau](https://podcasts.apple.com/de/podcast/190220-ein-jahr-nach-hanau/id1794357901)
+- Podcast: [Memento Moria – Was heute an Europas Grenzen passiert](https://podcasts.apple.com/de/podcast/memento-moria-was-heute-an-europas-grenzen-passiert/id1806642197)
+- Podcast: [Springerstiefel – Alpha oder Opfer?](https://podcasts.apple.com/de/podcast/springerstiefel-alpha-oder-opfer/id1709109870)
+- Podcast: [FOMO – Was habe ich heute verpasst?](https://podcasts.apple.com/de/podcast/fomo-was-habe-ich-heute-verpasst/id1714635686)
+- Podcast: [Scambit: Schach, Hype und Millionen](https://podcasts.apple.com/de/podcast/scambit-schach-hype-und-millionen/id1678004360)

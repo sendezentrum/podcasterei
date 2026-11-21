@@ -25,3 +25,10 @@ Schaut man sich die erfolgreichsten Podcasts 2023 auf Spotify an, sticht „Wiss
 
 - [somanyvoices.de: Wissenschaft Goes Viral](https://somanyvoices.de/programm-24/wissenschaft-goes-viral/)
 - [Programm So Many Voices 2024](https://somanyvoices.de/programm-24/)
+
+### Erwähnte Podcasts und Organisationen
+
+- Podcast: [Wissen Weekly](https://podcasts.apple.com/de/podcast/wissen-weekly/id1766913806)
+- Podcast: [1000 erste Dates](https://podcasts.apple.com/de/podcast/1000-erste-dates/id1553443581)
+- Podcast: [Unboxed – Storys ans Licht gebracht](https://podcasts.apple.com/de/podcast/unboxed-storys-ans-licht-gebracht/id1509235576)
+- Podcast: [Die Frage](https://podcasts.apple.com/de/podcast/die-frage/id1598110035)

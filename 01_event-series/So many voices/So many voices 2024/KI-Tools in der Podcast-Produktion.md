@@ -26,3 +26,8 @@ Der KI-Hype hat längst die Podcastbranche erreicht und wöchentlich tauchen neu
 
 - [somanyvoices.de: KI-Tools in der Podcast-Produktion](https://somanyvoices.de/programm-24/ki-tools/)
 - [Programm So Many Voices 2024](https://somanyvoices.de/programm-24/)
+
+### Erwähnte Podcasts und Organisationen
+
+- Podcast: [Silicon Weekly](https://podcasts.apple.com/de/podcast/silicon-weekly/id1741135990)
+- Podcast: [Hinter den Zeilen](https://podcasts.apple.com/de/podcast/hinter-den-zeilen/id1530038307)

@@ -26,3 +26,8 @@ Wenn Verbrechen zum Podcaststoff werden, stehen wir vor sensiblen Fragen: Wo sin
 
 - [somanyvoices.de: Triggerwarnung](https://somanyvoices.de/programm-26/triggerwarnung/)
 - [Programm So Many Voices 2026](https://somanyvoices.de/programm-26/)
+
+### Erwähnte Podcasts und Organisationen
+
+- Podcast: [MORD AUF EX](https://podcasts.apple.com/de/podcast/mord-auf-ex/id1486608425)
+- Podcast: [TRUE LOVE](https://podcasts.apple.com/de/podcast/true-love/id1711017443)

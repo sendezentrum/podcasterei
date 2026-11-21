@@ -25,3 +25,9 @@ Julia Ongyerth (SZ) und Bony Stoev (freier Sound Designer) erzählen, wie sie an
 
 - [somanyvoices.de: Kling, Boom, Whoosh!](https://somanyvoices.de/programm-26/kling-boom-whoosh/)
 - [Programm So Many Voices 2026](https://somanyvoices.de/programm-26/)
+
+### Erwähnte Podcasts und Organisationen
+
+- Podcast: [Irma. Das Kind aus Srebrenica](https://podcasts.apple.com/de/podcast/irma-das-kind-aus-srebrenica/id1821664765)
+- Podcast: [Stalino – Geschichten einer besetzten Stadt](https://podcasts.apple.com/de/podcast/stalino-geschichten-einer-besetzten-stadt/id1877635667)
+- Podcast: [Wirecard: 1,9 Milliarden Lügen](https://podcasts.apple.com/de/podcast/wirecard-1-9-milliarden-l%C3%BCgen/id1721146753)

@@ -35,3 +35,10 @@ Beispiele aus der Session: [[DAZWISCHEN]], der Sachsen-Anhalt-Podcast von [[dete
 - [Programm So Many Voices 2026](https://somanyvoices.de/programm-26/)
 - [DAZWISCHEN – Der Sachsen-Anhalt-Podcast (detektor.fm)](https://detektor.fm/dazwischen-sachsen-anhalt)
 - [Hey München (Süddeutsche Zeitung)](https://www.sueddeutsche.de/thema/Hey_M%C3%BCnchen)
+
+### Erwähnte Podcasts und Organisationen
+
+- Podcast: [DAZWISCHEN Der Sachsen-Anhalt-Podcast](https://podcasts.apple.com/de/podcast/dazwischen-der-sachsen-anhalt-podcast/id1886418094)
+- [KipppunktOst – Wie der Osten die Demokratie entscheidet](https://kipppunktost.de/)
+- [gegenuns.de (Webdokumentation)](https://gegenuns.de/)
+- [Media Forward Fund](https://mediaforwardfund.org/)

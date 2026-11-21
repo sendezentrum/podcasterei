@@ -25,3 +25,7 @@ Nein! Wichtige Recherchen zu #Machtmissbrauch können trotzdem erzählt werden
 
 - [somanyvoices.de: Anonyme Quellen](https://somanyvoices.de/programm-25/anonyme-quellen/)
 - [Programm So Many Voices 2025](https://somanyvoices.de/programm-25/)
+
+### Erwähnte Podcasts und Organisationen
+
+- [paper trail media](https://www.papertrailmedia.de/)

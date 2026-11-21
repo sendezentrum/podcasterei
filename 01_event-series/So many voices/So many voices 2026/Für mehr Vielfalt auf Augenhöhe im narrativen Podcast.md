@@ -26,3 +26,7 @@ Journalist*innen of Color und mit Migrations- und Fluchtgeschichte erleben regel
 
 - [somanyvoices.de: Für mehr Vielfalt auf Augenhöhe im narrativen Podcast](https://somanyvoices.de/programm-26/fur-mehr-vielfalt/)
 - [Programm So Many Voices 2026](https://somanyvoices.de/programm-26/)
+
+### Erwähnte Podcasts und Organisationen
+
+- Podcast: [Azizam - Die Revolution meiner Mama](https://podcasts.apple.com/de/podcast/azizam-die-revolution-meiner-mama/id1835453061)

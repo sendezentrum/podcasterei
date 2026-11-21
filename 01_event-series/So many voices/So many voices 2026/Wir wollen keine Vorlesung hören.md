@@ -25,3 +25,8 @@ Ein spannendes Wissenschaftsinterview beginnt lange vor dem Aufnahmegerät. Wie 
 
 - [somanyvoices.de: Wir wollen keine Vorlesung hören](https://somanyvoices.de/programm-26/keine-vorlesung/)
 - [Programm So Many Voices 2026](https://somanyvoices.de/programm-26/)
+
+### Erwähnte Podcasts und Organisationen
+
+- Podcast: [Behind Science](https://podcasts.apple.com/de/podcast/behind-science/id1676089767)
+- [Munich International Stone Center for Inequality Research (ISI München)](https://www.isi-munich.de/)

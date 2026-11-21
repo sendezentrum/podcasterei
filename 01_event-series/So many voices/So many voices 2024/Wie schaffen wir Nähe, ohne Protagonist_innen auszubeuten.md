@@ -26,3 +26,13 @@ Menschen ganz nah kommen: Das geht fast nirgendwo so gut wie in Podcasts. Je per
 
 - [somanyvoices.de: Wie schaffen wir Nähe, ohne Protagonist*innen auszubeuten?](https://somanyvoices.de/programm-24/naehe-ohne-auszubeuten/)
 - [Programm So Many Voices 2024](https://somanyvoices.de/programm-24/)
+
+### Erwähnte Podcasts und Organisationen
+
+- Podcast: [Telephobia - Dieser eine Anruf](https://podcasts.apple.com/de/podcast/telephobia-dieser-eine-anruf/id1685905182)
+- Podcast: [Wild Wild Web - Geschichten aus dem Internet](https://podcasts.apple.com/de/podcast/wild-wild-web-geschichten-aus-dem-internet/id1574676417)
+- Podcast: [11KM: der tagesschau-Podcast](https://podcasts.apple.com/de/podcast/11km-der-tagesschau-podcast/id1669788598)
+- Podcast: [Tatort Ostsee - Wer sprengte die Nord-Stream-Pipelines?](https://podcasts.apple.com/de/podcast/tatort-ostsee-wer-sprengte-die-nord-stream-pipelines/id1708735527)
+- Podcast: [Rammstein – Row Zero](https://podcasts.apple.com/de/podcast/rammstein-row-zero/id1745279014)
+- Podcast: [This Band is Tocotronic](https://podcasts.apple.com/de/podcast/this-band-is-tocotronic/id1712625173)
+- Podcast: [Thüringen 2024 - Was wäre, wenn?](https://podcasts.apple.com/de/podcast/th%C3%BCringen-2024-was-w%C3%A4re-wenn/id1755605084)

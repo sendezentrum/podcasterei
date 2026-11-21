@@ -25,3 +25,12 @@ Podcasts funktionieren dann besonders gut, wenn Menschen miteinander im Gespräc
 
 - [somanyvoices.de: Frei, authentisch und professionell: Gespräche in Podcasts](https://somanyvoices.de/programm-24/frei-sprechen/)
 - [Programm So Many Voices 2024](https://somanyvoices.de/programm-24/)
+
+### Erwähnte Podcasts und Organisationen
+
+- Podcast: [Feminismus für alle. Der Lila Podcast.](https://podcasts.apple.com/de/podcast/feminismus-f%C3%BCr-alle-der-lila-podcast/id660027731)
+- Podcast: [Die Wochendämmerung - Der stabile Wochenrückblick](https://podcasts.apple.com/de/podcast/die-wochend%C3%A4mmerung-der-stabile-wochenr%C3%BCckblick/id1287979850)
+- Podcast: [Anekdotisch Evident. Kultur und Wissenschaft durchs Prisma der Plauderei](https://podcasts.apple.com/de/podcast/anekdotisch-evident-kultur-und-wissenschaft-durchs/id1207628293)
+- Podcast: [Lakonisch Elegant](https://podcasts.apple.com/de/podcast/lakonisch-elegant/id1438105697)
+- Podcast: [KI verstehen](https://podcasts.apple.com/de/podcast/ki-verstehen/id1697851853)
+- Podcast: [Internet Explorers](https://podcasts.apple.com/de/podcast/internet-explorers/id1628332566)

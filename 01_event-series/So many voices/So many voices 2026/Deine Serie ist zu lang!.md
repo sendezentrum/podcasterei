@@ -25,3 +25,9 @@ Hand aufs Herz: Wie oft brecht ihr Podcast-Serien ab oder springt direkt zum End
 
 - [somanyvoices.de: Deine Serie ist zu lang!](https://somanyvoices.de/programm-26/deine-serie-ist-zu-lang/)
 - [Programm So Many Voices 2026](https://somanyvoices.de/programm-26/)
+
+### Erwähnte Podcasts und Organisationen
+
+- Podcast: [Spielabbruch – Macht Gewalt den Amateurfußball kaputt?](https://podcasts.apple.com/de/podcast/spielabbruch-macht-gewalt-den-amateurfu%C3%9Fball-kaputt/id1840362303)
+- Podcast: [Die Millionendiebin](https://podcasts.apple.com/de/podcast/die-millionendiebin/id1747692444)
+- Podcast: [Y-Kollektiv – Der Podcast](https://podcasts.apple.com/de/podcast/y-kollektiv-der-podcast/id1541115832)

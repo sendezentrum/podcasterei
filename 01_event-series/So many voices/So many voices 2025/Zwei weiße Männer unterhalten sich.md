@@ -31,3 +31,12 @@ Die Podcastbranche ist zwar jung und entstand als Grassroots-Bewegung, aber beso
 - [somanyvoices.de: Zwei weiße Männer unterhalten sich…](https://somanyvoices.de/programm-25/zwei-weisse-maenner-unterhalten-sich/)
 - [Programm So Many Voices 2025](https://somanyvoices.de/programm-25/)
 - [[hauseins Podcast]], Folge 28 (2026-02-13): [So many Voices 25: Zwei weiße Männer unterhalten sich…](https://shows.acast.com/63a18974981c02001029f695/episodes/698f0d9db0cb4fc2fdfc4515)
+
+### Erwähnte Podcasts und Organisationen
+
+- Podcast: [Mauerecho – Ost trifft West](https://podcasts.apple.com/de/podcast/mauerecho-ost-trifft-west/id1802576216)
+- Podcast: [Feminismus für alle. Der Lila Podcast.](https://podcasts.apple.com/de/podcast/feminismus-f%C3%BCr-alle-der-lila-podcast/id660027731)
+- Podcast: [Die Wochendämmerung - Der stabile Wochenrückblick](https://podcasts.apple.com/de/podcast/die-wochend%C3%A4mmerung-der-stabile-wochenr%C3%BCckblick/id1287979850)
+- Podcast: [Wind und Wurzeln - mit Marina Weisband](https://podcasts.apple.com/de/podcast/wind-und-wurzeln-mit-marina-weisband/id1809949056)
+- Podcast: [Lakonisch Elegant](https://podcasts.apple.com/de/podcast/lakonisch-elegant/id1438105697)
+- [Der (un)deutsch Podcast auf Instagram](https://www.instagram.com/undeutsch_podcast/)

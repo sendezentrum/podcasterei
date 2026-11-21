@@ -25,3 +25,7 @@ Die beiden wichtigsten Audioplattformen in Deutschland sind YouTube und Spotify 
 
 - [somanyvoices.de: Vom Podcast zum YouTube-Format](https://somanyvoices.de/programm-26/vom-podcast-zum-youtube-format/)
 - [Programm So Many Voices 2026](https://somanyvoices.de/programm-26/)
+
+### Erwähnte Podcasts und Organisationen
+
+- Podcast: [Deutschland3000 mit Eva Schulz](https://podcasts.apple.com/de/podcast/deutschland3000-mit-eva-schulz/id1460129996)

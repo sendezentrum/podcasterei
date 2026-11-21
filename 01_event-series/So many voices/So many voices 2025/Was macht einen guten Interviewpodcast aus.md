@@ -25,3 +25,8 @@ Wann wird ein Interview zum echten Hörerlebnis? Wie entstehen besondere Momente
 
 - [somanyvoices.de: Was macht einen guten Interviewpodcast aus?](https://somanyvoices.de/programm-25/guter-interviewpodcast/)
 - [Programm So Many Voices 2025](https://somanyvoices.de/programm-25/)
+
+### Erwähnte Podcasts und Organisationen
+
+- Podcast: [Deutschland3000 mit Eva Schulz](https://podcasts.apple.com/de/podcast/deutschland3000-mit-eva-schulz/id1460129996)
+- [Deutschland3000 auf Instagram](https://www.instagram.com/deutschland3000/)
