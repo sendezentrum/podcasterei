@@ -12,8 +12,8 @@ podcasts:
   - "[[Ein Wolf liest Märchen]]"
   - "[[Aufräumen Podcast]]"
 
-orgs:
-  - "[[Lano Inc.]]"
+people:
+  - "[[Johannes Wolf]]"
 
 topics:
   - Podcast
@@ -22,8 +22,11 @@ topics:
   - Rollenspiel
   - Storytelling
   - Community
+  - Kollektiv
 
-url: https://lanoinc.de
+url: https://lanoinc.de/
+events:
+  - "[[Subscribe 11]]"
 source: community
 checked: false
 ---
@@ -32,10 +35,12 @@ checked: false
 Lano Inc. ist ein Podcast- und Hörspielprojekt, das verschiedene narrative und interaktive Audioformate produziert. Der Fokus liegt auf improvisierten Geschichten, Abenteuerformaten und experimentellen Podcastkonzepten.
 
 ## Zugehörigkeit
-Die „Lano Inc.“ ist keine reale Firma, sondern eine fiktive Rahmenbezeichnung für mehrere Podcastprojekte rund um die Figur „Lano“. Verantwortlich für die Inhalte ist vor allem [[Johannes Wolf]], gemeinsam mit wechselnden Mitwirkenden und einer Community.
+Laut Website produziert „ein kleines Team aus Privatleuten“ die Podcasts – „werbefrei, unabhängig und ausschließlich durch Euch finanziert“ (Patreon, Spenden, Shop). „Die Lano Inc. ist eine satirische Firmenbezeichnung und keine Incorporation.“ Verantwortlich ist vor allem [[Johannes Wolf]], gemeinsam mit wechselnden Mitwirkenden und einer großen Community (Discord). Das Rätsel-Hörspiel [[Puerto Patida]] (2015–2017, 4 Staffeln) war 2016 für den Grimme Online Award nominiert; an den Produktionen arbeiten laut Subscribe-Talk jeweils rund 10 Teammitglieder.
 
 ## Einordnung
-Ein kreatives, communitynahes Podcastprojekt mit starkem Fokus auf narrative Experimente und kollaboratives Erzählen.
+Ein kreatives, communitynahes Podcast-Kollektiv mit starkem Fokus auf interaktive Formate und kollaboratives Erzählen. Auf der [[Subscribe 11]] berichtete Johannes Wolf in [[Puerto Patida und das Leben am Limit der Soundspuren]] über Produktion, Finanzierung, Hosting und Community-Betreuung.
 
 ## Quellen / Hinweise
- [Lano Inc.](lanoinc.de)
+- [lanoinc.de](https://lanoinc.de/), [FAQ](https://lanoinc.de/faq/)
+- [lanoinc.de: Puerto Patida](https://lanoinc.de/puerto-patida/)
+- [Subscribe 11: Puerto Patida und das Leben am Limit der Soundspuren](https://media.ccc.de/v/subscribe11-58217-puerto-patida-und-das-leben-am-limit-der-soundspuren)
