@@ -9,7 +9,9 @@ room: Startup Space
 event: "[[So many voices 2026]]"
 guid: f2e204c9-8b5e-5d83-ab94-706163893424
 speakers:
-  - "[[Britta Schwewe]]"
+  - "[[Britta Schewe]]"
+orgs:
+  - "[[Talk Now|Talk?Now!]]"
 source: community
 checked: false
 ---
@@ -19,6 +21,10 @@ Was unabhängige Podcasts strukturell brauchen, um sichtbar und wirtschaftlich t
 ## Beschreibung
 
 Viele Podcasts entstehen aus Leidenschaft, journalistischem Interesse oder kreativer Neugier. Doch wenn aus einem Format mehr werden soll als ein Herzensprojekt, kommen schnell strukturelle Fragen dazu: Wie entsteht verlässliche Finanzierung? Wie wird ein Podcast auffindbar? Wer kümmert sich um Vermarktung, Distribution, Rechte, Partnerschaften und langfristige Erlöse? Und muss wirklich jedes erfolgreiche Podcast-Team irgendwann eine eigene kleine Firma um sich herum bauen? In dieser Session spricht Britta Schewe über die Frage, welche gemeinsamen Strukturen unabhängige Podcaster*innen brauchen, um wirtschaftlich stärker und weniger abhängig von einzelnen Plattformen zu werden. Ausgehend von Talk?Now!, einem creator-owned Streaming- und Distributionsmodell rund um Videopodcasts, geht es um Plattformabhängigkeit, Monetarisierung, Sichtbarkeit, Kooperation statt Konkurrenz und die Frage, warum genossenschaftliche Modelle eine echte Zukunftschance für die Podcastbranche sein können.
+
+## Verbindungen
+
+[[Britta Schewe]] hat [[Talk Now|Talk?Now!]] zusammen mit [[Maurice Gajda]] gegründet: einen 24-Stunden-FAST-Channel für Video-Podcasts mit über 60 unabhängigen Produzent:innen, der langfristig in eine Genossenschaft der beteiligten Produzent:innen überführt werden soll.
 
 ## Quellen / Hinweise
 

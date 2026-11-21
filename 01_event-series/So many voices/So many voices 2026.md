@@ -47,7 +47,7 @@ speakers:
   - "[[Camille Laveu]]"
   - "[[Isabella Huber]]"
   - "[[Gaby Wasensteiner]]"
-  - "[[Britta Schwewe]]"
+  - "[[Britta Schewe]]"
   - "[[Aylin Doğan]]"
   - "[[Dennis Müller]]"
   - "[[Julius Bretzel]]"
