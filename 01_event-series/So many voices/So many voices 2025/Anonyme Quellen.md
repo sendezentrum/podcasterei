@@ -11,6 +11,8 @@ guid: 6ea2f7cf-ab58-59fd-905a-201594fdbdeb
 speakers:
   - "[[Maria Christoph]]"
   - "[[Nora Voit]]"
+orgs:
+  - "[[paper trail media]]"
 source: community
 checked: false
 ---

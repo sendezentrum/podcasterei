@@ -12,6 +12,8 @@ speakers:
   - "[[Sabrina Höbel]]"
   - "[[Dennis Müller]]"
   - "[[Julius Bretzel]]"
+orgs:
+  - "[[Lagune 11]]"
 source: community
 checked: false
 ---

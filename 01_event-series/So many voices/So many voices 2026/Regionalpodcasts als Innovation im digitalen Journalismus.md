@@ -15,6 +15,8 @@ speakers:
 podcasts:
   - "[[Hey München]]"
   - "[[DAZWISCHEN]]"
+orgs:
+  - "[[detektor.fm]]"
 source: community
 checked: false
 ---
